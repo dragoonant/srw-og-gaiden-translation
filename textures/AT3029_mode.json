@@ -1,0 +1,22 @@
+{
+ "names": [
+  "AT3029"
+ ],
+ "note": "モード before ～Laps.",
+ "items": [
+  {
+   "box": [
+    0,
+    46,
+    36,
+    64
+   ],
+   "en": "Mode",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "color": "auto",
+   "align": "left",
+   "pad": 0
+  }
+ ]
+}

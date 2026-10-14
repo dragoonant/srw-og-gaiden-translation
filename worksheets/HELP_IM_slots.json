@@ -1,0 +1,4002 @@
+{
+ "file": "worksheets/HELP_IM help slots",
+ "format": "HELP-SLOT",
+ "strings": [
+  {
+   "id": 0,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 0,
+   "size": 128,
+   "en": "About Movement",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 1,
+   "size": 128,
+   "en": "About Attacking",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 2,
+   "size": 128,
+   "en": "About Weapon Selection",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 3,
+   "size": 128,
+   "en": "About Defense",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 4,
+   "size": 128,
+   "en": "About Accuracy",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 5,
+   "size": 128,
+   "en": "About Evasion",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 6,
+   "size": 128,
+   "en": "About Unit Abilities",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 7,
+   "size": 128,
+   "en": "About Pilot Skills Related to Combat",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 8,
+   "size": 128,
+   "en": "About Pilot Skills Related to Will",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 9,
+   "size": 128,
+   "en": "About Support",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 10,
+   "size": 128,
+   "en": "About Spirit Commands",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 11,
+   "size": 128,
+   "en": "About Funds and EXP",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 12,
+   "size": 128,
+   "en": "Strategy Techniques (Part 1)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 13,
+   "size": 128,
+   "en": "Strategy Techniques (Part 2)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 14,
+   "size": 128,
+   "en": "About Skill Points",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 15,
+   "size": 128,
+   "en": "About Twin Units",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 16,
+   "size": 128,
+   "en": "About Forming Twin Units",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 17,
+   "size": 128,
+   "en": "About Pilot Training",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 18,
+   "size": 128,
+   "en": "About Pilot Transfers",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 19,
+   "size": 128,
+   "en": "About Unit and Weapon Upgrades",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 20,
+   "size": 128,
+   "en": "About Replacing Weapons",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 21,
+   "size": 128,
+   "en": "About Enhancement Parts",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 22,
+   "size": 128,
+   "en": "About Replacing Units",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 23,
+   "size": 128,
+   "en": "About Special Ammo",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 24,
+   "size": 128,
+   "en": "About Options",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "leaf": [
+    8,
+    1
+   ],
+   "slot": 25,
+   "size": 128,
+   "en": "Tips and Trivia",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 0,
+   "size": 128,
+   "en": "Raising Movement (Unit Stats)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 1,
+   "size": 128,
+   "en": "Raising Movement (Spirit Commands)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 2,
+   "size": 128,
+   "en": "Raising Movement (Enhancement Parts)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 3,
+   "size": 128,
+   "en": "Raising Movement (Unit Stats)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 4,
+   "size": 128,
+   "en": "How Do I Deal More Damage to Enemies?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 5,
+   "size": 128,
+   "en": "Dealing More Damage (Spirit Commands)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 6,
+   "size": 128,
+   "en": "Dealing More Damage (Pilot Training)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 7,
+   "size": 128,
+   "en": "Dealing More Damage (Weapons)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 8,
+   "size": 128,
+   "en": "Dealing More Damage (Will)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 9,
+   "size": 128,
+   "en": "Dealing More Damage (Attack Methods)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 10,
+   "size": 128,
+   "en": "Which Weapon Should I Use?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 11,
+   "size": 128,
+   "en": "What Are Normal Weapons?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 12,
+   "size": 128,
+   "en": "What Are ALL Attacks?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 13,
+   "size": 128,
+   "en": "What Are Map Weapons?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 14,
+   "size": 128,
+   "en": "What Are Special Effect Weapons?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 15,
+   "size": 128,
+   "en": "What Happens When I Take Damage?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 16,
+   "size": 128,
+   "en": "Taking Less Damage (Spirit Commands and Will)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 17,
+   "size": 128,
+   "en": "Taking Less Damage (Training)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 18,
+   "size": 128,
+   "en": "Taking Less Damage from Enemies (Terrain)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 19,
+   "size": 128,
+   "en": "Taking Less Damage from Enemies (Units)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 20,
+   "size": 128,
+   "en": "Taking Less Damage from Enemies (Defending)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 21,
+   "size": 128,
+   "en": "What Is Hit Rate?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 22,
+   "size": 128,
+   "en": "Raising Hit Rate (Pilots)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 23,
+   "size": 128,
+   "en": "Raising Hit Rate (Terrain)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 24,
+   "size": 128,
+   "en": "Raising Hit Rate (Units)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 25,
+   "size": 128,
+   "en": "Raising Hit Rate (Range)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 26,
+   "size": 128,
+   "en": "Raising Hit Rate (Attacks)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 27,
+   "size": 128,
+   "en": "What Is Evasion Rate?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 28,
+   "size": 128,
+   "en": "Raising Evasion Rate (Pilots)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 29,
+   "size": 128,
+   "en": "Raising Evasion Rate (Units)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 30,
+   "size": 128,
+   "en": "Raising Evasion Rate (Terrain)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 31,
+   "size": 128,
+   "en": "Raising Evasion Rate (Range)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 32,
+   "size": 128,
+   "en": "What Are Unit Abilities?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 33,
+   "size": 128,
+   "en": "Defensive Unit Abilities (Part 1)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 34,
+   "size": 128,
+   "en": "Defensive Unit Abilities (Part 2)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 35,
+   "size": 128,
+   "en": "Unit Abilities That Aid Movement",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 36,
+   "size": 128,
+   "en": "What Are Attack-Related Skills?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 37,
+   "size": 128,
+   "en": "Which Skills Help Attacking?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 38,
+   "size": 128,
+   "en": "Which Skills Help Hit and Evasion?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 39,
+   "size": 128,
+   "en": "Which Skills Help Defense?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 40,
+   "size": 128,
+   "en": "What Are Will-Related Skills?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 41,
+   "size": 128,
+   "en": "Which Skills Raise Will? (Part 1)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 42,
+   "size": 128,
+   "en": "Which Skills Raise Will? (Part 2)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 43,
+   "size": 128,
+   "en": "What Are Support Units?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 44,
+   "size": 128,
+   "en": "What Is Repair?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 45,
+   "size": 128,
+   "en": "What Is Resupply?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 46,
+   "size": 128,
+   "en": "How Do I Restore HP and EN? (Part 1)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 47,
+   "size": 128,
+   "en": "How Do I Restore HP and EN? (Part 2)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 48,
+   "size": 128,
+   "en": "What Are Spirit Commands?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 49,
+   "size": 128,
+   "en": "What Spirit Commands Are There?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 50,
+   "size": 128,
+   "en": "What Are Twin Spirit Commands?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 51,
+   "size": 128,
+   "en": "What Twin Spirit Commands Are There?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 52,
+   "size": 128,
+   "en": "What Is SP?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 53,
+   "size": 128,
+   "en": "How Do I Earn More Funds?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 54,
+   "size": 128,
+   "en": "Earning More Funds (Spirit Commands)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 55,
+   "size": 128,
+   "en": "How to earn more funds (Stats/Skills)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 56,
+   "size": 128,
+   "en": "How to earn more EXP",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 57,
+   "size": 128,
+   "en": "How to earn more EXP (Spirit Commands)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 58,
+   "size": 128,
+   "en": "How to earn more EXP (Repair/Resupply)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 59,
+   "size": 128,
+   "en": "How to defeat enemies faster",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 60,
+   "size": 128,
+   "en": "How to defeat enemies faster (Spirit Commands)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 61,
+   "size": 128,
+   "en": "How to defeat enemies faster (Skills)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 62,
+   "size": 128,
+   "en": "How to defeat enemies faster (Weapons)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 63,
+   "size": 128,
+   "en": "How to fight strong enemies",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 64,
+   "size": 128,
+   "en": "When your attacks won't hit...",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 65,
+   "size": 128,
+   "en": "When enemy attack power is high...",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 66,
+   "size": 128,
+   "en": "When enemy HP is high...",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 67,
+   "size": 128,
+   "en": "When enemy barriers block damage...",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 68,
+   "size": 128,
+   "en": "Skill Points?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 69,
+   "size": 128,
+   "en": "What do Skill Points do?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 70,
+   "size": 128,
+   "en": "What are Twin Units?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 71,
+   "size": 128,
+   "en": "What Are Twin Spirit Commands?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 72,
+   "size": 128,
+   "en": "What are Unit Traits?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 73,
+   "size": 128,
+   "en": "Twin Unit tips (Movement 1)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 74,
+   "size": 128,
+   "en": "Twin Unit tips (Movement 2)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 75,
+   "size": 128,
+   "en": "Twin Unit tips (Twin Spirit Commands)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 76,
+   "size": 128,
+   "en": "What is Pilot Training?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 77,
+   "size": 128,
+   "en": "Training tips (Stats)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 78,
+   "size": 128,
+   "en": "Training tips (Skills)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 79,
+   "size": 128,
+   "en": "Training tips (Terrain Ability)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 80,
+   "size": 128,
+   "en": "What is Pilot Transfer?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 81,
+   "size": 128,
+   "en": "Pilot Transfer tips",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 82,
+   "size": 128,
+   "en": "What are Unit Upgrades?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 83,
+   "size": 128,
+   "en": "What are Weapon Upgrades?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 84,
+   "size": 128,
+   "en": "Unit Upgrade tips",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 85,
+   "size": 128,
+   "en": "Weapon Upgrade tips",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 86,
+   "size": 128,
+   "en": "What is Weapon Replacement?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 87,
+   "size": 128,
+   "en": "Weapon Replacement tips",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 88,
+   "size": 128,
+   "en": "What are Enhancement Parts?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 89,
+   "size": 128,
+   "en": "Enhancement Part tips",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 90,
+   "size": 128,
+   "en": "What is Replace?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 91,
+   "size": 128,
+   "en": "What are Special Ammo Materials?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 92,
+   "size": 128,
+   "en": "What is Special Ammo?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 93,
+   "size": 128,
+   "en": "Learning more about robots/characters",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 94,
+   "size": 128,
+   "en": "How to look up terms",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 95,
+   "size": 128,
+   "en": "How to listen to the game's BGM",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 96,
+   "size": 128,
+   "en": "How to watch the game's movies",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 97,
+   "size": 128,
+   "en": "How to see the scenario route splits",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 98,
+   "size": 128,
+   "en": "Too hard to clear a stage?",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 99,
+   "size": 128,
+   "en": "How to restart faster",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "leaf": [
+    8,
+    2
+   ],
+   "slot": 100,
+   "size": 128,
+   "en": "What to do after clearing the game",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 0,
+   "size": 128,
+   "en": "Unit Movement",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 1,
+   "size": 128,
+   "en": "Accel",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 2,
+   "size": 128,
+   "en": "Booster, Megabooster",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 3,
+   "size": 128,
+   "en": "Unit Move Type",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 4,
+   "size": 128,
+   "en": "Damage",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 5,
+   "size": 128,
+   "en": "Valor, Pierce, Mettle, Soul",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 6,
+   "size": 128,
+   "en": "Pilot Training, Skills",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 7,
+   "size": 128,
+   "en": "Weapon Upgrades, Weapon Selection",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 8,
+   "size": 128,
+   "en": "Will",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 9,
+   "size": 128,
+   "en": "Support Attack, Special Effects",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 10,
+   "size": 128,
+   "en": "Basic Weapons, ALL Weapons, MAP Weapons#Special Effect Weapons#",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 11,
+   "size": 128,
+   "en": "Basic Weapons, Individual, Concentrated",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 12,
+   "size": 128,
+   "en": "ALL Weapons, Double Attack",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 13,
+   "size": 128,
+   "en": "MAP Weapons",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 14,
+   "size": 128,
+   "en": "Effect Weapons",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 15,
+   "size": 128,
+   "en": "Shooting Down",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 16,
+   "size": 128,
+   "en": "Spirit Commands, Will",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 17,
+   "size": 128,
+   "en": "Pilot Training",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 18,
+   "size": 128,
+   "en": "Terrain Ability, Terrain Effects",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 19,
+   "size": 128,
+   "en": "Unit Upgrades, Enhancement Parts",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 20,
+   "size": 128,
+   "en": "Defense Options",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 21,
+   "size": 128,
+   "en": "Spirit Commands, Pilot Training,#Terrain Ability, Enhancement Parts,#Target Size, Range, Attack Type#",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 22,
+   "size": 128,
+   "en": "Spirit Commands, Pilot Training",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 23,
+   "size": 128,
+   "en": "Terrain Ability, Pilot Terrain Ability",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 24,
+   "size": 128,
+   "en": "Enhancement Parts, Size",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 25,
+   "size": 128,
+   "en": "Range",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 26,
+   "size": 128,
+   "en": "Attack Type",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 27,
+   "size": 128,
+   "en": "Spirit Commands, Pilot Training,#Terrain Ability, Unit Upgrades, Parts,#Terrain Effects, Range",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 28,
+   "size": 128,
+   "en": "Spirit Commands, Pilot Training",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 29,
+   "size": 128,
+   "en": "Unit Upgrades, Enhancement Parts",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 30,
+   "size": 128,
+   "en": "Terrain Effects, Terrain Ability",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 31,
+   "size": 128,
+   "en": "Range",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 32,
+   "size": 128,
+   "en": "Defend",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 33,
+   "size": 128,
+   "en": "Shields, Barriers",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 34,
+   "size": 128,
+   "en": "Afterimage, Block",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 35,
+   "size": 128,
+   "en": "Transform, Combine, Replace, Separate",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 36,
+   "size": 128,
+   "en": "Skills",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 37,
+   "size": 128,
+   "en": "Support, Cooperative, Focused Attacks",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 38,
+   "size": 128,
+   "en": "Predict, Telekinesis",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 39,
+   "size": 128,
+   "en": "Guard, Support Defense",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 40,
+   "size": 128,
+   "en": "Will, Skills",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 41,
+   "size": 128,
+   "en": "Will Limit Break, Resolve, Morale",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 42,
+   "size": 128,
+   "en": "Will+ (Evade), Will+ (Hit)#Will+ (Damaged), Will+ (Kill)",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 43,
+   "size": 128,
+   "en": "Repair, Resupply",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 44,
+   "size": 128,
+   "en": "Repair, Repair Module, Mechanic",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 45,
+   "size": 128,
+   "en": "Resupply, Resupply Module, Resupply Skill",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 46,
+   "size": 128,
+   "en": "Spirit Commands, Parts, Terrain Effects",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 47,
+   "size": 128,
+   "en": "Boarding, Repair, Resupply",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 48,
+   "size": 128,
+   "en": "Spirit Commands, Level",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 49,
+   "size": 128,
+   "en": "Valor, Flash, Persist, Bullseye, Accel",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 50,
+   "size": 128,
+   "en": "Twin Spirit Commands, Twin Units",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 51,
+   "size": 128,
+   "en": "Clarity, Disrupt, Soul, Mettle",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 52,
+   "size": 128,
+   "en": "SP, SP Up",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 53,
+   "size": 128,
+   "en": "Unit Upgrades, Weapon Upgrades",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 54,
+   "size": 128,
+   "en": "Luck, Bless",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 55,
+   "size": 128,
+   "en": "Aces, Ace Bonus, Skills",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 56,
+   "size": 128,
+   "en": "Level, Kills, Repair, Resupply",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 57,
+   "size": 128,
+   "en": "Spirit Commands, Level",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 58,
+   "size": 128,
+   "en": "Repair, Resupply",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 59,
+   "size": 128,
+   "en": "Turns",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 60,
+   "size": 128,
+   "en": "Valor, Soul, Accel",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 61,
+   "size": 128,
+   "en": "Support Attack",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 62,
+   "size": 128,
+   "en": "ALL Attacks, MAP Weapons",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 63,
+   "size": 128,
+   "en": "When You Can't Hit, Strong Attackers#High Enemy HP, Barriers Blocking Damage",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 64,
+   "size": 128,
+   "en": "Spirit/Twin Spirit Commands#Special Effects, Command Range",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 65,
+   "size": 128,
+   "en": "Spirit/Twin Spirit Commands#Support Defense, Terrain Effects#Counter Options, Support Units#",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 66,
+   "size": 128,
+   "en": "Spirit/Twin Spirit Commands#Support Attacks, Special Effects#Focus Fire",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 67,
+   "size": 128,
+   "en": "Spirit/Twin Spirit Commands#Special Effects",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 68,
+   "size": 128,
+   "en": "Earning Conditions, Objectives",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 69,
+   "size": 128,
+   "en": "Bonus PP, Difficulty",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 70,
+   "size": 128,
+   "en": "Twin Units, Twin Spirit Commands#Unit Trait Effects",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 71,
+   "size": 128,
+   "en": "Twin Spirit Commands",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 72,
+   "size": 128,
+   "en": "Unit Trait Effects, W Effects",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 73,
+   "size": 128,
+   "en": "Twin Unit Movement",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 74,
+   "size": 128,
+   "en": "Twin Unit Movement Type",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 75,
+   "size": 128,
+   "en": "Twin Spirit Commands, Sync",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 76,
+   "size": 128,
+   "en": "Pilot Training",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 77,
+   "size": 128,
+   "en": "Stat Increases",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 78,
+   "size": 128,
+   "en": "Learning Skills",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 79,
+   "size": 128,
+   "en": "Terrain Ability Upgrades",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 80,
+   "size": 128,
+   "en": "Changing Roles",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 81,
+   "size": 128,
+   "en": "Unhittable Units, Hard-Hitting Units#Money-Making Units",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 82,
+   "size": 128,
+   "en": "Unit Upgrades",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 83,
+   "size": 128,
+   "en": "Weapon Upgrades",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 84,
+   "size": 128,
+   "en": "HP, EN, Mobility, Armor",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 85,
+   "size": 128,
+   "en": "Fixed Weapons, Replaceable Weapons",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 86,
+   "size": 128,
+   "en": "Replacing Weapons",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 87,
+   "size": 128,
+   "en": "Melee Weapons, Ranged Weapons",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 88,
+   "size": 128,
+   "en": "Parts, Slots, Selling",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 89,
+   "size": 128,
+   "en": "Unit, Weapon, Consumable, Special",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 90,
+   "size": 128,
+   "en": "Replace Parts",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 91,
+   "size": 128,
+   "en": "Special Ammo, Ammo Materials",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 92,
+   "size": 128,
+   "en": "Developing Ammo, Loading Ammo",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 93,
+   "size": 128,
+   "en": "Robot Database, Character Dictionary",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 94,
+   "size": 128,
+   "en": "Glossary",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 95,
+   "size": 128,
+   "en": "Sound Select",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 96,
+   "size": 128,
+   "en": "Demo Select",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 97,
+   "size": 128,
+   "en": "Scenario Chart",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 98,
+   "size": 128,
+   "en": "Skill Points, Replay",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 99,
+   "size": 128,
+   "en": "Soft Reset",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "leaf": [
+    8,
+    3
+   ],
+   "slot": 100,
+   "size": 128,
+   "en": "Clear Data",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 0,
+   "size": 2048,
+   "en": "Techniques for winning battles on the map.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 1,
+   "size": 2048,
+   "en": "<C=7>Unit Movement</C># A unit's Movement is the average of# its machines' Movement, so raising# each machine's raises the unit's.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 2,
+   "size": 2048,
+   "en": "<C=7>Spirit Commands</C># Using the Spirit Command <C=7>Accel</C> gives# a unit +3 Movement.## When forming Twin Units, we recommend# putting a machine with Accel in# each Twin Unit.##  <C=7>Accel</C>  Movement +3",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 3,
+   "size": 2048,
+   "en": "<C=7>Parts</C># Equipping Parts raises a machine's# Movement. Other Parts besides the two# below also raise Movement. When you# get one, try equipping it on a machine# that needs more Movement.##  <C=7>Booster</C>      Movement +1##  <C=7>Megabooster</C>  Movement +2",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 4,
+   "size": 2048,
+   "en": "<C=7>Unit Movement Type</C># A unit's movement type changes how much# Movement it spends crossing terrain.# Movement type combines \"Air,\" \"Land,\"# and \"Water.\" Text color shows aptitude:# white is best, then gray, then none.## Crossing poor terrain costs more# Movement than usual.## A unit's movement type depends on the# types of its machines, and each# machine's type can be changed by# equipping Parts.##  <C=7>Dustproofer</C>  Gain movement type Land##  <C=7>Water Jet</C>    Gain movement type Water",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 5,
+   "size": 2048,
+   "en": "Dealing heavy damage to shoot down foes#is the basis of winning battles. Common#ways to deal heavy damage include:##  <C=7>Spirit Commands</C>#  <C=7>Pilot Training</C>#  <C=7>Weapon Upgrades</C>#  <C=7>Weapon Choice</C>#  <C=7>Will</C>#  <C=7>Attack Methods</C>",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 6,
+   "size": 2048,
+   "en": "<C=7>Spirit Commands</C># Some Spirit and Twin Spirit Commands# raise damage directly, and others help# you deal damage effectively. Here are# some typical ones:##  <C=7>Valor</C>    Doubles damage dealt#           for one attack##  <C=7>Pierce</C>   Nullifies the target's#           defensive skills##  <C=7>Mettle</C>   All attacks are critical#           for 1 turn#           Doesn't stack with Valor/Soul##  <C=7>Soul</C>     Damage dealt x2.5 for#           one attack",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 7,
+   "size": 2048,
+   "en": "<C=7>Pilot Training</C># Raising a pilot's Melee and Ranged# stats increases the damage dealt by# melee and ranged weapons respectively.# Each stat point basically raises# damage dealt by 0.5%# (more or less due to other factors).## Learning combat-related Skills can# also raise damage dealt in certain# situations. Here are some typical ones:##  <C=7>In-Fighter</C>  Higher skill levels#              raise melee weapon power#              (or Movement)##  <C=7>Gunfighter</C>  Higher skill levels#              raise ranged weapon power#              (or range)##  <C=7>Attacker</C>    Activates at Will 130+;#              final damage dealt#              is multiplied by 1.2##  <C=7>Revenge</C>     When counterattacking,#              final damage dealt x1.2##  <C=7>Cooperative Attack</C>#              Support Attacks (normally#              75% damage) deal the same#              damage as normal attacks##  <C=7>Focused Attack</C>  When a main (sub)#              unit attacks a sub (main)#              unit, the damage penalty#              (-35%) is offset by 20%## <C=7>Stat Increases and Learning Skills</C># are done via <C=7>Pilot Training</C> in the# Intermission. Training requires PP,# earned in battles on the map.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 8,
+   "size": 2048,
+   "en": "<C=7>Weapon Upgrades</C># Weapon Upgrades in the Intermission# raise weapons' attack power. Upgrades# cost money earned in map battles.##<C=7>Weapon Choice</C># Besides attack power, many factors# affect a weapon's damage. Choose your# weapons with their traits in mind.##  <C=7>Beam Weapons</C>  Watch for barriers#                that stop beams, or that#                stop all but beams##  <C=7>Barrier Pierce</C>  Ignores barriers#                  to deal damage## Each weapon's terrain rating shows the# terrain it's best in. Ratings go S, A,# B, C, D; S deals the most damage, so# we recommend picking weapons to suit# the terrain.## Final damage also varies with the# pilot's Melee and Ranged stats, so we# recommend melee weapons for pilots# good at melee, and ranged weapons for# pilots good at shooting.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 9,
+   "size": 2048,
+   "en": "<C=7>Will</C># Higher Will raises attack and defense.# Raise Will as much as you can before# attacking, and target enemies with low# Will.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 10,
+   "size": 2048,
+   "en": "<C=7>Attack Methods</C># Combining attack methods lets you deal# more damage. Here's a typical example:##  <C=7>Support Attack</C>  An adjacent unit#                  attacks after the#                  enemy counters.#                  Needs the Support#                  Attack skill##<C=7>Weakening the Enemy</C># Weapons with the <C=7>Armor Down</C> effect# lower the target's armor. Using them# before a strong attack is very# effective.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 11,
+   "size": 2048,
+   "en": "Weapons fall into 3 types by how many#targets they can attack.##  <C=7>Normal Weapons</C>#  <C=7>ALL Weapons</C>#  <C=7>MAP Weapons</C>##Weapons also have various individual#traits beyond their targets. Used well,#the <C=7>Special Effect Weapons</C> below#can be a big help in battle.##  <C=7>Special Effect Weapons</C>#  <C=7>Barrier Pierce Weapons</C>##Each entry explains their traits and#recommends how to use them.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 12,
+   "size": 2048,
+   "en": "<C=7>Normal Weapons<S=4><I=66><S=2></C># Weapons that target 1 enemy machine.# They can be combined with Support# Attacks, so we recommend them for# focusing damage on one machine.# When a Twin Unit attacks an enemy Twin# Unit, you can choose from these two# attack types:##  <C=7>Split Attack</C>#    Your two machines each attack a#    different machine of the enemy pair##  <C=7>Concentrated Attack</C>#    Your two machines both attack just#    one machine of the enemy pair",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 13,
+   "size": 2048,
+   "en": "<C=7>ALL Weapons<S=4><I=66><S=-45><I=64><S=7></C># Weapons that hit every machine in the# target unit. Support Attacks can't join# them, but they're great for wiping out# an enemy Twin Unit in one go.# Main (sub) vs. main (sub) deals normal# damage, but main (sub) vs. sub (main)# damage is cut to <C=7>65%</C>.## With the <C=7>Focused Attack</C> skill, this# becomes <C=7>85%</C>.##<C=7>Double Attack Weapons<S=4><I=66><S=-45><I=65><S=7></C># Some ALL weapons can also hit units# adjacent to the target. They use twice# the EN and ammo, but adjacent units# can't counter, so use them freely.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 14,
+   "size": 2048,
+   "en": "<C=7>MAP Weapons<S=4><I=66><S=-45><I=63><S=7></C># Weapons that hit every unit inside each# weapon's set area, friend or foe alike.# Some MAP weapons, however, can# <C=7>tell friend from foe</C> and only damage# enemies in the area.## MAP weapons ignore the main-vs-sub# damage cut. Unlike normal attacks, the# enemy can't counter them. They do use# lots of EN or have little ammo, so save# them for good situations, like when# several enemies are grouped together.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 15,
+   "size": 2048,
+   "en": "<C=7>Special Effect Weapons</C># Weapons whose attribute on the weapon# screen shows <S=4><I=59><S=-52><I=60><S=38>.# On a hit, they inflict various effects# besides damage. Here are typical ones:##  <C=7>Mobility Down</C>  Lowers the target's#                 Mobility so attacks#                 hit more easily##  <C=7>Armor Down</C>     Lowers the target's#                 Armor so you can deal#                 more damage##<C=7>Barrier Pierce Weapons</C># Check for this trait in the list shown# by pressing <S=3><I=4><S=2> on the weapon screen.# Weapons with it ignore enemy barriers# when dealing damage.#",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 16,
+   "size": 2048,
+   "en": "When damage drops a machine's HP to <C=1>0</C>,# it is shot down. Losing units weakens# your forces, and in some cases means# <C=1>Game Over</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 17,
+   "size": 2048,
+   "en": "<C=7>Spirit Commands</C># Some Spirit Commands reduce the damage# you take. Here are some typical ones:##   <C=7>Persist</C>  Damage taken is 10 for#            one hit##   <C=7>Wall</C>     Damage taken is cut to#            1/4 for 1 turn##<C=7>Will</C># Higher Will raises attack and defense.# We recommend raising Will as much as# possible before enemies attack you.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 18,
+   "size": 2048,
+   "en": "<C=7>Pilot Training</C># Raising a pilot's <C=7>Defense</C> stat# reduces the damage taken from enemies.# Each point basically reduces damage# taken by 0.5%# (more or less due to other factors).## Learning defensive <C=7>Skills</C> can# also reduce damage taken in certain# situations. Here's a typical one:##   <C=7>Guard</C>   At Will 130+, final damage#           taken from enemies is 80%## <C=7>Stat Increases and Learning Skills</C># are done via <C=7>Pilot Training</C> in the# Intermission. Training requires PP,# earned in battles on the map.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 19,
+   "size": 2048,
+   "en": "<C=7>Terrain Ability</C># Damage taken also depends on a unit's# <C=7>Terrain Ability</C>, which is set by both# the <C=7>machine's</C> and the <C=7>pilot's</C>.# There are <C=7>5 grades</C>: S, A, B, C, D.# Higher grades give better defense, so# fight on favorable terrain when you can.##<C=7>Terrain Effects</C># Some terrain reduces damage from# enemies. To take less damage, we# recommend placing units on terrain that# raises defense. Note that flying units# don't get terrain effects.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 20,
+   "size": 2048,
+   "en": "<C=7>Unit Upgrades</C># Raising a machine's Armor with Unit# Upgrades in the Intermission reduces# damage taken. HP can also be raised# with Unit Upgrades. Upgrades cost money# earned in map battles.##<C=7>Parts</C># Equipping Parts raises a machine's# Armor and HP. Here are typical ones:##  <C=7>Chobham Armor</C>  Max HP +500#                 Armor +100##  <C=7>Hybrid Armor</C>   Max HP +1000#                 Armor +150##  <C=7>Orichalconium</C>  Max HP +1000#                 Armor +200",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 21,
+   "size": 2048,
+   "en": "<C=7>Defensive Methods</C># Making good use of pilot skills and# unit abilities lets you reduce the# damage you take from enemies.# Here are some typical examples.##  <C=7>Shield Equipped</C>  Units with a shield#        take a further 10% less damage#        than normal units when they#        choose Defend.#        Whether a unit has a shield is#        shown by an icon on the unit#        status screen.##  <C=7>Support Defense</C>  An adjacent unit#        takes the enemy's damage in#        your place while defending.#        Needs the Support Defense skill.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 22,
+   "size": 2048,
+   "en": "Landing hits on the enemy is one of the#most important elements of combat.#Typical ways to raise your hit rate#include the following:##    <C=7>Spirit Commands</C>#    <C=7>Pilot Training</C>#    <C=7>Terrain Ability</C>#    <C=7>Enhancement Parts</C>#    <C=7>Target Size</C>#    <C=7>Distance to Target</C>#    <C=7>Attack Method</C>##Each section explains their features and#recommends how to use them.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 23,
+   "size": 2048,
+   "en": "<C=7>Spirit Commands</C># These Spirit Commands raise hit rate:##    <C=7>Bullseye</C>  For 1 turn,#            hit rate becomes 100%##    <C=7>Focus</C>  For 1 turn,#            hit and evasion rates +30%##<C=7>Pilot Training</C># Raising a pilot's <C=7>Accuracy</C> stat# raises the hit rate of your attacks.## You can also learn <C=7>Skills</C> that# raise hit rate.# Here is a typical one:##   <C=7>Predict</C>  At Will 130+, final hit#            and evasion rates +10%## <C=7>Stat Increases and Learning Skills</C># are done via <C=7>Pilot Training</C> in the# Intermission. Training requires PP,# earned in battles on the map.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 24,
+   "size": 2048,
+   "en": "<C=7>Terrain Ability</C># Hit rate also changes with a unit's# <C=7>Terrain Ability</C>, which is decided by# both <C=7>Unit Terrain Ability</C> and# <C=7>Pilot Terrain Ability</C>. It's judged by# the terrain the unit stands on, in# <C=7>5 ranks</C> (S, A, B, C, D). Higher ranks# give bigger bonuses, so fight on your# best terrain when possible.## <C=7>Pilot Terrain Ability</C> can be raised# via <C=7>Pilot Training</C> in the Intermission.# <C=7>Unit Terrain Ability</C> can be raised,# like <C=7>Movement Type</C>, by equipping# Enhancement Parts.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 25,
+   "size": 2048,
+   "en": "<C=7>Enhancement Parts</C># Equipping Enhancement Parts raises# weapon accuracy. Typical parts:##    <C=7>Dual Sensor</C>   Weapon hit rate +10%##    <C=7>Multi-Sensor</C>  Weapon hit rate +20%##<C=7>Target Size</C># The larger the target, the higher the# hit rate. There are <C=7>5 sizes</C>: LL, L, M,# S, SS, with bonuses decreasing from LL.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 26,
+   "size": 2048,
+   "en": "<C=7>Distance to Target</C># The closer you are to the target,# the higher your hit rate.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 27,
+   "size": 2048,
+   "en": "<C=7>Attack Method</C># With a Support Attack, the supporting# unit gets a <C=7>+20%</C> hit rate bonus.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 28,
+   "size": 2048,
+   "en": "Avoiding enemy attacks is one of the#most important elements of combat.#Typical ways to raise your evasion#include the following:##    <C=7>Spirit Commands</C>#    <C=7>Pilot Training</C>#    <C=7>Terrain Ability</C>#    <C=7>Unit Upgrades</C>#    <C=7>Enhancement Parts</C>#    <C=7>Terrain Effects</C>#    <C=7>Distance to Target</C>##Each section explains their features and#recommends how to use them.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 29,
+   "size": 2048,
+   "en": "<C=7>Spirit Commands</C># These Spirit Commands raise evasion:##    <C=7>Focus</C>  For 1 turn,#           hit and evasion rates +30%##    <C=7>Flash</C>  Evade all attacks for 1 battle##<C=7>Pilot Training</C># Raising a pilot's <C=7>Evasion</C> stat# raises evasion against enemy attacks.## You can also learn Skills that# raise evasion.# Here is a typical one:##   <C=7>Predict</C>  At Will 130+, final hit#            and evasion rates +10%## <C=7>Stat Increases and Learning Skills</C># are done via <C=7>Pilot Training</C> in the# Intermission. Training requires PP,# earned in battles on the map.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 30,
+   "size": 2048,
+   "en": "<C=7>Unit Upgrades</C># Raising a unit's <C=7>Mobility</C> via# <C=7>Unit Upgrades</C> in the Intermission# raises evasion against enemy attacks.# Upgrades require Funds, earned in# battles on the map.##<C=7>Enhancement Parts</C># Equipping Enhancement Parts raises a# unit's <C=7>Mobility</C>, and evasion with it.# Typical parts:##    <C=7>Servomotor</C>  Mobility  +5##    <C=7>Biosensor</C>   Mobility +20",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 31,
+   "size": 2048,
+   "en": "<C=7>Terrain Effects</C># Some terrain raises evasion against# enemy attacks. When you want to dodge,# we recommend placing units on terrain# that boosts evasion.# Note that flying units don't receive# terrain effects.##<C=7>Terrain Ability</C># Evasion also changes with a unit's# <C=7>Terrain Ability</C>, which is decided by# both <C=7>Unit Terrain Ability</C> and# <C=7>Pilot Terrain Ability</C>. It's judged by# the terrain the unit stands on, in# <C=7>5 ranks</C> (S, A, B, C, D). Higher ranks# give bigger bonuses, so fight on your# best terrain when possible.##<C=7>Pilot Terrain Ability</C> can be raised#via <C=7>Pilot Training</C> in the Intermission.#<C=7>Unit Terrain Ability</C> can be raised,#like Movement Type, by equipping#<C=7>Enhancement Parts</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 32,
+   "size": 2048,
+   "en": "<C=7>Distance to Target</C># The farther you are from the attacking# enemy, the higher your evasion.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 33,
+   "size": 2048,
+   "en": "Some special abilities of robots help#with defense. Here are typical ones:##    <C=7>Shield Equipped</C>#    <C=7>Barriers</C>#    <C=7>Afterimage</C>#    <C=7>Blocks</C>##Each section explains their features.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 34,
+   "size": 2048,
+   "en": "<C=7>Shield Equipped</C># The <C=7>Shield</C> icon on the unit status# screen shows whether a unit has this.# When such a unit chooses Defend against# an enemy attack, it takes 10% less# damage than a unit without a <C=7>Shield</C>.##<C=7>Barriers</C># These reduce or nullify enemy damage.# There are many types, each with its# own traits. Here are typical ones:##  - <C=7>Beam Coat</C>#    Reduces <C=7>ranged beam</C> damage by <C=7>900</C>#    Uses <C=7>5</C> EN when activated##  - <C=7>Gravity Territory</C>#    Nullifies damage of <C=7>1800</C> or less#    Uses <C=7>15</C> EN when activated##Barriers come in <C=7>reducing types</C> and#<C=7>nullifying types</C>. Reducing types lower#final damage; nullifying types reduce#damage to <C=7>0</C> if the attack is at or below#their value.##Some barriers can also be equipped#via Enhancement Parts.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 35,
+   "size": 2048,
+   "en": "<C=7>Afterimage</C># Has a <C=7>50%</C> chance to evade attacks.# Activates at Will <C=7>130</C>+.##<C=7>Blocks</C># Abilities that nullify special effects# of enemy attacks, with various Blocks# for each type of effect. Typical ones:##  - <C=7>Mind Block</C>#    Nullifies P-type special effects:#    <C=7>Will Down, SP Drain, Spirit Seal</C>##  - <C=7>Energy Block</C>#    Nullifies R-type special effects:#    <C=7>EN Down, EN Drain</C>",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 36,
+   "size": 2048,
+   "en": "Some special abilities of robots#help with movement.#Here are typical ones:##<C=7>Transform</C>/<C=7>Combine</C>/<C=7>Replace</C>/<C=7>Separate</C># The ability to change form on the map.# This alters the unit's traits and may# change its Movement Type or Movement.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 37,
+   "size": 2048,
+   "en": "Pilot skills include ones that are:#    <C=7>Useful for attacking</C>#    <C=7>Useful for hitting and evading</C>#    <C=7>Useful for defending</C>#These skills can be learned through#<C=7>Pilot Training</C> in the Intermission.#Training requires PP, earned in#battles on the map.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 38,
+   "size": 2048,
+   "en": "<C=7>Support Attack</C># A skill that lets a unit join in after# an adjacent unit's attack.# Combat proceeds in this order:# <C=7>Attack</C>#    v# <C=7>Enemy Counter</C>#    v# <C=7>Support Attack</C># It can activate as many times per turn# as its skill level.##<C=7>Cooperative Attack</C># A skill used together with the# <C=7>Support Attack</C> skill.# When learned, Support Attacks (normally# 75% damage) deal the same damage as# normal attacks. Recommended for pilots# with a high Support Attack skill level.##<C=7>Focused Attack</C># When a main (sub) unit attacks a sub# (main) unit, the damage penalty (-35%)# is offset by 20%. Recommended for# pilots who often use ALL attacks.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 39,
+   "size": 2048,
+   "en": "<C=7>Predict</C>#  Activates at <C=7>130</C> Will or higher,#  raising final hit and evasion by 10%.#  As <C=7>+10% is added to the final rate</C>,#  when this skill activates, you're#  assured at least 10% vs. any enemy.##  Other skills also help accuracy and#  evasion, but some can't be learned#  via \"Pilot Training.\" A typical one:##<C=7>Telekinesis</C>#  Raises hit and evasion rates and#  affects the ability <C=7>\"TK Field.\"</C>",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 40,
+   "size": 2048,
+   "en": "<C=7>Guard</C>#  Activates at <C=7>130</C> Will or higher,#  reducing damage taken to 80%. Best#  learned by pilots of units that have#  barriers.##<C=7>Support Defense</C>#  When an adjacent unit is attacked,#  this unit takes the hit instead while#  \"Defending.\" Usable a number of times#  per turn equal to the skill level, and#  you can choose whether to use it.#  Normally <C=7>\"Use\"</C> is selected#  automatically when it's available, but#  if taking the hit could get this unit#  shot down, <C=7>\"Don't\"</C> is selected.#  To protect the adjacent unit even at#  the cost of being shot down, select#  <C=7>\"Use\"</C> manually.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 41,
+   "size": 2048,
+   "en": "<C=7>Will</C> affects <C=7>weapon use</C>, <C=7>attack</C>, and#<C=7>defense</C>. Some of a pilot's skills#relate to Will. These skills can be#learned via \"Pilot Training\" in the#Intermission.#Note that training requires \"PP,\"#which is earned in battles on maps.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 42,
+   "size": 2048,
+   "en": "<C=7>Will Limit Break</C>#  Raises the Will cap from the normal#  <C=7>150</C> to <C=7>170</C>.##<C=7>Resolve</C>#  Will <C=7>+5</C> when deployed.#  Recommended for pilots with many#  weapons that require Will.##<C=7>Morale</C>#  Will rises <C=7>+2</C> before your phase#  <C=7>every turn</C>, from turn 2 after sortie.#  Recommended for players who don't#  mind the turn count and prefer long#  battles.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 43,
+   "size": 2048,
+   "en": "<C=7>Will+ (Evade)</C>#  When you <C=7>evade</C> an enemy attack,#  Will gets an extra <C=7>+1</C> on top of the#  normal change. Recommended for pilots#  who are good at evading.##<C=7>Will+ (Hit)</C>#  When you <C=7>hit</C> an enemy, Will gets an#  extra <C=7>+1</C> on top of the normal change.#  Recommended for pilots on the front#  lines who keep countering the enemy.##<C=7>Will+ (Damaged)</C>#  When you take <C=7>damage</C> from an enemy,#  Will gets an extra <C=7>+2</C> on top of the#  normal change. Recommended for pilots#  who are poor at evading and tend to#  take enemy hits head-on.##<C=7>Will+ (Kill)</C>#  Will also rises when an ally other#  than you <C=7>shoots down</C> an enemy. Then,#  Will gets an extra <C=7>+1</C> on top of the#  normal change.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 44,
+   "size": 2048,
+   "en": "Attacking alone won't win battles.#Sometimes you must <C=7>repair damaged units</C>#and <C=7>resupply units low on EN or ammo</C>.#Support units back up allies with#these abilities. Use the two commands#below as the situation demands.##    <C=7>\"Repair\"</C>#    <C=7>\"Resupply\"</C>",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 45,
+   "size": 2048,
+   "en": "<C=7>Repair</C>#  A command for units with the swap-in#  weapon <C=7>\"Repair Module.\"</C> <C=7>Repairs damage</C>#  to all units in an adjacent unit.#  Equip the \"Repair Module\" in the#  Intermission's <C=7>\"Weapon Select.\"</C>##  The higher the level of the pilot#  using <C=7>\"Repair,\"</C> the more HP restored.#  Pilots with the skill <C=7>\"Mechanic\"</C>#  restore <C=7>1.2 times</C> the normal amount.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 46,
+   "size": 2048,
+   "en": "<C=7>Resupply</C>#  A command for units with the swap-in#  weapon <C=7>\"Resupply Module.\"</C> Restores one#  chosen adjacent unit's <C=7>EN and ammo</C>#  <C=7>completely</C>. However, the resupplied#  unit gets Will <C=1>-10</C>, so be careful.#  Equip the \"Resupply Module\" in the#  Intermission's <C=7>\"Weapon Select.\"</C>##  Normally impossible, but pilots with#  the skill <C=7>\"Resupply\"</C> <C=7>can use the#  command after moving</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 47,
+   "size": 2048,
+   "en": "<C=7>Spirit Commands</C>#  Some Spirit Commands restore HP, EN,#  or ammo. Some are <C=7>used on yourself</C>,#  others are <C=7>used on others</C>.#  Typical examples follow.##    <C=7>Vigor</C>  Restores 30% of own#           max HP##    <C=7>Trust</C>  Restores 2000 HP to#           one chosen ally##    <C=7>Resupply</C>  Fully restores ammo#           and EN of one chosen ally##<C=7>Parts</C>#  Some Parts restore HP, EN, or ammo.#  Typical examples follow.##    <C=7>Repair Kit</C>       Restores all HP##    <C=7>Propellant Tank</C>  Restores all EN##    <C=7>Cartridge</C>        Restores all ammo##<C=7>Terrain Effects</C>#  Some terrain <C=7>restores HP or EN</C>.#  Using it well gives you the edge in#  battle, but note that enemy units#  get the same benefit.#  Press <S=3><I=2><S=2> on the map to check#  a terrain's effects.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 48,
+   "size": 2048,
+   "en": "<C=7>Board</C>#  How to <C=7>load allies onto a battleship</C>.#  Boarded units recover <C=7>15% of max HP</C>#  <C=7>and EN</C> at the start of your phase, and#  <C=7>ammo is fully restored</C>. But boarding#  gives Will <C=1>-5</C>, so be careful.#  (This drop can't take Will below 100.)##<C=7>Repair</C>#  A unit with a <C=7>\"Repair Module\"</C> uses#  the <C=7>\"Repair\"</C> command. For details,#  see \"What's Repair?\" under#  \"About Support.\"##<C=7>Resupply</C>#  A unit with a <C=7>\"Resupply Module\"</C> uses#  the <C=7>\"Resupply\"</C> command. For details,#  see \"What's Resupply?\" under#  \"About Support.\"",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 49,
+   "size": 2048,
+   "en": "<C=7>Spirit Commands</C> have various effects#that shape tactics. There are <C=7>30 total</C>,#and each pilot has </C>up to six</C> of them.#Not all six are available at the start;#more Spirit Commands are learned as the#pilot levels up.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 50,
+   "size": 2048,
+   "en": "Spirit Commands have many effects. Here#are the most important ones for#clearing maps.##  <C=7>Valor</C>    Doubles damage dealt to the#           enemy once#           Use against strong enemies##  <C=7>Flash</C>    Fully evades enemy attacks#           for one battle#           Recommended when an enemy's#           counter may deal heavy damage##  <C=7>Persist</C>  Reduces damage taken to 10#           once#           Recommended when an enemy's#           counter may deal heavy damage##  <C=7>Bullseye</C> 100% hit rate for 1 turn#           For when you must land a hit##  <C=7>Accel</C>    +3 movement once#           Lasts until the unit moves#           Recommended for reaching a#           target point quickly",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 51,
+   "size": 2048,
+   "en": "<C=7>Twin Spirit Commands</C> have various#effects that shape tactics. There are#<C=7>12 in all</C>, and each pilot has </C>one</C>.#They become usable when the pilot is in#a Twin Unit.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 52,
+   "size": 2048,
+   "en": "Twin Spirit Commands have many effects.#Here are the most important ones for#clearing maps.##  <C=7>Clarity</C>  Lowers evasion of all#           enemies for 1 turn#           Recommended for damaging#           many enemies with counters##  <C=7>Disrupt</C>  Halves hit rate of all#           enemies for 1 turn#           Recommended when surrounded#           by many enemies##  <C=7>Soul</C>     Multiplies damage dealt#           to the enemy by 2.5 once#           Use against strong enemies##  <C=7>Mettle</C>   All attacks are critical#           hits for 1 turn#           Doesn't stack with Valor/Soul#           Recommended for support#           attack units",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 53,
+   "size": 2048,
+   "en": "Spirit and Twin Spirit Commands are#<C=7>used</C> by <C=7>spending the pilot's SP</C>.#Even with the same effect, a command's#<C=7>SP cost differs from pilot to pilot</C>.#SP increases as the pilot levels up.#Learning the skill <C=7>\"SP Up\"</C> also#raises max SP.##Ways to restore SP on the map include#<C=7>Twin Spirit Commands, Parts, and Skills</C>,#but they are limited. So be careful#about when you use Spirit Commands.#Basically, we recommend using them on#strong enemies such as the map's boss.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 54,
+   "size": 2048,
+   "en": "Upgrading units and weapons costs money.#You earn money by downing enemies, and#a few tricks can increase how much you#get.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 55,
+   "size": 2048,
+   "en": "<C=7>Spirit Commands</C>#  Some Spirit Commands increase the money#  you earn. They are listed below.##    <C=7>Luck</C>  Doubles money from the next#          battle##    <C=7>Bless</C> Doubles money a chosen ally#          gets from its next battle##  These commands are <C=1>used up after</C>#  <C=1>one battle</C>. So use them when you're#  sure to shoot the enemy down.#  Stronger enemies tend to carry more#  money, so we recommend using them on#  <C=7>enemy bosses</C> and <C=7>battleships</C>.#  They're also effective when <C=7>downing</C>#  <C=7>many foes at once with a MAP weapon</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 56,
+   "size": 2048,
+   "en": "<C=7>Skills</C>, etc.#  Pilots with <C=7>50+ kills</C> become <C=7>\"Aces\"</C>#  and get <C=7>1.2x</C> money for enemies downed.#  Some <C=7>\"Ace Bonuses\"</C> and <C=7>\"Skills\"</C> also#  raise money earned. Characters with#  these perks earn more by actively#  shooting down enemies.##Note: kill money bonuses cap at#<C=1>2 times</C> (excluding difficulty boosts).#So even when an <C=7>\"Ace\"</C> pilot uses the#Spirit Command <C=7>\"Luck,\"</C> the money earned#<C=1>won't be 2.4 times</C>, so be careful.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 57,
+   "size": 2048,
+   "en": "Leveling up raises a pilot's stats, SP,#and skill levels, and teaches new Spirit#Commands, making the pilot stronger.#EXP is earned by hitting or downing#enemies, or repairing or resupplying#allies, and a few tricks can increase#how much you get.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 58,
+   "size": 2048,
+   "en": "<C=7>Spirit Commands</C>#  Some Spirit Commands increase the EXP#  you earn. They are listed below.##    <C=7>Gain</C>  Doubles EXP from the next#          battle#  #    <C=7>Cheer</C> Doubles EXP a chosen ally#          gets from its next battle##  These commands are <C=1>used up after</C>#  <C=1>one battle</C>. So use them when you're#  sure to shoot the enemy down.#  The bigger the level gap between you#  and the enemy, the more EXP you get#  for attacking or downing it.#  So we recommend using them when downing#  <C=7>enemies with a large level gap</C> or#  <C=7>many foes at once with a MAP weapon</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 59,
+   "size": 2048,
+   "en": "<C=7>Repair & Resupply</C># You can also <C=7>gain EXP</C> by# <C=7>repairing</C> or <C=7>resupplying</C> allies.# As with attacks, healing an ally with# a <C=7>large level gap</C> earns# <C=7>more EXP</C>. And unlike attacking,# there's no counterattack, so you can# <C=7>gain EXP safely</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 60,
+   "size": 2048,
+   "en": "Some maps call for speed, with#victory conditions such as##<C=7>\"Defeat XX within N turns\"</C>#<C=7>\"Rout the enemy within N turns\"</C>##Each section below has tips for these.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 61,
+   "size": 2048,
+   "en": "<C=7>Spirit & Twin Spirit Commands</C># Using Spirit and Twin Spirit Commands# well lets you defeat enemies quickly.# Typical uses are below.# #  Deal heavy damage? <C=7>\"Valor\", \"Soul\"</C>#  Close in fast?     <C=7>\"Accel\"</C>",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 62,
+   "size": 2048,
+   "en": "<C=7>Support Attack</C># Attacks with the <C=7>\"Support Attack\"</C> skill# deal <C=7>more damage</C> than ALL attacks.# Learn <C=7>\"Cooperative Attack\"</C> to deal# <C=7>even more damage</C>. This is the method# we recommend against enemies that# \"retreat at XX HP or less.\"",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 63,
+   "size": 2048,
+   "en": "<C=7>ALL Attacks</C># An ALL attack <C=7>damages every machine</C># <C=7>in the enemy unit</C> at once.# However, damage is <C=7>reduced</C> when the# main (sub) machine hits the sub (main)# machine, so pilots who often use ALL# attacks should learn the skill# <C=7>\"Focused Attack\"</C>.# See \"What's an ALL attack?\" under# \"About Weapon Selection\" for details.##<C=7>MAP Weapons</C># MAP weapons <C=7>damage every enemy in</C># <C=7>range</C> at once. Unlike ALL attacks,# their damage isn't reduced. However, MAP# weapons have high <C=7>EN costs</C> and <C=7>Will</C># <C=7>requirements</C>, so you can't spam them.# Lure enemies into a MAP weapon's range,# then add Spirit Commands like <C=7>\"Valor\"</C># to deal <C=7>heavy damage to as many</C># <C=7>enemies as possible</C> in one go.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 64,
+   "size": 2048,
+   "en": "<C=7>Named pilots</C> outclass regular soldiers#and <C=7>pilot stronger machines</C>.#Fight them head-on and you'll take#heavy losses too. Here are some tips.##  <C=7>When attacks won't hit...</C>#  <C=7>When enemy attack power is high...</C>#  <C=7>When enemy HP is high...</C>##Each section explains these and gives#tips for beating strong enemies.#No matter how strong the enemy, you can#always win by adjusting your tactics,#leveling up pilots, or upgrading#machines and weapons.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 65,
+   "size": 2048,
+   "en": "Tips for when your attacks miss because#of high enemy Mobility or pilot Evasion.##  <C=7>Spirit Commands</C>#    Use Bullseye, Inspire, Focus, etc.##  <C=7>Twin Spirit Commands</C>#    Use Clarity.##  <C=7>Special Effects</C>#    Use weapons with a \"Mobility Down\"#    effect.##  <C=7>Command Range</C>#    Fight near a pilot with the#    \"Commander\" skill.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 66,
+   "size": 2048,
+   "en": "When the enemy hits hard, watch your#own evasion and defense too.#Here are tips for fighting such foes.## <C=7>Spirit Commands</C>#   Use Focus, Flash, Persist,#   Wall, etc.## <C=7>Twin Spirit Commands</C>#   Use Disrupt.## <C=7>Support Defense</C>#   Use your allies' Support Defense.## <C=7>Terrain Effects</C>#   Use terrain with defense or#   evasion bonuses.## <C=7>Choosing a Response</C>#   Don't push it; choose Evade#   or Defend.## <C=7>Support Units</C>#   Restore lost HP, EN and ammo#   often.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 67,
+   "size": 2048,
+   "en": "Some enemies have tens of thousands#of HP. Here are tips for dealing heavy#damage to such foes.## <C=7>Spirit Commands</C>#   Use Valor, etc.## <C=7>Twin Spirit Commands</C>#   Use Soul, etc.## <C=7>Using Support Attacks</C>#   Deal as much damage as possible#   in a single battle.## <C=7>Special Effects</C>#   Weaken the target with Armor Down#   or Will Down before attacking.## <C=7>Focus Fire</C>#   Attack with as many allies as#   possible in one turn.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 68,
+   "size": 2048,
+   "en": "Some tough enemies have barriers that#nullify attacks. Barriers need EN, Will,#etc. to activate, so you can stop them.#Here are tips to keep barriers down.## <C=7>Spirit Commands</C>#   Lower Will with Exhaust to#   block the barrier.## <C=7>Spirit Commands</C>#   Use Pierce to bypass the#   barrier.## <C=7>Twin Spirit Commands</C>#   Lower Will with Dread to#   block the barrier.## <C=7>Special Effects</C>#   Attack with weapons that have#   effects like Will Down to#   lower Will and block the#   barrier.## <C=7>Special Effects</C>#   Attack with weapons that have#   effects like EN Drain to cut#   enemy EN to 0 and block the#   barrier.## <C=7>Special Effects</C>#   Attack with weapons that have a#   Barrier Pierce effect, such as#   combination attacks, to#   bypass the barrier.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 69,
+   "size": 2048,
+   "en": "Each chapter has a Skill Point you can#earn by meeting a condition on the map.#Check the conditions with the#<C=7>\"Objectives\"</C> command.#For chapters made up of several maps,#the condition is set on <C=7>only one map</C>#in that chapter.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 70,
+   "size": 2048,
+   "en": "<C=7>Bonus PP</C>#Skill Points are awarded for clearing#tough conditions, so as a bonus, every#deployed pilot gets <C=7>5</C> PP.##<C=7>Difficulty Changes</C>#Since Skill Points reward clearing tough#conditions, collecting them gradually#raises the game's difficulty.#You can check the current difficulty in#the data window below the main commands.## <C=1>H</C> (<C=1>Hard</C>)#  <C=1>80%+</C> Skill Points earned: hard mode#  More enemies, often with upgrades#  Funds from kills: base value## <C=3>N</C> (<C=3>Normal</C>)#  <C=3>30-79%</C> Skill Points earned#  Standard difficulty#  Funds from kills: 120% of H## <C=2>E</C> (<C=2>Easy</C>)#  <C=2>Under 30%</C> Skill Points earned#  Easy enough to plow through enemies#  Funds from kills: 150% of H##If the game feels too hard, you can#adjust the difficulty by not earning#Skill Points.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 71,
+   "size": 2048,
+   "en": "Tips for organizing Twin Units.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 72,
+   "size": 2048,
+   "en": "When certain conditions are met, up to#two machines can stack on one square#of the map.#The two stacked machines are treated as#one unit, a main and a sub machine,#called a <C=7>\"Twin Unit\"</C>.#Units in a Twin state gain the#following benefits.##<C=7>Twin Spirit Commands</C># Twin Spirit Commands become available.##<C=7>Machine Trait Effects</C># Each machine's trait grants a special# effect.##To form a Twin Unit, use the <C=7>\"Join\"</C>#command. To use \"Join\", the two units#must be <C=7>on adjacent squares (all 8)</C>,#and both main pilots need <C=7>110+ Will</C>.#To break up a Twin Unit, use the#<C=7>\"Split\"</C> command.#Note: battleships can't form Twin Units.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 73,
+   "size": 2048,
+   "en": "Units in a Twin state can use their two#main pilots' <C=7>Twin Spirit Commands</C>#in addition to regular Spirit Commands.##Separate from regular Spirit Commands,#each pilot has one Twin Spirit Command.#Only <C=7>the main pilots'</C> Twin Spirit#Commands can be used; sub pilots' can't.##Using a Twin Spirit Command costs SP#from <C=7>both main pilots</C> of the#Twin Unit.##Note that if a Twin Unit uses <C=7>\"Split\"</C>,#Twin Spirit Command effects <C=7>vanish</C>,#so be careful.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 74,
+   "size": 2048,
+   "en": "Each machine is classed under one of 7#traits: <C=7>Melee, Ranged, Psychic, Defense,#Accuracy, Evasion and Versatile</C>. Each#trait has a Machine Trait Effect.#A single unit gets no trait effect, but#as a Twin Unit, it gets the effects of#both of its machines' traits.#However, <C=7>matching traits</C> don't give#double the effect; you get one machine's#<C=7>\"Trait Effect\" + \"W Effect\"</C>.##<C=7>Machine Trait Effects</C># Each trait's effect is as follows.## <C=7>Melee</C>     Melee final damage +5%# <C=7>Ranged</C>    Ranged final damage +5%# <C=7>Psychic</C>   Psychic final damage +5%# <C=7>Defense</C>   Final damage taken -5%# <C=7>Accuracy</C>  Final hit rate +5%# <C=7>Evasion</C>   Evasion rate +5%# <C=7>Versatile</C> Final hit rate +5%,#           Evasion rate +5%##<C=7>W Effect</C># Each W Effect is as follows.## <C=7>Melee</C>     Move +1# <C=7>Ranged</C>    Range +1# <C=7>Psychic</C>   Telekinesis Lv +1# <C=7>Defense</C>   Barrier effect +200# <C=7>Accuracy</C>  Critical +50%# <C=7>Evasion</C>   Grants \"Afterimage\" ability# <C=7>Versatile</C> Melee/Ranged final dmg +5%,#           Final hit +5%, Evasion +5%## (Example)#   A machine with the Melee trait#   A machine with the Accuracy trait#  If these two form a Twin Unit, the#  unit's trait is <C=7>\"Mel/Acc\"</C>, and its#  effect is <C=7>\"Melee final damage +5%,#  final hit rate +5%\"</C>.## (Example)#   A machine with the Melee trait#   A machine with the Melee trait#  If these two form a Twin Unit, the#  unit's trait is <C=7>\"W Mel\"</C>, and its#  effect is <C=7>\"Melee final damage +5%,#  Move +1\"</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 75,
+   "size": 2048,
+   "en": "Watch out for \"Move\" when forming Twin#Units. Here are tips for forming them#with movement in mind.##<C=7>Twin Unit Move</C>#A Twin Unit's Move is the average of its#machines' Move, with fractions rounded#down.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 76,
+   "size": 2048,
+   "en": "<C=7>Unit Movement Type</C># A Twin Unit's movement type is based on# the movement types of each machine.## (Example)#   A machine with movement type \"AL-\"#   A machine with movement type \"A--\"#  If these two form a Twin Unit, the#  unit's movement type is \"A<C=9>L</C>-\":#  it <C=7>can move in the air and on land</C>,#  and is <C=7>better suited to air</C> than land.#  When building for movement type,#  <C=7>match the machines' movement types</C>#  to make the unit move efficiently.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 77,
+   "size": 2048,
+   "en": "Twin Spirit Commands have many effects.#Here is one that's especially important#when forming Twin Units.##  <C=7>Sync</C>  Sets both main pilots' stats#        (Mel, Rng, Eva, Acc, Skl, Def)#        to the higher of the two#        pilots' values.## (Example)#  A pilot good at melee, poor at shooting#  A pilot good at shooting, poor at melee# Form a Twin Unit with these two and use# <C=7>\"Sync\"</C>, and both become <C=7>\"pilots good# at both melee and shooting\"</C>.# When using \"Sync\", we recommend pairing# pilots whose abilities complement each# other in a Twin Unit.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 78,
+   "size": 2048,
+   "en": "Tips on upgrades and pilot training.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 79,
+   "size": 2048,
+   "en": "Pilot Training lets you spend the#<C=7>PP</C> earned by shooting down enemies to#grow pilots as you see fit. Select#<C=7>Pilot Training</C> in the Intermission.##Pilot Training covers the following#three areas:##    <C=7>Raise Stats</C>#    <C=7>Learn Skills</C>#    <C=7>Raise Terrain Ability</C>",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 80,
+   "size": 2048,
+   "en": "<C=7>Raise Stats</C>#  <C=7>Raise</C> <C=7>Melee</C>, <C=7>Ranged</C>, <C=7>Defense</C>, <C=7>Skill</C>,#  <C=7>Evasion</C> and <C=7>Accuracy</C> stats. They feed#  directly into hit and damage formulas,#  so they're highly effective. Each stat#  caps at <C=7>400</C> and can't go higher.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 81,
+   "size": 2048,
+   "en": "<C=7>Learn Skills</C>#Pilots can learn skills here.#Each pilot can learn up to <C=7>6</C> skills, but#<C=1>some skills can't be overwritten</C>.#Every skill is strong, but we suggest#picking ones that suit each pilot.#Some examples:##    <C=7>Attacker / Revenge</C>#      Pilots with high Melee and Ranged##    <C=7>Guard</C>#      Pilots in units with high defense##    <C=7>Predict</C>#      Pilots in units with high evasion##    <C=7>Cooperative Attack</C>#      Pilots strong in Support Attack##Some skills work like stat boosts, but#most need a condition, like high Will.#In return, some have <C=7>stronger effects</C>#<C=7>when triggered</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 82,
+   "size": 2048,
+   "en": "<C=7>Raise Terrain Ability</C>#Raise a pilot's Terrain Ability.#A unit's Terrain Ability, which <C=7>affects</C>#<C=7>hit rate</C>, <C=7>evasion</C> and <C=7>defense</C>, is set by#the pilot and unit together. We suggest#raising it for the pilot's <C=7>main terrain</C>#and for <C=7>Space</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 83,
+   "size": 2048,
+   "en": "Assigning a <C=7>different pilot</C> to a unit#lets you <C=7>change how the unit is used</C>.#Powerful units often arrive later on,#so try swapping pilots into new units#as you get them.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 84,
+   "size": 2048,
+   "en": "The key to swapping is to <C=7>boost the</C>#<C=7>strengths</C> of both pilot and unit.#Some examples:##  \"High-Mobility unit\"#          +#  \"High-Evasion pilot\"#  = A unit <C=7>enemies can't hit</C>##  \"Unit with strong weapons\"#          +#  \"Pilot with high attack\"#  = A unit with <C=7>huge firepower</C>#  #  \"Unit with a MAP weapon\"#          +#  \"Pilot with Valor and Lucky\"#  = <C=7>Mass enemy kills for fast cash</C>##Beyond these, weigh stats, Spirit#Commands and skills to discover your own#special combinations.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 85,
+   "size": 2048,
+   "en": "<C=7>Unit Upgrades</C> spend money earned from#kills to raise a unit's <C=7>4</C> stats: <C=7>HP</C>, <C=7>EN</C>,#<C=7>Mobility</C> and <C=7>Armor</C>. Use <C=7>Unit Upgrades</C> in#the Intermission. <C=7>Upgrade limits and</C>#<C=7>gains vary by unit</C>.#And if you <C=3>max out all 4 stats</C>...",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 86,
+   "size": 2048,
+   "en": "<C=7>Weapon Upgrades</C> spend money earned from#kills to <C=7>raise a weapon's attack power</C>.#Use <C=7>Weapon Upgrades</C> in Intermission.#Weapons can usually be upgraded <C=7>10</C>#levels, but <C=7>costs and gains vary</C>#<C=7>by weapon</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 87,
+   "size": 2048,
+   "en": "Unit Upgrades raise these <C=7>4</C> stats.#Funds are limited, so <C=7>upgrade with care</C>.#Here are some tips.##<C=7>HP</C>#  Raising HP increases the unit's#  <C=7>durability</C> against enemy attacks.#  We recommend it for front-line units#  so they don't get shot down.##<C=7>EN</C>#  Raising EN increases the#  <C=7>number of uses of EN weapons</C>.#  Recommended for EN-hungry units.##<C=7>Mobility</C>#  Raising Mobility increases#  <C=7>evasion</C>. We suggest upgrading units#  that already have high Mobility, not#  low ones, to build on their strengths.##<C=7>Armor</C>#  Raising Armor increases#  <C=7>defense</C>. We suggest upgrading units#  that already have high Armor, not#  low ones, to build on their strengths.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 88,
+   "size": 2048,
+   "en": "Weapon Upgrades work on both fixed and#replaceable weapons. Funds are limited,#so <C=7>upgrade with care</C>.#Here are some tips.##<C=7>Fixed Weapons</C>#  For foes that retreat below a set HP,#  upgrade fixed weapons, which have#  <C=7>higher attack</C> than replaceable ones.##<C=7>Replaceable Weapons</C>#  Their attack is modest, so they're weak#  against tough foes. But unlike fixed#  weapons, they can be moved from unused#  units to others and kept in use, so#  <C=7>upgrade money is rarely wasted</C>. We#  recommend upgrading them early on,#  when funds are scarce.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 89,
+   "size": 2048,
+   "en": "<C=7>Weapon Replacement</C> lets you equip#replaceable weapons found during play on#any unit. Unlike a unit's fixed weapons,#they can be <C=7>equipped and removed freely</C>.#On the weapon screen, an <C=7>\"A\"</C> appears#as in <I=42><S=-32><I=44><I=43><S=-32><I=44>.##Units with a <C=7>Weapon Gauge</C> value can#freely swap replaceable weapons, as long#as the weapons' total gauge cost stays#within that value. Some replaceable#weapons are also special, as below:##<C=7>Special Effect Weapons</C>#  Weapons that inflict various effects#  besides damage. For details, see#  \"What are effect weapons?\" under#  \"About Weapon Selection\".##<C=7>Repair Module</C><S=3><I=48><S=2>#  Units equipped with a <C=7>Repair Module</C> can#  use the <C=7>Repair</C> command on the map.#  Pilots with the <C=7>Mechanic</C> skill restore#  <C=7>1.2 times</C> the normal amount.#  For usage, see \"What's Repair?\"#  under \"About Support\".##<C=7>Resupply Module</C><S=3><I=47><S=2>#  Units equipped with a <C=7>Resupply Module</C>#  can use the <C=7>Resupply</C> command on the map.#  Pilots with the <C=7>Resupply</C> skill can#  <C=7>Resupply even after moving</C>, which is#  normally impossible. For usage, see#  \"What's Resupply?\" under#  \"About Support\".##Units without a Weapon Gauge value can't#equip replaceable weapons.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 90,
+   "size": 2048,
+   "en": "Melee weapons hit harder the higher the#pilot's Melee, and ranged weapons the#higher their Ranged. So for <C=7>strong Melee</C>#<C=7>pilots</C>, equip <C=7>melee weapons</C>; for <C=7>strong</C>#<C=7>Ranged pilots</C>, equip <C=7>ranged weapons</C>.##Also, for units whose fixed weapons use#a lot of EN, we suggest ammo-based#replaceable weapons; for units that use#little EN, equip EN-based weapons.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 91,
+   "size": 2048,
+   "en": "Parts are items you <C=7>equip on units</C> to#<C=7>gain various effects</C>. Each unit has its#own <C=7>slot count</C>, and you can freely#swap parts within that. Parts can also#<C=7>be sold</C>, so sell any you don't need#to turn them into money.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 92,
+   "size": 2048,
+   "en": "Parts fall into these <C=7>4</C> types.#Here are tips for equipping them.##<C=7>Unit Parts</C>#  <C=7>HP</C>, <C=7>EN</C>, <C=7>Mobility</C>, <C=7>Armor</C>, <C=7>Move</C>, etc.#  <C=7>Parts that raise unit stats</C>.#  Move can't be raised by unit upgrades,#  so <C=7>parts that raise Move</C>#  <C=7>are especially important</C>.#  Generally, use them to cover weaknesses#  or build on strengths.##<C=7>Weapon Parts</C>#  <C=7>Accuracy</C>, <C=7>crit rate</C>, <C=7>range</C>, etc.#  <C=7>Parts that improve weapon stats</C>.#  Unit and weapon upgrades can't raise#  these, which makes them valuable.##<C=7>Consumables</C>#  <C=7>Parts used to restore</C> <C=7>HP</C>, <C=7>EN</C> or <C=7>ammo</C>.#  They're <C=1>single-use</C>.##<C=7>Special Parts</C>#  Mainly <C=7>parts that affect pilots</C>.#  Fewer of them can be found than other#  parts, making them <C=7>especially valuable</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 93,
+   "size": 2048,
+   "en": "Some units have <C=7>dedicated Replace parts</C>,#that <C=7>change their traits</C> when equipped.#Replacing often adds weapons and other#<C=7>big benefits</C>, so equip such parts#whenever you obtain them.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 94,
+   "size": 2048,
+   "en": "<C=7>Special Ammo Materials</C> are items#obtained by defeating enemies and so on.#Combine them to develop <C=7>Special Ammo</C>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 95,
+   "size": 2048,
+   "en": "<C=7>Special Ammo</C> is developed by combining#<C=7>Special Ammo Materials</C> found in play.#Loading it into a weapon changes the#weapon's stats. Use <C=7>Weapon Selection</C>#in Intermission to <C=7>Develop</C> and <C=7>Load</C> it.##<C=7>Develop</C>#  Combine 2 or 3 <C=7>Special Ammo Materials</C>#  to <C=7>develop special ammo</C> that changes#  things like \"Attack\" or \"Range\".#  Some combinations can also produce ammo#  that changes the loaded weapon's#  attribute, such as \"special effects\".#  #<C=7>Load</C>#  <C=7>Load</C> your <C=7>Special Ammo</C> into weapons.#  Weapons loaded with it show a <C=7>\"B\"</C>, as in#  <I=42><S=-32><I=91>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 96,
+   "size": 2048,
+   "en": "Tips to help you enjoy the game.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 97,
+   "size": 2048,
+   "en": "View detailed profiles of the robots and#characters that appear in the game.##<C=7>Robot Database</C>#  Use \"Robot Database\" in OPTION to#  read profiles of robots seen in the#  game. On maps and in Intermission,#  the \"Unit Data\" screen also shows it:#  just press <I=0><S=2>.##<C=7>Character Encyclopedia</C>#  Use \"Character Encyclopedia\" in OPTION#  to read profiles of characters seen in#  the game. On maps and in Intermission,#  the \"Pilot Data\" screen also shows it:#  just press <I=0><S=2>.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 98,
+   "size": 2048,
+   "en": "<C=7>Glossary</C>#Use \"Glossary\" in OPTION for detailed#explanations of terms seen in the game.#In-game, when a term is highlighted in#dialogue, press <S=3><I=6><S=2> to#see its explanation.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 99,
+   "size": 2048,
+   "en": "<C=7>Sound Select</C># Use \"Sound Select\" under OPTION to# listen to BGM played during the game.# More tracks are added to the list as# the game progresses.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 100,
+   "size": 2048,
+   "en": "<C=7>Demo Select</C># Use \"Demo Select\" under OPTION to# watch movies shown during the game.# More movies are added to the list as# the game progresses.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 101,
+   "size": 2048,
+   "en": "<C=7>Scenario Chart</C>#  Check which scenarios you've cleared#  in Scenario Chart in the OPTION menu.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 102,
+   "size": 2048,
+   "en": "If the game feels too hard, you can#try the following.##<C=7>Skill Points</C>#  Earning Skill Points raises the game's#  difficulty. Each chapter offers one#  point. At 80% or more, difficulty#  becomes Hard; below 30%, it's Easy.#  If the game feels too hard, we#  recommend not forcing yourself to#  earn Skill Points.##<C=7>Replay</C>#  If you <C=1>meet a defeat condition</C>#  and get a Game Over, press <S=3><I=0><S=2> to#  replay from the Intermission screen#  before the map where it happened.#  You keep the <C=7>funds</C>, <C=7>EXP</C> and <C=7>kills</C>#  earned before the Game Over.#  However, scenario-only guest pilots#  and newly joined pilots are not#  carried over.#  This lets you replay with leveled-up#  pilots and units or weapons upgraded#  with the funds you earned.#  However, on a replay after a Game#  Over, you <C=1>cannot earn</C>#  <C=1>that map's Skill Point</C>.#  Also, if you earned the Skill Point#  and then got a Game Over, it is#  voided on replay.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 103,
+   "size": 2048,
+   "en": "If you need to stop playing, you can#save your progress during a map.##<C=3>Returning to the Title Screen</C>#  On a map, press <S=3><I=8><I=10><I=12><I=14><I=16><I=18><S=2> together#  to soft reset and return to the#  title screen.##<C=3>Resuming a Mid-Map Save</C>#  Select <C=7>\"CONTINUE\"</C> on the title screen#  to return to your mid-map save.#  You can also press <S=3><I=8><I=10><I=12><I=14><I=16><I=18><S=2> together#  and hold <I=10><S=2> to return to your#  mid-map save without the title screen.",
+   "kind": "help",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "leaf": [
+    8,
+    4
+   ],
+   "slot": 104,
+   "size": 2048,
+   "en": "After clearing the final chapter, you#can <C=7>save</C> your <C=7>clear data</C> on the save#screen after the staff roll. Load it to#start the game in a new mode.#Clear the game to see the details.",
+   "kind": "help",
+   "keep": false
+  }
+ ]
+}

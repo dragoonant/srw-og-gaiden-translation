@@ -1,0 +1,88 @@
+{
+ "names": [
+  "AT1006"
+ ],
+ "note": "Special-disk screen headers (italic white).",
+ "items": [
+  {
+   "box": [
+    3,
+    52,
+    216,
+    68
+   ],
+   "en": "MISSION SCENARIO",
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "plain",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "align": "left",
+   "pad": 1,
+   "size": 20,
+   "track": 1
+  },
+  {
+   "box": [
+    3,
+    72,
+    139,
+    88
+   ],
+   "en": "MANAGE CARDS",
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "plain",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "align": "left",
+   "pad": 1,
+   "size": 20,
+   "track": 1
+  },
+  {
+   "box": [
+    3,
+    92,
+    158,
+    108
+   ],
+   "en": "USE POINTS",
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "plain",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "align": "left",
+   "pad": 1,
+   "size": 20,
+   "track": 1
+  },
+  {
+   "box": [
+    93,
+    196,
+    252,
+    212
+   ],
+   "en": "MANAGE UNITS",
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "plain",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "align": "right",
+   "pad": 1,
+   "size": 20,
+   "track": 1
+  }
+ ]
+}

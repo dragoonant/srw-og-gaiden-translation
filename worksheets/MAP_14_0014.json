@@ -1,0 +1,6996 @@
+{
+ "file": "MAP.BIN/14/14",
+ "format": "LOGO",
+ "strings": [
+  {
+   "id": 0,
+   "pool": "A",
+   "en": "",
+   "kind": "label",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "pool": "A",
+   "en": "???: Mission failed... huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "pool": "A",
+   "en": "Ibis: I-I knew it... I just can't do this...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "pool": "A",
+   "en": "Ibis: With my skills as they are... this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "pool": "A",
+   "en": "Aya: Ah...! I have to eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "pool": "A",
+   "en": "Arado: Dammit! You won't get me next time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "pool": "A",
+   "en": "Alchemie: Is this... the end...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "pool": "A",
+   "en": "Irm: Tch!! The curtain's coming down early!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "pool": "A",
+   "en": "Viletta: Time to pull out...! I'm ejecting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "pool": "A",
+   "en": "Excellen: Oh dear... How embarrassing, honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "pool": "A",
+   "en": "Excellen: Oh dear... How embarrassing, honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "pool": "A",
+   "en": "Ouka: Lato... Arado... Seolla... I'm sorry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "pool": "A",
+   "en": "Carla: I've gotta eject...! Sorry, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "pool": "A",
+   "en": "Carla: I've gotta eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "pool": "A",
+   "en": "Kai: Kh! So this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "pool": "A",
+   "en": "Katina: Screwing up in a place like this...! This sucks...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "pool": "A",
+   "en": "Kyosuke: I messed up...! Have to bail out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "pool": "A",
+   "en": "Kyosuke: I messed up...! Have to bail out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "pool": "A",
+   "en": "Gilliam: Kh! I'm ejecting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "pool": "A",
+   "en": "Kusuha: I-I'm sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "pool": "A",
+   "en": "Kusuha: I-I'm sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "pool": "A",
+   "en": "Shine: So this is... the end for me, it seems...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "pool": "A",
+   "en": "Shu: To think the Granzon... would be shot down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "pool": "A",
+   "en": "Sleigh: Curse you...! I won't forget this humiliation...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "pool": "A",
+   "en": "Seolla: N-Next time... for sure!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "pool": "A",
+   "en": "Sänger: Ngh...! So this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "pool": "A",
+   "en": "Daitetsu: All hands, abandon ship! Hurry!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "pool": "A",
+   "en": "Tasuku: Dammit! How pathetic...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "pool": "A",
+   "en": "Tsugumi: N-No way...!! We're being shot down...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "pool": "A",
+   "en": "Tetsuya: All hands, abandon ship! Now!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "pool": "A",
+   "en": "Fiona: Looks like... I got careless...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "pool": "A",
+   "en": "Bullet: Getting taken down in a place like this... I'm still too green...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "pool": "A",
+   "en": "Bullet: Getting taken down in a place like this... I'm still too green...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "pool": "A",
+   "en": "Mai: I-Is this... the end...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "pool": "A",
+   "en": "Masaki: Sorry! I'm gonna have to drop out...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "pool": "A",
+   "en": "Yuuki: Was I careless...? I'll be withdrawing for now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "pool": "A",
+   "en": "Yuuki: Was I careless...? I'll be withdrawing for now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "pool": "A",
+   "en": "Radha: N-Not here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "pool": "A",
+   "en": "Rai: Tch...! It can't hold out any longer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "pool": "A",
+   "en": "Raul: This... this can't be happening...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "pool": "A",
+   "en": "Russel: I'm sorry! I'm ejecting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "pool": "A",
+   "en": "Latune: So this... is the end...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "pool": "A",
+   "en": "Lamia: I shall be ejecting, it is... Kh...! I can't even keep up appearances...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "pool": "A",
+   "en": "Lamia: Am I going down...? In a place like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "pool": "A",
+   "en": "Lee: I-Impossible...! My... MY ship...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "pool": "A",
+   "en": "Rio: I-I won't lose next time!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "pool": "A",
+   "en": "Rishu: Nngh! Did I blunder...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "pool": "A",
+   "en": "Ryusei: D-Dammit! They got me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "pool": "A",
+   "en": "Lüne: I'm sorry, Valsione...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "pool": "A",
+   "en": "Ryoto: Kh...! I have to eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "pool": "A",
+   "en": "Ling: Tch! Me, of all people...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "pool": "A",
+   "en": "Rätsel: So I, too, am still lacking...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "pool": "A",
+   "en": "Leona: How humiliating...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "pool": "A",
+   "en": "Lefina: A-All hands! Abandoning ship is top priority...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "pool": "A",
+   "en": "Sleigh: Impossible...! I refuse to accept this outcome!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "pool": "A",
+   "en": "Axel: Kuh! So this is as far as I go...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "pool": "A",
+   "en": "Lefina: A-All hands! Abandoning ship is top priority...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "pool": "A",
+   "en": "Kota: Dammit...! So this is as far as I go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "pool": "A",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "pool": "A",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "pool": "A",
+   "en": "Albero: Raaaaaagh!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "pool": "A",
+   "en": "Hugo: Waaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "pool": "A",
+   "en": "Foglia: Waaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "pool": "A",
+   "en": "Folka: Ughaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 0,
+   "pool": "B",
+   "en": "Jurgen: Ugh... ahh... ah...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "pool": "B",
+   "en": "Jurgen: Dieter... Frank...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "pool": "B",
+   "en": "Jurgen: If... if only my ODE System had been adopted...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "pool": "B",
+   "en": "Jurgen: Th-this never would have happened...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "pool": "B",
+   "en": "Jurgen: Uh, uaaah...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "pool": "B",
+   "en": "Jurgen: Uaaaaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "pool": "B",
+   "en": "Isurugi Heavy Industries - President's Office",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "pool": "B",
+   "en": "Graien: ...I see. So Jurgen lost his wife and child during the <L5 Campaign>.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "pool": "B",
+   "en": "Mitsuko: Such stories are inevitable in war, Mr. President.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "pool": "B",
+   "en": "Graien: And... what is Jurgen's goal?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "pool": "B",
+   "en": "Mitsuko: To protect the Earth... That's what he told me when we first met.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "pool": "B",
+   "en": "Mitsuko: And that he never wanted to suffer losing his family again... nor repeat the same mistake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "pool": "B",
+   "en": "Graien: Mistake?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "pool": "B",
+   "en": "Mitsuko: In the <DC> days, he failed to thwart Dr. Adler Koch's schemes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "pool": "B",
+   "en": "Mitsuko: He seemed to think that if the ODE System had been finished, his wife and child might not have died.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "pool": "B",
+   "en": "Mitsuko: Well, he was a pure man, for better or for worse.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "pool": "B",
+   "en": "Graien: Then why rebel? Why attack the very people he meant to protect?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "pool": "B",
+   "en": "Mitsuko: Perhaps it's a means to an end. Just as it once was for Dr. Bian Zoldark.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "pool": "B",
+   "en": "Graien: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "pool": "B",
+   "en": "Mitsuko: More importantly, have you issued the order to call off the nuclear strike?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "pool": "B",
+   "en": "Graien: No. We need insurance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "pool": "B",
+   "en": "Mitsuko: Oh my... Do you intend to destroy the Hellgate, Mr. President?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "pool": "B",
+   "en": "Graien: I never intended to rely on Carl Stresemann's legacy in the first place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "pool": "B",
+   "en": "Graien: After all, that thing was built as tribute for the Guests.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "pool": "B",
+   "en": "Mitsuko: The <Gestalt> plant is one thing, but losing the \"Aegis Shield\" would be a problem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "pool": "B",
+   "en": "Mitsuko: My company has invested heavily in it... and once complete, it would have so many uses, wouldn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "pool": "B",
+   "en": "Graien: ...So it was you who got to the Joint Chiefs of Staff after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "pool": "B",
+   "en": "Graien: Don't tell me you put Jurgen up to this, too...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "pool": "B",
+   "en": "Mitsuko: Oh my... His rebellion truly caught me by surprise as well, you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "pool": "B",
+   "en": "Graien: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "pool": "B",
+   "en": "Mitsuko: There's no use fussing over what's already happened, but I'd like to keep the damage to a minimum.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "pool": "B",
+   "en": "Graien: ...I can't call off the nuke strike. It must be destroyed at any cost, for the sake of what comes after.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "pool": "B",
+   "en": "Mitsuko: I see... Then all we can do is hope the \"champions of justice\" come through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "pool": "B",
+   "en": "Graien: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "pool": "B",
+   "en": "Mitsuko: Oh, and... I trust you'll handle the inquiry afterward with discretion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "pool": "B",
+   "en": "Graien: Most of those involved are already dead, though.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "pool": "B",
+   "en": "Mitsuko: Ufufu... I'll be careful, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "pool": "B",
+   "en": "Graien: That will be all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "pool": "B",
+   "en": "Mitsuko: ...And that's how it went, Dr. Shirakawa.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "pool": "B",
+   "en": "Shu: I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "pool": "B",
+   "en": "Mitsuko: It was just as you warned.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "pool": "B",
+   "en": "Shu: Only thanks to the information you provided.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "pool": "B",
+   "en": "Mitsuko: Not at all... I'm grateful you came all the way to Dalian despite your busy schedule.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "pool": "B",
+   "en": "Shu: Something personally piqued my interest... and they react so keenly to direct contact. How convenient.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "pool": "B",
+   "en": "Mitsuko: Fufufu, quite so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "pool": "B",
+   "en": "Shu: By the way, what of Lieutenant Colonel Lorenzo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "pool": "B",
+   "en": "Mitsuko: He was no restraint at all. It seems he escaped the Hellgate beforehand.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "pool": "B",
+   "en": "Shu: I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "pool": "B",
+   "en": "Mitsuko: So, Doctor... Have you learned anything about who's behind all this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "pool": "B",
+   "en": "Shu: The outline is coming into view.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "pool": "B",
+   "en": "Mitsuko: The Inspectors... or perhaps the Guests?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "pool": "B",
+   "en": "Shu: No, neither.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "pool": "B",
+   "en": "Shu: Depending on the circumstances, it may be better to destroy the Hellgate after all...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "pool": "B",
+   "en": "Mitsuko: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "pool": "B",
+   "en": "Hell Gate Interior",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "pool": "B",
+   "en": "Hagane - Bridge",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "pool": "B",
+   "en": "Eita: Captain, we've entered the Hellgate!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "pool": "B",
+   "en": "Tetsuya: So the internal layout matches the data we were given...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "pool": "B",
+   "en": "Eita: Yes. Looks like we can get all the way to the core area like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "pool": "B",
+   "en": "Tetsuya: What are the Bartolls doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "pool": "B",
+   "en": "Eita: There are movement readings all over, but none of them seem to be coming for us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "pool": "B",
+   "en": "Tetsuya: What are they up to...? Are they letting us reach the core?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "pool": "B",
+   "en": "Eita: ...Before we went in, I noticed the reinforcement Bartolls seemed to be moving like the old ones again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "pool": "B",
+   "en": "Tetsuya: You mean they'd gotten weaker?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "pool": "B",
+   "en": "Eita: Y-yes. I haven't properly verified it, though...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "pool": "B",
+   "en": "Eita: Maybe the ODE System is malfunctioning? That could be why the Bartolls aren't attacking...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "pool": "B",
+   "en": "Tetsuya: (True, it is strange that they never absorbed Arado and the others into the system...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "pool": "B",
+   "en": "Tetsuya: ...Anyway, if the enemy won't attack, all the better. Send units needing ammo resupply back to rearm.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "pool": "B",
+   "en": "Eita: Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "pool": "B",
+   "en": "Hagane - Hangar",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "pool": "B",
+   "en": "Ryusei: You guys are going to sortie!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "pool": "B",
+   "en": "Arado: Yeah. We can't just sit around when the Bilgern and Falken are right there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "pool": "B",
+   "en": "Seolla: Besides, we want to save Lieutenant Lamia with our own hands.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "pool": "B",
+   "en": "Latune: So... we're going out too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "pool": "B",
+   "en": "Ryusei: I see... All right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "pool": "B",
+   "en": "Bullet: Kusuha, you too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "pool": "B",
+   "en": "Kusuha: Yes. We might have escaped being absorbed into the ODE System thanks to Lamia...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "pool": "B",
+   "en": "Kusuha: So now it's our turn to save her. ...Besides, there's something bothering me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "pool": "B",
+   "en": "Bullet: Bothering you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "pool": "B",
+   "en": "Kusuha: I can feel it... A huge will enveloping this Hellgate.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "pool": "B",
+   "en": "Ryusei: We feel it too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "pool": "B",
+   "en": "Bullet: Yeah.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "pool": "B",
+   "en": "Ryusei: But once we catch Dr. Jurgen, the man behind it all, everything should become clear.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "pool": "B",
+   "en": "Bullet: I hope you're right...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "pool": "B",
+   "en": "Eita: We've reached the core! All units have finished deploying!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "pool": "B",
+   "en": "Tetsuya: So we made it all the way here without incident after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "pool": "B",
+   "en": "Rätsel: Major Tetsuya, keep the Kurogane on standby outside this block and secure our escape route.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "pool": "B",
+   "en": "Tetsuya: Yes, sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "pool": "B",
+   "en": "Tasuku: Man... What is this place?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "pool": "B",
+   "en": "Ryoto: It feels a lot different from the other blocks...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "pool": "B",
+   "en": "Rio: Where are Lieutenant Lamia and the people who were captured?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "pool": "B",
+   "en": "Kota: So this is where the signal's coming from!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "pool": "B",
+   "en": "Roa: Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "pool": "B",
+   "en": "Kota: Are that thunder-god jerk and Shoko in here...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "pool": "B",
+   "en": "Roa: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "pool": "B",
+   "en": "Rätsel: So he's come as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "pool": "B",
+   "en": "Arado: H-hey, isn't that the robot that showed up in Asakusa?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "pool": "B",
+   "en": "Seolla: What's it doing here?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "pool": "B",
+   "en": "Ryusei: S-so cool...! The lines on those legs, those spikes... I can't take it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "pool": "B",
+   "en": "Carla: It's called Pachinko Kaiser.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "pool": "B",
+   "en": "Ryusei: P-Pachinko? ...Y'know, that's got its own kind of charm.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "pool": "B",
+   "en": "Ryusei: Wait, you... you know that robot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "pool": "B",
+   "en": "Carla: Yeah, well... Just its name, really.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "pool": "B",
+   "en": "Raul: We ran into it twice before we came here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "pool": "B",
+   "en": "Gilliam: Major Kai, that Super Robot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "pool": "B",
+   "en": "Kai: We still don't know what it is, but it's not an enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "pool": "B",
+   "en": "Kai: It was fighting Bartolls in Harumi too... but I didn't expect it to come all the way here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "pool": "B",
+   "en": "Eita: Multiple moving objects detected! Bartolls!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "pool": "B",
+   "en": "Katina: Here they come, the damn puppets!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "pool": "B",
+   "en": "Russel: Th-there are still that many of them...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "pool": "B",
+   "en": "Irm: Makes me want to ask where they're getting the materials.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "pool": "B",
+   "en": "Tetsuya: Time's running out. We have to stop the ODE System as soon as possible...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "pool": "B",
+   "en": "Filio: Captain, that appears to be the system's master core.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "pool": "B",
+   "en": "Lüne: It sure looks the part.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "pool": "B",
+   "en": "Masaki: Yeah. Let's punch through the Bartoll army and smash that thing already!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "pool": "B",
+   "en": "Ibis: Right...! The nuclear strike is coming! We have to hurry!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "pool": "B",
+   "en": "Excellen: Latune, just checking... Lamia's over by that master core, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "pool": "B",
+   "en": "Latune: Probably... But they might have put her in a Bartoll, like they did with us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "pool": "B",
+   "en": "Kai: Ghost 1 to all units! Break through the Bartolls and reach the master core!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "pool": "B",
+   "en": "Rai: Target point confirmed...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "pool": "B",
+   "en": "Lefina: Since this is the enemy's base, we must consider the possibility of something unexpected happening.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "pool": "B",
+   "en": "Lefina: All units, reach the master core as quickly as you can.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "pool": "B",
+   "en": "Sänger: Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "pool": "B",
+   "en": "Roa: ...Kota.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "pool": "B",
+   "en": "Kota: I know. I just have to help them out, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "pool": "B",
+   "en": "Excellen: Kyosuke, this is where it all comes down to it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "pool": "B",
+   "en": "Kyosuke: ...I hope so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "pool": "B",
+   "en": "Excellen: Oh my. Hey, hey, why so gloomy?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "pool": "B",
+   "en": "Kyosuke: ...I can't read the enemy's intent. That means I can't see where to charge in yet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "pool": "B",
+   "en": "Excellen: Same as always, but I'm not sure charging in should be your default.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "pool": "B",
+   "en": "Kyosuke: Can't be helped. That's about all a PT jockey like me can do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "pool": "B",
+   "en": "Kyosuke: (Now isn't the time... But what is this? This bad feeling...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "pool": "B",
+   "en": "1. Get an ally unit to the designated point.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "pool": "B",
+   "en": "1. An allied battleship is destroyed.\n2. Kyosuke is shot down.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "pool": "B",
+   "en": "- ???",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "pool": "B",
+   "en": "Eita: More moving objects! New Bartolls!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "pool": "B",
+   "en": "Kota: Tch, here comes another swarm!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "pool": "B",
+   "en": "Arado: They're not the Einst, but they just keep coming one after another!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "pool": "B",
+   "en": "Latune: The Bartoll at the very back... It moves differently.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "pool": "B",
+   "en": "Arado: Huh?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "pool": "B",
+   "en": "Filio: Celcia, compare that unit's motion with the others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "pool": "B",
+   "en": "Celcia: Y-yes, sir!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "pool": "B",
+   "en": "Tasuku: I-I've got a bad feeling about this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "pool": "B",
+   "en": "Kyosuke: (Did they play it...? Their trump card, at this point?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "pool": "B",
+   "en": "Celcia: Analysis complete! That unit's reaction speed is 0.002 faster than the others!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "pool": "B",
+   "en": "Filio: So that unit is leading the others...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "pool": "B",
+   "en": "Latune: Lieutenant Lamia's PBS signal has been detected too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "pool": "B",
+   "en": "Excellen: Wow! Bingo! So at least we know she's okay!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "pool": "B",
+   "en": "Kyosuke: Looks that way. ...But whether we can get her back is another matter.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "pool": "B",
+   "en": "Kyosuke: Latune, will the same rescue method we used for you work here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "pool": "B",
+   "en": "Latune: ...Back then, the lieutenant was being fused into the ODE System...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "pool": "B",
+   "en": "Latune: I don't know if just physically cutting her off from the system will be enough...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "pool": "B",
+   "en": "Excellen: It might get a little rough, but stopping that Bartoll is the only way, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "pool": "B",
+   "en": "Excellen: Well, she's got some serious airbags, so she'll be fine... probably?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "pool": "B",
+   "en": "Latune: ...A-airbags.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "pool": "B",
+   "en": "Kyosuke: Don't get carried away just because we know she's alive. ...First we stop her. Let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "pool": "B",
+   "en": "Latune: Right...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "pool": "B",
+   "en": "Lamia: ...You cannot do it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "pool": "B",
+   "en": "Kyosuke: What?! Lamia...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "pool": "B",
+   "en": "Lamia: To free this individual... core number 521... you must destroy the Bartoll.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "pool": "B",
+   "en": "Russel: L-Lieutenant Lamia, what are you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "pool": "B",
+   "en": "Kyosuke: You... You're not Lamia.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "pool": "B",
+   "en": "Russel: Huh?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "pool": "B",
+   "en": "Celcia: Th-that voice... The one overlapping Lamia's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "pool": "B",
+   "en": "Rätsel: ...Dr. Wilhelm V. Jurgen, I presume.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "pool": "B",
+   "en": "Tetsuya: What did you say?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "pool": "B",
+   "en": "Lamia: You cannot kill your own comrade...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "pool": "B",
+   "en": "Lamia: You cannot bear the grief of losing a comrade...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "pool": "B",
+   "en": "Lamia: That is human weakness. That is why I remade the ODE System, and...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "pool": "B",
+   "en": "Kyosuke: What are you rambling about, wearing Lamia's face?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "pool": "B",
+   "en": "Kyosuke: Destroy the Bartoll... That's all I needed to hear.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "pool": "B",
+   "en": "Kyosuke: The rest makes me sick. ...Shut up for a while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "pool": "B",
+   "en": "Lamia: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "pool": "B",
+   "en": "Kyosuke: Everyone, you heard it. We're going to... destroy the Bartoll.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "pool": "B",
+   "en": "Bullet: A-are you serious, Lieutenant!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "pool": "B",
+   "en": "Kyosuke: There's no other way. ...If it's Lamia inside, then we have a chance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "pool": "B",
+   "en": "Radha: If it's Lamia...? You don't mean her \"durability,\" do you!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "pool": "B",
+   "en": "Excellen: She's an artificial human... Sure, I'd guess she's tougher than a normal person, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "pool": "B",
+   "en": "Lüne: B-but...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "pool": "B",
+   "en": "Kyosuke: This isn't like it was with Kusuha or Arado's group... This time, they're coming for real.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "pool": "B",
+   "en": "Kyosuke: Even so, we can't just let them take us down. ...Lamia wouldn't want that either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "pool": "B",
+   "en": "Tasuku: B-but if we end up killing Lieutenant Lamia instead...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "pool": "B",
+   "en": "Kyosuke: I'll stop Lamia. Turning her into part of some worthless machine doll... I won't stand for it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "pool": "B",
+   "en": "Kyosuke: If it ever came to it, I'd be the one to stop her... That's what I promised.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "pool": "B",
+   "en": "Tasuku: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "pool": "B",
+   "en": "Excellen: You're right... A place like that... isn't where she belongs.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "pool": "B",
+   "en": "Kyosuke: Right. ...This is where it's decided. I'm going.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "pool": "B",
+   "en": "Rishu: That drive of yours... It may yet make the impossible possible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "pool": "B",
+   "en": "Sänger: Very well... Kyosuke, I leave Lamia to you. You said it, so see it through.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "pool": "B",
+   "en": "Kyosuke: Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "pool": "B",
+   "en": "Kai: The rest of you, take out the other Bartolls. That'll make it easier to reach the Master Core.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "pool": "B",
+   "en": "Seolla: Roger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "pool": "B",
+   "en": "Kyosuke: (Tch, this bad feeling won't go away. Shake it off...! Don't hesitate...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "pool": "B",
+   "en": "1. Kyosuke shoots down Lamia.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "pool": "B",
+   "en": "Lamia: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "pool": "B",
+   "en": "Kyosuke: Guh, not yet...! But if I hit her any harder...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "pool": "B",
+   "en": "Lamia: Ugh, uhh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "pool": "B",
+   "en": "???: Core number... 521...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "pool": "B",
+   "en": "Lamia: Ngh, uhhh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "pool": "B",
+   "en": "???: ...You cannot escape from us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "pool": "B",
+   "en": "Lamia: ...I-I am... W17...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "pool": "B",
+   "en": "Lamia: No, I am Lamia Loveless...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "pool": "B",
+   "en": "Lamia: I will not... let you do as you please with me...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "pool": "B",
+   "en": "???: No further resistance will be tolerated. Eliminate your comrades... with your own hands.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "pool": "B",
+   "en": "Excellen: Kyosuke!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "pool": "B",
+   "en": "Kyosuke: This ends it...! Lamia, can you hear me!? The place where you belong... I'll protect it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "pool": "B",
+   "en": "Seolla: W-what about Lamia!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "pool": "B",
+   "en": "Kyosuke: I caught her. Now, if she's just alive...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "pool": "B",
+   "en": "Lamia: Uhh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "pool": "B",
+   "en": "Excellen: Lamia!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "pool": "B",
+   "en": "Kyosuke: ...Sorry, Lamia. That was the best I could do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "pool": "B",
+   "en": "Lamia: No... It was the best possible method.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "pool": "B",
+   "en": "Lamia: ...Lieutenant Kyosuke, I heard your words... That you'd go and protect my place-ish...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "pool": "B",
+   "en": "Kyosuke: I told you before. You're here because there's a place where you belong.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "pool": "B",
+   "en": "Kyosuke: We're heading straight back to the Hagane. You need first aid.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "pool": "B",
+   "en": "Kyosuke: Heh... Though they might not be able to fix the way you talk.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "pool": "B",
+   "en": "Lamia: I've already gone and gotten myself used to it, so to be speaking...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "pool": "B",
+   "en": "Excellen: Hello-o! Hey, aren't you two giving off a little too much of a nice mood there!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "pool": "B",
+   "en": "Kyosuke: Sorry. Returning to base. Hagane, have the medical team ready...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "pool": "B",
+   "en": "Kyosuke: Ugh!? Wh... what!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "pool": "B",
+   "en": "Rätsel: An attack!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "pool": "B",
+   "en": "Excellen: Kyosuke! Lamia!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "pool": "B",
+   "en": "Ryoto: Lieutenant Kyosuke!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "pool": "B",
+   "en": "Lüne: W-where did that shot come from!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "pool": "B",
+   "en": "Bullet: Th-the Valsion Custom!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "pool": "B",
+   "en": "Rai: The machine Lorenzo was piloting...! Why is it here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "pool": "B",
+   "en": "Leona: The Neue DC remnants may have brought it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "pool": "B",
+   "en": "Rai: What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "pool": "B",
+   "en": "Leona: Before we came here, we made contact with an Albatross-class being pursued by Bartolls...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "pool": "B",
+   "en": "Leona: It may have escaped from this Hell Gate.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "pool": "B",
+   "en": "Rai: ...I see. In any case, check on Lieutenant Lamia's condition!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "pool": "B",
+   "en": "Leona: Right...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "pool": "B",
+   "en": "Jurgen: ...The \"nonstandard existence\"... will be eliminated...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "pool": "B",
+   "en": "Celcia: D-Dr. Jurgen...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "pool": "B",
+   "en": "Tsugumi: N-no way... Is that the ODE System's Master Core...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "pool": "B",
+   "en": "Filio: Did the doctor do it to himself too, like Gigi Loo and Kyle Bean...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "pool": "B",
+   "en": "Kyosuke: Ngh...! What... just happened...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "pool": "B",
+   "en": "Excellen: Enemy reinforcements! Hurry, get Lamia aboard the Hagane, and you too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "pool": "B",
+   "en": "Kyosuke: Wh... what... did you say...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "pool": "B",
+   "en": "Excellen: I said, enemies... Huh!? Um... Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "pool": "B",
+   "en": "Kyosuke: ...Ngh...! Grrh... Lami... a...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "pool": "B",
+   "en": "Excellen: Hey...? This is... a joke... right...? Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "pool": "B",
+   "en": "Sänger: It can't be...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "pool": "B",
+   "en": "Seolla: L-Latt!! What about Lieutenant Lamia's PBS reading!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "pool": "B",
+   "en": "Latune: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "pool": "B",
+   "en": "Seolla: Latt!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "pool": "B",
+   "en": "Latune: It's... not detecting anything...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "pool": "B",
+   "en": "Arado: Wh-what did you say!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "pool": "B",
+   "en": "Seolla: N-no! That can't be true!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "pool": "B",
+   "en": "Latune: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "pool": "B",
+   "en": "Seolla: Tell me it's not truuue!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "pool": "B",
+   "en": "Arado: Ugh, uhh...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "pool": "B",
+   "en": "Kusuha: L-Lamia...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "pool": "B",
+   "en": "Bullet: J-Jurgen...! You... You...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "pool": "B",
+   "en": "Jurgen: You cannot bear it... the grief of losing a comrade.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "pool": "B",
+   "en": "Bullet: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "pool": "B",
+   "en": "Kai: Wilhelm V. Jurgen...! What... What is your goal?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "pool": "B",
+   "en": "Jurgen: To unite the will of all humanity through the ODE System.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "pool": "B",
+   "en": "Kai: Wh... what?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "pool": "B",
+   "en": "Ibis: Wasn't it to protect the Earth with the Bartolls?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "pool": "B",
+   "en": "Tsugumi: Then the bio-cores were meant for that goal...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "pool": "B",
+   "en": "Tsugumi: You mean they were more than just parts for a weapon called the Bartoll?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "pool": "B",
+   "en": "Jurgen: Humanity must pool its wisdom through the ODE System and become one, or it cannot overcome the threats.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "pool": "B",
+   "en": "Irm: But we drove off the Aerogators and the Inspectors just fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "pool": "B",
+   "en": "Jurgen: Yet because the military was slow to respond, there are people who lost what they held dear...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "pool": "B",
+   "en": "Jurgen: Like the creator of the ODE System... Wilhelm V. Jurgen.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "pool": "B",
+   "en": "Radha: What?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "pool": "B",
+   "en": "Ryoto: Y-You mean you're not Dr. Jurgen?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "pool": "B",
+   "en": "Jurgen: That is correct.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "pool": "B",
+   "en": "Lüne: Wh-What's that supposed to mean?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "pool": "B",
+   "en": "Jurgen: We are the individual called Jurgen, and we are the whole.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "pool": "B",
+   "en": "Viletta: In other words, the ODE System itself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "pool": "B",
+   "en": "Celcia: Th-Then the doctor's own self is already...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "pool": "B",
+   "en": "Gilliam: We'd best assume it's gone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "pool": "B",
+   "en": "Jurgen: Jurgen lost the one he loved in an Aerogator attack...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "pool": "B",
+   "en": "Jurgen: And he could not endure that grief.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "pool": "B",
+   "en": "Jurgen: But if human will and wisdom become one...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "pool": "B",
+   "en": "Jurgen: Then no one will yield to invaders, nor taste the grief of losing another.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "pool": "B",
+   "en": "Jurgen: Yes... no one will have to feel what you all feel now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "pool": "B",
+   "en": "Kota: What's with that old geezer?! What's he going on about?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "pool": "B",
+   "en": "Roa: (...What he's saying sounds a lot like him...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "pool": "B",
+   "en": "Jurgen: United by the ODE System, mankind will be freed from pain and sorrow and evolve further.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "pool": "B",
+   "en": "Jurgen: Thus, I have eliminated the \"anomalies\" that stand in its way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "pool": "B",
+   "en": "Sänger: Anomalies...? You mean Lamia?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "pool": "B",
+   "en": "Jurgen: Yes... absorbing her at the initial stage was a \"mistake\"...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "pool": "B",
+   "en": "Jurgen: Her data was heavy... Transferring and sharing it took unforeseen time and load, affecting the whole.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "pool": "B",
+   "en": "Masaki: So that's what Shu meant when he said they botched their first move.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "pool": "B",
+   "en": "Jurgen: ...Core Number 521 kept resisting even after homogenization...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "pool": "B",
+   "en": "Jurgen: Thus, I deemed 521's siblings a danger...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "pool": "B",
+   "en": "Jurgen: And held off on integrating 522, 523, 524, and 525 into the system.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "pool": "B",
+   "en": "Seolla: Wait, that means...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "pool": "B",
+   "en": "Arado: Us...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "pool": "B",
+   "en": "Irm: I see... Now I know why the Bartolls never tried to capture us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "pool": "B",
+   "en": "Viletta: Because to them, we're \"anomalies\" too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "pool": "B",
+   "en": "Irm: So absorbing a lineup this intense would be a real headache, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "pool": "B",
+   "en": "Jurgen: I will eliminate you... and unite the will of humanity.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "pool": "B",
+   "en": "Jurgen: And then... the ODE System will become the guardian of the Earth Sphere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "pool": "B",
+   "en": "Ibis: But... but then everyone would lose their own joys and dreams too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "pool": "B",
+   "en": "Masaki: Pain and sadness are human feelings too! I won't let you erase them with your selfish logic!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "pool": "B",
+   "en": "Jurgen: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "pool": "B",
+   "en": "Tasuku: Y'know, what you're saying totally contradicts itself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "pool": "B",
+   "en": "Aya: That's right...! A defense system that makes humans no longer human defeats its own purpose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "pool": "B",
+   "en": "Rishu: I don't really get how it works, but it sure seems to malfunction a lot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "pool": "B",
+   "en": "Jurgen: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "pool": "B",
+   "en": "Jurgen: Why... Why can you exist there as you are?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "pool": "B",
+   "en": "Jurgen: Why have you come this far without fearing sorrow and pain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "pool": "B",
+   "en": "Kyosuke: ...There's no reason.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "pool": "B",
+   "en": "Jurgen: What...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "pool": "B",
+   "en": "Kyosuke: Someone like you, who can't live without a reason, would never understand.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "pool": "B",
+   "en": "Excellen: ...And hurting others for the sake of that reason is something we can't forgive.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "pool": "B",
+   "en": "Excellen: This is for Lamia Loveless... for stealing the life she had ahead of her. ...You'll pay dearly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "pool": "B",
+   "en": "Jurgen: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "pool": "B",
+   "en": "Ryusei: We're not gonna be your pawns...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "pool": "B",
+   "en": "Mai: My memories with Aya, Ryu, and everyone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "pool": "B",
+   "en": "Latune: My memories of Sister Ouka...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "pool": "B",
+   "en": "Seolla: Our bond...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "pool": "B",
+   "en": "Ibis: We won't hand over our dreams or our future!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "pool": "B",
+   "en": "Jurgen: ...For the fulfillment of our cherished goal, I will eliminate you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "pool": "B",
+   "en": "Kyosuke: Was Lamia's path cut off by the likes of him? ...She can't rest in peace... like this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "pool": "B",
+   "en": "Kusuha: We'll turn our grief over losing Lamia into strength, and we will defeat you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "pool": "B",
+   "en": "Jurgen: But I am individual and whole... Destroying this Valsion means nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "pool": "B",
+   "en": "Kyosuke: That means nothing to me now. If you want to run from human sorrow and pain, go ahead and run.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "pool": "B",
+   "en": "Kyosuke: ...But you're not escaping from here. I will crush you... without fail.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "pool": "B",
+   "en": "Excellen: Just this once, it's purely personal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "pool": "B",
+   "en": "Excellen: That's what living by your own will means. And we'll live for Lamia's share too...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "pool": "B",
+   "en": "Jurgen: I will not repeat my \"mistake\"... I will eliminate you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "pool": "B",
+   "en": "Kyosuke: (I'm sorry, Lamia. At the very end, my carelessness... cost you your path... I'm sorry...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "pool": "B",
+   "en": "Kai: All units, commence attack! Show him once more why we're called \"anomalies\"!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "pool": "B",
+   "en": "Kyosuke: She was trapped in a labyrinth, and I couldn't save her...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "pool": "B",
+   "en": "Kyosuke: So never again... I'll never let anyone else be sacrificed like her...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "pool": "B",
+   "en": "Kyosuke: Now... let's do this! Wilhelm V. Jurgen...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "pool": "B",
+   "en": "1. Shoot down Valsion Custom Type CF.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "pool": "B",
+   "en": "1. Allied mothership is shot down.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "pool": "B",
+   "en": "- Meet victory conditions within 8 turns.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "pool": "B",
+   "en": "Skill Points obtained.\nAll allied pilots get PP +5.",
+   "kind": "sysmsg",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "pool": "B",
+   "en": "Jurgen: Why... Why was I... defeated...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "pool": "B",
+   "en": "Viletta: Just as you said... because we're \"anomalies.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "pool": "B",
+   "en": "Ryoto: And... because you couldn't fully handle human experience and knowledge as data.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "pool": "B",
+   "en": "Jurgen: But for us to survive... integration through the ODE System... evolution...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "pool": "B",
+   "en": "Rishu: I wonder... Can a creature like man truly evolve so easily?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "pool": "B",
+   "en": "Jurgen: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "pool": "B",
+   "en": "Filio: People grow through meeting and parting, over and over...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "pool": "B",
+   "en": "Filio: Stealing their hearts and feelings, their dreams and hopes, is the same as stopping humanity in its tracks...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "pool": "B",
+   "en": "Filio: That's why I think evolution through the ODE System is impossible.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "pool": "B",
+   "en": "Jurgen: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "pool": "B",
+   "en": "Gilliam: To begin with, I doubt beings as complex as humans are even suited to the ODE System.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "pool": "B",
+   "en": "Filio: Right. So much of what people carry inside can't simply be integrated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "pool": "B",
+   "en": "Jurgen: Are you saying... that I... I was wrong!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "pool": "B",
+   "en": "???: ...To you, it was a mistake. But to me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "pool": "B",
+   "en": "Jurgen: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "pool": "B",
+   "en": "Kusuha: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "pool": "B",
+   "en": "Ryusei: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "pool": "B",
+   "en": "Mai: Th-This presence!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "pool": "B",
+   "en": "Bullet: I-It's the one from back then!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "pool": "B",
+   "en": "Tetsuya: What!? What's happening!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "pool": "B",
+   "en": "Eita: A massive energy reading from the Valsion!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "pool": "B",
+   "en": "Roa: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "pool": "B",
+   "en": "Kota: What was that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "pool": "B",
+   "en": "Eun: Captain! A high heat source below this area!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "pool": "B",
+   "en": "Lefina: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "pool": "B",
+   "en": "Raul: Wh-What is that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "pool": "B",
+   "en": "Jurgen: Dumi...nas!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "pool": "B",
+   "en": "Duminas: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "pool": "B",
+   "en": "Jurgen: Wh-Why!? Weren't you working with me!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "pool": "B",
+   "en": "Duminas: What you gathered, I have received.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "pool": "B",
+   "en": "Jurgen: ! D-Don't tell me... that was your aim all along...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "pool": "B",
+   "en": "Duminas: Thank you for all your hard work... and farewell.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "pool": "B",
+   "en": "Jurgen: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "pool": "B",
+   "en": "Filio: Wha...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "pool": "B",
+   "en": "Celcia: D-Dr. Jurgen!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "pool": "B",
+   "en": "Duminas: ...Accepting me... That was Jurgen's mistake...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "pool": "B",
+   "en": "Duminas: But... thanks to him, I can finally move.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "pool": "B",
+   "en": "Masaki: Wh-What the hell is that thing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 376,
+   "pool": "B",
+   "en": "Duminas: My name is Duminas...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 377,
+   "pool": "B",
+   "en": "Masaki: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 378,
+   "pool": "B",
+   "en": "Tetsuya: Is that part of the ODE System too!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 379,
+   "pool": "B",
+   "en": "Celcia: No, nothing like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 380,
+   "pool": "B",
+   "en": "Raul: No way... that thing is...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 381,
+   "pool": "B",
+   "en": "Gilliam: You know it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 382,
+   "pool": "B",
+   "en": "Raul: I-I've seen it before! And because we came into contact with it...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 383,
+   "pool": "B",
+   "en": "Gilliam: (So it transferred over to this side?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 384,
+   "pool": "B",
+   "en": "Roa: Kota, it seems the OG Sensor was reacting to that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 385,
+   "pool": "B",
+   "en": "Kota: What?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 386,
+   "pool": "B",
+   "en": "Roa: (But that form... It's not him.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 387,
+   "pool": "B",
+   "en": "Gilliam: So that thing was manipulating Dr. Jurgen...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 388,
+   "pool": "B",
+   "en": "Lüne: Then that's the mastermind!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 389,
+   "pool": "B",
+   "en": "Masaki: If that's who's behind it, then what's it want with the ODE System...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 390,
+   "pool": "B",
+   "en": "Duminas: Humans can become a 'key' that transcends space-time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 391,
+   "pool": "B",
+   "en": "Duminas: Human strength and will can become the 'key' that opens the 'gate'...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 392,
+   "pool": "B",
+   "en": "Duminas: And yet, though I understood that, I made mistakes time and again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 393,
+   "pool": "B",
+   "en": "Gilliam: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 394,
+   "pool": "B",
+   "en": "Raul: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 395,
+   "pool": "B",
+   "en": "Duminas: However... the 'key' you hold led me to this world...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 396,
+   "pool": "B",
+   "en": "Raul: Wh-What did you say...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 397,
+   "pool": "B",
+   "en": "Duminas: Here, I can open the 'gate'...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 398,
+   "pool": "B",
+   "en": "Duminas: And I can open a path to where that one is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 399,
+   "pool": "B",
+   "en": "Roa: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 400,
+   "pool": "B",
+   "en": "Kota: Wait, did that thing... come from another world!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 401,
+   "pool": "B",
+   "en": "Roa: ...Yes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 402,
+   "pool": "B",
+   "en": "Kota: Then is that your archenemy!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 403,
+   "pool": "B",
+   "en": "Roa: No... it isn't.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 404,
+   "pool": "B",
+   "en": "Duminas: Gather the power of human will, obtain the 'key', open the 'gate', and go to my creator...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 405,
+   "pool": "B",
+   "en": "Duminas: And then, I will...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 406,
+   "pool": "B",
+   "en": "Lalia: Lord Duminas...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 407,
+   "pool": "B",
+   "en": "Duminas: You three... You seem to have had a great deal of trouble.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 408,
+   "pool": "B",
+   "en": "Lalia: Ah... uh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 409,
+   "pool": "B",
+   "en": "Tis: W-We were busy gathering pawns too, so... that's why...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 410,
+   "pool": "B",
+   "en": "Despinis: I'm sorry... I'm so sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 411,
+   "pool": "B",
+   "en": "Tis: We'll try harder! We'll get the 'key' no matter what, so please wait just a little longer!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 412,
+   "pool": "B",
+   "en": "Duminas: ...Very well. We needed time anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 413,
+   "pool": "B",
+   "en": "Duminas: That is why I made use of Jurgen and this Hell Gate. I will not blame you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 414,
+   "pool": "B",
+   "en": "Lalia: Thank you, Lord Duminas...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 415,
+   "pool": "B",
+   "en": "Carla: Those kids work for that meatball-looking thing!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 416,
+   "pool": "B",
+   "en": "Yuuki: Looks like it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 417,
+   "pool": "B",
+   "en": "Tis: Now get ready, you lot!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 418,
+   "pool": "B",
+   "en": "Despinis: We'll defeat you... and get the 'key' for Lord Duminas.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 419,
+   "pool": "B",
+   "en": "Raul: That 'key' of yours... it's the Excellence's Time Flow Engine, isn't it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 420,
+   "pool": "B",
+   "en": "Raul: And the 'gate' is an entrance to another world, right!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 421,
+   "pool": "B",
+   "en": "Raji: Raul!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 422,
+   "pool": "B",
+   "en": "Raul: Raji! They're after the Time Flow Engine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 423,
+   "pool": "B",
+   "en": "Raul: That's why, back then...! They went for my and Fiona's Excellence!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 424,
+   "pool": "B",
+   "en": "Raji: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 425,
+   "pool": "B",
+   "en": "Raul: Because that Duminas thing interfered, Fiona and the rest of us...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 426,
+   "pool": "B",
+   "en": "Raul: This isn't just our problem anymore!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 427,
+   "pool": "B",
+   "en": "Tis: Quit your yapping! We already decided your 'Gear of Time' is ours!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 428,
+   "pool": "B",
+   "en": "Lalia: If you hand it over quietly... we might be able to spare your lives.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 429,
+   "pool": "B",
+   "en": "Masaki: What's with those brats... saying whatever the hell they want!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 430,
+   "pool": "B",
+   "en": "Ibis: Wh-Why do you want the Time Flow Engine so badly?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 431,
+   "pool": "B",
+   "en": "Raul: ...Once the Time Flow Engine is complete... it can cross the boundaries between worlds.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 432,
+   "pool": "B",
+   "en": "Ibis: Huh...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 433,
+   "pool": "B",
+   "en": "Gilliam: Raul...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 434,
+   "pool": "B",
+   "en": "Excellen: The boundaries... between worlds...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 435,
+   "pool": "B",
+   "en": "Ryoto: D-Don't tell me the Time Flow Engine is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 436,
+   "pool": "B",
+   "en": "Raul: Yeah... It's also a dimensional transfer device.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 437,
+   "pool": "B",
+   "en": "Carla: What?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 438,
+   "pool": "B",
+   "en": "Yuuki: So that's... the secret.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 439,
+   "pool": "B",
+   "en": "Raul: That's right. We were afraid it would be misused... so we didn't tell anyone the truth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 440,
+   "pool": "B",
+   "en": "Tis: Well, to you guys it might be misuse, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 441,
+   "pool": "B",
+   "en": "Lalia: To us, it isn't.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 442,
+   "pool": "B",
+   "en": "Despinis: So... please hand over the Gear of Time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 443,
+   "pool": "B",
+   "en": "Irm: Sweet voice, nasty words, huh? I'd love to get a look at her face, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 444,
+   "pool": "B",
+   "en": "Masaki: Now that we know you're the ones behind all this, you think we'll just hand it over?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 445,
+   "pool": "B",
+   "en": "Raul: Masaki...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 446,
+   "pool": "B",
+   "en": "Yuuki: Raul, you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 447,
+   "pool": "B",
+   "en": "Raul: I'm sorry, Yuuki... It's not that we didn't trust you guys...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 448,
+   "pool": "B",
+   "en": "Yuuki: Idiot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 449,
+   "pool": "B",
+   "en": "Raul: Ugh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 450,
+   "pool": "B",
+   "en": "Yuuki: Carrying a cross that heavy with just the three of you... You're complete idiots.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 451,
+   "pool": "B",
+   "en": "Mizuho: Yuuki...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 452,
+   "pool": "B",
+   "en": "Raji: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 453,
+   "pool": "B",
+   "en": "Raul: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 454,
+   "pool": "B",
+   "en": "Yuuki: I know how dangerous a dimensional transfer device can be... Our fight with <Shadow Mirror> taught me that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 455,
+   "pool": "B",
+   "en": "Yuuki: But now that you've told us everything, I'll help you carry that burden.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 456,
+   "pool": "B",
+   "en": "Raul: Yuuki...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 457,
+   "pool": "B",
+   "en": "Bullet: I'm with Yuu on this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 458,
+   "pool": "B",
+   "en": "Lüne: Me too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 459,
+   "pool": "B",
+   "en": "Ryusei: Besides, if we don't deal with those guys, we can't save the people they captured.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 460,
+   "pool": "B",
+   "en": "Duminas: ...It is already too late.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 461,
+   "pool": "B",
+   "en": "Ryusei: What?! What's that supposed to mean?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 462,
+   "pool": "B",
+   "en": "Duminas: I have absorbed their \"data\"...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 463,
+   "pool": "B",
+   "en": "Duminas: They are nothing but empty shells now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 464,
+   "pool": "B",
+   "en": "Ryusei: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 465,
+   "pool": "B",
+   "en": "Kota: Empty shells... No way! You bastards, did you do that to Shoko too?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 466,
+   "pool": "B",
+   "en": "Tis: Oh, her? She's not here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 467,
+   "pool": "B",
+   "en": "Kota: Then where is she?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 468,
+   "pool": "B",
+   "en": "Tis: Like I'd tell you. Dummy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 469,
+   "pool": "B",
+   "en": "Kota: Wh-Why you...!! What are you planning to do with my sister?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 470,
+   "pool": "B",
+   "en": "Tis: Maybe you'll find out eventually. Guess I'll settle things with you after that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 471,
+   "pool": "B",
+   "en": "Kota: What?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 472,
+   "pool": "B",
+   "en": "Tis: Oh, right. While I'm at it, we're not the only enemies you've got.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 473,
+   "pool": "B",
+   "en": "Kota: !?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 474,
+   "pool": "B",
+   "en": "Eun: Multiple heat signatures at UE23, Range 8! They're closing in on Hellgate!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 475,
+   "pool": "B",
+   "en": "Lefina: Bartolls?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 476,
+   "pool": "B",
+   "en": "Eun: No, there's no matching data!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 477,
+   "pool": "B",
+   "en": "Sean: Even so, they're certainly hostile.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 478,
+   "pool": "B",
+   "en": "Eun: The heat signatures keep increasing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 479,
+   "pool": "B",
+   "en": "Lefina: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 480,
+   "pool": "B",
+   "en": "Eita: Captain! The Blue Sphere fleet in the rear has ordered a retreat!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 481,
+   "pool": "B",
+   "en": "Tetsuya: What?! Don't tell me they're going to launch a nuclear strike?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 482,
+   "pool": "B",
+   "en": "Eita: Y-Yes, sir! Command has judged that our operation failed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 483,
+   "pool": "B",
+   "en": "Tetsuya: Damn...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 484,
+   "pool": "B",
+   "en": "Sean: Captain, we should withdraw from here at once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 485,
+   "pool": "B",
+   "en": "Lefina: What?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 486,
+   "pool": "B",
+   "en": "Sean: We're at an overwhelming disadvantage... and the nuclear strike will begin shortly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 487,
+   "pool": "B",
+   "en": "Lefina: But we still have time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 488,
+   "pool": "B",
+   "en": "Sean: Handling every problem at once while fighting them to a victory would be extremely difficult.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 489,
+   "pool": "B",
+   "en": "Lefina: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 490,
+   "pool": "B",
+   "en": "Rätsel: Captain Lefina, Commander Sean's judgment is correct.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 491,
+   "pool": "B",
+   "en": "Rätsel: Attention, all units! Use your remaining strength to break through the enemy and escape Hellgate!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 492,
+   "pool": "B",
+   "en": "Sänger: Rätsel...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 493,
+   "pool": "B",
+   "en": "Rätsel: My friend, our operation has failed. And now is not the time to avenge that defeat.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 494,
+   "pool": "B",
+   "en": "Rätsel: We fall back, so that we may gain the chance to strike back...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 495,
+   "pool": "B",
+   "en": "Sänger: Under... stood...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 496,
+   "pool": "B",
+   "en": "Rätsel: The Kurogane will open a path! Hagane, Hiryu Custom, follow us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 497,
+   "pool": "B",
+   "en": "Tetsuya: Roger! Once all units are aboard, Tesla Drive to full power! Deploy the Break Field!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 498,
+   "pool": "B",
+   "en": "Eita: Roger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 499,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 500,
+   "pool": "B",
+   "en": "Excellen: Kyosuke, I know... exactly how you feel. But we can't...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 501,
+   "pool": "B",
+   "en": "Kyosuke: ...We're withdrawing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 502,
+   "pool": "B",
+   "en": "Tis: I won't let them get away!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 503,
+   "pool": "B",
+   "en": "Duminas: Wait, Tis. There is no need to pursue them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 504,
+   "pool": "B",
+   "en": "Tis: Lady Duminas... Why not?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 505,
+   "pool": "B",
+   "en": "Duminas: Like the Gear of Time, I am not yet complete... As I said before, I need time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 506,
+   "pool": "B",
+   "en": "Duminas: Strengthen Hellgate's defenses, and prepare for the next stage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 507,
+   "pool": "B",
+   "en": "Tis: But the way they are now, the three of us could...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 508,
+   "pool": "B",
+   "en": "Duminas: Proceed with caution... and build order, so that we commit no errors.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 509,
+   "pool": "B",
+   "en": "Tis: Y-Yes, I understand.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 510,
+   "pool": "B",
+   "en": "Duminas: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 511,
+   "pool": "B",
+   "en": "Duminas: This time, I will open the \"Gate\" that leads to my creator...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 512,
+   "pool": "B",
+   "en": "Duminas: Then I shall know... the reason I was brought into existence...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 513,
+   "pool": "B",
+   "en": "Tetsuya: Eita, what about the unknowns?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 514,
+   "pool": "B",
+   "en": "Eita: They've stopped pursuing us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 515,
+   "pool": "B",
+   "en": "Tetsuya: Lucky we fled toward where the nuclear missiles are coming from...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 516,
+   "pool": "B",
+   "en": "Eun: Captain, missiles incoming from ahead!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 517,
+   "pool": "B",
+   "en": "Lefina: And all we can do is sit and watch...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 518,
+   "pool": "B",
+   "en": "Sean: ...Regrettable, indeed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 519,
+   "pool": "B",
+   "en": "Eita: Captain! The Tesla Drive's output is dropping!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 520,
+   "pool": "B",
+   "en": "Tetsuya: What?! What's causing it?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 521,
+   "pool": "B",
+   "en": "Eita: It's not from damage or a malfunction!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 522,
+   "pool": "B",
+   "en": "Eun: Output down to 40%! We can't maintain the Break Field!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 523,
+   "pool": "B",
+   "en": "Eun: And now the main generator's output is dropping too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 524,
+   "pool": "B",
+   "en": "Lefina: What on earth is happening...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 525,
+   "pool": "B",
+   "en": "Sean: It's as if something is draining our energy away.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 526,
+   "pool": "B",
+   "en": "Lefina: The nuclear missiles...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 527,
+   "pool": "B",
+   "en": "Sean: They're moving strangely.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 528,
+   "pool": "B",
+   "en": "Eun: Missiles changing course! They're veering away from the Hell Gate!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 529,
+   "pool": "B",
+   "en": "Lefina: Was the order given to call off the nuclear strike?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 530,
+   "pool": "B",
+   "en": "Sean: No... it looked more like they'd malfunctioned...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 531,
+   "pool": "B",
+   "en": "Lefina: Malfunctioned...?! You mean, just like our ship?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 532,
+   "pool": "B",
+   "en": "Tetsuya: What is it now?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 533,
+   "pool": "B",
+   "en": "Eita: A massive structure has appeared at bearing ND221, range 10!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 534,
+   "pool": "B",
+   "en": "Tetsuya: Appeared?! Are you saying it warped in?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 535,
+   "pool": "B",
+   "en": "Eita: N-No! It just suddenly showed up on radar...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 536,
+   "pool": "B",
+   "en": "Tetsuya: What?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 537,
+   "pool": "B",
+   "en": "Eita: M-Maybe it was using some kind of stealth shade...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 538,
+   "pool": "B",
+   "en": "Eun: Powerful energy readings from the massive structure!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 539,
+   "pool": "B",
+   "en": "Tetsuya: What... is that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 540,
+   "pool": "B",
+   "en": "Rätsel: A giant... sword...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 541,
+   "pool": "B",
+   "en": "Gilliam: I've never seen anything like it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 542,
+   "pool": "B",
+   "en": "Rätsel: An alien fortress... A second White Star?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 543,
+   "pool": "B",
+   "en": "Gilliam: No, perhaps... The warp reading detected beyond lunar orbit some time ago...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 544,
+   "pool": "B",
+   "en": "Gilliam: That may have been it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 545,
+   "pool": "B",
+   "en": "Rätsel: ...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 546,
+   "pool": "B",
+   "en": "Filio: ! This is...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 547,
+   "pool": "B",
+   "en": "Celcia: Major Filio?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 548,
+   "pool": "B",
+   "en": "Filio: The closer we get to that structure, the more our energy drops...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 549,
+   "pool": "B",
+   "en": "Filio: Captain! Get us away from it, now! If this keeps up, who knows what will happen...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 550,
+   "pool": "B",
+   "en": "Tetsuya: R-Roger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 551,
+   "pool": "B",
+   "en": "Rätsel: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 552,
+   "pool": "B",
+   "en": "Rätsel: Duminas... and now that giant sword...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 553,
+   "pool": "B",
+   "en": "Rätsel: What... What is about to happen in the Earth Sphere...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 554,
+   "pool": "B",
+   "en": "Tenku Majo - Shura King's Chamber",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 555,
+   "pool": "B",
+   "en": "Mizar: My lord, the Zekkaiho appears to be functioning smoothly so far.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 556,
+   "pool": "B",
+   "en": "Alkaid: Mizar, halt the castle. This position will do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 557,
+   "pool": "B",
+   "en": "Mizar: My lord? But...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 558,
+   "pool": "B",
+   "en": "Alkaid: We have yet to grasp everything about this new Shura castle... the Tenku Majo.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 559,
+   "pool": "B",
+   "en": "Alkaid: There is no telling when it might fail again. We must not push it. Halt the castle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 560,
+   "pool": "B",
+   "en": "Mizar: As you command.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 561,
+   "pool": "B",
+   "en": "Alkaid: And that one... What of Duminas?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 562,
+   "pool": "B",
+   "en": "Mizar: They seem to still have business at the Hell Gate. What shall we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 563,
+   "pool": "B",
+   "en": "Alkaid: Leave them be. ...Now, how many warps remain to us? Has the count increased?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 564,
+   "pool": "B",
+   "en": "Mizar: No. The adjustments continue, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 565,
+   "pool": "B",
+   "en": "Alkaid: Then we still need the aid of Duminas and its ilk...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 566,
+   "pool": "B",
+   "en": "Mizar: ...So it would seem.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 567,
+   "pool": "B",
+   "en": "Alkaid: But in the battles to come... I will not let them interfere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 568,
+   "pool": "B",
+   "en": "Mizar: Then at last...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 569,
+   "pool": "B",
+   "en": "Alkaid: Indeed. I shall walk my own path of conquest... with this fist of karma.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 570,
+   "pool": "B",
+   "en": "Mizar: Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 571,
+   "pool": "B",
+   "en": "Alkaid: I have kept you waiting, generals of the Shura!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 572,
+   "pool": "B",
+   "en": "Alkaid: Raise your head, Masis of the Ice Lance!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 573,
+   "pool": "B",
+   "en": "Masis: My lord.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 574,
+   "pool": "B",
+   "en": "Alkaid: Magnus of the Heavy Quake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 575,
+   "pool": "B",
+   "en": "Magnus: Guhuhuhu...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 576,
+   "pool": "B",
+   "en": "Alkaid: And Altis of the Flash!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 577,
+   "pool": "B",
+   "en": "Altis: My lord. ...Your orders, King of the Shura.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 578,
+   "pool": "B",
+   "en": "Alkaid: Sound the war bells! From this day, this world shall become a new Shura realm!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 579,
+   "pool": "B",
+   "en": "Alkaid: Fight, all of you! Only the grinding of blood, bone and flesh can slake our thirst!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 580,
+   "pool": "B",
+   "en": "Near-Earth Space",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 581,
+   "pool": "B",
+   "en": "Hiryu Custom - Bridge",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 582,
+   "pool": "B",
+   "en": "Lefina: \"Swordian\"...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 583,
+   "pool": "B",
+   "en": "Eun: Yes. Apparently it's the code name for that massive structure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 584,
+   "pool": "B",
+   "en": "Sean: ...And the results of the third and fourth strikes?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 585,
+   "pool": "B",
+   "en": "Eun: The missiles never reached the target. Every one of them shut down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 586,
+   "pool": "B",
+   "en": "Eun: The recon UAVs and Personal Trooper teams that approached the Swordian met the same fate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 587,
+   "pool": "B",
+   "en": "Sean: It seems the Swordian is surrounded by a barrier with that very effect.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 588,
+   "pool": "B",
+   "en": "Filio: Yes... Though I wonder why the unknowns were able to move near it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 589,
+   "pool": "B",
+   "en": "Lefina: ...Any movement from the Swordian or the Hell Gate?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 590,
+   "pool": "B",
+   "en": "Eun: Both are silent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 591,
+   "pool": "B",
+   "en": "Lefina: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 592,
+   "pool": "B",
+   "en": "Sean: The calm before the storm, I'd say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 593,
+   "pool": "B",
+   "en": "Lefina: Most likely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 594,
+   "pool": "B",
+   "en": "Sean: In any case, all we can do for now is watch from a distance. We've no new orders, either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 595,
+   "pool": "B",
+   "en": "Lefina: ...All hands, stay on alert. And gather the key members in the briefing room, please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 596,
+   "pool": "B",
+   "en": "Sean: Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 597,
+   "pool": "B",
+   "en": "Rätsel: We've confirmed the situation here too. The enemy may be silent, but we can't let our guard down.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 598,
+   "pool": "B",
+   "en": "Tetsuya: I doubt they'll order another attack as things stand...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 599,
+   "pool": "B",
+   "en": "Lefina: I agree. But I want to take every measure we can while we have the chance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 600,
+   "pool": "B",
+   "en": "Filio: Right. We can't approach the Swordian yet, but we must gather intel on it somehow...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 601,
+   "pool": "B",
+   "en": "Sänger: And on this enemy called Duminas as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 602,
+   "pool": "B",
+   "en": "Gilliam: Yes. The Swordian and they are without a doubt arrivals from another world.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 603,
+   "pool": "B",
+   "en": "Gilliam: And judging by what Duminas said, it's trying to open a gate to another world...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 604,
+   "pool": "B",
+   "en": "Sean: Hmm... It did say it would gather the power of human will to open the gate.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 605,
+   "pool": "B",
+   "en": "Lefina: Is that even possible...? No, we've done something like it ourselves, haven't we?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 606,
+   "pool": "B",
+   "en": "Sänger: Yes... when we escaped from the Einst's world.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 607,
+   "pool": "B",
+   "en": "Gilliam: But that worked because everyone's will to return to Earth came together...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 608,
+   "pool": "B",
+   "en": "Gilliam: ...along with many other factors, starting with Aguieus and the T-LINK System.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 609,
+   "pool": "B",
+   "en": "Tetsuya: Could Duminas be planning to use the ODE System and the Time Flow Engine to open a gate to another world?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 610,
+   "pool": "B",
+   "en": "Gilliam: ...Probably. But I have a feeling that Dr. Jurgen... no, Duminas has gotten something wrong.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 611,
+   "pool": "B",
+   "en": "Gilliam: I think there are contradictions in what they say and how they think.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 612,
+   "pool": "B",
+   "en": "Rätsel: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 613,
+   "pool": "B",
+   "en": "Gilliam: ...In any case, let's gather information on the Sodiam and the Hell Gate.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 614,
+   "pool": "B",
+   "en": "Lefina: Yes. Could I ask you to do that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 615,
+   "pool": "B",
+   "en": "Gilliam: Of course.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 616,
+   "pool": "B",
+   "en": "Rätsel: We'll take action as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 617,
+   "pool": "B",
+   "en": "Filio: I'll help too. Until we understand that phenomenon around the Sodiam, we can't make our next move...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 618,
+   "pool": "B",
+   "en": "Lefina: I'm counting on you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 619,
+   "pool": "B",
+   "en": "Rätsel: Then let us get moving at once. For the battle to come.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 620,
+   "pool": "B",
+   "en": "Rätsel: And we shall meet again... to avenge this defeat and claim victory.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 621,
+   "pool": "B",
+   "en": "Tetsuya: Yes...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 622,
+   "pool": "B",
+   "en": "Seolla: Kota...! You were piloting that red Super Robot!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 623,
+   "pool": "B",
+   "en": "Kota: Yeah... Well, it's a long story.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 624,
+   "pool": "B",
+   "en": "Arado: Does Shoko know about this...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 625,
+   "pool": "B",
+   "en": "Kota: ...She doesn't. When the Bartolls attacked Harumi, she got carried off by the \"Hair\"...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 626,
+   "pool": "B",
+   "en": "Latune: Huh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 627,
+   "pool": "B",
+   "en": "Seolla: B-But why!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 628,
+   "pool": "B",
+   "en": "Kota: I don't... know why. It's just...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 629,
+   "pool": "B",
+   "en": "Latune: Just...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 630,
+   "pool": "B",
+   "en": "Kota: Maybe it's because I became Fighter Roar and started piloting the Compati Kaiser...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 631,
+   "pool": "B",
+   "en": "Arado: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 632,
+   "pool": "B",
+   "en": "Seolla: Kota... What are you going to do now?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 633,
+   "pool": "B",
+   "en": "Kota: Save Shoko, obviously. I'm pretty sure she's inside that giant sword.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 634,
+   "pool": "B",
+   "en": "Kota: But fighting alone won't get me anywhere. So I'm hitching a ride on that ship, the Kurogane.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 635,
+   "pool": "B",
+   "en": "Raul: ...We'll help too. Fighter Roar... no, Kota Azuma. To rescue your sister.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 636,
+   "pool": "B",
+   "en": "Kota: Raul...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 637,
+   "pool": "B",
+   "en": "Seolla: We'll help too, Kota.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 638,
+   "pool": "B",
+   "en": "Kota: ...I appreciate it, but this is my problem. Just getting aboard the Kurogane is enough.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 639,
+   "pool": "B",
+   "en": "Kota: I'll save Shoko... with my own hands.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 640,
+   "pool": "B",
+   "en": "Arado: Hold on, Kota. What's that supposed to mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 641,
+   "pool": "B",
+   "en": "Kota: Just what I said.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 642,
+   "pool": "B",
+   "en": "Arado: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 643,
+   "pool": "B",
+   "en": "Kota: ...Since I'm riding on the Kurogane, I'll fight alongside you guys. Looks like we've got the same enemy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 644,
+   "pool": "B",
+   "en": "Kota: But I'm the one saving Shoko. I can't borrow your help for that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 645,
+   "pool": "B",
+   "en": "Arado: On your own... On your own, you might not be able to save her!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 646,
+   "pool": "B",
+   "en": "Kota: Ugh... Arado...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 647,
+   "pool": "B",
+   "en": "Arado: ...I never wanna see it again. Sister Ouka... Lieutenant Lamia... Failing to save someone precious to me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 648,
+   "pool": "B",
+   "en": "Latune: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 649,
+   "pool": "B",
+   "en": "Seolla: ...Arado...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 650,
+   "pool": "B",
+   "en": "Kota: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 651,
+   "pool": "B",
+   "en": "Raul: Kota... If you can't save her, you'll regret it even more than you do now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 652,
+   "pool": "B",
+   "en": "Raul: If only I'd been stronger, if only I hadn't been alone... maybe I could have saved them...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 653,
+   "pool": "B",
+   "en": "Raul: Once it's lost, it's too late...! Even if you get your revenge... what you've lost never comes back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 654,
+   "pool": "B",
+   "en": "Kota: Raul...? Don't tell me you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 655,
+   "pool": "B",
+   "en": "Raul: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 656,
+   "pool": "B",
+   "en": "Raul: (That's right... Fiona... If only we'd had friends like these back then, I might have saved you...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 657,
+   "pool": "B",
+   "en": "Raul: (At least... at least so that fewer people become victims like you, or suffer sorrow like mine...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 658,
+   "pool": "B",
+   "en": "Raul: (I have to fight in the Excellence...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 659,
+   "pool": "B",
+   "en": "Seolla: We're your friends now. Don't carry it all by yourself, Kota.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 660,
+   "pool": "B",
+   "en": "Seolla: We'll save her, I promise...! But for that, you have to trust us too, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 661,
+   "pool": "B",
+   "en": "Kota: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 662,
+   "pool": "B",
+   "en": "Kota: Ngh... Damn dust keeps... getting in my eyes, dammit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 663,
+   "pool": "B",
+   "en": "Arado: Maybe not right away, but if we all join forces...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 664,
+   "pool": "B",
+   "en": "Latune: We'll save her for sure...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 665,
+   "pool": "B",
+   "en": "Kota: Thanks... Thanks, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 666,
+   "pool": "B",
+   "en": "Kota: (...Shoko, hang in there just a little longer. I'll... no, we'll get you out of there for sure.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 667,
+   "pool": "B",
+   "en": "Kota: (So wait for me...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 668,
+   "pool": "B",
+   "en": "Carla: ...Hey, Yu. Could it be that Raul and the others...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 669,
+   "pool": "B",
+   "en": "Yuuki: Yeah... Looks like they've been carrying one more cross.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 670,
+   "pool": "B",
+   "en": "Carla: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 671,
+   "pool": "B",
+   "en": "Yuuki: But whatever the past, the path we have to take is set.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 672,
+   "pool": "B",
+   "en": "Yuuki: Even if we end up somewhere different... for now, we simply go together.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 673,
+   "pool": "B",
+   "en": "Carla: Yeah... You're right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 674,
+   "pool": "B",
+   "en": "Kai: ...The SRX Team and all others assigned to the Hagane will remain aboard and carry out further duties.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 675,
+   "pool": "B",
+   "en": "Viletta: Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 676,
+   "pool": "B",
+   "en": "Irm: ...Well, considering who's in charge, they'll make us do some crazy stuff to clear our names.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 677,
+   "pool": "B",
+   "en": "Rai: But that's exactly what we want.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 678,
+   "pool": "B",
+   "en": "Ryusei: Yeah. If it means settling this score, that octopus geezer can have all the credit he wants.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 679,
+   "pool": "B",
+   "en": "Aya: No matter what adversity we face, we can't let ourselves give up...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 680,
+   "pool": "B",
+   "en": "Mai: This time... for sure...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 681,
+   "pool": "B",
+   "en": "Rio: Ryoto, let's do our best too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 682,
+   "pool": "B",
+   "en": "Ryoto: Yeah. I don't want to... run away anymore.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 683,
+   "pool": "B",
+   "en": "Kai: ...We of the Instructor Corps will be boarding the Hagane. Radha, what will you do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 684,
+   "pool": "B",
+   "en": "Radha: The same is fine with me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 685,
+   "pool": "B",
+   "en": "Radha: The Instructor Corps is one member short now... I'll do my part for her as well...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 686,
+   "pool": "B",
+   "en": "Kai: ...Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 687,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 688,
+   "pool": "B",
+   "en": "Seolla: U-Um... Major Kai.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 689,
+   "pool": "B",
+   "en": "Kai: What is it, Seolla?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 690,
+   "pool": "B",
+   "en": "Seolla: If possible, Arado, Rato and I would like to go to the Kurogane...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 691,
+   "pool": "B",
+   "en": "Kai: That's a violation of orders. ...Your reason?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 692,
+   "pool": "B",
+   "en": "Seolla: As members of the Instructor Corps, we know we have to pull Lieutenant Lamia's weight too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 693,
+   "pool": "B",
+   "en": "Seolla: But... we want to stay by Kota's side...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 694,
+   "pool": "B",
+   "en": "Seolla: He's not a soldier... and a lot of things on a battleship are probably going to throw him off.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 695,
+   "pool": "B",
+   "en": "Kai: That brat isn't the type.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 696,
+   "pool": "B",
+   "en": "Seolla: B-but his sister... the enemy has her...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 697,
+   "pool": "B",
+   "en": "Latune: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 698,
+   "pool": "B",
+   "en": "Arado: We know it's selfish and out of line. But... we want to be there for Kota...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 699,
+   "pool": "B",
+   "en": "Kai: (Could it be these three...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 700,
+   "pool": "B",
+   "en": "Ryusei: Major, I'll cover for Arado's group and Lieutenant Lamia. Let them go to the Kurogane.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 701,
+   "pool": "B",
+   "en": "Latune: Ryusei...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 702,
+   "pool": "B",
+   "en": "Ryusei: You're worried about a brother and sister being split up, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 703,
+   "pool": "B",
+   "en": "Latune: Y-Yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 704,
+   "pool": "B",
+   "en": "Ryusei: Go on, head to the Kurogane. I'll pick up your slack myself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 705,
+   "pool": "B",
+   "en": "Aya: I'd have liked to hear 'we' there.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 706,
+   "pool": "B",
+   "en": "Rai: There's no way you can do the work of Lieutenant Lamia and those three by yourself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 707,
+   "pool": "B",
+   "en": "Kai: Hey, hey, not you too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 708,
+   "pool": "B",
+   "en": "Aya: I'm asking too, Major. I... understand how they feel.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 709,
+   "pool": "B",
+   "en": "Mai: Me too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 710,
+   "pool": "B",
+   "en": "Kai: If I changed the lineup for every reason like that, there'd be no end to it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 711,
+   "pool": "B",
+   "en": "Seolla: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 712,
+   "pool": "B",
+   "en": "Kai: Is what I'd like to say, but that hothead does need someone to keep him in check.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 713,
+   "pool": "B",
+   "en": "Kai: I'll make an exception. The three of you, go. I'll talk to HQ and Rätsel myself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 714,
+   "pool": "B",
+   "en": "Arado: Th-Thank you so much!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 715,
+   "pool": "B",
+   "en": "Mai: Do your best, Latune.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 716,
+   "pool": "B",
+   "en": "Latune: Okay... you too, Mai.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 717,
+   "pool": "B",
+   "en": "Kai: (I'm going soft... But after that defeat, raising morale has to come first.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 718,
+   "pool": "B",
+   "en": "Kai: Moving on. Octopus Squad stays with the Hiryu.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 719,
+   "pool": "B",
+   "en": "Katina: Roger that, Major. ...Listen up, boys, tighten up more than ever!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 720,
+   "pool": "B",
+   "en": "Russel: Yes, ma'am!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 721,
+   "pool": "B",
+   "en": "Tasuku: Whatever tricks that Sodium thing pulls... I'll snap it in half, count on it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 722,
+   "pool": "B",
+   "en": "Leona: Yes. And win a victory worthy of the Siegerlion name.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 723,
+   "pool": "B",
+   "en": "Katina: Yeah, that's the spirit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 724,
+   "pool": "B",
+   "en": "Kai: ...The ATX Team goes to the Hiryu and will follow Captain Lefina's orders from now on.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 725,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 726,
+   "pool": "B",
+   "en": "Kai: I know how you feel, Kyosuke. It wasn't long... but she was under my command.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 727,
+   "pool": "B",
+   "en": "Kai: ...She was a fine woman. Responsible, skilled. And she lived... with everything she had.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 728,
+   "pool": "B",
+   "en": "Excellen: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 729,
+   "pool": "B",
+   "en": "Seolla: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 730,
+   "pool": "B",
+   "en": "Latune: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 731,
+   "pool": "B",
+   "en": "Arado: (Lieutenant Lamia...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 732,
+   "pool": "B",
+   "en": "Kyosuke: Major Kai... I...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 733,
+   "pool": "B",
+   "en": "Kai: What good are you like this? Do you think that's what she'd want?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 734,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 735,
+   "pool": "B",
+   "en": "Kai: What is it we do? Say it, Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 736,
+   "pool": "B",
+   "en": "Kai: How many lives have you and I pulled the trigger on? How often has it been pulled on us? Say it...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 737,
+   "pool": "B",
+   "en": "Kyosuke: That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 738,
+   "pool": "B",
+   "en": "Kai: This time... it was her. That's all there is to it. ...That's the world we live in.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 739,
+   "pool": "B",
+   "en": "Excellen: Next time it could be us... But until then, we live for her too. Right, Kyosuke?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 740,
+   "pool": "B",
+   "en": "Kyosuke: ...I know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 741,
+   "pool": "B",
+   "en": "Kai: ...Chief Takakura, your team goes with Major Filio to the Tesla Institute to analyze the Sodium's barrier.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 742,
+   "pool": "B",
+   "en": "Tsugumi: Understood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 743,
+   "pool": "B",
+   "en": "Ibis: We'll come back to everyone, I promise... with the answer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 744,
+   "pool": "B",
+   "en": "Kai: ...Masaki, Lüne. As for you two...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 745,
+   "pool": "B",
+   "en": "Masaki: I'm going with the Kurogane. It'll give me more room to move.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 746,
+   "pool": "B",
+   "en": "Kai: You sure?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 747,
+   "pool": "B",
+   "en": "Masaki: Yeah. Looks like Shu's on the surface... and I can't just tuck my tail and go home now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 748,
+   "pool": "B",
+   "en": "Lüne: ...I'll go to the Hiryu. I was crashing there before anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 749,
+   "pool": "B",
+   "en": "Kai: Understood. ...We split up here and go our separate ways, but only for a while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 750,
+   "pool": "B",
+   "en": "Kai: Sooner or later, we'll take on the Sodium and the Hell Gate. So I won't say goodbye.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 751,
+   "pool": "B",
+   "en": "Kai: Each of you, do what you have to do. ...That is all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 752,
+   "pool": "B",
+   "en": "Kyosuke: Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 753,
+   "pool": "B",
+   "en": "Bullet: ...Lieutenant Kyosuke, I have a request.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 754,
+   "pool": "B",
+   "en": "Kyosuke: What is it, Bullet?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 755,
+   "pool": "B",
+   "en": "Bullet: Kusuha and I talked it over... and we'd like to go to the Tesla Institute.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 756,
+   "pool": "B",
+   "en": "Excellen: If we're up against creeps like that, you'll have no choice but to use little Ryuko, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 757,
+   "pool": "B",
+   "en": "Kusuha: Yes. Though we don't know if it'll answer us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 758,
+   "pool": "B",
+   "en": "Bullet: I think we'll need KoRyuOh and RyuKoOh's power. To make sure we win the next battle.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 759,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 760,
+   "pool": "B",
+   "en": "Bullet: Until then, you'd better be back to being the usual Lieutenant Kyosuke Nanbu.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 761,
+   "pool": "B",
+   "en": "Bullet: ...Under a commander with doubts, we can't win even the fights we should.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 762,
+   "pool": "B",
+   "en": "Kusuha: B-Bullet...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 763,
+   "pool": "B",
+   "en": "Excellen: Wow! Look who's talking big, Mr. Chick-Head!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 764,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 765,
+   "pool": "B",
+   "en": "Kyosuke: Heh... You're right, Lieutenant Brooklyn \"Bullet\" Luckfield. I wouldn't want a boss like that either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 766,
+   "pool": "B",
+   "en": "Kyosuke: Go. I'll tell Captain Lefina myself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 767,
+   "pool": "B",
+   "en": "Bullet: Thank you, sir.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 768,
+   "pool": "B",
+   "en": "Masaki: ...See you, everyone. We'll meet again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 769,
+   "pool": "B",
+   "en": "Ryusei: Yeah. To smash the Sodium and the Hell Gate.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 770,
+   "pool": "B",
+   "en": "Excellen: ...We've got to settle this once and for all. Can't have that thing squatting here forever.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 771,
+   "pool": "B",
+   "en": "Excellen: I don't know what they're after, but we have to win...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 772,
+   "pool": "B",
+   "en": "Kyosuke: ...The winner of a war is the one in the right... Someone said that once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 773,
+   "pool": "B",
+   "en": "Excellen: Axel... You mean Axel Almer of Shadow Mirror?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 774,
+   "pool": "B",
+   "en": "Kyosuke: Axel lost his place to belong, his path to live... and he died.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 775,
+   "pool": "B",
+   "en": "Kyosuke: ...Alchemie too, I'd say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 776,
+   "pool": "B",
+   "en": "Excellen: Alchemie... Yeah, she was like that too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 777,
+   "pool": "B",
+   "en": "Kyosuke: ...But Lamia, who found hers... also...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 778,
+   "pool": "B",
+   "en": "Excellen: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 779,
+   "pool": "B",
+   "en": "Kyosuke: I don't want to just write it off as the way war is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 780,
+   "pool": "B",
+   "en": "Kyosuke: That's why... I won't fail next time. After paying a price nothing can replace... I won't lose again...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 781,
+   "pool": "B",
+   "en": "Excellen: But can you really beat that... the Sodium?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 782,
+   "pool": "B",
+   "en": "Kyosuke: ...I told you. I won't lose.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 783,
+   "pool": "B",
+   "en": "Excellen: Heh, look who's back. The usual Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 784,
+   "pool": "B",
+   "en": "Kyosuke: (Lamia... did your soul reach the place where your comrades are? ...At least... rest in peace.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 785,
+   "pool": "B",
+   "en": "Kyosuke: (We can't go there yet. If we ever meet again... it'll be when this is all over.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 786,
+   "pool": "B",
+   "en": "Kyosuke: (Even if it uses up my life... I won't lose the next big gamble...!)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 787,
+   "pool": "B",
+   "en": "Kyosuke: Wake up, Lamia! You're not a puppet anymore!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 788,
+   "pool": "B",
+   "en": "Kyosuke: Don't forget! Where you belong...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 789,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 790,
+   "pool": "B",
+   "en": "Jurgen: You cannot bear the grief of losing a comrade... Like Jurgen once was, you are a weak being.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 791,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 792,
+   "pool": "B",
+   "en": "Excellen: Kyosuke, save the regrets for later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 793,
+   "pool": "B",
+   "en": "Excellen: So no one else ends up like her... we take Jurgen down, no matter what. Right now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 794,
+   "pool": "B",
+   "en": "Kyosuke: ...I know. I won't lose. Not to him...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 795,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 796,
+   "pool": "B",
+   "en": "Jurgen: You cannot bear the grief of losing a comrade... Like Jurgen once was, you are a weak being.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 797,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 798,
+   "pool": "B",
+   "en": "Excellen: Kyosuke, save the regrets for later.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 799,
+   "pool": "B",
+   "en": "Excellen: So no one else ends up like her... we take Jurgen down, no matter what. Right now...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 800,
+   "pool": "B",
+   "en": "Kyosuke: ...I know. I won't lose. Not to him...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 801,
+   "pool": "B",
+   "en": "Excellen: Hang on, Lamia. I'll break the evil wizard's curse in no time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 802,
+   "pool": "B",
+   "en": "Excellen: ...Umm, the prince is supposed to throw an apple at her, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 803,
+   "pool": "B",
+   "en": "Kusuha: Bullet! Let's save Lieutenant Lamia with our own strength, no matter what!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 804,
+   "pool": "B",
+   "en": "Bullet: Of course! I won't lose the Lieutenant we've fought beside, not here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 805,
+   "pool": "B",
+   "en": "Bullet: Dr. Jurgen! Whatever ideals you people hold up, I'll never accept them!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 806,
+   "pool": "B",
+   "en": "Jurgen: All of it is to protect the Earth. The sacrifice of a few is unavoidable.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 807,
+   "pool": "B",
+   "en": "Jurgen: Sacrifice is inevitable in any battle fought for something to protect.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 808,
+   "pool": "B",
+   "en": "Kusuha: Maybe that's true... Maybe it is, but...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 809,
+   "pool": "B",
+   "en": "Kusuha: Writing people off from the start and making so many of them suffer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 810,
+   "pool": "B",
+   "en": "Jurgen: That anger... and the grief of losing a comrade... we shall take them into ourselves.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 811,
+   "pool": "B",
+   "en": "Bullet: Lieutenant Lamia rejected that! As a human being!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 812,
+   "pool": "B",
+   "en": "Bullet: And so do we! I'll cut through the ODE System's hold!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 813,
+   "pool": "B",
+   "en": "Kai: Pull yourself together, Lamia! You're supposed to set an example for Arado and the others!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 814,
+   "pool": "B",
+   "en": "Kai: And the Instructor Corps needs you for what lies ahead... We'll get you back, I swear it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 815,
+   "pool": "B",
+   "en": "Kai: However strong the ODE System gets, a thoroughly trained soldier will outmaneuver it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 816,
+   "pool": "B",
+   "en": "Jurgen: Yet soldiers are limited in number... and so are those they can protect.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 817,
+   "pool": "B",
+   "en": "Kai: You've sacrificed so many people. You've no right to say that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 818,
+   "pool": "B",
+   "en": "Jurgen: There is no battle... that creates no sacrifice.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 819,
+   "pool": "B",
+   "en": "Kai: I know that...! But I'll do all I can to keep it to a minimum!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 820,
+   "pool": "B",
+   "en": "Jurgen: And yet, you lost Core Number 521...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 821,
+   "pool": "B",
+   "en": "Jurgen: It must grieve you... It must gall you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 822,
+   "pool": "B",
+   "en": "Kai: You're right about that... But I...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 823,
+   "pool": "B",
+   "en": "Kai: I won't be beaten by it! I won't yield! If only to keep proof that Lamia lived!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 824,
+   "pool": "B",
+   "en": "Kai: As leader of the Tactical Instructor Corps, I will wipe you out of existence!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 825,
+   "pool": "B",
+   "en": "Arado: Lieutenant Lamia! I may be a washout, but today I can't afford to lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 826,
+   "pool": "B",
+   "en": "Arado: I'm gonna save you, Lieutenant, no matter what!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 827,
+   "pool": "B",
+   "en": "Seolla: If we fight Lieutenant Lamia head-on, we might not come out of it unharmed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 828,
+   "pool": "B",
+   "en": "Seolla: But I won't give up... Never!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 829,
+   "pool": "B",
+   "en": "Seolla: It's thanks to Lieutenant Lamia that we weren't absorbed into the ODE System...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 830,
+   "pool": "B",
+   "en": "Seolla: She saved our lives... and I'll use mine to defeat you!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 831,
+   "pool": "B",
+   "en": "Jurgen: Destroying this body is meaningless... You cannot stop the system.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 832,
+   "pool": "B",
+   "en": "Arado: We'll stop it, count on it! And we'll avenge Lieutenant Lamia!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 833,
+   "pool": "B",
+   "en": "Latune: This time, it's our turn to save Lieutenant Lamia...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 834,
+   "pool": "B",
+   "en": "Latune: It's a dangerous gamble, but I'll make it work...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 835,
+   "pool": "B",
+   "en": "Latune: You're trying to turn people into tools of war...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 836,
+   "pool": "B",
+   "en": "Jurgen: Wrong. I am uniting the protectors and the protected into one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 837,
+   "pool": "B",
+   "en": "Jurgen: Then one can endure even the grief of losing someone precious.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 838,
+   "pool": "B",
+   "en": "Jurgen: You would be spared the heartache you feel now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 839,
+   "pool": "B",
+   "en": "Jurgen: And you could even forget that Core Number 521 ever existed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 840,
+   "pool": "B",
+   "en": "Latune: I don't want to forget... Lieutenant Lamia. Or...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 841,
+   "pool": "B",
+   "en": "Latune: Big Sister Ouka and the others... If I forget them, the proof that they lived will vanish.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 842,
+   "pool": "B",
+   "en": "Latune: I'd never let that happen...! That's why I'll stop you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 843,
+   "pool": "B",
+   "en": "Ryusei: Jurgen! Your system can never be the guardian of the Earth Sphere!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 844,
+   "pool": "B",
+   "en": "Jurgen: When humanity's will and wisdom become one, true peace will come. Why can't you understand?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 845,
+   "pool": "B",
+   "en": "Rai: You're the one who doesn't understand. Do you think the people the Bartolls took wanted this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 846,
+   "pool": "B",
+   "en": "Rai: Do you really believe the abducted agreed to be absorbed into the ODE System?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 847,
+   "pool": "B",
+   "en": "Jurgen: It is too late to ask them now. Their wills have been integrated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 848,
+   "pool": "B",
+   "en": "Mai: That's not integration...! You killed their hearts!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 849,
+   "pool": "B",
+   "en": "Aya: A peace built on something like that... is completely meaningless!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 850,
+   "pool": "B",
+   "en": "Jurgen: There is no peace without sacrifice. Human offerings are indispensable.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 851,
+   "pool": "B",
+   "en": "Ryusei: Screw that! You're trying to make every human being an offering!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 852,
+   "pool": "B",
+   "en": "Jurgen: Not every one... \"Nonstandard beings\" will be eliminated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 853,
+   "pool": "B",
+   "en": "Viletta: An ODE System that can't control beings like us will eventually...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 854,
+   "pool": "B",
+   "en": "Viletta: No, it will hit its limit very soon!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 855,
+   "pool": "B",
+   "en": "Ryusei: That's right! Thanks to our wills, which you'll never absorb!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 856,
+   "pool": "B",
+   "en": "Ryoto: If the ODE System keeps swallowing people's wills like this, sooner or later...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 857,
+   "pool": "B",
+   "en": "Jurgen: We shall evolve. As a collective of wills... the guardian of the Earth Sphere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 858,
+   "pool": "B",
+   "en": "Ryoto: That's not evolution! And any method that assumes sacrifice from the start is wrong!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 859,
+   "pool": "B",
+   "en": "Rio: You're no guardian! You're an evil that'll destroy people!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 860,
+   "pool": "B",
+   "en": "Katina: Like hell I'm getting fused with you! I'm me, damn it!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 861,
+   "pool": "B",
+   "en": "Katina: I don't give a damn about your ideals!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 862,
+   "pool": "B",
+   "en": "Jurgen: Mankind has fought great wars again and again, yet nothing changed. So I took action.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 863,
+   "pool": "B",
+   "en": "Russel: You're rushing things! This way won't bring peace, it'll only make humanity miserable!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 864,
+   "pool": "B",
+   "en": "Katina: So we're gonna slam the brakes on you! Hard!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 865,
+   "pool": "B",
+   "en": "Leona: Dr. Jurgen... no, ODE System... a whole that ignores the individual is meaningless.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 866,
+   "pool": "B",
+   "en": "Jurgen: As I told you... we are the one, and we are the all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 867,
+   "pool": "B",
+   "en": "Tasuku: No way! I'm not merging with some old geezer like you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 868,
+   "pool": "B",
+   "en": "Jurgen: Then become one with us, emotions and all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 869,
+   "pool": "B",
+   "en": "Leona: That's impossible. Because you'll vanish right here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 870,
+   "pool": "B",
+   "en": "Tasuku: That's right! Go to the other side and beg Lamia's forgiveness till it kills you all over again!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 871,
+   "pool": "B",
+   "en": "Masaki: Jurgen! You're telling me the ODE System like this is what you wanted!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 872,
+   "pool": "B",
+   "en": "Jurgen: Yes. I have overcome the weakness within me and reached a new stage...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 873,
+   "pool": "B",
+   "en": "Jurgen: And I shall evolve further still, to bring a future to the Earth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 874,
+   "pool": "B",
+   "en": "Lüne: Says the guy who ruins other people's lives for his own selfish reasons!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 875,
+   "pool": "B",
+   "en": "Lüne: I'm not letting someone like you lecture us about Earth's future!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 876,
+   "pool": "B",
+   "en": "Masaki: A guy who can't overcome his weakness without leaning on some rotten machine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 877,
+   "pool": "B",
+   "en": "Masaki: Don't think you stand a chance against us!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 878,
+   "pool": "B",
+   "en": "Irm: Now I get why Isurugi passed us the intel. You really are a pain in the neck.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 879,
+   "pool": "B",
+   "en": "Jurgen: The ODE System exists beyond all desire. Before it, corporations and factions lose all meaning.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 880,
+   "pool": "B",
+   "en": "Radha: But if you cast away your dignity as a human being, all that remains is a slow death.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 881,
+   "pool": "B",
+   "en": "Irm: Me and the rest of humanity, we're still too young to wither away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 882,
+   "pool": "B",
+   "en": "Irm: So we're gonna crush your ideals, along with that system of yours!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 883,
+   "pool": "B",
+   "en": "Jurgen: Why, even as you fight enemies from beyond, do you refuse to accept the ODE System?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 884,
+   "pool": "B",
+   "en": "Ibis: I have a dream! I won't hand it over to anyone... I'll never let it go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 885,
+   "pool": "B",
+   "en": "Tsugumi: A whole that kills the individual... There's no happiness down that road!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 886,
+   "pool": "B",
+   "en": "Rishu: A person is made by mastering himself. But it seems you went about it the wrong way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 887,
+   "pool": "B",
+   "en": "Jurgen: Jurgen overcame his own weakness by fusing with the system...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 888,
+   "pool": "B",
+   "en": "Jurgen: That was no mistake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 889,
+   "pool": "B",
+   "en": "Rishu: Hmph... What good is mastering yourself by using others?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 890,
+   "pool": "B",
+   "en": "Rishu: You've already lost. To yourself...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 891,
+   "pool": "B",
+   "en": "Jurgen: Fools who reject the unity of humanity's will and wisdom... Begone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 892,
+   "pool": "B",
+   "en": "Tetsuya: What's foolish about risking our lives to protect people from enemies from beyond?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 893,
+   "pool": "B",
+   "en": "Tetsuya: I won't let you insult those who died entrusting us with this ship and Earth's future!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 894,
+   "pool": "B",
+   "en": "Sänger: You have strayed from the path, Wilhelm V. Jurgen!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 895,
+   "pool": "B",
+   "en": "Jurgen: That violent will... The ODE System has no need of it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 896,
+   "pool": "B",
+   "en": "Jurgen: And power that deviates from the norm is a major cause of disorder...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 897,
+   "pool": "B",
+   "en": "Sänger: Enough talk! My sword shall send you to your final rest!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 898,
+   "pool": "B",
+   "en": "Rätsel: During the DC War, Dr. Shirakawa said...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 899,
+   "pool": "B",
+   "en": "Rätsel: That as long as you didn't cast off your conscience, the ODE System could never overcome its contradictions.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 900,
+   "pool": "B",
+   "en": "Jurgen: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 901,
+   "pool": "B",
+   "en": "Rätsel: You've cast off your conscience, all right. You treat people as mere parts... no, as less than that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 902,
+   "pool": "B",
+   "en": "Jurgen: I no longer feel any remorse...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 903,
+   "pool": "B",
+   "en": "Rätsel: I'm sure you don't...! And that is why we cannot accept the ODE System as it is now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 904,
+   "pool": "B",
+   "en": "Gilliam: Dr. Jurgen... no, ODE System. Humanity cannot evolve by your methods.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 905,
+   "pool": "B",
+   "en": "Gilliam: You're bound to end up at a dead end.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 906,
+   "pool": "B",
+   "en": "Jurgen: You speak as if you've seen the future...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 907,
+   "pool": "B",
+   "en": "Gilliam: Those with superior power aren't guaranteed to survive. Though that applies to us as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 908,
+   "pool": "B",
+   "en": "Jurgen: Then your fate is already decided...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 909,
+   "pool": "B",
+   "en": "Gilliam: Is that so? We're anomalies outside your parameters, aren't we...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 910,
+   "pool": "B",
+   "en": "Gilliam: This battle's outcome will be beyond anything you've projected.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 911,
+   "pool": "B",
+   "en": "Jurgen: You, above all, are truly an anomaly...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 912,
+   "pool": "B",
+   "en": "Kota: Hell no! I don't get all that fancy talk, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 913,
+   "pool": "B",
+   "en": "Kota: I know darn well we can't leave that Oh-Edo System alone!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 914,
+   "pool": "B",
+   "en": "Roa: Kota, it's the O-D-E System.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 915,
+   "pool": "B",
+   "en": "Kota: Shaddup! Who cares right now!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 916,
+   "pool": "B",
+   "en": "Kota: He ain't gettin' his way anymore! I'm stoppin' that OED System, no matter what!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 917,
+   "pool": "B",
+   "en": "Roa: (It's ODE... but I'll keep that to myself.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 918,
+   "pool": "B",
+   "en": "Yuuki: Wilhelm V. Jurgen, the ODE System, and the Valsion Custom... So this is the DC's dark legacy.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 919,
+   "pool": "B",
+   "en": "Jurgen: Not dark... It is a legacy to be passed on to the future.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 920,
+   "pool": "B",
+   "en": "Carla: No way! With Yu, maybe, but I am NOT becoming one with the likes of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 921,
+   "pool": "B",
+   "en": "Yuuki: Right. We get a choice in this, too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 922,
+   "pool": "B",
+   "en": "Carla: Huh?! Does that go for me, too?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 923,
+   "pool": "B",
+   "en": "Yuuki: Is this really the time for that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 924,
+   "pool": "B",
+   "en": "Carla: Uh-huh, it's important!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 925,
+   "pool": "B",
+   "en": "Yuuki: Just focus on the fight. If only to avenge Lieutenant Lamia.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 926,
+   "pool": "B",
+   "en": "Carla: I know! I may not look it, but I'm furious!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 927,
+   "pool": "B",
+   "en": "Raul: Technology used the wrong way can lead to terrible results...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 928,
+   "pool": "B",
+   "en": "Jurgen: I have made no mistakes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 929,
+   "pool": "B",
+   "en": "Raul: But the Bartolls made so many people miserable!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 930,
+   "pool": "B",
+   "en": "Jurgen: A difference in values.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 931,
+   "pool": "B",
+   "en": "Raul: You think words like that make up for what happened to Lamia and the others?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 932,
+   "pool": "B",
+   "en": "Raul: I reject you! Your ideas, and the very existence of the ODE System!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 933,
+   "pool": "B",
+   "en": "- None.",
+   "kind": "objective",
+   "keep": false
+  }
+ ],
+ "leaf": [
+  14,
+  14
+ ]
+}

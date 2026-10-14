@@ -1,0 +1,3827 @@
+{
+ "file": "OL/W3OL.BIN",
+ "format": "STRTAB",
+ "strings": [
+  {
+   "id": 0,
+   "va": "0x63a2a0",
+   "off": 800544,
+   "en": "Command Card used.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "va": "0x63a2c0",
+   "off": 800576,
+   "en": "Command Card nullified.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "va": "0x63a2e0",
+   "off": 800608,
+   "en": "Command Card destroyed.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "va": "0x63a300",
+   "off": 800640,
+   "en": "No target Sub Unit Card, so it had no effect.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "va": "0x63a350",
+   "off": 800720,
+   "en": "No Unit Cards can be revived,",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "va": "0x63a380",
+   "off": 800768,
+   "en": "so it had no effect.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "va": "0x63a3a0",
+   "off": 800800,
+   "en": "Enemy Main Unit Card's ability sealed.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "va": "0x63a3d0",
+   "off": 800848,
+   "en": "HP of all Unit Cards in battle fully restored.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "va": "0x63a410",
+   "off": 800912,
+   "en": "1 Command Card consumed.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "va": "0x63a440",
+   "off": 800960,
+   "en": "1 Sub Unit Card marked as used.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "va": "0x63a470",
+   "off": 801008,
+   "en": "Select a card to view.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "va": "0x63a4a0",
+   "off": 801056,
+   "en": "Final Clear Points will be x1.5.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "va": "0x63a4d0",
+   "off": 801104,
+   "en": "Final Clear Points will be doubled.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "va": "0x63a500",
+   "off": 801152,
+   "en": "No used Command Cards, so it had no effect.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "va": "0x63a540",
+   "off": 801216,
+   "en": "Select one card to revive.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "va": "0x63a570",
+   "off": 801264,
+   "en": "Opponent's \"Sub Unit Card\" command sealed for 3 turns.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "va": "0x63a5b0",
+   "off": 801328,
+   "en": "Chance Attack rate increased.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "va": "0x63a5e0",
+   "off": 801376,
+   "en": "No allied units have been shot down, so it had no effect.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "va": "0x63a620",
+   "off": 801440,
+   "en": "No parameters to raise, so it had no effect.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "va": "0x63a660",
+   "off": 801504,
+   "en": "\"Inspire\" effect: reserve units recovered 20 HP.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "va": "0x63a6a0",
+   "off": 801568,
+   "en": "The Leader unit can't use this card.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "va": "0x63a6d0",
+   "off": 801616,
+   "en": "No target Command Card, so it had no effect.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "va": "0x63a790",
+   "off": 801808,
+   "en": "Select an action.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "va": "0x63a7b0",
+   "off": 801840,
+   "en": "Confirm a unit with the button.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "va": "0x63a820",
+   "off": 801952,
+   "en": "Card Effect Lifted",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 25,
+   "va": "0x63a988",
+   "off": 802312,
+   "en": "Support Attack",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "va": "0x63a9a0",
+   "off": 802336,
+   "en": "Support Critical",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "va": "0x63a9b8",
+   "off": 802360,
+   "en": "Finisher",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "va": "0x63a9c8",
+   "off": 802376,
+   "en": "Support Defense",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "va": "0x63a9d8",
+   "off": 802392,
+   "en": "Stun Shock",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "va": "0x63a9e8",
+   "off": 802408,
+   "en": "Combo Attack",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "va": "0x63a9f8",
+   "off": 802424,
+   "en": "MAPW",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "va": "0x63aa10",
+   "off": 802448,
+   "en": "Pinpoint Shot",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "va": "0x63aa28",
+   "off": 802472,
+   "en": "Charge",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "va": "0x63aa30",
+   "off": 802480,
+   "en": "Mind Attack",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "va": "0x63aa40",
+   "off": 802496,
+   "en": "Direct Attack",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "va": "0x63aa60",
+   "off": 802528,
+   "en": "Support Atk+",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "va": "0x63aa70",
+   "off": 802544,
+   "en": "Support Critical+",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "va": "0x63aa88",
+   "off": 802568,
+   "en": "Support Def+",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "va": "0x63aaa0",
+   "off": 802592,
+   "en": "Stun Shock+",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "va": "0x63aac0",
+   "off": 802624,
+   "en": "Combo Attack+",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "va": "0x63aad8",
+   "off": 802648,
+   "en": "MAPW+",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "va": "0x63aaf0",
+   "off": 802672,
+   "en": "Pinpoint Shot+",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "va": "0x63ab08",
+   "off": 802696,
+   "en": "Charge+",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "va": "0x63ab10",
+   "off": 802704,
+   "en": "Mind Attack+",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "va": "0x63ab20",
+   "off": 802720,
+   "en": "Direct Attack+",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "va": "0x63ab38",
+   "off": 802744,
+   "en": "Decoy Atk+",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "va": "0x63ab48",
+   "off": 802760,
+   "en": "Combo Attack",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "va": "0x63ab60",
+   "off": 802784,
+   "en": "Reroll the \"Mind Attack\" die?",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "va": "0x63ab90",
+   "off": 802832,
+   "en": "Reroll the dice?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "va": "0x63abb0",
+   "off": 802864,
+   "en": "E-Field",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "va": "0x63abc0",
+   "off": 802880,
+   "en": "TK Field",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "va": "0x63abd0",
+   "off": 802896,
+   "en": "TK Field S",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "va": "0x63abe8",
+   "off": 802920,
+   "en": "Critical",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "va": "0x63abf8",
+   "off": 802936,
+   "en": "F-Type Engine",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "va": "0x63ac08",
+   "off": 802952,
+   "en": "Time Flow Eng.",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "va": "0x63ac18",
+   "off": 802968,
+   "en": "AftImg",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false,
+   "retry_note": "'Afterimage' failed: 10 bytes over the in-place budget of 7"
+  },
+  {
+   "id": 57,
+   "va": "0x63ac20",
+   "off": 802976,
+   "en": "Distort. Field",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false,
+   "retry_note": "'Distortion Field' failed: 16 bytes over the in-place budget of 15"
+  },
+  {
+   "id": 58,
+   "va": "0x63ac40",
+   "off": 803008,
+   "en": "Evasive Maneuver",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "va": "0x63ac58",
+   "off": 803032,
+   "en": "Ranged Immunity",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "va": "0x63ac68",
+   "off": 803048,
+   "en": "Stun Shock",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "va": "0x63ac78",
+   "off": 803064,
+   "en": "Arsenal",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "va": "0x63ac80",
+   "off": 803072,
+   "en": "Bail Out",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "va": "0x63ac90",
+   "off": 803088,
+   "en": "Mind Shield",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "va": "0x63aca0",
+   "off": 803104,
+   "en": "Learning AI",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "va": "0x63acb0",
+   "off": 803120,
+   "en": "Salvageable",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "va": "0x63acc0",
+   "off": 803136,
+   "en": "TRONBE!",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "va": "0x63acd0",
+   "off": 803152,
+   "en": "Teleport",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "va": "0x63ace0",
+   "off": 803168,
+   "en": "Giant Unit",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "va": "0x63acf0",
+   "off": 803184,
+   "en": "Air Sup",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 70,
+   "va": "0x63ad00",
+   "off": 803200,
+   "en": "Perfect Tea Attendance",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "va": "0x63ad18",
+   "off": 803224,
+   "en": "Machine Cells",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "va": "0x63ad28",
+   "off": 803240,
+   "en": "S. Gods",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "va": "0x63ad30",
+   "off": 803248,
+   "en": "Overboost",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "va": "0x63ad48",
+   "off": 803272,
+   "en": "Barrage",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "va": "0x63ad50",
+   "off": 803280,
+   "en": "Skilled",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "va": "0x63ad58",
+   "off": 803288,
+   "en": "Supplies",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "va": "0x63ad68",
+   "off": 803304,
+   "en": "Surge",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "va": "0x63ad70",
+   "off": 803312,
+   "en": "Fire Support",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "va": "0x63aff0",
+   "off": 803952,
+   "en": "Used Command Card \"#05%s#07\"",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "va": "0x63b018",
+   "off": 803992,
+   "en": "was revived.",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "va": "0x63b030",
+   "off": 804016,
+   "en": "\"#05%s#07\"'s Sub Unit ability",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "va": "0x63b060",
+   "off": 804064,
+   "en": "can be used once more.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "va": "0x63b0f0",
+   "off": 804208,
+   "en": "#05%s#07 was revived.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "va": "0x63b1d0",
+   "off": 804432,
+   "en": "Fire Support",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "va": "0x63b1e8",
+   "off": 804456,
+   "en": "Move",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "va": "0x63b1f0",
+   "off": 804464,
+   "en": "Attack",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "va": "0x63b1f8",
+   "off": 804472,
+   "en": "Event Card",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "va": "0x63b208",
+   "off": 804488,
+   "en": "Stats",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "va": "0x63b210",
+   "off": 804496,
+   "en": "Wait",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "va": "0x63b218",
+   "off": 804504,
+   "en": "Left",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "va": "0x63b230",
+   "off": 804528,
+   "en": "Event Card Draw",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "va": "0x63b248",
+   "off": 804552,
+   "en": "Turn",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "va": "0x63b258",
+   "off": 804568,
+   "en": "End Turn",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "va": "0x63b268",
+   "off": 804584,
+   "en": "Unit Cards",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "va": "0x63b278",
+   "off": 804600,
+   "en": "Command Cards",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "va": "0x63b288",
+   "off": 804616,
+   "en": "System",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "va": "0x63b298",
+   "off": 804632,
+   "en": "Save & Suspend",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "va": "0x63b2a8",
+   "off": 804648,
+   "en": "Player Phase",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "va": "0x63b2b8",
+   "off": 804664,
+   "en": "Left",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "va": "0x63b2c0",
+   "off": 804672,
+   "en": "Units Can Act",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "va": "0x63b2e8",
+   "off": 804712,
+   "en": "Attack",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "va": "0x63b2f8",
+   "off": 804728,
+   "en": "Command Cards",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "va": "0x63b310",
+   "off": 804752,
+   "en": "Sub Unit Card",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "va": "0x63b328",
+   "off": 804776,
+   "en": "Escape",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "va": "0x63b340",
+   "off": 804800,
+   "en": "End Action",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "va": "0x63b3c8",
+   "off": 804936,
+   "en": "Yes",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "va": "0x63b3d8",
+   "off": 804952,
+   "en": "No",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "va": "0x63b3e0",
+   "off": 804960,
+   "en": "Cancel",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "va": "0x63b3f0",
+   "off": 804976,
+   "en": "System",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "va": "0x63b400",
+   "off": 804992,
+   "en": "Set the options to change.",
+   "budget": 31,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "va": "0x63b430",
+   "off": 805040,
+   "en": "Set up Free Commands.",
+   "budget": 31,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "va": "0x63b450",
+   "off": 805072,
+   "en": "BGM keeps playing after battle animations.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "va": "0x63b480",
+   "off": 805120,
+   "en": "Map music resumes after battle animations.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "va": "0x63b4b0",
+   "off": 805168,
+   "en": "Show grid lines on the map.",
+   "budget": 31,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "va": "0x63b4d0",
+   "off": 805200,
+   "en": "Hide grid lines on the map.",
+   "budget": 39,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "va": "0x63b500",
+   "off": 805248,
+   "en": "Cursor moves up/down/left/right on screen.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "va": "0x63b530",
+   "off": 805296,
+   "en": "Cursor moves along the map grid.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "va": "0x63b560",
+   "off": 805344,
+   "en": "Cursor scrolls to its destination.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "va": "0x63b590",
+   "off": 805392,
+   "en": "Cursor jumps directly to its destination.",
+   "budget": 55,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "va": "0x63b5d0",
+   "off": 805456,
+   "en": "Screen rotates in 90-degree steps.",
+   "budget": 55,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "va": "0x63b610",
+   "off": 805520,
+   "en": "Screen can rotate to any angle.",
+   "budget": 55,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "va": "0x63b650",
+   "off": 805584,
+   "en": "COM vs. COM battles use quick combat.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "va": "0x63b680",
+   "off": 805632,
+   "en": "COM vs. COM battles will be normal battles.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "va": "0x63b6b0",
+   "off": 805680,
+   "en": "Play sound in stereo.",
+   "budget": 39,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "va": "0x63b6e0",
+   "off": 805728,
+   "en": "Play sound in mono.",
+   "budget": 39,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "va": "0x63b710",
+   "off": 805776,
+   "en": "Analog controller vibrates during play.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "va": "0x63b740",
+   "off": 805824,
+   "en": "Analog controller does not vibrate.",
+   "budget": 39,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "va": "0x63b770",
+   "off": 805872,
+   "en": "Set in-game BGM volume.",
+   "budget": 39,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "va": "0x63b7a0",
+   "off": 805920,
+   "en": "Remember sort and sub-info positions.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "va": "0x63b7d0",
+   "off": 805968,
+   "en": "Don't remember sort and sub-info positions.",
+   "budget": 47,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "va": "0x63b850",
+   "off": 806096,
+   "en": "To Settings",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "va": "0x63b860",
+   "off": 806112,
+   "en": "ON",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "va": "0x63b868",
+   "off": 806120,
+   "en": "OFF",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "va": "0x63b880",
+   "off": 806144,
+   "en": "－－",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "va": "0x63b888",
+   "off": 806152,
+   "en": "Back",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "va": "0x63b8a0",
+   "off": 806176,
+   "en": "－－－－－－－－",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "va": "0x63b8b8",
+   "off": 806200,
+   "en": "Setting",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "va": "0x63b8c0",
+   "off": 806208,
+   "en": "Change Field",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "va": "0x63b910",
+   "off": 806288,
+   "en": "Shortcut Settings",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "va": "0x63b930",
+   "off": 806320,
+   "en": "Cursor on Terrain (Map Commands)",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "va": "0x63b960",
+   "off": 806368,
+   "en": "Cursor on Unit (Unit Commands)",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "va": "0x63b988",
+   "off": 806408,
+   "en": "End Turn",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "va": "0x63b998",
+   "off": 806424,
+   "en": "Unit Cards",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "va": "0x63b9a8",
+   "off": 806440,
+   "en": "Command Cards",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "va": "0x63b9c0",
+   "off": 806464,
+   "en": "Faster Cursor",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "va": "0x63b9d8",
+   "off": 806488,
+   "en": "Attribute View",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "va": "0x63b9e8",
+   "off": 806504,
+   "en": "None",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "va": "0x63b9f0",
+   "off": 806512,
+   "en": "Stats",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "va": "0x63b9f8",
+   "off": 806520,
+   "en": "Event Card",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "va": "0x63ba08",
+   "off": 806536,
+   "en": "Type 1",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "va": "0x63ba10",
+   "off": 806544,
+   "en": "Type 2",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "va": "0x63ba18",
+   "off": 806552,
+   "en": "Sound",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "va": "0x63ba28",
+   "off": 806568,
+   "en": "Stereo",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "va": "0x63ba38",
+   "off": 806584,
+   "en": "Mono",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "va": "0x63ba48",
+   "off": 806600,
+   "en": "Vibration",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "va": "0x63ba58",
+   "off": 806616,
+   "en": "BGM Volume",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "va": "0x63ba68",
+   "off": 806632,
+   "en": "MIN",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "va": "0x63ba70",
+   "off": 806640,
+   "en": "MAX",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "va": "0x63ba80",
+   "off": 806656,
+   "en": "Remember Sort/Sub-Info",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "va": "0x63baa0",
+   "off": 806688,
+   "en": "Free Command",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "va": "0x63bab0",
+   "off": 806704,
+   "en": "BGM After Battle",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "va": "0x63bac8",
+   "off": 806728,
+   "en": "Fixed",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "va": "0x63bad0",
+   "off": 806736,
+   "en": "Switch",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "va": "0x63bae0",
+   "off": 806752,
+   "en": "Show Grid",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "va": "0x63baf0",
+   "off": 806768,
+   "en": "Cursor Movement",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "va": "0x63bb08",
+   "off": 806792,
+   "en": "Screen",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "va": "0x63bb10",
+   "off": 806800,
+   "en": "Map",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "va": "0x63bb20",
+   "off": 806816,
+   "en": "Cursor Jump",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "va": "0x63bb38",
+   "off": 806840,
+   "en": "Slide",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "va": "0x63bb48",
+   "off": 806856,
+   "en": "Direct",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "va": "0x63bb58",
+   "off": 806872,
+   "en": "Screen Rotate",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "va": "0x63bb68",
+   "off": 806888,
+   "en": "90-Deg Steps",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "va": "0x63bb78",
+   "off": 806904,
+   "en": "Free",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "va": "0x63bb80",
+   "off": 806912,
+   "en": "Skip COM Battles",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "va": "0x63bb98",
+   "off": 806936,
+   "en": "Confirm",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "va": "0x63bba8",
+   "off": 806952,
+   "en": "Effect Summary",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "va": "0x63bbb8",
+   "off": 806968,
+   "en": "Card",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "va": "0x63bbc0",
+   "off": 806976,
+   "en": "Select a card.",
+   "budget": 31,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "va": "0x63bbf0",
+   "off": 807024,
+   "en": "Details",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "va": "0x63bbf8",
+   "off": 807032,
+   "en": "Sort Desc.",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "va": "0x63bc08",
+   "off": 807048,
+   "en": "Last Pg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "va": "0x63bc18",
+   "off": 807064,
+   "en": "Sort",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "va": "0x63bc20",
+   "off": 807072,
+   "en": "－－－－－－－－",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "va": "0x63bc38",
+   "off": 807096,
+   "en": "Command Cards",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "va": "0x63bc48",
+   "off": 807112,
+   "en": "To Top",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "va": "0x63bc50",
+   "off": 807120,
+   "en": "Sort Asc.",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "va": "0x63bc60",
+   "off": 807136,
+   "en": "Unit",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "va": "0x63bcb0",
+   "off": 807216,
+   "en": "Confirm",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "va": "0x63bcb8",
+   "off": 807224,
+   "en": "Stats",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "va": "0x63bcc0",
+   "off": 807232,
+   "en": "－－",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "va": "0x63bcc8",
+   "off": 807240,
+   "en": "Switch Side",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "va": "0x63bcd8",
+   "off": 807256,
+   "en": "Sort Desc.",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "va": "0x63bce8",
+   "off": 807272,
+   "en": "Last Pg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "va": "0x63bcf8",
+   "off": 807288,
+   "en": "Sort",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "va": "0x63bd00",
+   "off": 807296,
+   "en": "Sub Info",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "va": "0x63bd58",
+   "off": 807384,
+   "en": "HP/MAX",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "va": "0x63bd68",
+   "off": 807400,
+   "en": "Power",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "va": "0x63bd70",
+   "off": 807408,
+   "en": "HP/Attack",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "va": "0x63bd80",
+   "off": 807424,
+   "en": "Rank",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "va": "0x63bd88",
+   "off": 807432,
+   "en": "SPD",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "va": "0x63bd90",
+   "off": 807440,
+   "en": "DEF",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "va": "0x63bd98",
+   "off": 807448,
+   "en": "B.M",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "va": "0x63bda0",
+   "off": 807456,
+   "en": "MOV",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "va": "0x63bda8",
+   "off": 807464,
+   "en": "Specs 1",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "va": "0x63bdb0",
+   "off": 807472,
+   "en": "Pilot",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "va": "0x63bdc0",
+   "off": 807488,
+   "en": "Traits",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "va": "0x63bdc8",
+   "off": 807496,
+   "en": "Attrib.",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "va": "0x63bdd0",
+   "off": 807504,
+   "en": "Specs 2",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "va": "0x63bdd8",
+   "off": 807512,
+   "en": "Min",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "va": "0x63bde0",
+   "off": 807520,
+   "en": "Max",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "va": "0x63bde8",
+   "off": 807528,
+   "en": "CRT",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "va": "0x63bdf0",
+   "off": 807536,
+   "en": "Attack Range",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "va": "0x63be20",
+   "off": 807584,
+   "en": "HP",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "va": "0x63be28",
+   "off": 807592,
+   "en": "1P",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "va": "0x63be30",
+   "off": 807600,
+   "en": "2P",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "va": "0x63be38",
+   "off": 807608,
+   "en": "3P",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "va": "0x63be40",
+   "off": 807616,
+   "en": "4P",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "va": "0x63be48",
+   "off": 807624,
+   "en": "Unit Cards",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "va": "0x63be58",
+   "off": 807640,
+   "en": "To Top",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "va": "0x63be60",
+   "off": 807648,
+   "en": "Sort Asc.",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "va": "0x63bec0",
+   "off": 807744,
+   "en": "Event Card Draw",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "va": "0x63bed8",
+   "off": 807768,
+   "en": "Yes",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "va": "0x63bee0",
+   "off": 807776,
+   "en": "No",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "va": "0x63bef0",
+   "off": 807792,
+   "en": "Draw an event card?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "va": "0x63bf20",
+   "off": 807840,
+   "en": "You can draw    more times.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "va": "0x63bf40",
+   "off": 807872,
+   "en": "Drew the \"%s\" card.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "va": "0x63bf70",
+   "off": 807920,
+   "en": "%s",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "va": "0x63bfa0",
+   "off": 807968,
+   "en": "Yes",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "va": "0x63bfb0",
+   "off": 807984,
+   "en": "No",
+   "budget": 7,
+   "refs": 2,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "va": "0x63bfb8",
+   "off": 807992,
+   "en": "Cancel",
+   "budget": 7,
+   "refs": 2,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "va": "0x63bfc8",
+   "off": 808008,
+   "en": "Yes",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "va": "0x63c028",
+   "off": 808104,
+   "en": "SPD Up",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "va": "0x63c038",
+   "off": 808120,
+   "en": "DEF Up",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "va": "0x63c048",
+   "off": 808136,
+   "en": "MOV Up",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "va": "0x63c058",
+   "off": 808152,
+   "en": "B.M Down",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "va": "0x63c068",
+   "off": 808168,
+   "en": "CRT Up",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "va": "0x63c078",
+   "off": 808184,
+   "en": "ATK Up",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "va": "0x63c088",
+   "off": 808200,
+   "en": "Stat Change",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "va": "0x63c098",
+   "off": 808216,
+   "en": "HP Recovery",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "va": "0x63c0b0",
+   "off": 808240,
+   "en": "Command Card Destroyed",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "va": "0x63c0c8",
+   "off": 808264,
+   "en": "MAPW",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "va": "0x63c0d8",
+   "off": 808280,
+   "en": "Attack!",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "va": "0x63c0e8",
+   "off": 808296,
+   "en": "Chance",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "va": "0x63c0f8",
+   "off": 808312,
+   "en": "Guard",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "va": "0x63c100",
+   "off": 808320,
+   "en": "SPD Down",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "va": "0x63c110",
+   "off": 808336,
+   "en": "DEF Down",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "va": "0x63c120",
+   "off": 808352,
+   "en": "MOV Down",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "va": "0x63c130",
+   "off": 808368,
+   "en": "B.M Up",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "va": "0x63c140",
+   "off": 808384,
+   "en": "CRT Down",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "va": "0x63c150",
+   "off": 808400,
+   "en": "ATK Down",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "va": "0x63c160",
+   "off": 808416,
+   "en": "!!",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "va": "0x63c188",
+   "off": 808456,
+   "en": "Can't Act",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "va": "0x63c198",
+   "off": 808472,
+   "en": "Can't Move",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "va": "0x63c1a8",
+   "off": 808488,
+   "en": "Effects Cleared",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "va": "0x63c1e0",
+   "off": 808544,
+   "en": "B.M Gauge Down",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "va": "0x63c1f8",
+   "off": 808568,
+   "en": "1P Main",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "va": "0x63c208",
+   "off": 808584,
+   "en": "2P Main",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "va": "0x63c218",
+   "off": 808600,
+   "en": "3P Main",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "va": "0x63c228",
+   "off": 808616,
+   "en": "4P Main",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "va": "0x63c238",
+   "off": 808632,
+   "en": "1P Sub",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "va": "0x63c248",
+   "off": 808648,
+   "en": "2P Sub",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "va": "0x63c258",
+   "off": 808664,
+   "en": "3P Sub",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "va": "0x63c268",
+   "off": 808680,
+   "en": "4P Sub",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "va": "0x63c280",
+   "off": 808704,
+   "en": "2P:",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "va": "0x63c288",
+   "off": 808712,
+   "en": "Player",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "va": "0x63c298",
+   "off": 808728,
+   "en": "COM",
+   "budget": 7,
+   "refs": 3,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "va": "0x63c2a0",
+   "off": 808736,
+   "en": "3P:",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "va": "0x63c2a8",
+   "off": 808744,
+   "en": "None",
+   "budget": 7,
+   "refs": 2,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "va": "0x63c2b0",
+   "off": 808752,
+   "en": "4P:",
+   "budget": 7,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "va": "0x63c2b8",
+   "off": 808760,
+   "en": "VS Map Setup",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "va": "0x63c2c8",
+   "off": 808776,
+   "en": "Player Setup",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "va": "0x63c2e0",
+   "off": 808800,
+   "en": "No battles against the computer.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "va": "0x63c310",
+   "off": 808848,
+   "en": "Battle against the computer.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "va": "0x63c340",
+   "off": 808896,
+   "en": "Players battle each other using their own stocks.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "va": "0x63c380",
+   "off": 808960,
+   "en": "VS Battle Setup",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "va": "0x63c390",
+   "off": 808976,
+   "en": "Select your opponent.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "va": "0x63c3b0",
+   "off": 809008,
+   "en": "VS COM",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "va": "0x63c3c0",
+   "off": 809024,
+   "en": "VS 2P",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "va": "0x63c3d8",
+   "off": 809048,
+   "en": "Cancel",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "va": "0x63c3e0",
+   "off": 809056,
+   "en": "Reset Settings",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "va": "0x63c3f0",
+   "off": 809072,
+   "en": "Set the number of unit cards and command cards used in battle.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "va": "0x63c440",
+   "off": 809152,
+   "en": "Deck Size      3",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "va": "0x63c460",
+   "off": 809184,
+   "en": "Deck Size      5",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "va": "0x63c480",
+   "off": 809216,
+   "en": "Deck Size     10",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "va": "0x63c498",
+   "off": 809240,
+   "en": "1P & COM",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "va": "0x63c4a8",
+   "off": 809256,
+   "en": "VS Battle Setup",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "va": "0x63c4b8",
+   "off": 809272,
+   "en": "VS Map Setup",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "va": "0x63c4d0",
+   "off": 809296,
+   "en": "- Select a deck size -",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "va": "0x63c500",
+   "off": 809344,
+   "en": "Stock Type",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "va": "0x63c510",
+   "off": 809360,
+   "en": "Character Name",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "va": "0x63c520",
+   "off": 809376,
+   "en": "VS Map Setup",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "va": "0x63c530",
+   "off": 809392,
+   "en": "- Select a COM character -",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "va": "0x63c560",
+   "off": 809440,
+   "en": "%sP COM Setup",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "va": "0x63c580",
+   "off": 809472,
+   "en": "Cancel",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "va": "0x63c588",
+   "off": 809480,
+   "en": "Reset Settings",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "va": "0x63c5a0",
+   "off": 809504,
+   "en": "Event card uses per game",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "va": "0x63c5d0",
+   "off": 809552,
+   "en": "Units that can act per phase",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "va": "0x63c5f8",
+   "off": 809592,
+   "en": "VS Map Setup",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "va": "0x63c610",
+   "off": 809616,
+   "en": "- Set the battle map and conditions -",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "va": "0x63c640",
+   "off": 809664,
+   "en": "Select Battle Map",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "va": "0x63c658",
+   "off": 809688,
+   "en": "Reset Settings",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "va": "0x63c670",
+   "off": 809712,
+   "en": "VS COM Mode",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "va": "0x63c690",
+   "off": 809744,
+   "en": "If you choose this stock, 10 random",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "va": "0x63c6c0",
+   "off": 809792,
+   "en": "unit cards will be added to it.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "va": "0x63c6f0",
+   "off": 809840,
+   "en": "This stock contains no unit",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "va": "0x63c720",
+   "off": 809888,
+   "en": "cards at all.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "va": "0x63c750",
+   "off": 809936,
+   "en": "command cards will be added to it.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "va": "0x63c780",
+   "off": 809984,
+   "en": "This stock contains no command",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "va": "0x63c7b0",
+   "off": 810032,
+   "en": "NO PLAYER",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "va": "0x63c7c8",
+   "off": 810056,
+   "en": "COM",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "va": "0x63c7d0",
+   "off": 810064,
+   "en": "%sP Stock List",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "va": "0x63c7f0",
+   "off": 810096,
+   "en": "%sP Entered",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "va": "0x63c820",
+   "off": 810144,
+   "en": "COM Entered",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "va": "0x63c838",
+   "off": 810168,
+   "en": "VS Map Setup",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "va": "0x63c848",
+   "off": 810184,
+   "en": "Tournament",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "va": "0x63c860",
+   "off": 810208,
+   "en": "[Select a stock to use]",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "va": "0x63c890",
+   "off": 810256,
+   "en": "[Press button to enter a Unit Card]",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "va": "0x63c8d0",
+   "off": 810320,
+   "en": "[Press button to enter a Command Card]",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "va": "0x63c910",
+   "off": 810384,
+   "en": "[Choose the Leader unit with a button]",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 320,
+   "va": "0x63c940",
+   "off": 810432,
+   "en": "[3P/4P entry status]",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "va": "0x63c968",
+   "off": 810472,
+   "en": "VS Battle Setup",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "va": "0x63c978",
+   "off": 810488,
+   "en": "Cancel",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "va": "0x63c980",
+   "off": 810496,
+   "en": "Confirm",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "va": "0x63c988",
+   "off": 810504,
+   "en": "Reset Settings",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "va": "0x63c998",
+   "off": 810520,
+   "en": "Switch Card",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "va": "0x63c9a8",
+   "off": 810536,
+   "en": "Toggle View",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "va": "0x63c9b8",
+   "off": 810552,
+   "en": "Cancel",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "va": "0x63c9c8",
+   "off": 810568,
+   "en": "Cancel All",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "va": "0x63c9e0",
+   "off": 810592,
+   "en": "Switch",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "va": "0x63c9e8",
+   "off": 810600,
+   "en": "Confirm",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "va": "0x63c9f0",
+   "off": 810608,
+   "en": "Back",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "va": "0x63c9f8",
+   "off": 810616,
+   "en": "Main View",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "va": "0x63ca10",
+   "off": 810640,
+   "en": "Sub-Unit View",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "va": "0x63ca28",
+   "off": 810664,
+   "en": "Card Abilities",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "va": "0x63ca40",
+   "off": 810688,
+   "en": "Sub-Unit",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "va": "0x63ca50",
+   "off": 810704,
+   "en": "Start Battle",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "va": "0x63ca60",
+   "off": 810720,
+   "en": "Cancel",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "va": "0x63cac0",
+   "off": 810816,
+   "en": "Result Bonus",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "va": "0x63cae0",
+   "off": 810848,
+   "en": "Clear Points Earned",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "va": "0x63cb00",
+   "off": 810880,
+   "en": "Ranking",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "va": "0x63cb10",
+   "off": 810896,
+   "en": "Leaders Shot Down",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "va": "0x63cb28",
+   "off": 810920,
+   "en": "Units Shot Down",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "va": "0x63cb38",
+   "off": 810936,
+   "en": "Units Surviving",
+   "budget": 15,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "va": "0x63cb50",
+   "off": 810960,
+   "en": "Event Cards Remaining",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "va": "0x63cb80",
+   "off": 811008,
+   "en": "WINNER Bonus",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "va": "0x63cba0",
+   "off": 811040,
+   "en": "Unit Cards Remaining",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "va": "0x63cbc0",
+   "off": 811072,
+   "en": "Unit Cards Shot Down",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "va": "0x63cbe0",
+   "off": 811104,
+   "en": "Undamaged Unit Cards",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "va": "0x63cc00",
+   "off": 811136,
+   "en": "Confirm",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "va": "0x63cc08",
+   "off": 811144,
+   "en": "Close",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "va": "0x63cc10",
+   "off": 811152,
+   "en": "－－",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "va": "0x63cc20",
+   "off": 811168,
+   "en": "－－－－－－－－",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "va": "0x63cc38",
+   "off": 811192,
+   "en": "TOTAL",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "va": "0x63cc50",
+   "off": 811216,
+   "en": "Clear Points Held",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "va": "0x63ccf0",
+   "off": 811376,
+   "en": "Yes",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "va": "0x63ccf8",
+   "off": 811384,
+   "en": "No",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "va": "0x63cd40",
+   "off": 811456,
+   "en": "Tournament",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "va": "0x63cd58",
+   "off": 811480,
+   "en": "Confirm",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "va": "0x63cd60",
+   "off": 811488,
+   "en": "Back",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "va": "0x63cd68",
+   "off": 811496,
+   "en": "－－",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "va": "0x63cd80",
+   "off": 811520,
+   "en": "－－－－－－－－",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "va": "0x63cde0",
+   "off": 811616,
+   "en": "[Semifinal",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "va": "0x63ce40",
+   "off": 811712,
+   "en": "%s Block",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "va": "0x63ce50",
+   "off": 811728,
+   "en": "%s Round 2]",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "va": "0x63ce60",
+   "off": 811744,
+   "en": "%s Round 1]",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "va": "0x63ce70",
+   "off": 811760,
+   "en": "[Championship Final Battle]",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "va": "0x63ced0",
+   "off": 811856,
+   "en": "Select a card to revive.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "va": "0x63cf00",
+   "off": 811904,
+   "en": "Select a card to check.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "va": "0x63cf28",
+   "off": 811944,
+   "en": ": Cancel",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "va": "0x63cf38",
+   "off": 811960,
+   "en": ": View Effect",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "va": "0x63cf48",
+   "off": 811976,
+   "en": ": OK",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "va": "0x63cf50",
+   "off": 811984,
+   "en": ": Back",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "va": "0x63cf60",
+   "off": 812000,
+   "en": "Select a card to use.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "va": "0x63cf88",
+   "off": 812040,
+   "en": "－－",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "va": "0x63b028",
+   "off": 804008,
+   "en": "Soul",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "short string skipped by the extractor (found by the 2026-10-13 sweep)"
+  },
+  {
+   "id": 376,
+   "va": "0x63b220",
+   "off": 804512,
+   "en": " ",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "short string skipped by the extractor (found by the 2026-10-13 sweep)"
+  },
+  {
+   "id": 377,
+   "va": "0x63ca38",
+   "off": 810680,
+   "en": " ",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "short string skipped by the extractor (found by the 2026-10-13 sweep)"
+  },
+  {
+   "id": 378,
+   "va": "0x63cb70",
+   "off": 810992,
+   "en": " ",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "short string skipped by the extractor (found by the 2026-10-13 sweep)"
+  },
+  {
+   "id": 379,
+   "va": "0x63cb78",
+   "off": 811000,
+   "en": " ",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "short string skipped by the extractor (found by the 2026-10-13 sweep)"
+  },
+  {
+   "id": 380,
+   "va": "0x63cbf8",
+   "off": 811128,
+   "en": " ",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "short string skipped by the extractor (found by the 2026-10-13 sweep)"
+  }
+ ]
+}

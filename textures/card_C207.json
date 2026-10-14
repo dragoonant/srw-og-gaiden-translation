@@ -1,0 +1,66 @@
+{
+ "names": [
+  "C207"
+ ],
+ "note": "元気 emblem: ring redrawn, English inside",
+ "items": [
+  {
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "heavy",
+   "align": "center",
+   "fill": "inpaint",
+   "inpaint_r": 8,
+   "pad": 0,
+   "squeeze": 0.5,
+   "box": [
+    54,
+    58,
+    212,
+    198
+   ],
+   "text_box": [
+    70,
+    100,
+    194,
+    158
+   ],
+   "en": "ENERGY",
+   "color": [
+    255,
+    200,
+    40
+   ],
+   "outline": [
+    120,
+    50,
+    0
+   ],
+   "ring": {
+    "center": [
+     132,
+     129
+    ],
+    "r": [
+     74,
+     70
+    ],
+    "w": 9,
+    "color": [
+     235,
+     170,
+     20
+    ],
+    "face": [
+     255,
+     214,
+     70
+    ],
+    "edge": [
+     150,
+     80,
+     0
+    ]
+   }
+  }
+ ]
+}

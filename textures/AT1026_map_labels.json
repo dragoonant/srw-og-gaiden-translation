@@ -1,0 +1,29 @@
+{
+ "names": [
+  "AT1026"
+ ],
+ "note": "Map labels: support attack / ship (shown over units on the map).",
+ "items": [
+  {
+   "box": [
+    163,
+    4,
+    251,
+    28
+   ],
+   "en": "Support Atk",
+   "font": "FiraSansCondensed-ExtraBoldItalic"
+  },
+  {
+   "box": [
+    202,
+    32,
+    249,
+    56
+   ],
+   "en": "Ship",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "align": "center"
+  }
+ ]
+}

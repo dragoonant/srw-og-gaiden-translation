@@ -1,0 +1,3538 @@
+{
+ "file": "MAP.BIN/14/33",
+ "format": "LOGO",
+ "strings": [
+  {
+   "id": 0,
+   "pool": "A",
+   "en": "",
+   "kind": "label",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "pool": "A",
+   "en": "???: Mission failed... huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "pool": "A",
+   "en": "Ibis: I-I knew it... I just can't do this...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "pool": "A",
+   "en": "Ibis: With my skills as they are... this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "pool": "A",
+   "en": "Aya: Ah...! I have to eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "pool": "A",
+   "en": "Arado: Dammit! You won't get me next time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "pool": "A",
+   "en": "Alchemie: Is this... the end...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "pool": "A",
+   "en": "Irm: Tch!! The curtain's coming down early!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "pool": "A",
+   "en": "Viletta: Time to pull out...! I'm ejecting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "pool": "A",
+   "en": "Excellen: Oh dear... How embarrassing, honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "pool": "A",
+   "en": "Excellen: Oh dear... How embarrassing, honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "pool": "A",
+   "en": "Ouka: Lato... Arado... Seolla... I'm sorry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "pool": "A",
+   "en": "Carla: I've gotta eject...! Sorry, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "pool": "A",
+   "en": "Carla: I've gotta eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "pool": "A",
+   "en": "Kai: Kh! So this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "pool": "A",
+   "en": "Katina: Screwing up in a place like this...! This sucks...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "pool": "A",
+   "en": "Kyosuke: I messed up...! Have to bail out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "pool": "A",
+   "en": "Kyosuke: I messed up...! Have to bail out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "pool": "A",
+   "en": "Gilliam: Kh! I'm ejecting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "pool": "A",
+   "en": "Kusuha: I-I'm sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "pool": "A",
+   "en": "Kusuha: I-I'm sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "pool": "A",
+   "en": "Shine: So this is... the end for me, it seems...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "pool": "A",
+   "en": "Shu: To think the Granzon... would be shot down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "pool": "A",
+   "en": "Sleigh: Curse you...! I won't forget this humiliation...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "pool": "A",
+   "en": "Seolla: N-Next time... for sure!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "pool": "A",
+   "en": "Sänger: Ngh...! So this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "pool": "A",
+   "en": "Daitetsu: All hands, abandon ship! Hurry!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "pool": "A",
+   "en": "Tasuku: Dammit! How pathetic...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "pool": "A",
+   "en": "Tsugumi: N-No way...!! We're being shot down...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "pool": "A",
+   "en": "Tetsuya: All hands, abandon ship! Now!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "pool": "A",
+   "en": "Fiona: Looks like... I got careless...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "pool": "A",
+   "en": "Bullet: Getting taken down in a place like this... I'm still too green...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "pool": "A",
+   "en": "Bullet: Getting taken down in a place like this... I'm still too green...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "pool": "A",
+   "en": "Mai: I-Is this... the end...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "pool": "A",
+   "en": "Masaki: Sorry! I'm gonna have to drop out...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "pool": "A",
+   "en": "Yuuki: Was I careless...? I'll be withdrawing for now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "pool": "A",
+   "en": "Yuuki: Was I careless...? I'll be withdrawing for now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "pool": "A",
+   "en": "Radha: N-Not here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "pool": "A",
+   "en": "Rai: Tch...! It can't hold out any longer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "pool": "A",
+   "en": "Raul: This... this can't be happening...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "pool": "A",
+   "en": "Russel: I'm sorry! I'm ejecting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "pool": "A",
+   "en": "Latune: So this... is the end...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "pool": "A",
+   "en": "Lamia: I shall be ejecting, it is... Kh...! I can't even keep up appearances...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "pool": "A",
+   "en": "Lamia: Am I going down...? In a place like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "pool": "A",
+   "en": "Lee: I-Impossible...! My... MY ship...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "pool": "A",
+   "en": "Rio: I-I won't lose next time!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "pool": "A",
+   "en": "Rishu: Nngh! Did I blunder...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "pool": "A",
+   "en": "Ryusei: D-Dammit! They got me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "pool": "A",
+   "en": "Lüne: I'm sorry, Valsione...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "pool": "A",
+   "en": "Ryoto: Kh...! I have to eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "pool": "A",
+   "en": "Ling: Tch! Me, of all people...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "pool": "A",
+   "en": "Rätsel: So I, too, am still lacking...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "pool": "A",
+   "en": "Leona: How humiliating...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "pool": "A",
+   "en": "Lefina: A-All hands! Abandoning ship is top priority...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "pool": "A",
+   "en": "Sleigh: Impossible...! I refuse to accept this outcome!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "pool": "A",
+   "en": "Axel: Kuh! So this is as far as I go...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "pool": "A",
+   "en": "Lefina: A-All hands! Abandoning ship is top priority...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "pool": "A",
+   "en": "Kota: Dammit...! So this is as far as I go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "pool": "A",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "pool": "A",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "pool": "A",
+   "en": "Albero: Raaaaaagh!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "pool": "A",
+   "en": "Hugo: Waaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "pool": "A",
+   "en": "Foglia: Waaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "pool": "A",
+   "en": "Folka: Ughaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "pool": "A",
+   "en": "Shoko: Big brother... Emi... I'm sorry!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "pool": "A",
+   "en": "Alion: So I lose...! Tch!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "pool": "A",
+   "en": "Fernando: It all comes down to my own softness...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "pool": "A",
+   "en": "Despinis: Why me...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 0,
+   "pool": "B",
+   "en": "Despinis: Master Duminas!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "pool": "B",
+   "en": "Duminas: The answer... The answer... I have been waiting for...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "pool": "B",
+   "en": "Mizuho: Th-That damage...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "pool": "B",
+   "en": "Raji: It must be from the battle with Raul and the others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "pool": "B",
+   "en": "Despinis: Master Duminas...! Tis... Lalia...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "pool": "B",
+   "en": "Duminas: ...To that one's side...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "pool": "B",
+   "en": "Raji: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "pool": "B",
+   "en": "Mizuho: The Hagane and the Hiryu!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "pool": "B",
+   "en": "Despinis: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "pool": "B",
+   "en": "Raul: Despinis! Get out of the way!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "pool": "B",
+   "en": "Despinis: No!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "pool": "B",
+   "en": "Duminas: Lord... Dark Brain... My... creator...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "pool": "B",
+   "en": "Duminas: With the dimensional transfer device... and my... Time Flow... Engine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "pool": "B",
+   "en": "Tetsuya: Forward Main Cannons, one through three! Target Duminas!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "pool": "B",
+   "en": "Despinis: P-Please, wait!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "pool": "B",
+   "en": "Raul: !",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "pool": "B",
+   "en": "Despinis: Raji Montoya and Mizuho Saiki are aboard this Eleos...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "pool": "B",
+   "en": "Despinis: If you fire on Master Duminas, I'll... kill them both!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "pool": "B",
+   "en": "Raul: Ngh...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "pool": "B",
+   "en": "Mizuho: It's all right! Everyone, fire!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "pool": "B",
+   "en": "Raul: Mizuho!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "pool": "B",
+   "en": "Mizuho: Raul! Hurry up and defeat Duminas!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "pool": "B",
+   "en": "Raji: ...There's no need for that.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "pool": "B",
+   "en": "Mizuho: Huh!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "pool": "B",
+   "en": "Raul: Raji!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "pool": "B",
+   "en": "Duminas: Ans... wer... I... seek... ans... werr...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "pool": "B",
+   "en": "Despinis: Master Duminas!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "pool": "B",
+   "en": "Mizuho: I-It exploded from the inside...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "pool": "B",
+   "en": "Raji: Duminas tried to use the Time Flow Engine. That's what set off the explosion.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "pool": "B",
+   "en": "Despinis: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "pool": "B",
+   "en": "Raji: The rigging was tricky. An obvious trap would've been spotted, so I made it trigger under those conditions.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "pool": "B",
+   "en": "Despinis: B-But...! You deceived us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "pool": "B",
+   "en": "Raji: Isn't that true of both sides?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "pool": "B",
+   "en": "Mizuho: R-Raji...! Then the way you've been acting all this time...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "pool": "B",
+   "en": "Raji: To fool your enemy, first fool your allies. In other words, I was putting on an act.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "pool": "B",
+   "en": "Mizuho: I-I really thought...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "pool": "B",
+   "en": "Raji: As if I'd let the Time Flow Engine be misused. Besides, I couldn't have built that so fast.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "pool": "B",
+   "en": "Raji: Still, I apologize for deceiving you as well.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "pool": "B",
+   "en": "Fiona: Huh, that's rare. Raji actually apologizing for once.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "pool": "B",
+   "en": "Raji: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "pool": "B",
+   "en": "Mizuho: F-Fiona!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "pool": "B",
+   "en": "Fiona: Long time no see... for you two, anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "pool": "B",
+   "en": "Raji: You were alive!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "pool": "B",
+   "en": "Fiona: Yeah, well... thanks to you two.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "pool": "B",
+   "en": "Raji: Then you were transported too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "pool": "B",
+   "en": "Fiona: That's right. Though there was quite a time gap.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "pool": "B",
+   "en": "Mizuho: Th-Thank goodness...! You're safe, Fiona...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "pool": "B",
+   "en": "Raji: Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "pool": "B",
+   "en": "Yuuki: Raji, you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "pool": "B",
+   "en": "Raji: It's as I said earlier. I wouldn't betray you all just to save my own skin.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "pool": "B",
+   "en": "Raji: Besides... I didn't want to repeat the tragedies the Time Flow Engine has caused...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "pool": "B",
+   "en": "Yuuki: Yeah... I know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "pool": "B",
+   "en": "Raul: Look at Duminas! It's still moving!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "pool": "B",
+   "en": "Duminas: Aaa... nswer-swer-swer...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "pool": "B",
+   "en": "Raji: It's already... broken. No... it probably was from the very start.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "pool": "B",
+   "en": "Tasuku: I agree.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "pool": "B",
+   "en": "Raul: What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "pool": "B",
+   "en": "Carla: Wh-What do you mean?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "pool": "B",
+   "en": "Tasuku: For starters, a lot of what Duminas said didn't add up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "pool": "B",
+   "en": "Tasuku: Plus, Duminas chased the Time Flow Engine in roundabout ways, and was weirdly sloppy at times.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "pool": "B",
+   "en": "Lamia: True. If Duminas meant to use me, rather than repairing me as the ODE System's master core...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "pool": "B",
+   "en": "Lamia: ...it would have been more effective to send me back to the Hagane as I was and have me use Code ATA.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "pool": "B",
+   "en": "Arado: P-Please don't say scary stuff like that with such a straight face.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "pool": "B",
+   "en": "Shu: Furthermore... despite possessing a dimensional transfer function, she still required the 'Key.'",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "pool": "B",
+   "en": "Shu: Presumably that function was damaged somehow... and even she didn't know how to repair it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "pool": "B",
+   "en": "Lüne: No way...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "pool": "B",
+   "en": "Tasuku: Duminas's thought circuits or part of its memory banks must've been busted.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "pool": "B",
+   "en": "Ryusei: S-So that's it... That's why it had those questions...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "pool": "B",
+   "en": "Raji: Having a sense of self may have played a part... but Duminas was defective.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "pool": "B",
+   "en": "Despinis: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "pool": "B",
+   "en": "Duminas: Myy... rea... son... for... exis...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "pool": "B",
+   "en": "Shu: (Still, the answer she sought... and this being called Dark Brain did interest me...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "pool": "B",
+   "en": "Duminas: Answer... Ans... wer...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "pool": "B",
+   "en": "Despinis: M-Master Duminas...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "pool": "B",
+   "en": "Duminas: Want... ing... answer...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "pool": "B",
+   "en": "Raul: !?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "pool": "B",
+   "en": "Roa: The OG Sensor! Th-This reading!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "pool": "B",
+   "en": "Kota: What's wrong!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "pool": "B",
+   "en": "Roa: Th-This is bad! A gate is opening!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "pool": "B",
+   "en": "Kota: A gate!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "pool": "B",
+   "en": "Raji: Impossible! She doesn't even have a Time Flow Engine!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "pool": "B",
+   "en": "Roa: Ngh...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "pool": "B",
+   "en": "Kota: D-Don't tell me... that's...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "pool": "B",
+   "en": "???: ...The sages of old said... 'Let there be darkness'...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "pool": "B",
+   "en": "???: We see through the world with the Dark Evil Eye, and amass wisdom with the Enlightened Brain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "pool": "B",
+   "en": "???: We are the Wisdom of Darkness... the supreme aggregate of thought... Dark Brain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "pool": "B",
+   "en": "Shoko: Th-That's Dark Brain...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "pool": "B",
+   "en": "Kusuha: Wh-What is this feeling...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "pool": "B",
+   "en": "Mai: There's malice... swirling inside that thing...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "pool": "B",
+   "en": "Kota: Wh-Why!? Why did that thing show up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "pool": "B",
+   "en": "Roa: Most likely... this Radi es Radius 4 is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "pool": "B",
+   "en": "Dark Brain: The Kaiser... and the G-Thundergate...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "pool": "B",
+   "en": "Dark Brain: ...Roa, is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "pool": "B",
+   "en": "Roa: Yeah, that's right.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "pool": "B",
+   "en": "Dark Brain: Your form... has changed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "pool": "B",
+   "en": "Roa: Same goes for you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "pool": "B",
+   "en": "Dark Brain: The fool who defies us... still exists, then.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "pool": "B",
+   "en": "Roa: That goes for you too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "pool": "B",
+   "en": "Duminas: D-Dark... Brain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "pool": "B",
+   "en": "Dark Brain: \"Dunamis 3\"...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "pool": "B",
+   "en": "Duminas: I... I... am...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "pool": "B",
+   "en": "Dark Brain: You failed the mission we gave you, and let Roa take the G-Thundergate from you...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "pool": "B",
+   "en": "Duminas: I... am... Dumi... nas...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "pool": "B",
+   "en": "Dark Brain: It is \"Dunamis.\" You've even forgotten your own name... Did your long wandering break you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "pool": "B",
+   "en": "Duminas: I-I-I am... Dumi-na-na-na...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "pool": "B",
+   "en": "Dark Brain: You are... defective. You will be erased.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "pool": "B",
+   "en": "Despinis: M-Master Duminas!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "pool": "B",
+   "en": "Dark Brain: You as well... I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "pool": "B",
+   "en": "Despinis: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "pool": "B",
+   "en": "Raul: I won't let you!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "pool": "B",
+   "en": "Raul: Nngh...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "pool": "B",
+   "en": "Kota: Y-You okay!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "pool": "B",
+   "en": "Raul: Yeah, somehow...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "pool": "B",
+   "en": "Despinis: Wh-Why did you save me...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "pool": "B",
+   "en": "Raul: Partly it's to protect Raji and Mizuho...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "pool": "B",
+   "en": "Kota: You put us through hell, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "pool": "B",
+   "en": "Kota: Back then, when I tried to shoot down the G-Thundergate, you were the one who stopped me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "pool": "B",
+   "en": "Despinis: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "pool": "B",
+   "en": "Raul: Raji, Mizuho! Hurry and transfer over to my Exellence!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "pool": "B",
+   "en": "Raji: Understood!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "pool": "B",
+   "en": "Despinis: I-I... I... without Master Duminas...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "pool": "B",
+   "en": "Despinis: I have no reason to exist... S-So...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "pool": "B",
+   "en": "Mizuho: No!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "pool": "B",
+   "en": "Despinis: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "pool": "B",
+   "en": "Mizuho: Y-You're our enemy... and you put us through awful things, but...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "pool": "B",
+   "en": "Mizuho: Just because your mother's gone doesn't mean you can die... You can't die...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "pool": "B",
+   "en": "Despinis: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "pool": "B",
+   "en": "Dark Brain: A foolish trait of intelligent life.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "pool": "B",
+   "en": "Kota: If you're so sure of that, you must be pretty damn smart!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "pool": "B",
+   "en": "Dark Brain: Indeed. Our Enlightened Brain is an aggregate of ancient wisdom...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "pool": "B",
+   "en": "Dark Brain: The crystallized knowledge of the ancients... That is what we, Dark Brain, are.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "pool": "B",
+   "en": "Masaki: \"We\"...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "pool": "B",
+   "en": "Aya: Maybe it means it holds many minds... multiple personalities.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "pool": "B",
+   "en": "Bullet: Did it do to people what Dr. Jurgen and Duminas did...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "pool": "B",
+   "en": "Raul: Dark Brain! Why did you create Duminas!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "pool": "B",
+   "en": "Dark Brain: To find our nemesis... Roa the warrior, and annihilate him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "pool": "B",
+   "en": "Dark Brain: But Dunamis 3 never fully understood that Roa the warrior was our primary target.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "pool": "B",
+   "en": "Dark Brain: Nor that we required the Kaiser's Overgate Engine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "pool": "B",
+   "en": "Axel: ...One question. Why... and how were you able to come here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "pool": "B",
+   "en": "Dark Brain: Because the factors needed to open a gate to this world were in place.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "pool": "B",
+   "en": "Gilliam: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "pool": "B",
+   "en": "Shu: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "pool": "B",
+   "en": "Axel: And what are those factors?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "pool": "B",
+   "en": "Dark Brain: You have no need to know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "pool": "B",
+   "en": "Excellen: ...Says you. Bet you don't actually know either, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "pool": "B",
+   "en": "Dark Brain: Then I shall tell you just two.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "pool": "B",
+   "en": "Dark Brain: The thought aggregate Dunamis 3 gathered and carried within itself... and this Radi es Radius 4.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "pool": "B",
+   "en": "Dark Brain: Their resonance, together with the waves of the Overgate Engine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "pool": "B",
+   "en": "Dark Brain: ...opened a gate to this world, whose boundaries are blurred.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "pool": "B",
+   "en": "Shu: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "pool": "B",
+   "en": "Folka: Dark Brain... Did you build the Radi es Radius 4?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "pool": "B",
+   "en": "Dark Brain: No. It is an ark built by those who sought to escape us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "pool": "B",
+   "en": "Dark Brain: A vessel to reject our rule and reach a safe haven...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "pool": "B",
+   "en": "Dark Brain: One of the five Radi es Radius that were built.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "pool": "B",
+   "en": "Dark Brain: One of the two arks that still remain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "pool": "B",
+   "en": "Dark Brain: But like Dunamis 3, it has malfunctioned, and its original inhabitants appear to have perished.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "pool": "B",
+   "en": "Folka: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "pool": "B",
+   "en": "Shu: Malfunctioned... is it? Couldn't the same be said of you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "pool": "B",
+   "en": "Dark Brain: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "pool": "B",
+   "en": "Kota: ...Roa.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "pool": "B",
+   "en": "Roa: It's possible. At full strength, it would've found me much sooner.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "pool": "B",
+   "en": "Kota: Then we can smash it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "pool": "B",
+   "en": "Roa: Don't get careless. On its way here, it destroyed countless worlds...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "pool": "B",
+   "en": "Roa: And likely destroyed three of the Radi es Radius as well. Underestimate it, and we're the ones who fall.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "pool": "B",
+   "en": "Roa: Just like Emi and I once did...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "pool": "B",
+   "en": "Excellen: Dark-Brainy's goal... well, I don't even need to ask.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "pool": "B",
+   "en": "Sänger: To rule every world... no, to destroy them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "pool": "B",
+   "en": "Roa: Right. It absorbs the negative thoughts of intelligent life and keeps on swelling...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "pool": "B",
+   "en": "Roa: And what lies at the end of that... is a world of darkness.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "pool": "B",
+   "en": "Dark Brain: We feed on the pain, suffering, sorrow, hatred, contempt, envy and rage of intelligent life...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "pool": "B",
+   "en": "Dark Brain: We destroy dream, hope, heart, courage, kindness, good, feeling, trust, bond, friendship, wish, love.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "pool": "B",
+   "en": "Gilliam: (A congealed mass of intelligent life's negative thoughts? Then it's just like...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "pool": "B",
+   "en": "Dark Brain: And then... we shall forge an order of darkness and reign at its summit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "pool": "B",
+   "en": "Ibis: You're saying there's no place for humans in it!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "pool": "B",
+   "en": "Dark Brain: Correct. Become part of the thought aggregate and merge with our Enlightened Brain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "pool": "B",
+   "en": "Shine: Wh-What is that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "pool": "B",
+   "en": "Rai: Those aren't Shura Gods...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "pool": "B",
+   "en": "Dark Brain: They once fought against us... They are the guardians of Radi Es Radius.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "pool": "B",
+   "en": "Dark Brain: We understand their workings. And now they shall be the ones to destroy your flesh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "pool": "B",
+   "en": "Alion: Well, well. Who knew there was something like that inside the Tenku Majo?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "pool": "B",
+   "en": "Dark Brain: The calculations are complete... The fate that awaits you is despair.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "pool": "B",
+   "en": "Roa: Dark Brain... their abilities are not something your Enlightened Brain can measure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "pool": "B",
+   "en": "Roa: And now the curtain rises once more on our fated battle... Its name is...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "pool": "B",
+   "en": "Dark Brain: Roa... You cannot defeat us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "pool": "B",
+   "en": "Dark Brain: No matter how many bear the name of Roa... the outcome will be the same.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "pool": "B",
+   "en": "Roa: ...We'll see about that. The answer hasn't been decided yet.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "pool": "B",
+   "en": "Ryusei: Dark Brain... I get what you're trying to do. But why? What's your reason?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "pool": "B",
+   "en": "Ryusei: Why are you trying to destroy the world?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "pool": "B",
+   "en": "Dark Brain: It is simple. Where there is light, there is darkness. Where there is darkness, there is light.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "pool": "B",
+   "en": "Dark Brain: We are darkness... a negative existence. Thus, we drive out the light.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "pool": "B",
+   "en": "Dark Brain: That is our reason for being. Just as you exist and challenge us, so too shall we wipe you out.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "pool": "B",
+   "en": "Rishu: ...He's even easier to read than Alkaid, eh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "pool": "B",
+   "en": "Rio: You don't have a single doubt or hesitation about what you've done, or what you're trying to do.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "pool": "B",
+   "en": "Dark Brain: Correct. ...The world was originally shrouded in darkness.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "pool": "B",
+   "en": "Dark Brain: You are merely trying to force light upon it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "pool": "B",
+   "en": "Dark Brain: Look upon your space... and see which is greater, light or darkness.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "pool": "B",
+   "en": "Kyosuke: ...Even so, that's no reason for us to vanish here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "pool": "B",
+   "en": "Dark Brain: Time and again we have told those like you... that darkness cannot be overcome.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "pool": "B",
+   "en": "Dark Brain: That just as you cannot escape death... you cannot escape us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "pool": "B",
+   "en": "Masaki: When you put it that bluntly, we've got no choice but to fight!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "pool": "B",
+   "en": "Kota: Yeah! If we don't beat Dark Brain, I can't have the deluxe platter at Miyako Sushi!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "pool": "B",
+   "en": "Shoko: Hey, bro! You're fighting for sushi!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "pool": "B",
+   "en": "Kota: That's not all! I wanna see Giada and Garnet's baby too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "pool": "B",
+   "en": "Seolla: That's right...! For the sake of the baby that's going to be born, we can't lose!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "pool": "B",
+   "en": "Despinis: A baby... A new life...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "pool": "B",
+   "en": "Mizuho: Despinis...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "pool": "B",
+   "en": "Despinis: I'll fight Dark Brain too... So that I can live my own life...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "pool": "B",
+   "en": "Folka: For the Shura's new path... so that it is not closed off...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "pool": "B",
+   "en": "Raul: For the future of this world that took us in...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "pool": "B",
+   "en": "Sänger: We shall become the sword of light and cut down this false brain of darkness!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "pool": "B",
+   "en": "Tetsuya: All units, take aim! The final target is Dark Brain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "pool": "B",
+   "en": "Lefina: I hope to see everyone's best efforts! Begin the all-out attack!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "pool": "B",
+   "en": "1. Defeat Dark Brain.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "pool": "B",
+   "en": "1. Allied mothership is shot down.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "pool": "B",
+   "en": "- Destroy all enemies other than Dark Brain.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "pool": "B",
+   "en": "Dark Brain: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "pool": "B",
+   "en": "Kota: Dark Brain! You think you can destroy the world with that little power? Don't make me laugh!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "pool": "B",
+   "en": "Dark Brain: We told you already...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "pool": "B",
+   "en": "Dark Brain: We feed on the pain, suffering, sorrow, hatred, contempt, envy and rage of intelligent life.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "pool": "B",
+   "en": "Dark Brain: The more power you unleash, the more we transform...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "pool": "B",
+   "en": "Dark Brain: Behold the result.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "pool": "B",
+   "en": "Kota: !!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "pool": "B",
+   "en": "Shoko: I-It transformed!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "pool": "B",
+   "en": "Roa: He'll keep changing like that... until in the end, he devours the world itself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "pool": "B",
+   "en": "Alchemie: It's just like... the Regisseur. Just like the Neu Regisseur...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "pool": "B",
+   "en": "Gilliam: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "pool": "B",
+   "en": "Shu: (That, too... might be called a kind of evil god.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "pool": "B",
+   "en": "Masaki: Tch! So the harder we pound him, the more he powers up!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "pool": "B",
+   "en": "Tsugumi: It's not regenerating, it's evolving and growing nonstop!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "pool": "B",
+   "en": "Kota: Then we just gotta take him down before he gets any bigger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "pool": "B",
+   "en": "Russel: I-It's not that simple!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "pool": "B",
+   "en": "Fernando: Hmph, interesting. Will our fighting spirit run dry first, or will he fall first...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "pool": "B",
+   "en": "Fernando: This battle... it stirs my Shura blood.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "pool": "B",
+   "en": "Alion: Like I said, that's exactly the kind of thing he feeds on to grow, isn't it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "pool": "B",
+   "en": "Rätsel: However, what lies at the end of rapid evolution is... self-destruction.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "pool": "B",
+   "en": "Gilliam: Yes. The question is whether we can hasten it with our own hands...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "pool": "B",
+   "en": "Kota: Standing here griping won't get us anywhere!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "pool": "B",
+   "en": "Yuuki: True. Unlike the battle at the Hell Gate, there's no retreat.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "pool": "B",
+   "en": "Carla: Then we've just gotta go for it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "pool": "B",
+   "en": "Dark Brain: Intelligent beings bound by flesh... gaze upon the rift between dimensions.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "pool": "B",
+   "en": "Dark Brain: And then your souls shall be sealed within my Enlightened Brain...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "pool": "B",
+   "en": "Kota: Shut up! Like hell I'm becoming one with you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "pool": "B",
+   "en": "Roa: Kota... by rights, I should be the one facing him...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "pool": "B",
+   "en": "Kota: Don't go acting like a stranger at a time like this!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "pool": "B",
+   "en": "Kota: As Fighter Roar! As a warrior destined to fight Dark Brain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "pool": "B",
+   "en": "Kota: I'm gonna smash that thing right here!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "pool": "B",
+   "en": "Skill Points obtained.\nAll allied pilots get PP +5.",
+   "kind": "sysmsg",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "pool": "B",
+   "en": "- None.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "pool": "B",
+   "en": "Dark Brain: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "pool": "B",
+   "en": "Dark Brain: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "pool": "B",
+   "en": "Kota: Did we get him!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "pool": "B",
+   "en": "Roa: I felt it... connect.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "pool": "B",
+   "en": "Dark Brain: Why!? How!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "pool": "B",
+   "en": "Kota: !?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "pool": "B",
+   "en": "Dark Brain: I-I won't accept this outcome! I won't accept it!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "pool": "B",
+   "en": "Lüne: Th-The way it's talking...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "pool": "B",
+   "en": "Dark Brain: To mere humans...! It is impossible that I should be defeated!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "pool": "B",
+   "en": "Mai: S-So many thoughts...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "pool": "B",
+   "en": "Kusuha: They're being released...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "pool": "B",
+   "en": "Dark Brain: Nuuurgh! My head! My head feels like it's splitting!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "pool": "B",
+   "en": "Shoko: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "pool": "B",
+   "en": "Dark Brain: Aaah...! Fading... I'm fading away...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "pool": "B",
+   "en": "Gilliam: The thoughts it had imprisoned... are being set free...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "pool": "B",
+   "en": "Dark Brain: Whaddya mean!? Why's it gotta be me dyin' in a dump like this!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "pool": "B",
+   "en": "Tasuku: !?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "pool": "B",
+   "en": "Dark Brain: Where there is darkness, there is light! Where there is light, there is darkness!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "pool": "B",
+   "en": "Aya: Its psychic energy... it's running wild...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "pool": "B",
+   "en": "Dark Brain: My head...! My head is splitting!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "pool": "B",
+   "en": "Dark Brain: Do not forget! Wherever intelligent life exists, so do we! As long as you exist...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "pool": "B",
+   "en": "Dark Brain: I-I'm fading! I'm fading awaaay!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "pool": "B",
+   "en": "Dark Brain: We are the crystallization of wisdom! An aggregate of dark thought!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "pool": "B",
+   "en": "Shu: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "pool": "B",
+   "en": "Dark Brain: Ohhhhh...! Aohhhh...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "pool": "B",
+   "en": "Dark Brain: The Twelve Keys! The Empyrean!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "pool": "B",
+   "en": "Dark Brain: I'm...! I'm disappearinggg...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "pool": "B",
+   "en": "Dark Brain: Oaaaaaah...! Auuoooooh...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "pool": "B",
+   "en": "Kota: Roa...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "pool": "B",
+   "en": "Roa: It's... dissipating...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "pool": "B",
+   "en": "Ryusei: I'll show you, Dark Brain! The hidden potential of humans that you know nothing about!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "pool": "B",
+   "en": "Dark Brain: We are the crystallization of wisdom... There is nothing we cannot fathom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "pool": "B",
+   "en": "Ryusei: Is that right? But the moment you showed yourself to us, you were already cornered!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "pool": "B",
+   "en": "Dark Brain: In the beginning, there existed a world of silent darkness...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "pool": "B",
+   "en": "Rai: So you want us to return there too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "pool": "B",
+   "en": "Dark Brain: Yes. That is your destiny.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "pool": "B",
+   "en": "Rai: Then you can be the first to follow it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "pool": "B",
+   "en": "Aya: A chaotic will... I can't see what it really is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "pool": "B",
+   "en": "Dark Brain: Become one with us, and you will never need to feel fear.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "pool": "B",
+   "en": "Aya: As if we would! If you're an aggregate of thoughts, then we'll unite our strength too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "pool": "B",
+   "en": "Aya: And then we'll wipe you out of existence!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "pool": "B",
+   "en": "Dark Brain: We can tell... Within you sleep memories and thoughts of darkness...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "pool": "B",
+   "en": "Mai: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "pool": "B",
+   "en": "Dark Brain: Become one with us, and all of them shall be released...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "pool": "B",
+   "en": "Mai: I won't fall for that! My will is my own! And it'll be the power that defeats you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "pool": "B",
+   "en": "Viletta: Dark Brain... Who exactly were the ancients who created you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "pool": "B",
+   "en": "Dark Brain: If you wish to know, then you too must become part of our wisdom.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "pool": "B",
+   "en": "Viletta: And be bound in shackles...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "pool": "B",
+   "en": "Dark Brain: Yes. Become one with us, and your wishes too shall be granted...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "pool": "B",
+   "en": "Dark Brain: You could even be reunited with the one most precious to you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "pool": "B",
+   "en": "Viletta: (...! They know about Ingram...!?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "pool": "B",
+   "en": "Kyosuke: Wanting nothing but destruction, huh. Simpler and easier to understand than someone with grand ideals.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "pool": "B",
+   "en": "Dark Brain: Become part of our Enlightened Brain, and you shall gain a clearer answer.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "pool": "B",
+   "en": "Kyosuke: Not interested. Knowing won't change what I have to do...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "pool": "B",
+   "en": "Excellen: You barge into our world out of nowhere and say you'll destroy everything? Come on...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "pool": "B",
+   "en": "Dark Brain: Your fate will not change. Overturning our calculations is impossible...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "pool": "B",
+   "en": "Excellen: The world's not so easy you can get by on calculations alone, Darky-Brainy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "pool": "B",
+   "en": "Bullet: Dark Brain! Don't think everything will go according to your calculations!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "pool": "B",
+   "en": "Dark Brain: Fool... To defy us is to rebel against truth itself.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "pool": "B",
+   "en": "Bullet: Something that leads the world to ruin could never be the truth!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "pool": "B",
+   "en": "Kusuha: A heavy... enormous will...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "pool": "B",
+   "en": "Dark Brain: We devour every thought... It is a craving for knowledge...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "pool": "B",
+   "en": "Dark Brain: To \"know\" is to \"live.\"",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "pool": "B",
+   "en": "Kusuha: And you'd sacrifice so many people for that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "pool": "B",
+   "en": "Kusuha: We don't exist just to satisfy your cravings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "pool": "B",
+   "en": "Dark Brain: Intelligent life fears, flees from that fear, and its despair breeds ruin.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "pool": "B",
+   "en": "Ryoto: You're wrong...! Humans are the ones who overcome that fear!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "pool": "B",
+   "en": "Ryoto: That's why I won't run! I'll defeat you as a human being!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "pool": "B",
+   "en": "Dark Brain: All is born from darkness, and to darkness returns... This is immutable truth.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "pool": "B",
+   "en": "Rio: If you call yourself darkness, then we'll become the light that overcomes it!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "pool": "B",
+   "en": "Katina: You're evil incarnate, so you destroy everything, huh! Real simple bastard, aren't ya!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "pool": "B",
+   "en": "Dark Brain: No intelligent being can live in a world of only light... You need darkness.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "pool": "B",
+   "en": "Katina: Shut it! If you love pitch darkness so much, go dig yourself a hole in the ground!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "pool": "B",
+   "en": "Dark Brain: Surrender yourselves to fear... Surrender your souls to us...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "pool": "B",
+   "en": "Russel: You can try to stir up despair, but it won't work! As long as I can move, I won't give up!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "pool": "B",
+   "en": "Russel: Much less give in to the likes of you!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "pool": "B",
+   "en": "Tasuku: Looks like you're in no position to talk big about Duminas either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "pool": "B",
+   "en": "Dark Brain: We are no defective product like that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "pool": "B",
+   "en": "Tasuku: Maybe that big ol' brain isn't, but your body's another story. Your vital spots are wide open!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "pool": "B",
+   "en": "Leona: What a hideous form, Dark Brain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "pool": "B",
+   "en": "Dark Brain: Within intelligent life, evil outweighs good. And our form is its embodiment.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "pool": "B",
+   "en": "Leona: It's because humans overcome their own ugliness that their pride is beautiful and noble...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "pool": "B",
+   "en": "Leona: I'll prove it! By overcoming the darkness that is you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "pool": "B",
+   "en": "Gilliam: Beyond the union of wisdom and destruction, what is it you seek?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "pool": "B",
+   "en": "Dark Brain: To join the Twelve Keys and reach the Empyrean...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "pool": "B",
+   "en": "Gilliam: What...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "pool": "B",
+   "en": "Dark Brain: The path your former self tried to walk... Do you not remember?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "pool": "B",
+   "en": "Gilliam: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "pool": "B",
+   "en": "Radha: A battle between light and darkness... It's like something out of myth or legend.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "pool": "B",
+   "en": "Dark Brain: Intelligent life wishes for light to triumph in the end... But reality is different.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "pool": "B",
+   "en": "Radha: That's not very convincing coming from someone who's already been defeated once!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "pool": "B",
+   "en": "Kai: Tough luck, Dark Brain. We happened to be right where you showed up.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "pool": "B",
+   "en": "Dark Brain: With our power, fate can be rewritten as we please...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "pool": "B",
+   "en": "Kai: Then go ahead and erase all of us right now!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "pool": "B",
+   "en": "Kai: And if you can't, you're no different from that Duminas!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "pool": "B",
+   "en": "Lamia: I wonder if Duminas was satisfied with the answer it was given, or...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "pool": "B",
+   "en": "Dark Brain: Once a tool has served its purpose, it is discarded. That is all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "pool": "B",
+   "en": "Lamia: My creator entrusted me not only with a mission, but with hope. In that sense, I was fortunate...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "pool": "B",
+   "en": "Arado: So you're gonna eat up tons of human knowledge and fill your stomach-- I mean, your head!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "pool": "B",
+   "en": "Dark Brain: Yes. And that is the final form life attains once it has gained knowledge.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "pool": "B",
+   "en": "Arado: Gimme a break! You think people can live on just brains?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "pool": "B",
+   "en": "Seolla: If you're the crystallization of human wisdom, then why don't you have a human heart?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "pool": "B",
+   "en": "Dark Brain: Such things would merely disturb our contemplation. They are unnecessary.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "pool": "B",
+   "en": "Seolla: Then you're nothing but a machine! You're no supreme being!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "pool": "B",
+   "en": "Latune: Just casting someone's existence aside because they're defective...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "pool": "B",
+   "en": "Dark Brain: Dunamis 3 was your enemy... You have no need to pity her.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "pool": "B",
+   "en": "Latune: But sooner or later, you'd do the same thing... I can't allow that!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "pool": "B",
+   "en": "Shine: You have no right whatsoever to destroy our world!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "pool": "B",
+   "en": "Dark Brain: It can no longer be stopped... Any world we descend upon has no fate but destruction.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "pool": "B",
+   "en": "Shine: What a selfish presumption! I shall cast aside any such fate with this Fairlion!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "pool": "B",
+   "en": "Masaki: Coming to our world was where your luck ran out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "pool": "B",
+   "en": "Dark Brain: Those are our words. This Radi es Radius 4 is already our territory.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "pool": "B",
+   "en": "Masaki: Then disappear, Sordean and all!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "pool": "B",
+   "en": "Lüne: You can't power up without sucking up our strength? That's pretty pathetic!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "pool": "B",
+   "en": "Dark Brain: Yet you have not grasped the true meaning that mechanism holds.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "pool": "B",
+   "en": "Lüne: I don't even wanna know! Either way, you're vanishing right here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "pool": "B",
+   "en": "Dark Brain: Dreams and hopes are nothing more than illusions...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "pool": "B",
+   "en": "Dark Brain: Even if you defeat us here, you will learn that firsthand.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "pool": "B",
+   "en": "Ibis: That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "pool": "B",
+   "en": "Dark Brain: Surrender yourself to the darkness. A broken, crushed form is what suits you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "pool": "B",
+   "en": "Tsugumi: Ibis! Don't let that thing's nonsense shake you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "pool": "B",
+   "en": "Ibis: I know, Tsugumi! ...I'll never give up on my dream!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "pool": "B",
+   "en": "Ibis: Even if despair takes hold of me, I'll claw my way back out! So I won't lose to you!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "pool": "B",
+   "en": "Irm: Unifying wisdom, huh... Why do smart types always end up heading in that direction?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "pool": "B",
+   "en": "Dark Brain: Assimilate with our enlightened brain, and you too will understand its meaning.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "pool": "B",
+   "en": "Irm: I'll pass. Life's fun because there are things you don't understand. Like men and women...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "pool": "B",
+   "en": "Rishu: What an ominous form. Are you the dark side of intelligent life given shape?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "pool": "B",
+   "en": "Dark Brain: We continue to transform... absorbing your negative thoughts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 376,
+   "pool": "B",
+   "en": "Rishu: True, the human heart holds darkness alongside the light...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 377,
+   "pool": "B",
+   "en": "Rishu: But striving to overcome it is what makes humans human.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 378,
+   "pool": "B",
+   "en": "Dark Brain: Intelligent life exists to become our sustenance...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 379,
+   "pool": "B",
+   "en": "Rishu: Then you exist there to be cut down by us!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 380,
+   "pool": "B",
+   "en": "Rätsel: They say the first humans were cast out of paradise for eating the fruit of knowledge...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 381,
+   "pool": "B",
+   "en": "Rätsel: Couldn't the same be said of you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 382,
+   "pool": "B",
+   "en": "Dark Brain: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 383,
+   "pool": "B",
+   "en": "Rätsel: If so, then the true reason you seek to devour world after world is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 384,
+   "pool": "B",
+   "en": "Sänger: Dark false brain. Our wills are not something that can be lumped into a mold like yours.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 385,
+   "pool": "B",
+   "en": "Dark Brain: The superfluous shall be pared away. Nonconforming existences shall be eliminated.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 386,
+   "pool": "B",
+   "en": "Sänger: And you call that the crystallization of wisdom... Hardly impressive.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 387,
+   "pool": "B",
+   "en": "Dark Brain: We continue to grow... so long as intelligent life exists. That chain cannot be severed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 388,
+   "pool": "B",
+   "en": "Sänger: Absurd! I shall cut you down first!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 389,
+   "pool": "B",
+   "en": "Dark Brain: Do not avert your eyes from your own darkness. We are the symbol of the darkness within you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 390,
+   "pool": "B",
+   "en": "Yuuki: As a human, I admit there's ugliness in me too...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 391,
+   "pool": "B",
+   "en": "Yuuki: But I have no intention of justifying it the way you do!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 392,
+   "pool": "B",
+   "en": "Dark Brain: You cannot escape the darkness that is us, nor the darkness in your hearts...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 393,
+   "pool": "B",
+   "en": "Carla: You already lost once, so quit acting so high and mighty!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 394,
+   "pool": "B",
+   "en": "Carla: As long as we're around, there's no place for you in this world!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 395,
+   "pool": "B",
+   "en": "Dark Brain: With two Overgate Engines in hand, we shall aim for even greater heights.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 396,
+   "pool": "B",
+   "en": "Kota: Then that's not happening! Roa and the G Compatible Kaiser have me and Shoko with 'em!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 397,
+   "pool": "B",
+   "en": "Dark Brain: In that case, you may follow the same fate as Emi.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 398,
+   "pool": "B",
+   "en": "Roa: ......",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 399,
+   "pool": "B",
+   "en": "Shoko: Emi didn't just disappear! This armor's still here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 400,
+   "pool": "B",
+   "en": "Shoko: If Roa still exists, then Emi must too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 401,
+   "pool": "B",
+   "en": "Folka: This Tenku Majo is our ark... I won't hand it over to the likes of you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 402,
+   "pool": "B",
+   "en": "Dark Brain: An ark... You intend to leave this world?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 403,
+   "pool": "B",
+   "en": "Folka: That can wait until after I've defeated you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 404,
+   "pool": "B",
+   "en": "Fernando: Dark Brain! Don't think you can absorb my fighting spirit too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 405,
+   "pool": "B",
+   "en": "Dark Brain: Such raging thoughts... They make fine sustenance for us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 406,
+   "pool": "B",
+   "en": "Fernando: Then I'll eat away at you! Your body, and your brain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 407,
+   "pool": "B",
+   "en": "Alion: Well now... For a freedom lover like me, you're a real nuisance.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 408,
+   "pool": "B",
+   "en": "Dark Brain: Assimilate with us, and your brain will be released from the shackles of flesh... and become free.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 409,
+   "pool": "B",
+   "en": "Alion: Free under you, right? That's what I hate most!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 410,
+   "pool": "B",
+   "en": "Dark Brain: It is impossible for you to create a complete \"key\"...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 411,
+   "pool": "B",
+   "en": "Raji: Well... I suppose so. The Exxelence couldn't cross the wall between worlds on its own, either.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 412,
+   "pool": "B",
+   "en": "Dark Brain: But if you join us, your wish will be granted.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 413,
+   "pool": "B",
+   "en": "Raji: I refuse. Not now that I know beings like you exist.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 414,
+   "pool": "B",
+   "en": "Raul: Let's go, Raji! Mizuho! We'll take him down with the Exxelence you two designed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 415,
+   "pool": "B",
+   "en": "Mizuho: Right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 416,
+   "pool": "B",
+   "en": "Fiona: Dark Brain! I'm not letting you escape from here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 417,
+   "pool": "B",
+   "en": "Dark Brain: Our final destination is not this world...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 418,
+   "pool": "B",
+   "en": "Dark Brain: Those who bar our way are fated to be absorbed by us, or erased from existence.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 419,
+   "pool": "B",
+   "en": "Fiona: Then I'll change that fate with my Exxelence!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 420,
+   "pool": "B",
+   "en": "Dark Brain: Do you mean to avenge Dunamis 3?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 421,
+   "pool": "B",
+   "en": "Despinis: Now... I fight for myself... so that I can live...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 422,
+   "pool": "B",
+   "en": "Despinis: Otherwise, everything will come to an end...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 423,
+   "pool": "B",
+   "en": "Axel: Not just us and Duminas, but even something like you got drawn in... This world must have a history.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 424,
+   "pool": "B",
+   "en": "Dark Brain: This is the path to the Empyrean... Perhaps where the twelve keys... the factors, gather.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 425,
+   "pool": "B",
+   "en": "Axel: A guess, huh? Seems even a collective of wisdom has things it doesn't know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 426,
+   "pool": "B",
+   "en": "Dark Brain: You are... a survivor of the Watchers.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 427,
+   "pool": "B",
+   "en": "Alchemie: You know of the Einst?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 428,
+   "pool": "B",
+   "en": "Dark Brain: Yes... They, like us... are ancient...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 429,
+   "pool": "B",
+   "en": "Alchemie: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 430,
+   "pool": "B",
+   "en": "Tetsuya: We can't stop the Zekkaiho unless we beat Dark Brain! All guns, concentrate fire on its head!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 431,
+   "pool": "B",
+   "en": "Sean: Quite the treasure chest this Sordian turned out to be.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 432,
+   "pool": "B",
+   "en": "Lefina: But Dark Brain is the only enemy left...! We'll destroy it here, no matter what!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 433,
+   "pool": "B",
+   "en": "Shu: Coming this far was worth the trouble. One of the questions I've long held has been answered.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 434,
+   "pool": "B",
+   "en": "Dark Brain: Then I shall answer your remaining questions as well... Become part of the wisdom that is us.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 435,
+   "pool": "B",
+   "en": "Shu: I have no need... for a second shackle.",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ],
+ "leaf": [
+  14,
+  33
+ ]
+}

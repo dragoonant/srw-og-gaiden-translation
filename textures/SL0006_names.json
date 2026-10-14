@@ -1,0 +1,44 @@
+{
+ "names": [
+  "SL0006"
+ ],
+ "note": "Route select: katakana name tags next to RYUSEI DATE / KYOSUKE NANBU.",
+ "items": [
+  {
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "plain",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "align": "left",
+   "pad": 1,
+   "box": [
+    312,
+    90,
+    416,
+    118
+   ],
+   "en": "Ryusei"
+  },
+  {
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "plain",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "align": "left",
+   "pad": 1,
+   "box": [
+    312,
+    128,
+    419,
+    160
+   ],
+   "en": "Kyosuke"
+  }
+ ]
+}

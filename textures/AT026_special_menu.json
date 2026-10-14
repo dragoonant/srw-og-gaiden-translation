@@ -1,0 +1,127 @@
+{
+ "names": [
+  "AT026",
+  "AT3026"
+ ],
+ "note": "Special Menu items (left column) and battle option labels (right column). Upright items are menu entries, italic ones are labels.",
+ "items": [
+  {
+   "box": [
+    6,
+    4,
+    150,
+    28
+   ],
+   "en": "Robot Database",
+   "font": "FiraSansCondensed-Bold",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    163,
+    4,
+    251,
+    28
+   ],
+   "en": "Support Atk",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "align": "center"
+  },
+  {
+   "box": [
+    5,
+    36,
+    170,
+    60
+   ],
+   "en": "Character Dictionary",
+   "font": "FiraSansCondensed-Bold",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    193,
+    36,
+    240,
+    60
+   ],
+   "en": "Ship",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "align": "center"
+  },
+  {
+   "box": [
+    4,
+    68,
+    90,
+    92
+   ],
+   "en": "Glossary",
+   "font": "FiraSansCondensed-Bold",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    5,
+    100,
+    168,
+    124
+   ],
+   "en": "Sound Select",
+   "font": "FiraSansCondensed-Bold",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    5,
+    132,
+    128,
+    156
+   ],
+   "en": "Demo Select",
+   "font": "FiraSansCondensed-Bold",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    4,
+    164,
+    103,
+    188
+   ],
+   "en": "Tips Q&A",
+   "font": "FiraSansCondensed-Bold",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    5,
+    196,
+    168,
+    220
+   ],
+   "en": "Scenario Chart",
+   "font": "FiraSansCondensed-Bold",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    47,
+    228,
+    131,
+    253
+   ],
+   "en": "System",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "size": 21
+  }
+ ]
+}

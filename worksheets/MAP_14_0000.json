@@ -1,0 +1,2642 @@
+{
+ "file": "MAP.BIN/14/0",
+ "format": "LOGO",
+ "strings": [
+  {
+   "id": 0,
+   "pool": "B",
+   "en": "Kusuha: Thanks for all your hard work, everyone. Get some good rest, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "pool": "B",
+   "en": "Bullet: There's a lot going on this time, so there's no way to clear it all in one go...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "pool": "B",
+   "en": "Kusuha: Hey, Bullet, how many hours a day do you play Super Robot Wars?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "pool": "B",
+   "en": "Bullet: Hmm... Just listening to the quit messages takes about four hours, I think...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "pool": "B",
+   "en": "Kusuha: Huh, that's kind of amazing. You really play a lot.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "pool": "B",
+   "en": "Bullet: Nah, I'm nothing compared to Masaki.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "pool": "B",
+   "en": "Bullet: Plus, I hear he clears it fast enough to put Cybuster to shame.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "pool": "B",
+   "en": "Kusuha: Huh... Is that so.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "pool": "B",
+   "en": "Lüne: Finally taking a break? Then let's get some exercise, exercise! Come on, like those two over there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "pool": "B",
+   "en": "Sänger: Brooklyn, join me for training.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "pool": "B",
+   "en": "Bullet: Yes, Major!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "pool": "B",
+   "en": "Sänger: Here we go! Ten thousand strikes!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "pool": "B",
+   "en": "Bullet: Yes, sir!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "pool": "B",
+   "en": "Lüne: ...Okay, that's a bit of an extreme example... But not getting enough exercise is bad for you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "pool": "B",
+   "en": "Lüne: Come on, everybody, do 1,000 push-ups with me! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "pool": "B",
+   "en": "Kuro: ...Lüne's got no room to talk about other people, meow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "pool": "B",
+   "en": "Rio: ...I lost to Ryoto in simulator training again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "pool": "B",
+   "en": "Ryoto: Y-You don't need to worry about it that much. That last set was looking pretty good...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "pool": "B",
+   "en": "Rio: Ugh... Ryoto, one more round!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "pool": "B",
+   "en": "Ryoto: Whaaat!? But I thought we agreed on twenty sets...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "pool": "B",
+   "en": "Rio: Then this time... cooking! Yes, a cooking contest!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "pool": "B",
+   "en": "Ryoto: Whaaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "pool": "B",
+   "en": "Rio: I'll never lose when it comes to cooking! It's decided! Let's go to the kitchen right now!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "pool": "B",
+   "en": "Ryoto: Th-Then... how about a bread-baking contest instead?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "pool": "B",
+   "en": "Rio: Huh? Bread? Ryoto, you bake bread?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "pool": "B",
+   "en": "Ryoto: Y-Yeah. Well... lately, anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "pool": "B",
+   "en": "Rio: Th-That's news to me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "pool": "B",
+   "en": "Tasuku: Hey, Leona, you're Elzam's cousin, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "pool": "B",
+   "en": "Leona: Yes. What about it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "pool": "B",
+   "en": "Tasuku: So how's the food he makes?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "pool": "B",
+   "en": "Leona: It's quite delicious, I'll have you know.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "pool": "B",
+   "en": "Tasuku: Then how come the food you make is so... you know?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "pool": "B",
+   "en": "Leona: I-I am making an effort.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "pool": "B",
+   "en": "Tasuku: Nahaha, so is that for my sake, by any chance?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "pool": "B",
+   "en": "Leona: ...I-I'll shoot you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "pool": "B",
+   "en": "Shu: Oh, finished already? Then allow me to share a little piece of valuable information with you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "pool": "B",
+   "en": "Shu: In truth, this time the game's difficulty changes depending on how many times you save while playing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "pool": "B",
+   "en": "Shu: The more you timidly save, the harder later stages become... Heh... It's already too late for you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "pool": "B",
+   "en": "Shu: I jest, of course... Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "pool": "B",
+   "en": "Ryusei: Phew, done and done!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "pool": "B",
+   "en": "Aya: Heh, thanks for your hard work, everyone. Get some good rest, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "pool": "B",
+   "en": "Ryusei: Oh yeah, you hear? Looks like we're gonna be in an anime!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "pool": "B",
+   "en": "Aya: What? Really!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "pool": "B",
+   "en": "Ryusei: And it's a robot anime! Woo-hoo, awesome!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "pool": "B",
+   "en": "Aya: But all that shouting sounds like hard work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "pool": "B",
+   "en": "Ryusei: What're you saying, Aya!? This means we might even get into the Super Robot Wars games!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "pool": "B",
+   "en": "Rai: ...We're already in them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "pool": "B",
+   "en": "Ryusei: Huh? Rai... You were here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "pool": "B",
+   "en": "Levi: Heh heh heh... Finished, are you? Then submit to my army or turn off the power here... Choose.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "pool": "B",
+   "en": "Shiro: You can't talk like that, meow. They won't play again next time, meow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "pool": "B",
+   "en": "Levi: What...? Then what should I do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "pool": "B",
+   "en": "Shiro: Hmm... Let's see, meow... For now, why not try copying me, meow?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "pool": "B",
+   "en": "Levi: Copy you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "pool": "B",
+   "en": "Levi: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "pool": "B",
+   "en": "Levi: ...Finished, meow? Then join us, or turn off the power here... Choose... meow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "pool": "B",
+   "en": "Shiro: ...Well, I guess that'll do, meow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "pool": "B",
+   "en": "Lüne: ...Hey, Masaki. There's something I wanna talk about.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "pool": "B",
+   "en": "Masaki: Wh-What's with the serious tone?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "pool": "B",
+   "en": "Lüne: How long are we gonna stay like this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "pool": "B",
+   "en": "Masaki: Huh? How long? What're you talking about?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "pool": "B",
+   "en": "Lüne: You know, like Kyosuke and Excellen... we should...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "pool": "B",
+   "en": "Masaki: We should...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "pool": "B",
+   "en": "Lüne: Come up with a combo attack.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "pool": "B",
+   "en": "Masaki: A combo attack?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "pool": "B",
+   "en": "Lüne: Yeah. Like Cross Smasher plus Akashic Buster makes Akashic Smasher, or something.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "pool": "B",
+   "en": "Masaki: Hmm, let's see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "pool": "B",
+   "en": "Irm: ...Seriously? You got my hopes up, and that's the punchline?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "pool": "B",
+   "en": "Radha: My, my, everyone seems tired. At times like this, yoga is just the thing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "pool": "B",
+   "en": "Masaki: N-No way in hell! I'm outta here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "pool": "B",
+   "en": "Kuro: Ah, Masaki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "pool": "B",
+   "en": "Shiro: Where are you going, meow!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "pool": "B",
+   "en": "Radha: ...Oh, well. Then I'll teach Kuro and Shiro some yoga instead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "pool": "B",
+   "en": "Shiro: Y-Yoga...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "pool": "B",
+   "en": "Radha: That's right. The cat asana. See, like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "pool": "B",
+   "en": "Shiro: Fnyanyanyaaa!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "pool": "B",
+   "en": "Radha: There, all done.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "pool": "B",
+   "en": "Shiro: ...Fnya? It didn't hurt at all, meow. It was totally normal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "pool": "B",
+   "en": "Kuro: It's the cat asana... Of course it was, meow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "pool": "B",
+   "en": "Eun: Captain, it seems this operation ends here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "pool": "B",
+   "en": "Lefina: I see. Thank you for all your hard work, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "pool": "B",
+   "en": "Eun: C-Captain! What are you wearing...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "pool": "B",
+   "en": "Lefina: Huh? Well, the operation's over, so I thought I'd go to bed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "pool": "B",
+   "en": "Eun: T-To bed...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "pool": "B",
+   "en": "Sean: Hmm... Knowing you, Captain, I was quite certain you'd be the frilly type...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "pool": "B",
+   "en": "Lefina: I-Is this negligee no good...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "pool": "B",
+   "en": "Sean: Not at all. The contrast has its own charm. A feast for the eyes, truly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "pool": "B",
+   "en": "Eun: Um, XO... I don't think that's the part you should be commenting on.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "pool": "B",
+   "en": "Katina: What, it ends here? Boring.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "pool": "B",
+   "en": "Katina: Hey, Russel! Say something funny.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "pool": "B",
+   "en": "Russel: Wh-Why all of a sudden...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "pool": "B",
+   "en": "Katina: If I don't laugh, you get a hundred lashes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "pool": "B",
+   "en": "Russel: Ugh...! O-Okay, here goes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "pool": "B",
+   "en": "Russel: ...I win this bout. Victory's mine, Ka-tina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "pool": "B",
+   "en": "Katina: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "pool": "B",
+   "en": "Russel: I-I knew it wouldn't work...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "pool": "B",
+   "en": "Katina: You bastard...! Since when am I YOURS?! Huh?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "pool": "B",
+   "en": "Russel: Huh?! N-No, that's not what I meant!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "pool": "B",
+   "en": "Gilliam: ...Hm? What's this?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "pool": "B",
+   "en": "Gilliam: Why am I in a place like this...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "pool": "B",
+   "en": "Gilliam: Say a few words?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "pool": "B",
+   "en": "Gilliam: Hmm... Let me see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "pool": "B",
+   "en": "Gilliam: Don't forget to check out Hero Senki too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "pool": "B",
+   "en": "Gilliam: ...Wait, maybe I shouldn't have said that...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "pool": "B",
+   "en": "Albero: As captain of the Cry Wolves, I have something to tell you all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "pool": "B",
+   "en": "Albero: A death may carry some meaning for others.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "pool": "B",
+   "en": "Albero: But to oneself, it is meaningless. There is nothing to be learned from your own death.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "pool": "B",
+   "en": "Albero: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "pool": "B",
+   "en": "Albero: That said, there are exceptions. Don't forget to save often during missions. ...That is all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "pool": "B",
+   "en": "Gilliam: What? A few words here? As I said before, I'm not very good at this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "pool": "B",
+   "en": "Gilliam: Very well. Here goes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "pool": "B",
+   "en": "Gilliam: Ahem, please enjoy Super Hero Operations too... Wait, I wasn't even in that one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "pool": "B",
+   "en": "Lüne: Finally taking a break? Then let's get some exercise, exercise! Come on, like those two over there!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "pool": "B",
+   "en": "Sänger: Brooklyn, join me for training.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "pool": "B",
+   "en": "Bullet: Yes, Major!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "pool": "B",
+   "en": "Sänger: Here we go! Ten thousand strikes!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "pool": "B",
+   "en": "Bullet: Yes, sir!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "pool": "B",
+   "en": "Lüne: ...Okay, that's a bit of an extreme example... But not getting enough exercise is bad for you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "pool": "B",
+   "en": "Lüne: Come on, everybody, do 1,000 push-ups with me! Let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "pool": "B",
+   "en": "Kuro: ...Lüne's got no room to talk about other people, meow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "pool": "B",
+   "en": "Rio: ...I lost to Ryoto in simulator training again...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "pool": "B",
+   "en": "Ryoto: Y-You don't need to worry about it that much. That last set was looking pretty good...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "pool": "B",
+   "en": "Rio: Ugh... Ryoto, one more round!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "pool": "B",
+   "en": "Ryoto: Whaaat!? But I thought we agreed on twenty sets...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "pool": "B",
+   "en": "Rio: Then this time... cooking! Yes, a cooking contest!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "pool": "B",
+   "en": "Ryoto: Whaaaat!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "pool": "B",
+   "en": "Rio: I'll never lose when it comes to cooking! It's decided! Let's go to the kitchen right now!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "pool": "B",
+   "en": "Ryoto: Th-Then... how about a bread-baking contest instead?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "pool": "B",
+   "en": "Rio: Huh? Bread? Ryoto, you bake bread?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "pool": "B",
+   "en": "Ryoto: Y-Yeah. Well... lately, anyway.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "pool": "B",
+   "en": "Rio: Th-That's news to me...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "pool": "B",
+   "en": "Shu: Oh, finished already? Then allow me to share a little piece of valuable information with you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "pool": "B",
+   "en": "Shu: In truth, this time the game's difficulty changes depending on how many times you save while playing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "pool": "B",
+   "en": "Shu: The more you timidly save, the harder later stages become... Heh... It's already too late for you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "pool": "B",
+   "en": "Shu: I jest, of course... Heh heh heh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "pool": "B",
+   "en": "Carla: Phew, all done, all done. Time for a coffee break!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "pool": "B",
+   "en": "Yuuki: Wrong. It's tea time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "pool": "B",
+   "en": "Carla: Same difference. Anyway, break time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "pool": "B",
+   "en": "Yuuki: ...Wait. What are you doing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "pool": "B",
+   "en": "Carla: \"Wait\"? It's just what it looks like.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "pool": "B",
+   "en": "Carla: I'm making tea with a tea bag.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "pool": "B",
+   "en": "Yuuki: S-Stop that. If you're going to brew tea, follow the proper steps...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "pool": "B",
+   "en": "Carla: Oh, come on! If we do it your way, we'll be here all day.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "pool": "B",
+   "en": "Carla: Well then, everyone! See ya later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "pool": "B",
+   "en": "Shine: So this is the end. But parting here is so lonely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "pool": "B",
+   "en": "Shine: If you could, I'd be delighted if you played it straight through... I mean, all in one go...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "pool": "B",
+   "en": "Latune: Princess Shine, some people are busy and don't have the time...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "pool": "B",
+   "en": "Shine: Y-You're right. Then please, do have a good rest.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "pool": "B",
+   "en": "Latune: We hope to see you again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "pool": "B",
+   "en": "Shine: And so, your hosts until now have been Shine Hausen and...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "pool": "B",
+   "en": "Latune: ...L-Latune... Subota...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "pool": "B",
+   "en": "Shine: Latune, really! That's not how it goes, is it?! Please do it the way we rehearsed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "pool": "B",
+   "en": "Latune: ...Y-Yes...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "pool": "B",
+   "en": "Shine: Now then, once more from the top!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "pool": "B",
+   "en": "Shine: ...Your hosts until now have been Shine Hausen and...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "pool": "B",
+   "en": "Latune: Latune Subota!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "pool": "B",
+   "en": "Shine: And our motto is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "pool": "B",
+   "en": "Shine: Royal Fairyyy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "pool": "B",
+   "en": "Latune: Royal Fairyyy!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "pool": "B",
+   "en": "Latune: ...S-So embarrassing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "pool": "B",
+   "en": "Radha: My, my, everyone seems tired. At times like this, yoga is just the thing...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "pool": "B",
+   "en": "Masaki: N-No way in hell! I'm outta here!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "pool": "B",
+   "en": "Kuro: Ah, Masaki!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "pool": "B",
+   "en": "Shiro: Where are you going, meow!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "pool": "B",
+   "en": "Radha: ...Oh, well. Then I'll teach Kuro and Shiro some yoga instead.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "pool": "B",
+   "en": "Shiro: Y-Yoga...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "pool": "B",
+   "en": "Radha: That's right. The cat asana. See, like this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "pool": "B",
+   "en": "Shiro: Fnyanyanyaaa!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "pool": "B",
+   "en": "Radha: There, all done.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "pool": "B",
+   "en": "Shiro: ...Fnya? It didn't hurt at all, meow. It was totally normal.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "pool": "B",
+   "en": "Kuro: It's the cat asana... Of course it was, meow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "pool": "B",
+   "en": "Viletta: So the operation ends here. ...Good work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "pool": "B",
+   "en": "Aya: Captain, please say a few words.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "pool": "B",
+   "en": "Viletta: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "pool": "B",
+   "en": "Viletta: I'll leave it to you, Aya.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "pool": "B",
+   "en": "Aya: Wh-What?! Ah! Hey! Where are you going, Captain?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "pool": "B",
+   "en": "Sänger: So it ends here. Very well... Even a warrior needs rest.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "pool": "B",
+   "en": "Rätsel: Sänger, I've made coffee. Take a breather.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "pool": "B",
+   "en": "Sänger: Hm... I'll have some.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "pool": "B",
+   "en": "Sänger: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "pool": "B",
+   "en": "Sänger: Rätsel... This is...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "pool": "B",
+   "en": "Rätsel: Just a few drops of brandy, and this happens...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "pool": "B",
+   "en": "Gilliam: Just as we predicted.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "pool": "B",
+   "en": "Kai: ...You two, quit teasing him.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "pool": "B",
+   "en": "Eun: Captain, it seems this operation ends here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "pool": "B",
+   "en": "Lefina: I see. Thank you for all your hard work, everyone.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "pool": "B",
+   "en": "Eun: C-Captain! What are you wearing...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "pool": "B",
+   "en": "Lefina: Huh? Well, the operation's over, so I thought I'd go to bed...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "pool": "B",
+   "en": "Eun: T-To bed...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "pool": "B",
+   "en": "Sean: Hmm... Knowing you, Captain, I was quite certain you'd be the frilly type...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "pool": "B",
+   "en": "Lefina: I-Is this negligee no good...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "pool": "B",
+   "en": "Sean: Not at all. The contrast has its own charm. A feast for the eyes, truly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "pool": "B",
+   "en": "Eun: Um, XO... I don't think that's the part you should be commenting on.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "pool": "B",
+   "en": "Katina: What, it ends here? Boring.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "pool": "B",
+   "en": "Katina: Hey, Russel! Say something funny.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "pool": "B",
+   "en": "Russel: Wh-Why all of a sudden...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "pool": "B",
+   "en": "Katina: If I don't laugh, you get a hundred lashes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "pool": "B",
+   "en": "Russel: Ugh...! O-Okay, here goes.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "pool": "B",
+   "en": "Russel: ...I win this bout. Victory's mine, Ka-tina!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "pool": "B",
+   "en": "Katina: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "pool": "B",
+   "en": "Russel: I-I knew it wouldn't work...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "pool": "B",
+   "en": "Katina: You bastard...! Since when am I YOURS?! Huh?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "pool": "B",
+   "en": "Russel: Huh?! N-No, that's not what I meant!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "pool": "B",
+   "en": "Fiona: So that's the mission done. Raul, take care of the Excelano's maintenance, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "pool": "B",
+   "en": "Raul: Hold it. What are you gonna do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "pool": "B",
+   "en": "Fiona: I got all sweaty, so I'm going to hit the shower.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "pool": "B",
+   "en": "Raul: What are you talking about? You're helping too!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "pool": "B",
+   "en": "Fiona: I'm counting on you, big bro-ther!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "pool": "B",
+   "en": "Raul: Hey, get back here! Don't call me \"big brother\" only when it suits you!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "pool": "B",
+   "en": "Raji: ...I see, so the game ends here. How truly fascinating.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "pool": "B",
+   "en": "Mizuho: Huh? What's fascinating about it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "pool": "B",
+   "en": "Raul: What's up?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "pool": "B",
+   "en": "Raji: Well, I thought I'd look into the shutdown sequence...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "pool": "B",
+   "en": "Raul: Look into it...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "pool": "B",
+   "en": "Mizuho: You don't mean...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "pool": "B",
+   "en": "Raji: Yes. First, I'll take the hardware apart and...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "pool": "B",
+   "en": "Raul: Whoa! You can't do that!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "pool": "B",
+   "en": "Mizuho: I'm so sorry! I'm so sorry!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "pool": "B",
+   "en": "Raul: W-Well, see you next time! Hey, Raji! Get back here!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "pool": "B",
+   "en": "Tsugumi: That's it for today's game... Ibis, want to go grab something to eat? It's on me today.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "pool": "B",
+   "en": "Ibis: Thanks, Tsugumi! Um... is it okay if one more person comes along? It's a guy, actually...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "pool": "B",
+   "en": "Tsugumi: Ibis inviting a guy? That's a first...! Sure. As a special treat, I'll cover him too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "pool": "B",
+   "en": "Arado: Thanks for the grub, Chief Takakura!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "pool": "B",
+   "en": "Tsugumi: Wait, the guy coming with us is...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "pool": "B",
+   "en": "Ibis: Yep, Arado. We promised to have a contest to see who can eat the most cake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "pool": "B",
+   "en": "Arado: I'm gonna do it! My goal's 30 slices!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "pool": "B",
+   "en": "Ibis: All right! I won't lose either! I'll break right through my limits!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "pool": "B",
+   "en": "Tsugumi: B-Before that, I think my wallet's going to hit its limit...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "pool": "B",
+   "en": "Tsugumi: Princess Shine, I'm terribly sorry for such a forward request, but may I have a look at your dress...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "pool": "B",
+   "en": "Shine: I've heard you're quite knowledgeable about fashion as well, Chief Takakura. If mine will do, please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "pool": "B",
+   "en": "Tsugumi: Oh... These ribbons, these frills, this lace... A young girl's every dream is right here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "pool": "B",
+   "en": "Latune: So you like frilly clothes like these, Chief Takakura.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "pool": "B",
+   "en": "Russel: ...I wonder if Lieutenant Katina would seem a bit more ladylike if she wore clothes like these...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "pool": "B",
+   "en": "Tsugumi: Hmm... I'm not sure, but if you tried to put her in one, she'd be furious, no question. See...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "pool": "B",
+   "en": "Katina: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "pool": "B",
+   "en": "Russel: L-Lieutenant?! Wh-What I just said, um...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "pool": "B",
+   "en": "Shine: Well then, let's leave Lieutenant Katina to Lieutenant Russel and have some tea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "pool": "B",
+   "en": "Latune: Will Lieutenant Russel be all right...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "pool": "B",
+   "en": "Shine: Say, Latune. During battle, I sometimes hear you shouting quite fiercely...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "pool": "B",
+   "en": "Latune: Th-That's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "pool": "B",
+   "en": "Shine: What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "pool": "B",
+   "en": "Latune: Well, um, that's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "pool": "B",
+   "en": "Latune: Try playing around with the settings in Free Battle Mode...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "pool": "B",
+   "en": "Kota: Good work, everyone! Come watch me and the Compati Kaiser kick butt again, okay?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "pool": "B",
+   "en": "Roa: Kota... Use its proper name once in a while.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "pool": "B",
+   "en": "Kota: Like I said, \"Compatible Kaiser\" is way too long.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "pool": "B",
+   "en": "Roa: But you only dropped three letters.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "pool": "B",
+   "en": "Kota: So what? Want me to shorten your name too?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "pool": "B",
+   "en": "Roa: How?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "pool": "B",
+   "en": "Kota: Ugh... Drop three letters and there's nothing left.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "pool": "B",
+   "en": "Kota: Hey, Roa. What were you doing before you came to our world?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "pool": "B",
+   "en": "Roa: Dodgeball.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "pool": "B",
+   "en": "Kota: Huh?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "pool": "B",
+   "en": "Roa: I played soccer and air-boarded too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "pool": "B",
+   "en": "Kota: Wh-What?! Just who are you...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "pool": "B",
+   "en": "Bullet: It's Brooklyn Luckfield's Impression Theater! Now, guess who I'm doing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "pool": "B",
+   "en": "Bullet: Curse the misfortune of having met me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "pool": "B",
+   "en": "Kusuha: Umm... I think that's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "pool": "B",
+   "en": "Excellen: I know! It's Pretty Boy's big brother!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "pool": "B",
+   "en": "Bullet: Wrong! But close! Okay, here's another one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "pool": "B",
+   "en": "Bullet: Hyzol Launcher, fire!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "pool": "B",
+   "en": "Rai: ...Amusing act. Do it again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "pool": "B",
+   "en": "Bullet: Whoa-whoa-whoa! Lieutenant Raidiese!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "pool": "B",
+   "en": "Excellen: Oh, \"close\"... So that's what he meant.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "pool": "B",
+   "en": "Kusuha: Hey, Leona. Got a minute?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "pool": "B",
+   "en": "Leona: What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "pool": "B",
+   "en": "Rio: Leona, you're going out with Tasuku, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "pool": "B",
+   "en": "Leona: And what level of \"going out\" do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "pool": "B",
+   "en": "Rio: Boyfriend and girlfriend, obviously!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "pool": "B",
+   "en": "Leona: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "pool": "B",
+   "en": "Kusuha: Y-You don't have to make that face...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "pool": "B",
+   "en": "Rio: You like Tasuku, don't you?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "pool": "B",
+   "en": "Leona: Wha...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "pool": "B",
+   "en": "Rio: Come on, it's just us girls talking. Well?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "pool": "B",
+   "en": "Leona: Well... I suppose... I don't dislike him, I'll grant you.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "pool": "B",
+   "en": "Kusuha: That's a pretty vague answer...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "pool": "B",
+   "en": "Tasuku: And that's mission complete!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "pool": "B",
+   "en": "Leona: Good work.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "pool": "B",
+   "en": "Tasuku: Hey, hey, right now... it's just the two of us, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "pool": "B",
+   "en": "Leona: It is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "pool": "B",
+   "en": "Tasuku: Then how about a hot kiss?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "pool": "B",
+   "en": "Leona: A-As if I could do something like that in a place like this! Idiot!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "pool": "B",
+   "en": "Tasuku: Then where am I s'posed to do it?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "pool": "B",
+   "en": "Eita: Good work! I'm Eita Nadaka!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "pool": "B",
+   "en": "Eita: I'm an operator for now, but I'm working hard to captain a Space Noah-class ship someday!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "pool": "B",
+   "en": "Eita: Huh? Which ship do I want to captain?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "pool": "B",
+   "en": "Eita: Let's see, if I could, the Hagane...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "pool": "B",
+   "en": "Daitetsu: ...I'm the Hagane's captain.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "pool": "B",
+   "en": "Eita: O-Of course, sir!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "pool": "B",
+   "en": "Eita: Then the Kurogane...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "pool": "B",
+   "en": "Tetsuya: I'm the Kurogane's captain... some of the time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "pool": "B",
+   "en": "Eita: Then the Shirogane...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "pool": "B",
+   "en": "Lee: ...Greenhorn. A million years too early.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "pool": "B",
+   "en": "Eita: Th-Then which one CAN I have?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "pool": "B",
+   "en": "Tetsuya: Hmm, let's see...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "pool": "B",
+   "en": "Daitetsu: ...The Megane. Your glasses.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "pool": "B",
+   "en": "Tetsuya: Oh! I see.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "pool": "B",
+   "en": "Eita: M-Megane?! What hull number is that supposed to be?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "pool": "B",
+   "en": "Ouka: Looks like we're taking a break here. Seolla, why don't we have a bath while we can?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "pool": "B",
+   "en": "Seolla: Yes, Sister.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "pool": "B",
+   "en": "Ouka: Well then, let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "pool": "B",
+   "en": "Arado: Man, I'm beat. Looks like there's time, so maybe I'll go grab a quick bath.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "pool": "B",
+   "en": "Seolla: Kyaaah! Mister Arado, you pervert!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "pool": "B",
+   "en": "Arado: Huh?! Mister?! Why are you calling me Mister?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "pool": "B",
+   "en": "Ibis: Done, done! Tsugumi, what's today's snack?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "pool": "B",
+   "en": "Tsugumi: Takakura-brand cheesecake, with orange sauce.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "pool": "B",
+   "en": "Ibis: Yay! I call dibs on half the cake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "pool": "B",
+   "en": "Tsugumi: Sure. Once you finish the training regimen I put together.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "pool": "B",
+   "en": "Ibis: I'll do anything for cake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "pool": "B",
+   "en": "Ibis: ...So, here's a proposal. If I do double the training, can I eat double the snacks?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "pool": "B",
+   "en": "Tsugumi: Heh, yes, yes. ...At this rate, I'm less a coach than a pet owner...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "pool": "B",
+   "en": "Ibis: Everyone watching, good luck with your studies and your work. See you later!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "pool": "B",
+   "en": "Tsugumi: Now, Ibis... once the game's over, it's training time.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "pool": "B",
+   "en": "Ibis: OK! Anti-G training, mental training, classroom work... I'll do anything!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "pool": "B",
+   "en": "Tsugumi: Nope. Today's lesson is this...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "pool": "B",
+   "en": "Ibis: Ugh, don't tell me...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "pool": "B",
+   "en": "Tsugumi: Let's limbo!! Now, as defending champion, let's aim for even greater heights...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "pool": "B",
+   "en": "Tsugumi: Or in this case, even lower ones!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "pool": "B",
+   "en": "Ibis: Ugh, ugh... Fine...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "pool": "B",
+   "en": "Tsugumi: Everyone watching, find your own strengths and work hard to develop them.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "pool": "B",
+   "en": "Tsugumi: And so, everyone...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "pool": "B",
+   "en": "Tsugumi: See you again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "pool": "B",
+   "en": "Ibis: See you again!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "pool": "B",
+   "en": "Arado: Oh? Break time at last, huh?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "pool": "B",
+   "en": "Latune: I don't think we know if it's \"at last\"...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "pool": "B",
+   "en": "Arado: Right. They might've switched the power off by accident.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "pool": "B",
+   "en": "Seolla: Then they wouldn't get to see the quit message.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "pool": "B",
+   "en": "Arado: Huh? Is that how it works?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "pool": "B",
+   "en": "Seolla: Have you even read the manual?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "pool": "B",
+   "en": "Arado: Uh, um... Actually, I'm just winging it as I go...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "pool": "B",
+   "en": "Latune: I think you should read the manual carefully before you play...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "pool": "B",
+   "en": "Arado: Y-Yeah, yeah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "pool": "B",
+   "en": "Seolla: That's all for now from Seolla Schweizer and...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "pool": "B",
+   "en": "Latune: Latune Subbota...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "pool": "B",
+   "en": "Arado: And Arado Balanga!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "pool": "B",
+   "en": "Seolla: See you next time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "pool": "B",
+   "en": "Arado: Bye-bye!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "pool": "B",
+   "en": "Latune: Bye-bye!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "pool": "B",
+   "en": "Seolla: .!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "pool": "B",
+   "en": "Arado: Huh? Not \"G Again\"?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "pool": "B",
+   "en": "Lamia: Ending already... It's no concern of mine. Do as you please.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "pool": "B",
+   "en": "Axel: Heh... You don't really mean to end it like that?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "pool": "B",
+   "en": "Axel: ...Just a doll after all, W17. Can't even give a proper sign-off, this one.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "pool": "B",
+   "en": "Lamia: ...Captain. Understood, I'll try.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "pool": "B",
+   "en": "Lamia: And so, ladies and gentlemanses, the day is most auspiciously fine.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "pool": "B",
+   "en": "Lamia: I too am being sad about farewells, or kinda sorta doing so, or not doing so, so it is.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "pool": "B",
+   "en": "Lamia: Therefore, I most humbly beseech the continuing again soon-like, if you would be so pleasing!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "pool": "B",
+   "en": "Lamia: ...That is all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "pool": "B",
+   "en": "Axel: ...My mistake. Just talk normally.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "pool": "B",
+   "en": "Lamia: Understood. ...Until next time, play as you see fit.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "pool": "B",
+   "en": "Lamia: That's a promise between Lamia Loveless and you...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "pool": "B",
+   "en": "Axel: Hm? Hey, aren't you going a little haywire again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "pool": "B",
+   "en": "Excellen: Oh, done? Then, Kyosuke, just like we rehearsed!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "pool": "B",
+   "en": "Kyosuke: .........",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "pool": "B",
+   "en": "Kyosuke: Roar, Revolving Staaaake! And behold! A raging storm of romance...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "pool": "B",
+   "en": "Kyosuke: Next time on Super Robot Taisen OG!! My Alt slices through the skies of love and sorrow!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "pool": "B",
+   "en": "Kyosuke: See you in hell, my friend...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "pool": "B",
+   "en": "Axel: ...Beowulf. Since when were you that kind of character?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "pool": "B",
+   "en": "Kyosuke: ...Tasuku cleaned me out at cards. I'm broke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "pool": "B",
+   "en": "Axel: What? ...I'm not following.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "pool": "B",
+   "en": "Excellen: Simply put, I'm lending him money, but lending it for nothing would be no fun, right?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "pool": "B",
+   "en": "Axel: I get it. You lend it if he does as you say... that's the deal, is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "pool": "B",
+   "en": "Excellen: That's the idea.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "pool": "B",
+   "en": "Excellen: Come on, no interrupting! Kyosuke, take it from the top!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "pool": "B",
+   "en": "Kyosuke: Roar, Revolving Staaaake!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "pool": "B",
+   "en": "Axel: ...Pay off that debt before the next session, Beowulf.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "pool": "B",
+   "en": "Alchemie: A little rest... I see. Then, everyone, I bid you good day.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "pool": "B",
+   "en": "Excellen: That's kinda plain, Alchemie. You need a little more, y'know, trendy flair.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "pool": "B",
+   "en": "Alchemie: Trendy...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "pool": "B",
+   "en": "Alchemie: Understood. I shall... give it my very best.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "pool": "B",
+   "en": "Kyosuke: Wait. Don't \"understood\" me. What are you planning?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "pool": "B",
+   "en": "Alchemie: First, in front of everyone, I'm all lovey-dovey with Kyosuke.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "pool": "B",
+   "en": "Kyosuke: ...What?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "pool": "B",
+   "en": "Alchemie: But... when we're alone, I treat him terribly cruelly and coldly, you see?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "pool": "B",
+   "en": "Excellen: Wow, totally different in public and in private! That's our Alchemie! So on top of the trends!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "pool": "B",
+   "en": "Alchemie: I have been doing my studies properly.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "pool": "B",
+   "en": "Kyosuke: ...I don't know much about it, but shouldn't that be the other way around?",
+   "kind": "dialogue",
+   "keep": false
+  }
+ ],
+ "leaf": [
+  14,
+  0
+ ]
+}

@@ -1,0 +1,465 @@
+{
+ "file": "MAP.BIN/14/42",
+ "format": "LOGO",
+ "strings": [
+  {
+   "id": 0,
+   "pool": "A",
+   "en": "",
+   "kind": "label",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "pool": "A",
+   "en": "???: Mission failed... huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "pool": "A",
+   "en": "Ibis: I-I knew it... I just can't do this...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "pool": "A",
+   "en": "Ibis: With my skills as they are... this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "pool": "A",
+   "en": "Aya: Ah...! I have to eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "pool": "A",
+   "en": "Arado: Dammit! You won't get me next time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "pool": "A",
+   "en": "Alchemie: Is this... the end...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "pool": "A",
+   "en": "Irm: Tch!! The curtain's coming down early!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "pool": "A",
+   "en": "Viletta: Time to pull out...! I'm ejecting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "pool": "A",
+   "en": "Excellen: Oh dear... How embarrassing, honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "pool": "A",
+   "en": "Excellen: Oh dear... How embarrassing, honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "pool": "A",
+   "en": "Ouka: Lato... Arado... Seolla... I'm sorry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "pool": "A",
+   "en": "Carla: I've gotta eject...! Sorry, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "pool": "A",
+   "en": "Carla: I've gotta eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "pool": "A",
+   "en": "Kai: Kh! So this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "pool": "A",
+   "en": "Katina: Screwing up in a place like this...! This sucks...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "pool": "A",
+   "en": "Kyosuke: I messed up...! Have to bail out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "pool": "A",
+   "en": "Kyosuke: I messed up...! Have to bail out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "pool": "A",
+   "en": "Gilliam: Kh! I'm ejecting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "pool": "A",
+   "en": "Kusuha: I-I'm sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "pool": "A",
+   "en": "Kusuha: I-I'm sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "pool": "A",
+   "en": "Shine: So this is... the end for me, it seems...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "pool": "A",
+   "en": "Shu: To think the Granzon... would be shot down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "pool": "A",
+   "en": "Sleigh: Curse you...! I won't forget this humiliation...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "pool": "A",
+   "en": "Seolla: N-Next time... for sure!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "pool": "A",
+   "en": "Sänger: Ngh...! So this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "pool": "A",
+   "en": "Daitetsu: All hands, abandon ship! Hurry!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "pool": "A",
+   "en": "Tasuku: Dammit! How pathetic...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "pool": "A",
+   "en": "Tsugumi: N-No way...!! We're being shot down...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "pool": "A",
+   "en": "Tetsuya: All hands, abandon ship! Now!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "pool": "A",
+   "en": "Fiona: Looks like... I got careless...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "pool": "A",
+   "en": "Bullet: Getting taken down in a place like this... I'm still too green...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "pool": "A",
+   "en": "Bullet: Getting taken down in a place like this... I'm still too green...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "pool": "A",
+   "en": "Mai: I-Is this... the end...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "pool": "A",
+   "en": "Masaki: Sorry! I'm gonna have to drop out...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "pool": "A",
+   "en": "Yuuki: Was I careless...? I'll be withdrawing for now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "pool": "A",
+   "en": "Yuuki: Was I careless...? I'll be withdrawing for now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "pool": "A",
+   "en": "Radha: N-Not here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "pool": "A",
+   "en": "Rai: Tch...! It can't hold out any longer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "pool": "A",
+   "en": "Raul: This... this can't be happening...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "pool": "A",
+   "en": "Russel: I'm sorry! I'm ejecting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "pool": "A",
+   "en": "Latune: So this... is the end...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "pool": "A",
+   "en": "Lamia: I shall be ejecting, it is... Kh...! I can't even keep up appearances...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "pool": "A",
+   "en": "Lamia: Am I going down...? In a place like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "pool": "A",
+   "en": "Lee: I-Impossible...! My... MY ship...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "pool": "A",
+   "en": "Rio: I-I won't lose next time!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "pool": "A",
+   "en": "Rishu: Nngh! Did I blunder...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "pool": "A",
+   "en": "Ryusei: D-Dammit! They got me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "pool": "A",
+   "en": "Lüne: I'm sorry, Valsione...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "pool": "A",
+   "en": "Ryoto: Kh...! I have to eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "pool": "A",
+   "en": "Ling: Tch! Me, of all people...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "pool": "A",
+   "en": "Rätsel: So I, too, am still lacking...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "pool": "A",
+   "en": "Leona: How humiliating...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "pool": "A",
+   "en": "Lefina: A-All hands! Abandoning ship is top priority...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "pool": "A",
+   "en": "Sleigh: Impossible...! I refuse to accept this outcome!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "pool": "A",
+   "en": "Axel: Kuh! So this is as far as I go...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "pool": "A",
+   "en": "Lefina: A-All hands! Abandoning ship is top priority...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "pool": "A",
+   "en": "Kota: Dammit...! So this is as far as I go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "pool": "A",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "pool": "A",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "pool": "A",
+   "en": "Albero: Raaaaaagh!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "pool": "A",
+   "en": "Hugo: Waaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "pool": "A",
+   "en": "Foglia: Waaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "pool": "A",
+   "en": "Folka: Ughaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 0,
+   "pool": "B",
+   "en": "\"Earth Route\"\n\"Space Route\"",
+   "kind": "text",
+   "keep": false
+  }
+ ],
+ "leaf": [
+  14,
+  42
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "names": [
+  "AT027"
+ ],
+ "note": "Attack type labels shown in battle prep.",
+ "items": [
+  {
+   "box": [
+    22,
+    5,
+    108,
+    28
+   ],
+   "en": "Focus Attack",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    21,
+    36,
+    107,
+    60
+   ],
+   "en": "ALL Attack",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    18,
+    68,
+    108,
+    92
+   ],
+   "en": "Single Attack",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "size": 21,
+   "align": "center"
+  },
+  {
+   "box": [
+    2,
+    100,
+    127,
+    124
+   ],
+   "en": "Double Attack",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "size": 21,
+   "align": "center"
+  }
+ ]
+}

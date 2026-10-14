@@ -1,0 +1,203 @@
+{
+ "names": [
+  "AT2000"
+ ],
+ "note": "Special-disk menu titles (glow).",
+ "items": [
+  {
+   "box": [
+    9,
+    7,
+    131,
+    31
+   ],
+   "en": "Manage Units",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    137,
+    6,
+    249,
+    33
+   ],
+   "en": "Manage Data",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    7,
+    38,
+    115,
+    64
+   ],
+   "en": "Manage Cards",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    121,
+    39,
+    168,
+    63
+   ],
+   "en": "Move",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    174,
+    40,
+    254,
+    61
+   ],
+   "en": "Disk",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    7,
+    70,
+    136,
+    95
+   ],
+   "en": "Use Points",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    143,
+    73,
+    251,
+    94
+   ],
+   "en": "Manage Data",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    7,
+    103,
+    134,
+    127
+   ],
+   "en": "Exit Disk",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    139,
+    104,
+    241,
+    126
+   ],
+   "en": "Manage Cards",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    7,
+    134,
+    189,
+    160
+   ],
+   "en": "Mission Scenario",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    6,
+    164,
+    189,
+    190
+   ],
+   "en": "Free Battle Mode",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    5,
+    195,
+    194,
+    221
+   ],
+   "en": "Shuffle Battler",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    201,
+    198,
+    243,
+    219
+   ],
+   "en": "Use",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    5,
+    226,
+    131,
+    251
+   ],
+   "en": "Library",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  },
+  {
+   "box": [
+    135,
+    228,
+    254,
+    250
+   ],
+   "en": "Manage Units",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 20
+  }
+ ]
+}

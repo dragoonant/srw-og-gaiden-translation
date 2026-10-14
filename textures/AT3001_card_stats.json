@@ -1,0 +1,75 @@
+{
+ "names": [
+  "AT3001"
+ ],
+ "note": "Shuffle Battler: 攻撃 next to 2P/3P/4P; card stats 攻撃力 / HP回復.",
+ "items": [
+  {
+   "box": [
+    207,
+    36,
+    254,
+    60
+   ],
+   "en": "ATK",
+   "font": "FiraSans-ExtraBoldItalic",
+   "align": "center",
+   "pad": 1,
+   "style": "glow",
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "box": [
+    5,
+    107,
+    59,
+    127
+   ],
+   "en": "ATK",
+   "font": "FiraSans-BoldItalic",
+   "style": "outline",
+   "color": [
+    255,
+    245,
+    200
+   ],
+   "align": "left",
+   "pad": 1,
+   "track": 3,
+   "outline": [
+    172,
+    75,
+    0
+   ],
+   "size": 19
+  },
+  {
+   "box": [
+    63,
+    107,
+    120,
+    126
+   ],
+   "en": "HP REC",
+   "font": "FiraSans-BoldItalic",
+   "style": "outline",
+   "color": [
+    255,
+    245,
+    200
+   ],
+   "align": "left",
+   "pad": 1,
+   "outline": [
+    172,
+    75,
+    0
+   ],
+   "size": 19
+  }
+ ]
+}

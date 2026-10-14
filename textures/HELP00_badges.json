@@ -1,0 +1,146 @@
+{
+ "names": [
+  "HELP00"
+ ],
+ "note": "Help-screen copies of the AT004 command badges.",
+ "items": [
+  {
+   "box": [
+    7,
+    231,
+    25,
+    249
+   ],
+   "bg_col": 7,
+   "en": "ATK",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    39,
+    231,
+    57,
+    249
+   ],
+   "bg_col": 39,
+   "en": "CNT",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    71,
+    231,
+    89,
+    249
+   ],
+   "bg_col": 71,
+   "en": "SUP",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    7,
+    199,
+    25,
+    217
+   ],
+   "bg_col": 7,
+   "en": "DEF",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    103,
+    231,
+    121,
+    249
+   ],
+   "bg_col": 103,
+   "en": "EVD",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    167,
+    231,
+    185,
+    249
+   ],
+   "bg_col": 167,
+   "en": "SUP",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    232,
+    232,
+    232
+   ],
+   "align": "center"
+  }
+ ]
+}

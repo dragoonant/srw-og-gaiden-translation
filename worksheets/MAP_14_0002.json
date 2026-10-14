@@ -1,0 +1,1928 @@
+{
+ "file": "MAP.BIN/14/2",
+ "format": "LOGO",
+ "strings": [
+  {
+   "id": 0,
+   "pool": "A",
+   "en": "",
+   "kind": "label",
+   "keep": true
+  },
+  {
+   "id": 1,
+   "pool": "A",
+   "en": "???: Mission failed... huh...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "pool": "A",
+   "en": "Ibis: I-I knew it... I just can't do this...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "pool": "A",
+   "en": "Ibis: With my skills as they are... this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "pool": "A",
+   "en": "Aya: Ah...! I have to eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "pool": "A",
+   "en": "Arado: Dammit! You won't get me next time!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "pool": "A",
+   "en": "Alchemie: Is this... the end...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "pool": "A",
+   "en": "Irm: Tch!! The curtain's coming down early!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "pool": "A",
+   "en": "Viletta: Time to pull out...! I'm ejecting.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "pool": "A",
+   "en": "Excellen: Oh dear... How embarrassing, honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "pool": "A",
+   "en": "Excellen: Oh dear... How embarrassing, honestly!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "pool": "A",
+   "en": "Ouka: Lato... Arado... Seolla... I'm sorry...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "pool": "A",
+   "en": "Carla: I've gotta eject...! Sorry, everyone!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "pool": "A",
+   "en": "Carla: I've gotta eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "pool": "A",
+   "en": "Kai: Kh! So this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "pool": "A",
+   "en": "Katina: Screwing up in a place like this...! This sucks...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "pool": "A",
+   "en": "Kyosuke: I messed up...! Have to bail out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "pool": "A",
+   "en": "Kyosuke: I messed up...! Have to bail out...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "pool": "A",
+   "en": "Gilliam: Kh! I'm ejecting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "pool": "A",
+   "en": "Kusuha: I-I'm sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "pool": "A",
+   "en": "Kusuha: I-I'm sorry...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "pool": "A",
+   "en": "Shine: So this is... the end for me, it seems...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "pool": "A",
+   "en": "Shu: To think the Granzon... would be shot down...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "pool": "A",
+   "en": "Sleigh: Curse you...! I won't forget this humiliation...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "pool": "A",
+   "en": "Seolla: N-Next time... for sure!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "pool": "A",
+   "en": "Sänger: Ngh...! So this is as far as I go...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "pool": "A",
+   "en": "Daitetsu: All hands, abandon ship! Hurry!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "pool": "A",
+   "en": "Tasuku: Dammit! How pathetic...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "pool": "A",
+   "en": "Tsugumi: N-No way...!! We're being shot down...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "pool": "A",
+   "en": "Tetsuya: All hands, abandon ship! Now!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "pool": "A",
+   "en": "Fiona: Looks like... I got careless...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "pool": "A",
+   "en": "Bullet: Getting taken down in a place like this... I'm still too green...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "pool": "A",
+   "en": "Bullet: Getting taken down in a place like this... I'm still too green...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "pool": "A",
+   "en": "Mai: I-Is this... the end...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "pool": "A",
+   "en": "Masaki: Sorry! I'm gonna have to drop out...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "pool": "A",
+   "en": "Yuuki: Was I careless...? I'll be withdrawing for now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "pool": "A",
+   "en": "Yuuki: Was I careless...? I'll be withdrawing for now...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "pool": "A",
+   "en": "Radha: N-Not here...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "pool": "A",
+   "en": "Rai: Tch...! It can't hold out any longer...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "pool": "A",
+   "en": "Raul: This... this can't be happening...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "pool": "A",
+   "en": "Russel: I'm sorry! I'm ejecting!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "pool": "A",
+   "en": "Latune: So this... is the end...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "pool": "A",
+   "en": "Lamia: I shall be ejecting, it is... Kh...! I can't even keep up appearances...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "pool": "A",
+   "en": "Lamia: Am I going down...? In a place like this...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "pool": "A",
+   "en": "Lee: I-Impossible...! My... MY ship...?!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "pool": "A",
+   "en": "Rio: I-I won't lose next time!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "pool": "A",
+   "en": "Rishu: Nngh! Did I blunder...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "pool": "A",
+   "en": "Ryusei: D-Dammit! They got me!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "pool": "A",
+   "en": "Lüne: I'm sorry, Valsione...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "pool": "A",
+   "en": "Ryoto: Kh...! I have to eject...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "pool": "A",
+   "en": "Ling: Tch! Me, of all people...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "pool": "A",
+   "en": "Rätsel: So I, too, am still lacking...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "pool": "A",
+   "en": "Leona: How humiliating...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "pool": "A",
+   "en": "Lefina: A-All hands! Abandoning ship is top priority...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "pool": "A",
+   "en": "Sleigh: Impossible...! I refuse to accept this outcome!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "pool": "A",
+   "en": "Axel: Kuh! So this is as far as I go...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "pool": "A",
+   "en": "Lefina: A-All hands! Abandoning ship is top priority...!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "pool": "A",
+   "en": "Kota: Dammit...! So this is as far as I go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "pool": "A",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "pool": "A",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "pool": "A",
+   "en": "Albero: Raaaaaagh!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "pool": "A",
+   "en": "Hugo: Waaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "pool": "A",
+   "en": "Foglia: Waaaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "pool": "A",
+   "en": "Folka: Ughaaaah!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 0,
+   "pool": "B",
+   "en": "Near-Earth Space",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "pool": "B",
+   "en": "Transport - Hangar",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "pool": "B",
+   "en": "Hugo: Eric Wang? I've heard that name somewhere.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "pool": "B",
+   "en": "Foglia: He's a member of the Tsentr Project. He used to be at the EOTI Institute and apparently helped design the Granzon.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "pool": "B",
+   "en": "Hugo: The Granzon...? Then he's connected to Shu Shirakawa. That's a big name.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "pool": "B",
+   "en": "Foglia: Word is our next mission is a request from him. Bet it's some rotten job.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "pool": "B",
+   "en": "Hugo: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "pool": "B",
+   "en": "Foglia: Besides, I've got a bad feeling. Especially since we're headed to the White Star.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "pool": "B",
+   "en": "Hugo: But we don't get to choose our operation area. We go where we're told.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "pool": "B",
+   "en": "Foglia: You're so obedient, Hugo. I'm sick of tailing the Kurogane and Hiryu Custom... and spying's not my thing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "pool": "B",
+   "en": "Hugo: Our job right now is cleaning up after their battles and collecting data. Quit complaining.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "pool": "B",
+   "en": "Foglia: Can you blame me? How long are we gonna be errand boys for a bunch of scientists?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "pool": "B",
+   "en": "Hugo: Instead of griping, think about living up to the trust our commander showed by picking you for this mission.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "pool": "B",
+   "en": "Foglia: ...You're such a model student. You'll go far, I'm sure.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "pool": "B",
+   "en": "Hugo: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "pool": "B",
+   "en": "Transport - Cockpit",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "pool": "B",
+   "en": "Albero: The target is the Horned Man...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "pool": "B",
+   "en": "Eric: Mm-hmm. The <Super Robot> they call the Zweibargain, or the Twice-Again, eh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "pool": "B",
+   "en": "Eric: Going over the data you lot gave me, it seems that fellow's carrying that thing, eh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "pool": "B",
+   "en": "Albero: What thing?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "pool": "B",
+   "en": "Eric: Hm? What was it again?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "pool": "B",
+   "en": "Albero: You don't mean a spatial transfer device...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "pool": "B",
+   "en": "Eric: Yes, yes. You're a sharp one, eh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "pool": "B",
+   "en": "Albero: ...And you want it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "pool": "B",
+   "en": "Eric: Would you go to the White Star and fetch it for me?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "pool": "B",
+   "en": "Eric: I won't ask for the whole Zweibargain... The wreckage will do, just the wreckage.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "pool": "B",
+   "en": "Albero: What for?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "pool": "B",
+   "en": "Eric: Mitar and I are thinking of building a weapon that could destroy the Granzon. Ho ho ho!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "pool": "B",
+   "en": "Albero: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "pool": "B",
+   "en": "Eric: You see, if it really wanted to, the Granzon could wipe out the whole Federation Army in a single day.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "pool": "B",
+   "en": "Albero: In one day...? That's hard to believe.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "pool": "B",
+   "en": "Eric: Mm-hmm. Long ago I let something like that slip, and the people around me gave me a terrible thrashing for it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "pool": "B",
+   "en": "Eric: But I helped design the Granzon myself, you know. It's not entirely a lie, eh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "pool": "B",
+   "en": "Albero: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "pool": "B",
+   "en": "Eric: Anyway, if we don't do something about that machine soon, things could get very ugly indeed.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "pool": "B",
+   "en": "Albero: From what I've seen in the records, Shu Shirakawa hasn't taken any notable hostile action since the L5 Campaign.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "pool": "B",
+   "en": "Eric: That's only because his interests happen to line up with ours.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "pool": "B",
+   "en": "Eric: Once he has all the factors he's after, he'll bare his fangs for certain, like... chomp.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "pool": "B",
+   "en": "Albero: And what are those factors?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "pool": "B",
+   "en": "Eric: Hmmm... What were they again? I've gone and forgotten. Ho ho ho!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "pool": "B",
+   "en": "Albero: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "pool": "B",
+   "en": "Eric: In any case, with a transfer device, the Granzon will be easier to beat, eh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "pool": "B",
+   "en": "Albero: Your comparison is hard to swallow, but that machine does outclass all others. ...Can it be destroyed?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "pool": "B",
+   "en": "Eric: Well, if you know the Granzon's secret, eh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "pool": "B",
+   "en": "Albero: Its secret...? What is it?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "pool": "B",
+   "en": "Eric: Hm? Eh? What was it again? Slipped my mind completely. Ho ho ho!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "pool": "B",
+   "en": "Albero: (This man... is he doing this on purpose?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "pool": "B",
+   "en": "Eric: Besides, Shu doesn't seem to mind the idea, eh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "pool": "B",
+   "en": "Albero: ? What do you mean?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "pool": "B",
+   "en": "Eric: He's left me alone, knowing I know the Granzon's secret. Maybe he's actually waiting, eh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "pool": "B",
+   "en": "Albero: I'm asking what you mean by...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "pool": "B",
+   "en": "Eric: Well then, I'm counting on you with that Twice-Again business. Ho ho ho!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "pool": "B",
+   "en": "Albero: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "pool": "B",
+   "en": "Albero: (Horned Man... a Shadow Mirror <Super Robot> that's often faced the Hagane and Hiryu Custom. A big prize.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "pool": "B",
+   "en": "Albero: (He certainly works us hard. Just like Foglia said, we're his dogs.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "pool": "B",
+   "en": "Hugo: White Star entry point, tally-ho.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "pool": "B",
+   "en": "Albero: ...No enemy units in sight.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "pool": "B",
+   "en": "Hugo: Judging by the ESW source, the fighting has most likely moved inside the White Star already.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "pool": "B",
+   "en": "Albero: (Kai... are you in there, fighting the Inspectors and Shadow Mirror?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "pool": "B",
+   "en": "Albero: I'll trace the Kurogane's course. All units, stand by.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "pool": "B",
+   "en": "Hugo: Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "pool": "B",
+   "en": "Foglia: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "pool": "B",
+   "en": "Hugo: What's wrong, Foglia?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "pool": "B",
+   "en": "Foglia: I... No, it's nothing.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "pool": "B",
+   "en": "Foglia: More importantly, don't you think it's way too quiet out here for a final battle going on inside?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "pool": "B",
+   "en": "Hugo: Yeah... And I've been picking up a strange wave pattern for a while now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "pool": "B",
+   "en": "Foglia: This isn't... the ripple from an explosion or a moving object.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "pool": "B",
+   "en": "Albero: Hm...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "pool": "B",
+   "en": "Hugo: This reading...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "pool": "B",
+   "en": "Hugo: It's a Cosmolion and a Series 77...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "pool": "B",
+   "en": "Foglia: The one called the Calion, right? What're they doing here?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "pool": "B",
+   "en": "Sleigh: ...Federation Gespensts.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "pool": "B",
+   "en": "Unidentified Soldier: They don't look like reinforcements for the Kurogane or Hiryu Custom. What should we do?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "pool": "B",
+   "en": "Sleigh: We continue searching for the Shirogane. ...Let's go.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "pool": "B",
+   "en": "Unidentified Soldier: Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "pool": "B",
+   "en": "Foglia: Whoa, they just left. What'd they even come here for?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "pool": "B",
+   "en": "Albero: (So we're not the only ones moving in the shadows.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "pool": "B",
+   "en": "Albero: Wolf 1 to all units. We're going inside the White Star.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "pool": "B",
+   "en": "Albero: The waves along our course are rough. Don't get thrown out of the area.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "pool": "B",
+   "en": "Hugo: Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "pool": "B",
+   "en": "Albero: All right, let's go!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "pool": "B",
+   "en": "Foglia: Hugo! What about Hario and Karim!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "pool": "B",
+   "en": "Hugo: Still on the fifth layer! The enemy's got them pinned down!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "pool": "B",
+   "en": "Albero: Wolf 5 and Wolf 7 will secure our escape route.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "pool": "B",
+   "en": "Albero: Wolves 2, 3 and 4, infiltrate the core via Route B.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "pool": "B",
+   "en": "Albero: Wolf 8, Wolf 9, you're with me.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "pool": "B",
+   "en": "Hugo: Wolf 8, roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "pool": "B",
+   "en": "Foglia: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "pool": "B",
+   "en": "Albero: What's wrong, Wolf 9?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "pool": "B",
+   "en": "Foglia: ...This mission's the same as the last one. They want us to bring back the enemy leader's head...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "pool": "B",
+   "en": "Foglia: Not destroy it, capture it. What are they thinking... those people in the Tsentr Project?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "pool": "B",
+   "en": "Hugo: Foglia...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "pool": "B",
+   "en": "Albero: We're in the middle of an operation. Focus on completing the mission.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "pool": "B",
+   "en": "Foglia: Don't you have doubts, Captain? About the orders from Mitar and Eric?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "pool": "B",
+   "en": "Albero: ...Wolf 9, I'm changing your orders. Fall back and join up with Wolf 5.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "pool": "B",
+   "en": "Foglia: Captain!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "pool": "B",
+   "en": "Albero: I can't take anyone with doubts any farther than this.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "pool": "B",
+   "en": "Albero: No, more than that... it seems bringing you on this mission was a mistake.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "pool": "B",
+   "en": "Foglia: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "pool": "B",
+   "en": "Albero: Fall back, Wolf 9.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "pool": "B",
+   "en": "Hugo: Captain, with only two units, capturing the Hornedman could take longer than planned.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "pool": "B",
+   "en": "Hugo: Besides, I can't back you up on my own...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "pool": "B",
+   "en": "Foglia: That's enough, Hugo. ...Wolf 9, falling back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "pool": "B",
+   "en": "Hugo: We're surrounded!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "pool": "B",
+   "en": "Albero: We'll break through their encirclement and push into the core!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "pool": "B",
+   "en": "Albero: Don't fall behind, Wolf 8!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "pool": "B",
+   "en": "Hugo: Roger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "pool": "B",
+   "en": "Foglia: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "pool": "B",
+   "en": "Hugo: Foglia, it's dangerous to go off alone! Come with us!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "pool": "B",
+   "en": "Foglia: R-Right!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "pool": "B",
+   "en": "1. Get an ally unit to the designated point.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "pool": "B",
+   "en": "1. Any allied unit is shot down.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "pool": "B",
+   "en": "- Fulfill the victory condition within 4 turns.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "pool": "B",
+   "en": "- None.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "pool": "B",
+   "en": "Skill Points obtained.\nAll allied pilots get PP +5.",
+   "kind": "sysmsg",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "pool": "B",
+   "en": "- None.",
+   "kind": "objective",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "pool": "B",
+   "en": "Albero: Hm? What's that...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "pool": "B",
+   "en": "Albero: Wreckage... from a Super Robot?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "pool": "B",
+   "en": "Hugo: Could it be the Hornedman?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "pool": "B",
+   "en": "Albero: No, it looks similar, but that's...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "pool": "B",
+   "en": "Foglia: Ugh!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "pool": "B",
+   "en": "Hugo: Wh-What was that!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "pool": "B",
+   "en": "Albero: An explosion in the core...!? No, these readings!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "pool": "B",
+   "en": "Foglia: G-Gravity quake readings! A big one!!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "pool": "B",
+   "en": "Hugo: Don't tell me the White Star is...!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "pool": "B",
+   "en": "Albero: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "pool": "B",
+   "en": "Albero: Wolf 1 to all units! Evacuate the White Star immediately!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "pool": "B",
+   "en": "Hugo: Captain, what about us!?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "pool": "B",
+   "en": "Albero: We recover as much of that Super Robot's wreckage as we can! Then we get out!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "pool": "B",
+   "en": "Hugo: R-Roger!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "pool": "B",
+   "en": "Earth Cradle",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "pool": "B",
+   "en": "Earth Cradle - Interior",
+   "kind": "location",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "pool": "B",
+   "en": "Mitar: The <White Star> has vanished?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "pool": "B",
+   "en": "Eric: Mm-hm.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "pool": "B",
+   "en": "Mitar: Did it explode?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "pool": "B",
+   "en": "Eric: According to the Cry Wolves' report, it seems to have teleported.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "pool": "B",
+   "en": "Mitar: Teleported? To where?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "pool": "B",
+   "en": "Eric: Who can say? Only God's nose, as they say.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "pool": "B",
+   "en": "Mitar: God's nose...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "pool": "B",
+   "en": "Eric: Er, only God knows... is what I meant.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "pool": "B",
+   "en": "Mitar: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "pool": "B",
+   "en": "Mitar: (Did the <Inspectors> flee, White Star and all? Or else...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "pool": "B",
+   "en": "Mitar: (If the Kurogane and the Hiryu Custom vanished along with it, so much the better.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "pool": "B",
+   "en": "Mitar: (Because then the Tsentr Project's results will be needed by more than just Steinbeck's faction.)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "pool": "B",
+   "en": "Eric: My, my, what a shame. The White Star must have been a treasure trove.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "pool": "B",
+   "en": "Mitar: Did the Cry Wolves secure the Hornedman?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "pool": "B",
+   "en": "Eric: No. They recovered a similar unit, but it seems they dropped it in the confusion of their escape.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "pool": "B",
+   "en": "Mitar: Hmph... So Albero blundered.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "pool": "B",
+   "en": "Eric: I suppose it goes to show you can't take shortcuts. We'll just have to do it the slow way.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "pool": "B",
+   "en": "Mitar: And can you build a weapon capable of destroying the Granzon that way?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "pool": "B",
+   "en": "Eric: Well, now... maybe someone else will take care of that thing for us. Ho ho ho.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "pool": "B",
+   "en": "Mitar: (...And that's not a shortcut?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "pool": "B",
+   "en": "???: ...Space...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "pool": "B",
+   "en": "???: ...It must... be... silent.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "pool": "B",
+   "en": "???: A world... not wished for...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "pool": "B",
+   "en": "???: ...A world... not wished for... correct it...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "pool": "B",
+   "en": "???: ...But... that is... wrong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "pool": "B",
+   "en": "???: People's feelings... changing the world... the \"power\"... of feelings...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "pool": "B",
+   "en": "???: Wrong...? I don't know... I... I... can't hear anything... anymore...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "pool": "B",
+   "en": "???: ...I can't remember...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "pool": "B",
+   "en": "???: ...I will... vanish... Yes... because there is... no place... where I belong...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "pool": "B",
+   "en": "???: ...!",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "pool": "B",
+   "en": "???: This... is... the power of feelings... disturbing the silence...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "pool": "B",
+   "en": "???: No... it is the power of a will... that wishes... for silence...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "pool": "B",
+   "en": "???: ...Ugh...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "pool": "B",
+   "en": "???: Where...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "pool": "B",
+   "en": "???: The monitor... still works, at least.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "pool": "B",
+   "en": "???: ...Soulgain... was tougher than I thought...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "pool": "B",
+   "en": "???: DFS... DALS... reboot...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "pool": "B",
+   "en": "???: ...No good, huh.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "pool": "B",
+   "en": "???: Ngh...!? Gah...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "pool": "B",
+   "en": "???: Heh... my body's... finished too... looks like.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "pool": "B",
+   "en": "???: Ruptured organs... for sure. And my arms and legs... in this state...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "pool": "B",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "pool": "B",
+   "en": "???: ...It's quiet. ...Lemon, a world where silence is the everyday... isn't so bad... after all.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "pool": "B",
+   "en": "???: ...I never thought... I'd die... a decent death... when the end came...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "pool": "B",
+   "en": "???: Lemon... I've been... spoiled... haven't I...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "pool": "B",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "pool": "B",
+   "en": "???: ...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "pool": "B",
+   "en": "???: A life... fading away... I... fading away...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "pool": "B",
+   "en": "???: A power of feeling... that changes the world... what you feel so strongly... A sad... warm... power.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "pool": "B",
+   "en": "???: So that I... may remain myself...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "pool": "B",
+   "en": "???: The power of your feelings... I shall borrow it... if you please...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "pool": "B",
+   "en": "???: ...Lem...on...?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "pool": "B",
+   "en": "Hugo: The signal came from around here...",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "pool": "B",
+   "en": "Hugo: ...Found it. So it drifted all the way out here.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "pool": "B",
+   "en": "Hugo: Wolf 8 to Wolf 1. Target located. Securing it again.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "pool": "B",
+   "en": "Hugo: (Heat signature's faint... The unit's as good as dead...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "pool": "B",
+   "en": "Hugo: (Then what the hell was that reading earlier?)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "pool": "B",
+   "en": "Albero: Wolf 8, can you bring the target back?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "pool": "B",
+   "en": "Hugo: Yes, somehow.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "pool": "B",
+   "en": "Foglia: Lucky break, Hugo. Lose sight of something in a mess like that, and you'd normally never find it.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "pool": "B",
+   "en": "Hugo: ...I suppose.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "pool": "B",
+   "en": "Foglia: What about the pilot inside?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "pool": "B",
+   "en": "Hugo: With damage like this, there's no way they're okay.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "pool": "B",
+   "en": "Foglia: Yeah... not unless they're a cyborg.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "pool": "B",
+   "en": "Albero: Wolf 1 to all units. We're returning to the carrier.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "pool": "B",
+   "en": "Hugo: Roger.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "pool": "B",
+   "en": "Foglia: ...Oh, right, Hugo. I picked up IFF signals from the Kurogane and the Hiryu Custom a while ago.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "pool": "B",
+   "en": "Hugo: What...? When the White Star vanished, there was no sign they'd escaped.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "pool": "B",
+   "en": "Foglia: Looks like they went to the other side and came back.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "pool": "B",
+   "en": "Hugo: Just the two ships?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "pool": "B",
+   "en": "Foglia: Yeah. Maybe the Inspectors and Shadow Mirror went down with the White Star.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "pool": "B",
+   "en": "Foglia: On top of that, don't ask me why, but the Einst seem to have vanished too.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "pool": "B",
+   "en": "Hugo: And the \"Head\" we captured?",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "pool": "B",
+   "en": "Foglia: Probably vanished too, right? Mitar's gotta be crushed right about now.",
+   "kind": "dialogue",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "pool": "B",
+   "en": "Hugo: (If that's true...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "pool": "B",
+   "en": "Hugo: (Then the Earth Sphere might finally have some peace...)",
+   "kind": "thought",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "pool": "B",
+   "en": "Skill Points obtained.\nAll allied pilots get PP +5.",
+   "kind": "sysmsg",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "pool": "B",
+   "en": "- None.",
+   "kind": "objective",
+   "keep": false
+  }
+ ],
+ "leaf": [
+  14,
+  2
+ ]
+}

@@ -1,0 +1,3811 @@
+{
+ "file": "OL/EXOL.BIN",
+ "format": "STRTAB",
+ "strings": [
+  {
+   "id": 0,
+   "va": "0x44904c",
+   "off": 159820,
+   "en": "",
+   "budget": 5,
+   "refs": 0,
+   "kind": "ui",
+   "keep": true,
+   "keep_reason": "code bytes, not text"
+  },
+  {
+   "id": 1,
+   "va": "0x44ba20",
+   "off": 170528,
+   "en": "",
+   "budget": 5,
+   "refs": 0,
+   "kind": "ui",
+   "keep": true,
+   "keep_reason": "code bytes, not text"
+  },
+  {
+   "id": 2,
+   "va": "0x44c3e0",
+   "off": 173024,
+   "en": "",
+   "budget": 5,
+   "refs": 0,
+   "kind": "ui",
+   "keep": true,
+   "keep_reason": "code bytes, not text"
+  },
+  {
+   "id": 3,
+   "va": "0x44e910",
+   "off": 182544,
+   "en": "",
+   "budget": 5,
+   "refs": 0,
+   "kind": "ui",
+   "keep": true,
+   "keep_reason": "code bytes, not text"
+  },
+  {
+   "id": 4,
+   "va": "0x474960",
+   "off": 338272,
+   "en": "Focused Attack (Enemy Main Unit)",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "va": "0x474990",
+   "off": 338320,
+   "en": "Focused Attack (Enemy Sub Unit)",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "va": "0x4749c0",
+   "off": 338368,
+   "en": "Split Attack",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "va": "0x4749f0",
+   "off": 338416,
+   "en": "ALL Attack",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "va": "0x474a20",
+   "off": 338464,
+   "en": "No Attack",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "va": "0x474a50",
+   "off": 338512,
+   "en": "Enemy Main Unit",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "va": "0x474a80",
+   "off": 338560,
+   "en": "Enemy Sub Unit",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "va": "0x474ab0",
+   "off": 338608,
+   "en": "Split Attack",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "va": "0x474ae0",
+   "off": 338656,
+   "en": "ALL Attack",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "va": "0x474b10",
+   "off": 338704,
+   "en": "No Attack",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "va": "0x474b40",
+   "off": 338752,
+   "en": "EN Too Low",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "va": "0x474b50",
+   "off": 338768,
+   "en": "Out of Range",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "va": "0x475ff0",
+   "off": 344048,
+   "en": "Start the game. Are you sure?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "va": "0x476020",
+   "off": 344096,
+   "en": "Yes",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "va": "0x476028",
+   "off": 344104,
+   "en": "No",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "va": "0x476070",
+   "off": 344176,
+   "en": "Select a character.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "va": "0x476090",
+   "off": 344208,
+   "en": ": OK",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "va": "0x476098",
+   "off": 344216,
+   "en": ": Back",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "va": "0x4760c0",
+   "off": 344256,
+   "en": "Load from Memory Card (PS2)",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "va": "0x4760e0",
+   "off": 344288,
+   "en": "\"Super Robot Taisen Original Generations\"",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "va": "0x476130",
+   "off": 344368,
+   "en": "scenario data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "va": "0x476160",
+   "off": 344416,
+   "en": "Start the game without loading this data?",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "va": "0x476190",
+   "off": 344464,
+   "en": "Load from another Memory Card (PS2) as well?",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "va": "0x4761d0",
+   "off": 344528,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "va": "0x476200",
+   "off": 344576,
+   "en": "No Memory Card (PS2) is inserted in",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "va": "0x476240",
+   "off": 344640,
+   "en": "MEMORY CARD slot 1. Check the connection.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "va": "0x476270",
+   "off": 344688,
+   "en": "Checking OG1 data...",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "va": "0x476290",
+   "off": 344720,
+   "en": "Do not insert or remove the Memory Card (PS2),",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "va": "0x4762c0",
+   "off": 344768,
+   "en": "controller, or other devices.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "va": "0x4762e0",
+   "off": 344800,
+   "en": "Checking OG2 data...",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "va": "0x476300",
+   "off": 344832,
+   "en": "No scenario data for a cleared title",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "va": "0x476330",
+   "off": 344880,
+   "en": "was found.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "va": "0x476350",
+   "off": 344912,
+   "en": "If the Memory Card (PS2) has clear data, or data from",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "memory-card bonus message; no '+' (it broke the line and spilled under the box)"
+  },
+  {
+   "id": 37,
+   "va": "0x4763a0",
+   "off": 344992,
+   "en": "a second playthrough, for any Original Generations title,",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "memory-card bonus message; no '+' (it broke the line and spilled under the box)"
+  },
+  {
+   "id": 38,
+   "va": "0x4763e0",
+   "off": 345056,
+   "en": "you will receive bonus funds.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "memory-card bonus message; no '+' (it broke the line and spilled under the box)"
+  },
+  {
+   "id": 39,
+   "va": "0x476420",
+   "off": 345120,
+   "en": "Super Robot Taisen Original Generation",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "va": "0x476460",
+   "off": 345184,
+   "en": "Cleared scenario data for this title was found.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "va": "0x4764a0",
+   "off": 345248,
+   "en": "Super Robot Taisen Original Generation 2",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "va": "0x4764e0",
+   "off": 345312,
+   "en": "Super Robot Taisen Original Generation 2.5",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "va": "0x476530",
+   "off": 345392,
+   "en": "Please swap the Memory Card (PS2) in",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "va": "0x476560",
+   "off": 345440,
+   "en": "MEMORY CARD slot 1.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "va": "0x476590",
+   "off": 345488,
+   "en": "Received 50,000 funds as a bonus.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "va": "0x4765c0",
+   "off": 345536,
+   "en": "Received 100,000 funds as a bonus.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "va": "0x4765f0",
+   "off": 345584,
+   "en": "Received 150,000 funds as a bonus.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "va": "0x476770",
+   "off": 345968,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "va": "0x476860",
+   "off": 346208,
+   "en": "In MEMORY CARD slot 1,",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "va": "0x476890",
+   "off": 346256,
+   "en": "no Memory Card (PS2)",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "va": "0x4768b0",
+   "off": 346288,
+   "en": "is inserted.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "va": "0x4768d0",
+   "off": 346320,
+   "en": "To save your game,",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "va": "0x4768f0",
+   "off": 346352,
+   "en": "On the Memory Card (PS2),",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "va": "0x476910",
+   "off": 346384,
+   "en": "system data cannot be saved:",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "va": "0x476940",
+   "off": 346432,
+   "en": "not enough free space.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "va": "0x476960",
+   "off": 346464,
+   "en": "To save system data,",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "va": "0x476990",
+   "off": 346512,
+   "en": "system data and personal data",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "va": "0x4769c0",
+   "off": 346560,
+   "en": "cannot be saved: not enough free space.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "va": "0x476a00",
+   "off": 346624,
+   "en": "System Data/Personal Data",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "va": "0x476a30",
+   "off": 346672,
+   "en": "system data and scenario data",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "va": "0x476a60",
+   "off": 346720,
+   "en": "System Data/Scenario Data",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "va": "0x476a80",
+   "off": 346752,
+   "en": "On the Memory Card (PS2),",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "va": "0x476aa0",
+   "off": 346784,
+   "en": "System Data/Scenario Data/Personal Data",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "va": "0x476ae0",
+   "off": 346848,
+   "en": "personal data cannot be saved:",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "va": "0x476b10",
+   "off": 346896,
+   "en": "not enough free space.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "va": "0x476b40",
+   "off": 346944,
+   "en": "To save personal data,",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "va": "0x476b70",
+   "off": 346992,
+   "en": "scenario data cannot be saved:",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "va": "0x476ba0",
+   "off": 347040,
+   "en": "To save scenario data,",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "va": "0x476bd0",
+   "off": 347088,
+   "en": "scenario data and personal data",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "va": "0x476c00",
+   "off": 347136,
+   "en": "a Memory Card (PS2) with %sKB",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "va": "0x476c20",
+   "off": 347168,
+   "en": "or more free space is required.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "va": "0x476c50",
+   "off": 347216,
+   "en": "Start anyway?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "va": "0x476c70",
+   "off": 347248,
+   "en": "At least %sKB of free space is required (to create new",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "va": "0x476cb0",
+   "off": 347312,
+   "en": "system, scenario and personal data, one of each,",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "va": "0x476cf0",
+   "off": 347376,
+   "en": "requires at least %sKB of free space).",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "va": "0x476d20",
+   "off": 347424,
+   "en": "In total, at least %sKB of free space is required (to create",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "va": "0x476d60",
+   "off": 347488,
+   "en": "In total, %sKB or more free space is required.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "va": "0x476f88",
+   "off": 348040,
+   "en": ": OK",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "va": "0x476f90",
+   "off": 348048,
+   "en": ": Back",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "va": "0x477070",
+   "off": 348272,
+   "en": "Start the game in this mode?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "va": "0x4770a0",
+   "off": 348320,
+   "en": "Return to title?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 82,
+   "va": "0x4770c0",
+   "off": 348352,
+   "en": "Which title will you play?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "va": "0x4770e0",
+   "off": 348384,
+   "en": "OG1",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "va": "0x4770e8",
+   "off": 348392,
+   "en": "OG2",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "va": "0x4770f0",
+   "off": 348400,
+   "en": "NEXT",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "va": "0x477110",
+   "off": 348432,
+   "en": "Since you have no cards,",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "va": "0x477140",
+   "off": 348480,
+   "en": "the Stock screen will not open.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "va": "0x477170",
+   "off": 348528,
+   "en": "#04To enter a tournament, your stock must",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "va": "0x4771b0",
+   "off": 348592,
+   "en": "#04contain 10 Unit Cards and 10 Command Cards.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "va": "0x477220",
+   "off": 348704,
+   "en": "#04A card of the same Pilot, or one who can't coexist,",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "va": "0x477260",
+   "off": 348768,
+   "en": "#04is already in your stock. To add this card to the",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "va": "0x4772a0",
+   "off": 348832,
+   "en": "#04current stock, swap it with that card, or",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "va": "0x4772e0",
+   "off": 348896,
+   "en": "#04remove that card from the stock.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "va": "0x477350",
+   "off": 349008,
+   "en": "Save",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "va": "0x477358",
+   "off": 349016,
+   "en": "Load",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "va": "0x4773a0",
+   "off": 349088,
+   "en": "Suspend data exists.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "va": "0x4773c0",
+   "off": 349120,
+   "en": "Is this OK?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "va": "0x4773e0",
+   "off": 349152,
+   "en": "Resume \"Super Robot Taisen OGs\"",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "va": "0x477410",
+   "off": 349200,
+   "en": "from your suspended game?",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "va": "0x477440",
+   "off": 349248,
+   "en": "Discard your edits and return to the Special Menu?",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "va": "0x477480",
+   "off": 349312,
+   "en": "Use this user name?",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "va": "0x4774b0",
+   "off": 349360,
+   "en": "Overwrite personal data. Is this OK?",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "va": "0x4774f0",
+   "off": 349424,
+   "en": "Exit the Save screen?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "va": "0x477510",
+   "off": 349456,
+   "en": "The Memory Card (PS2) is not formatted.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "va": "0x477550",
+   "off": 349520,
+   "en": "Format it?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "va": "0x477570",
+   "off": 349552,
+   "en": "Formatting complete.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "va": "0x477590",
+   "off": 349584,
+   "en": "Save personal data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "va": "0x4775c0",
+   "off": 349632,
+   "en": "#04Saving will erase the current suspend data.##",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "va": "0x477600",
+   "off": 349696,
+   "en": "Save now?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "va": "0x477620",
+   "off": 349728,
+   "en": "Exit the Load screen?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "va": "0x477640",
+   "off": 349760,
+   "en": "This personal data will be loaded.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "va": "0x477670",
+   "off": 349808,
+   "en": "Loading will erase the current personal data.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "va": "0x4776b0",
+   "off": 349872,
+   "en": "Load now?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "va": "0x4776d0",
+   "off": 349904,
+   "en": "#04Loading will erase the current suspend data.##",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "va": "0x477750",
+   "off": 350032,
+   "en": "#05C%s%s%s %s## obtained.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "va": "0x477780",
+   "off": 350080,
+   "en": "As a starting card,",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "va": "0x4777a0",
+   "off": 350112,
+   "en": "#05U%s%s%s %s## obtained.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "va": "0x4777c8",
+   "off": 350152,
+   "en": "Loading...",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "va": "0x4777e0",
+   "off": 350176,
+   "en": "The Memory Card (PS2), controller, etc.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "va": "0x477810",
+   "off": 350224,
+   "en": "must not be disconnected.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "va": "0x477830",
+   "off": 350256,
+   "en": "There is no save data on",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "va": "0x477850",
+   "off": 350288,
+   "en": "the Memory Card (PS2).",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "va": "0x477870",
+   "off": 350320,
+   "en": "Personal data will be created on the Memory Card (PS2).",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "va": "0x4778b0",
+   "off": 350384,
+   "en": "Please enter a user name.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "va": "0x4778e0",
+   "off": 350432,
+   "en": "Creating personal data...",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "va": "0x477900",
+   "off": 350464,
+   "en": "The Memory Card (PS2), controller, etc.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "va": "0x477930",
+   "off": 350512,
+   "en": "Personal data created.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "va": "0x477960",
+   "off": 350560,
+   "en": "No personal data found.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "va": "0x477980",
+   "off": 350592,
+   "en": "Load complete.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "va": "0x4779a0",
+   "off": 350624,
+   "en": "Personal data is corrupted and cannot be loaded.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "va": "0x4779e0",
+   "off": 350688,
+   "en": "Load failed.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "va": "0x477a00",
+   "off": 350720,
+   "en": "Failed to create personal data.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "va": "0x477a30",
+   "off": 350768,
+   "en": "No Memory Card (PS2) is inserted in",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "va": "0x477a70",
+   "off": 350832,
+   "en": "MEMORY CARD slot 1. Check the connection.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "va": "0x477aa0",
+   "off": 350880,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "va": "0x477ad0",
+   "off": 350928,
+   "en": "Checking data...",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "va": "0x477af0",
+   "off": 350960,
+   "en": "Do not remove the Memory Card (PS2), controller, etc.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "va": "0x477b40",
+   "off": 351040,
+   "en": "To save personal data,",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "va": "0x477b70",
+   "off": 351088,
+   "en": "Needs ←↓↑KB or more free.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 140,
+   "va": "0x477ba0",
+   "off": 351136,
+   "en": "Formatting... The Memory Card (PS2),",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "va": "0x477bd0",
+   "off": 351184,
+   "en": "controller, etc. must not be disconnected.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "va": "0x477c00",
+   "off": 351232,
+   "en": "Format failed.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "va": "0x477c20",
+   "off": 351264,
+   "en": "Saving... The Memory Card (PS2),",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "va": "0x477c50",
+   "off": 351312,
+   "en": "Save complete.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "va": "0x477c70",
+   "off": 351344,
+   "en": "Save failed.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "va": "0x477c90",
+   "off": 351376,
+   "en": "No user name entered.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "va": "0x477d20",
+   "off": 351520,
+   "en": "Create personal data. Is this OK?",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "va": "0x477d50",
+   "off": 351568,
+   "en": "The Memory Card (PS2) is not formatted.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "va": "0x477d90",
+   "off": 351632,
+   "en": "Format it?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "va": "0x477db0",
+   "off": 351664,
+   "en": "Formatting complete.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "va": "0x477dd0",
+   "off": 351696,
+   "en": "Save personal data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "va": "0x477e00",
+   "off": 351744,
+   "en": "Personal data will be overwritten.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "va": "0x477e30",
+   "off": 351792,
+   "en": "Existing personal data will be lost.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "va": "0x477e60",
+   "off": 351840,
+   "en": "Is this OK?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "va": "0x477e80",
+   "off": 351872,
+   "en": "Cancel creating personal data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "va": "0x477eb0",
+   "off": 351920,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "va": "0x477ee0",
+   "off": 351968,
+   "en": "No Memory Card (PS2) is inserted in",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "va": "0x477f20",
+   "off": 352032,
+   "en": "MEMORY CARD slot 1. Check the connection.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "va": "0x477f50",
+   "off": 352080,
+   "en": "#04To play Shuffle Battler, you need##",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "va": "0x477f90",
+   "off": 352144,
+   "en": "Checking data... The Memory Card (PS2),",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "va": "0x477fd0",
+   "off": 352208,
+   "en": "controller, etc. must not be disconnected.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "va": "0x478000",
+   "off": 352256,
+   "en": "Not enough free space. To save personal data,",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "va": "0x478040",
+   "off": 352320,
+   "en": "Formatting... The Memory Card (PS2),",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "va": "0x478070",
+   "off": 352368,
+   "en": "Format failed.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "va": "0x478090",
+   "off": 352400,
+   "en": "Saving... Do not remove the Memory Card (PS2),",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "va": "0x4780d0",
+   "off": 352464,
+   "en": "controller, or other devices.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "va": "0x4780f0",
+   "off": 352496,
+   "en": "Save complete.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "va": "0x478110",
+   "off": 352528,
+   "en": "Save failed.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "va": "0x478130",
+   "off": 352560,
+   "en": "#04a Memory Card (PS2) with %sKB free.##",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 170,
+   "va": "0x478170",
+   "off": 352624,
+   "en": "At least %sKB free space is required.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "va": "0x4781f0",
+   "off": 352752,
+   "en": "Cursor Speed Up",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "va": "0x478208",
+   "off": 352776,
+   "en": "Move Cursor",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "va": "0x478220",
+   "off": 352800,
+   "en": "Scenario Chart",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "va": "0x478238",
+   "off": 352824,
+   "en": "OG1 Chart",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "va": "0x478248",
+   "off": 352840,
+   "en": "OG2 Chart",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "va": "0x478260",
+   "off": 352864,
+   "en": "OG Gaiden Chart",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "va": "0x478278",
+   "off": 352888,
+   "en": "Finale",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "va": "0x478280",
+   "off": 352896,
+   "en": "\"%s\"",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "va": "0x478370",
+   "off": 353136,
+   "en": "Not enough Clear Points.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "va": "0x4783a0",
+   "off": 353184,
+   "en": "You already have 99 copies.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "va": "0x4783c0",
+   "off": 353216,
+   "en": "You can't hold any more of this card.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "va": "0x4783f0",
+   "off": 353264,
+   "en": "You own every card of this rank.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "va": "0x478420",
+   "off": 353312,
+   "en": "You have no spare cards to trade.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "va": "0x478460",
+   "off": 353376,
+   "en": "Trading every card won't meet the rate.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 185,
+   "va": "0x4784a0",
+   "off": 353440,
+   "en": "You have no spare cards to convert.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "va": "0x4784e0",
+   "off": 353504,
+   "en": "Not enough Clear Points to buy a card pack.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "va": "0x478520",
+   "off": 353568,
+   "en": "Not enough Clear Points for the minimum card exchange.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "va": "0x478560",
+   "off": 353632,
+   "en": "You already own every card.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "va": "0x478590",
+   "off": 353680,
+   "en": "Exchanging all cards won't reach the minimum rate.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "va": "0x4785d0",
+   "off": 353744,
+   "en": "You already own this Command Card.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "va": "0x478600",
+   "off": 353792,
+   "en": "You can't own more than one of the same Command Card.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "va": "0x478670",
+   "off": 353904,
+   "en": "Total rate meets the required rate.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "va": "0x4786a0",
+   "off": 353952,
+   "en": "Exchange these cards?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "va": "0x4786c0",
+   "off": 353984,
+   "en": "#04(Any excess rate will be lost.)##",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "va": "0x478700",
+   "off": 354048,
+   "en": "Deselect all chosen cards.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "va": "0x478730",
+   "off": 354096,
+   "en": "Is this OK?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "va": "0x478750",
+   "off": 354128,
+   "en": "Converts the selected cards into Clear Points.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "va": "0x478780",
+   "off": 354176,
+   "en": "Skip pack opening; go to obtained cards.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 199,
+   "va": "0x4788b8",
+   "off": 354488,
+   "en": "E-Field",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "va": "0x4788c8",
+   "off": 354504,
+   "en": "Hit",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "va": "0x4788d8",
+   "off": 354520,
+   "en": "Destroy",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "va": "0x4788e0",
+   "off": 354528,
+   "en": "Light",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "va": "0x4788e8",
+   "off": 354536,
+   "en": "Medium",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "va": "0x4788f0",
+   "off": 354544,
+   "en": "Heavy",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "va": "0x4788f8",
+   "off": 354552,
+   "en": "Jammer",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "va": "0x478908",
+   "off": 354568,
+   "en": "Dodge",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "va": "0x478910",
+   "off": 354576,
+   "en": "AftImg",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "va": "0x478918",
+   "off": 354584,
+   "en": "Beam Coat",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "va": "0x478928",
+   "off": 354600,
+   "en": "AB Field",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "va": "0x478938",
+   "off": 354616,
+   "en": "G-Wall",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "va": "0x478948",
+   "off": 354632,
+   "en": "G-Territory",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "va": "0x478958",
+   "off": 354648,
+   "en": "Beam Absorption",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "va": "0x478968",
+   "off": 354664,
+   "en": "TK Field",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "va": "0x478980",
+   "off": 354688,
+   "en": "TK Field S",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "va": "0x478998",
+   "off": 354712,
+   "en": "Distort. Field",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "va": "0x4789a8",
+   "off": 354728,
+   "en": "Pierce Destroy",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "va": "0x4789b8",
+   "off": 354744,
+   "en": "Pierce Light",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "va": "0x4789c8",
+   "off": 354760,
+   "en": "Pierce Medium",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "va": "0x4789d8",
+   "off": 354776,
+   "en": "Pierce Heavy",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "va": "0x4789e8",
+   "off": 354792,
+   "en": "Success",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "va": "0x4789f0",
+   "off": 354800,
+   "en": "Disallow",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "va": "0x478a00",
+   "off": 354816,
+   "en": "Allow",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "va": "0x478a10",
+   "off": 354832,
+   "en": "The target won't take a defensive pose when attacked.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "va": "0x478a50",
+   "off": 354896,
+   "en": "The target takes a defensive pose when attacked.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "va": "0x478a90",
+   "off": 354960,
+   "en": "Deals 20% of the target's max HP as damage.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "va": "0x478ac0",
+   "off": 355008,
+   "en": "Deals 40% of the target's max HP as damage.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "va": "0x478af0",
+   "off": 355056,
+   "en": "Deals 80% of the target's max HP as damage.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "va": "0x478b20",
+   "off": 355104,
+   "en": "Deals 100% of the target's max HP as damage.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "va": "0x478b50",
+   "off": 355152,
+   "en": "Normal Hit",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "va": "0x478b60",
+   "off": 355168,
+   "en": "Critical",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "va": "0x478b70",
+   "off": 355184,
+   "en": "Attacks that hit will not score a critical.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "va": "0x478bb0",
+   "off": 355248,
+   "en": "Attacks that hit will score a critical.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "va": "0x478be8",
+   "off": 355304,
+   "en": "Normal Dodge",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "va": "0x478c00",
+   "off": 355328,
+   "en": "Target dodges the attack.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "va": "0x478c20",
+   "off": 355360,
+   "en": "Target dodges with Afterimage.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "va": "0x478c40",
+   "off": 355392,
+   "en": "Target dodges Missiles with Jammer. Only works vs. homing weapons.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "va": "0x478c90",
+   "off": 355472,
+   "en": "Target uses Beam Coat against the attack.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "va": "0x478cc0",
+   "off": 355520,
+   "en": "Target uses AB Field against the attack.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "va": "0x478d00",
+   "off": 355584,
+   "en": "Target uses G-Wall against the attack.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "va": "0x478d30",
+   "off": 355632,
+   "en": "Target uses G-Territory against the attack.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "va": "0x478d70",
+   "off": 355696,
+   "en": "Target uses E-Field against the attack.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "va": "0x478da0",
+   "off": 355744,
+   "en": "Target absorbs beam attacks. Only works vs. \"B\" weapons.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "va": "0x478de0",
+   "off": 355808,
+   "en": "Target uses TK Field against the attack.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "va": "0x478e20",
+   "off": 355872,
+   "en": "Target uses TK Field S against the attack.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "va": "0x478e60",
+   "off": 355936,
+   "en": "Target uses Distortion Field against the attack.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "va": "0x478ea0",
+   "off": 356000,
+   "en": "Attack pierces the barrier, dealing 20% of target's max HP.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "va": "0x478ef0",
+   "off": 356080,
+   "en": "Attack pierces the barrier, dealing 40% of target's max HP.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "va": "0x478f40",
+   "off": 356160,
+   "en": "Attack pierces the barrier, dealing 80% of target's max HP.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "va": "0x478f90",
+   "off": 356240,
+   "en": "Attack pierces the barrier, dealing 100% of target's max HP.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "va": "0x478fe0",
+   "off": 356320,
+   "en": "Target's barrier holds and negates the attack.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "va": "0x479010",
+   "off": 356368,
+   "en": "End Free Battle. Are you sure?",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "va": "0x479040",
+   "off": 356416,
+   "en": "The attacker's main unit has \"Low EN\" or \"Out of Range\"",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "va": "0x479080",
+   "off": 356480,
+   "en": "selected, so the battle can't be started.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "va": "0x4790d0",
+   "off": 356560,
+   "en": "The main unit's attack is set to an ALL attack.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "va": "0x479110",
+   "off": 356624,
+   "en": "To include sub units in the battle, choose an ALL weapon.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "va": "0x479150",
+   "off": 356688,
+   "en": "If a non-ALL weapon is set, they won't take part.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "va": "0x479190",
+   "off": 356752,
+   "en": "The main unit's attack is not set to an ALL attack.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "va": "0x4791d0",
+   "off": 356816,
+   "en": "To include sub units in the battle, choose a non-ALL weapon.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "va": "0x479210",
+   "off": 356880,
+   "en": "If an ALL weapon is set, they won't take part.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "va": "0x479250",
+   "off": 356944,
+   "en": "Can't provide support against ALL attacks.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "va": "0x479280",
+   "off": 356992,
+   "en": "Support Attacks can't use ALL attacks.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "va": "0x4792b0",
+   "off": 357040,
+   "en": "If Sub is not ON,",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "va": "0x4792d0",
+   "off": 357072,
+   "en": "Support 2 can't be turned ON.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "va": "0x479300",
+   "off": 357120,
+   "en": "Sub units can't be assigned to this main unit.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "va": "0x479340",
+   "off": 357184,
+   "en": "If Support 1 is not ON,",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "va": "0x479360",
+   "off": 357216,
+   "en": "If Sub & Support 1 aren't ON,",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "va": "0x479380",
+   "off": 357248,
+   "en": "This weapon requires a Combination Attack pilot.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "va": "0x4793c0",
+   "off": 357312,
+   "en": "Please select a Combination Attack pilot.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "va": "0x479400",
+   "off": 357376,
+   "en": "Combination Attack pilots are shown in green.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "va": "0x479440",
+   "off": 357440,
+   "en": "The current weapon is a Combination Attack,",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "va": "0x479480",
+   "off": 357504,
+   "en": "so only Combination Attack pilots can be set.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "va": "0x4794c0",
+   "off": 357568,
+   "en": "This Combination Attack is set on another unit.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "va": "0x4794f0",
+   "off": 357616,
+   "en": "Can't set the same Combination Attack twice.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "va": "0x479520",
+   "off": 357664,
+   "en": "This weapon requires a pilot with Telekinesis.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "va": "0x479560",
+   "off": 357728,
+   "en": "Please select a pilot with Telekinesis.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "va": "0x4795a0",
+   "off": 357792,
+   "en": "Pilots with Telekinesis are shown in light blue.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "va": "0x4795e0",
+   "off": 357856,
+   "en": "The current weapon can only be set for pilots",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "va": "0x479620",
+   "off": 357920,
+   "en": "with Telekinesis. Select a pilot with Telekinesis.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "va": "0x479660",
+   "off": 357984,
+   "en": "The current weapon isn't a beam weapon, so this barrier",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "va": "0x4796a0",
+   "off": 358048,
+   "en": "can't be set. To select this barrier, set a beam weapon",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "va": "0x4796e0",
+   "off": 358112,
+   "en": "as the weapon. Beam weapons are marked with a \"B\" icon.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "va": "0x479730",
+   "off": 358192,
+   "en": "The current weapon isn't a homing weapon, so a Jammer",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "va": "0x479770",
+   "off": 358256,
+   "en": "can't be set. To select a Jammer, set a homing weapon",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "va": "0x4797b0",
+   "off": 358320,
+   "en": "as the weapon. Homing weapons are marked with an icon.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "va": "0x4797f0",
+   "off": 358384,
+   "en": "A non-beam weapon was selected, so",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "va": "0x479820",
+   "off": 358432,
+   "en": "Hit setting (enemy main) changed.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "va": "0x479850",
+   "off": 358480,
+   "en": "Hit setting (enemy sub) changed.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "va": "0x479880",
+   "off": 358528,
+   "en": "Hit settings (enemy main, enemy sub) changed.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "va": "0x4798c0",
+   "off": 358592,
+   "en": "Non-homing weapon selected, so",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "va": "0x4798e0",
+   "off": 358624,
+   "en": "Non-beam weapon selected, so hit setting was changed.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "va": "0x479920",
+   "off": 358688,
+   "en": "Non-homing weapon selected, so hit setting was changed.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "va": "0x479960",
+   "off": 358752,
+   "en": "This Support 1 unit can't be given a Support 2 unit.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "va": "0x4799b0",
+   "off": 358832,
+   "en": "The enemy sub unit isn't set to ON, so",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "va": "0x4799e0",
+   "off": 358880,
+   "en": "this can't be set.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "va": "0x479a00",
+   "off": 358912,
+   "en": "The target unit has no pilot with Telekinesis, so",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "va": "0x479a50",
+   "off": 358992,
+   "en": "this barrier can't be selected. To select this barrier,",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "va": "0x479aa0",
+   "off": 359072,
+   "en": "set a pilot with Telekinesis on the target unit.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "va": "0x479c28",
+   "off": 359464,
+   "en": "Hit Mid Damage",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "va": "0x479c40",
+   "off": 359488,
+   "en": "Create personal data. Is this OK?",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "va": "0x479c70",
+   "off": 359536,
+   "en": "The Memory Card (PS2) is not formatted.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "va": "0x479cb0",
+   "off": 359600,
+   "en": "Format it?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "va": "0x479cd0",
+   "off": 359632,
+   "en": "Formatting complete.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "va": "0x479cf0",
+   "off": 359664,
+   "en": "Save personal data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "va": "0x479d20",
+   "off": 359712,
+   "en": "Personal data will be overwritten.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "va": "0x479d50",
+   "off": 359760,
+   "en": "Existing personal data will be lost.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "va": "0x479d80",
+   "off": 359808,
+   "en": "Is this OK?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "va": "0x479da0",
+   "off": 359840,
+   "en": "Cancel creating personal data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "va": "0x479dd0",
+   "off": 359888,
+   "en": "Exit the Save screen?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "va": "0x479df0",
+   "off": 359920,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "va": "0x479e20",
+   "off": 359968,
+   "en": "No Memory Card (PS2) is inserted in",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "va": "0x479e60",
+   "off": 360032,
+   "en": "MEMORY CARD slot 1. Check the connection.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "va": "0x479e90",
+   "off": 360080,
+   "en": "Checking data... The Memory Card (PS2),",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "va": "0x479ed0",
+   "off": 360144,
+   "en": "controller, etc. must not be disconnected.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "va": "0x479f00",
+   "off": 360192,
+   "en": "Not enough free space. To save personal data,",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "va": "0x479f40",
+   "off": 360256,
+   "en": "Formatting... The Memory Card (PS2),",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "va": "0x479f70",
+   "off": 360304,
+   "en": "Format failed.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "va": "0x479f90",
+   "off": 360336,
+   "en": "Saving... Do not remove the Memory Card (PS2),",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "va": "0x479fd0",
+   "off": 360400,
+   "en": "controller, or other devices.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "va": "0x479ff0",
+   "off": 360432,
+   "en": "Save complete.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "va": "0x47a010",
+   "off": 360464,
+   "en": "Save failed.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "va": "0x47a030",
+   "off": 360496,
+   "en": "At least %sKB free space is required.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "va": "0x47a0b0",
+   "off": 360624,
+   "en": "Exit the Load screen?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "va": "0x47a0d0",
+   "off": 360656,
+   "en": "Loading will erase the current personal data.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "va": "0x47a110",
+   "off": 360720,
+   "en": "Load now?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "va": "0x47a130",
+   "off": 360752,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "va": "0x47a160",
+   "off": 360800,
+   "en": "No Memory Card (PS2) is inserted in",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "va": "0x47a1a0",
+   "off": 360864,
+   "en": "MEMORY CARD slot 1. Check the connection.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "va": "0x47a1d0",
+   "off": 360912,
+   "en": "Checking data... The Memory Card (PS2),",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "va": "0x47a210",
+   "off": 360976,
+   "en": "controller, etc. must not be disconnected.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "va": "0x47a240",
+   "off": 361024,
+   "en": "Loading... Do not remove the Memory Card (PS2),",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "va": "0x47a280",
+   "off": 361088,
+   "en": "controller, or other devices.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "va": "0x47a2a0",
+   "off": 361120,
+   "en": "Load complete.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "va": "0x47a2c0",
+   "off": 361152,
+   "en": "Load failed.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "va": "0x47a2e0",
+   "off": 361184,
+   "en": "The personal data is corrupted, so it",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "va": "0x47a310",
+   "off": 361232,
+   "en": "can't be loaded.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "va": "0x47a330",
+   "off": 361264,
+   "en": "No personal data found.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "va": "0x47a390",
+   "off": 361360,
+   "en": "Create personal data. Is this OK?",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "va": "0x47a3c0",
+   "off": 361408,
+   "en": "The Memory Card (PS2) is not formatted.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "va": "0x47a400",
+   "off": 361472,
+   "en": "Format it?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "va": "0x47a420",
+   "off": 361504,
+   "en": "Formatting complete.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "va": "0x47a440",
+   "off": 361536,
+   "en": "Save personal data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "va": "0x47a470",
+   "off": 361584,
+   "en": "Personal data will be overwritten.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "va": "0x47a4a0",
+   "off": 361632,
+   "en": "Existing personal data will be lost.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "va": "0x47a4d0",
+   "off": 361680,
+   "en": "Is this OK?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "va": "0x47a4f0",
+   "off": 361712,
+   "en": "Cancel the card trade?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "va": "0x47a510",
+   "off": 361744,
+   "en": "Cancel the card pack purchase?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "va": "0x47a540",
+   "off": 361792,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "va": "0x47a570",
+   "off": 361840,
+   "en": "No Memory Card (PS2) is inserted in",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "va": "0x47a5b0",
+   "off": 361904,
+   "en": "MEMORY CARD slot 1. Check the connection.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "va": "0x47a5e0",
+   "off": 361952,
+   "en": "Checking data... The Memory Card (PS2),",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "va": "0x47a620",
+   "off": 362016,
+   "en": "controller, etc. must not be disconnected.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "va": "0x47a650",
+   "off": 362064,
+   "en": "Not enough free space. To save personal data,",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "va": "0x47a690",
+   "off": 362128,
+   "en": "Formatting... The Memory Card (PS2),",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "va": "0x47a6c0",
+   "off": 362176,
+   "en": "Format failed.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "va": "0x47a6e0",
+   "off": 362208,
+   "en": "Saving... Do not remove the Memory Card (PS2),",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "va": "0x47a720",
+   "off": 362272,
+   "en": "controller, or other devices.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "va": "0x47a740",
+   "off": 362304,
+   "en": "Save complete.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "va": "0x47a760",
+   "off": 362336,
+   "en": "Save failed.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "va": "0x47a780",
+   "off": 362368,
+   "en": "At least %sKB free space is required.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "va": "0x47a800",
+   "off": 362496,
+   "en": "Create new personal data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "va": "0x47a830",
+   "off": 362544,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "va": "0x47a860",
+   "off": 362592,
+   "en": "No Memory Card (PS2) is inserted in",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "va": "0x47a8a0",
+   "off": 362656,
+   "en": "MEMORY CARD slot 1. Check the connection.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "va": "0x47a8d0",
+   "off": 362704,
+   "en": "#04To play Shuffle Battler, you need##",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "va": "0x47a910",
+   "off": 362768,
+   "en": "Checking data... The Memory Card (PS2),",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "va": "0x47a950",
+   "off": 362832,
+   "en": "controller, etc. must not be disconnected.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "va": "0x47a980",
+   "off": 362880,
+   "en": "Loading... Do not remove the Memory Card (PS2),",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "va": "0x47a9c0",
+   "off": 362944,
+   "en": "controller, or other devices.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "va": "0x47a9e0",
+   "off": 362976,
+   "en": "Load complete.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "va": "0x47aa00",
+   "off": 363008,
+   "en": "Load failed.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "va": "0x47aa20",
+   "off": 363040,
+   "en": "The personal data is corrupted, so it",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "va": "0x47aa50",
+   "off": 363088,
+   "en": "can't be loaded.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "va": "0x47aa70",
+   "off": 363120,
+   "en": "To play Shuffle Battler,",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "va": "0x47aaa0",
+   "off": 363168,
+   "en": "you must create \"Personal Data\" to save various data.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "va": "0x47aaf0",
+   "off": 363248,
+   "en": "#04Creating personal data requires##",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 376,
+   "va": "0x47ab20",
+   "off": 363296,
+   "en": "#04a Memory Card (PS2) with %sKB free.##",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 377,
+   "va": "0x478288",
+   "off": 352904,
+   "en": " ",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "one-character string the extractor skipped"
+  },
+  {
+   "id": 378,
+   "va": "0x478298",
+   "off": 352920,
+   "en": " ",
+   "budget": 7,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "one-character string the extractor skipped"
+  }
+ ]
+}

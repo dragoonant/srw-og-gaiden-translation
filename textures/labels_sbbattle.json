@@ -1,0 +1,85 @@
+{
+ "_comment": "Shuffle Battler battle-screen labels (DATA_SP/SBBATTLE.BIN leaf 8).",
+ "defaults": {
+  "font": "FiraSans-ExtraBoldItalic",
+  "style": "heavy",
+  "pad": 0,
+  "align": "center",
+  "wide": "both",
+  "squeeze": 0.65
+ },
+ "labels": [
+  {
+   "name": "KAIHIB",
+   "en": "EVADE",
+   "color": "auto"
+  },
+  {
+   "name": "KOUDOUHU",
+   "en": "Can't Act!",
+   "color": "auto",
+   "font": "FiraSansCondensed-ExtraBoldItalic"
+  },
+  {
+   "name": "ENTRY",
+   "en": "Entry Complete",
+   "color": "auto",
+   "font": "FiraSansCondensed-ExtraBoldItalic"
+  },
+  {
+   "name": "KAIHI+",
+   "en": "EVA",
+   "color": [
+    176,
+    176,
+    176
+   ]
+  },
+  {
+   "name": "KOUGEKI",
+   "en": "ATK",
+   "color": [
+    176,
+    176,
+    176
+   ]
+  },
+  {
+   "name": "MEITYU",
+   "en": "HIT",
+   "color": [
+    176,
+    176,
+    176
+   ]
+  },
+  {
+   "name": "MAX_HP",
+   "en": "MAX HP",
+   "color": [
+    176,
+    176,
+    176
+   ]
+  },
+  {
+   "name": "SHOUHI_B",
+   "en": "B.M Cost",
+   "color": [
+    176,
+    176,
+    176
+   ]
+  },
+  {
+   "name": "ATTACK",
+   "en": "Attack Dice",
+   "color": [
+    176,
+    176,
+    176
+   ],
+   "font": "FiraSansCondensed-ExtraBoldItalic"
+  }
+ ]
+}

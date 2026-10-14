@@ -1,0 +1,183 @@
+{
+ "names": [
+  "AT1010"
+ ],
+ "note": "Weapon list tags (必殺 特殊 サブ / 防御 特殊効果無効 クリティカル / 誘 合体) and 移動中.",
+ "items": [
+  {
+   "box": [
+    80,
+    0,
+    116,
+    19
+   ],
+   "en": "Finish",
+   "style": "outline",
+   "outline": [
+    0,
+    0,
+    255
+   ],
+   "outline_px": 2,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "font": "FiraSansCondensed-Bold",
+   "align": "center"
+  },
+  {
+   "box": [
+    117,
+    0,
+    152,
+    19
+   ],
+   "en": "Special",
+   "style": "outline",
+   "outline": [
+    0,
+    0,
+    255
+   ],
+   "outline_px": 2,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "font": "FiraSansCondensed-Bold",
+   "align": "center"
+  },
+  {
+   "box": [
+    153,
+    0,
+    189,
+    19
+   ],
+   "en": "Sub",
+   "style": "outline",
+   "outline": [
+    0,
+    0,
+    255
+   ],
+   "outline_px": 2,
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "font": "FiraSansCondensed-Bold",
+   "align": "center"
+  },
+  {
+   "box": [
+    2,
+    50,
+    36,
+    69
+   ],
+   "en": "Defend",
+   "style": "outline",
+   "outline_px": 1,
+   "color": [
+    252,
+    111,
+    47
+   ],
+   "font": "FiraSansCondensed-Bold",
+   "align": "center"
+  },
+  {
+   "box": [
+    39,
+    50,
+    138,
+    69
+   ],
+   "en": "Nullifies Effects",
+   "style": "outline",
+   "color": [
+    252,
+    111,
+    47
+   ],
+   "font": "FiraSansCondensed-Bold",
+   "align": "center"
+  },
+  {
+   "box": [
+    141,
+    50,
+    193,
+    69
+   ],
+   "en": "Critical",
+   "style": "outline",
+   "color": [
+    252,
+    111,
+    47
+   ],
+   "font": "FiraSansCondensed-Bold",
+   "align": "center"
+  },
+  {
+   "box": [
+    49,
+    74,
+    64,
+    88
+   ],
+   "en": "H",
+   "style": "outline",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "bg_col": 49
+  },
+  {
+   "box": [
+    75,
+    74,
+    112,
+    88
+   ],
+   "en": "Combo",
+   "style": "outline",
+   "color": [
+    255,
+    255,
+    255
+   ],
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "bg_col": 75
+  },
+  {
+   "box": [
+    122,
+    71,
+    184,
+    93
+   ],
+   "en": "Moving",
+   "style": "outline",
+   "outline_px": 1,
+   "color": [
+    0,
+    224,
+    0
+   ],
+   "font": "FiraSansCondensed-Bold",
+   "align": "center"
+  }
+ ]
+}

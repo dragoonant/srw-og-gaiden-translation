@@ -1,0 +1,1067 @@
+{
+ "file": "OL/SBOL.BIN",
+ "format": "STRTAB",
+ "strings": [
+  {
+   "id": 0,
+   "va": "0x554f00",
+   "off": 446976,
+   "en": "Quit Shuffle Battler?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "va": "0x554f30",
+   "off": 447024,
+   "en": "#15(If you quit without saving,##",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "va": "0x554f60",
+   "off": 447072,
+   "en": "#15any Clear Points earned will be lost.)##",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "va": "0x554f90",
+   "off": 447120,
+   "en": "Original Stock 1",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "va": "0x554fb0",
+   "off": 447152,
+   "en": "Original Stock 2",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "va": "0x554fd0",
+   "off": 447184,
+   "en": "Original Stock 3",
+   "budget": 23,
+   "refs": 1,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "va": "0x554ff0",
+   "off": 447216,
+   "en": "End the tournament and return to Stock Select.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "va": "0x555030",
+   "off": 447280,
+   "en": "Is this OK?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "va": "0x555050",
+   "off": 447312,
+   "en": "Cancel settings and return to the first setup screen?",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "va": "0x555090",
+   "off": 447376,
+   "en": "From the memory card (PS2) in MEMORY CARD slot 2,",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "va": "0x5550d0",
+   "off": 447440,
+   "en": "you can load PLAYER 2's personal data and use their Stock.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "va": "0x555110",
+   "off": 447504,
+   "en": "Load the data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "va": "0x555140",
+   "off": 447552,
+   "en": "Cancel all",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "va": "0x555160",
+   "off": 447584,
+   "en": "current entries?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "va": "0x555180",
+   "off": 447616,
+   "en": "Not enough entries.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "va": "0x5551a0",
+   "off": 447648,
+   "en": "Entry complete.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "va": "0x5551c0",
+   "off": 447680,
+   "en": "Leader unit selected.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "va": "0x5551e0",
+   "off": 447712,
+   "en": "Complete your entry?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false,
+   "note": "hand-shortened to the 8-byte slot"
+  },
+  {
+   "id": 18,
+   "va": "0x555210",
+   "off": 447760,
+   "en": "Enter with this Stock.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "va": "0x555240",
+   "off": 447808,
+   "en": "Reset all settings and",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "va": "0x555260",
+   "off": 447840,
+   "en": "start setup over.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "va": "0x555280",
+   "off": 447872,
+   "en": "#04%sP#07 has not agreed to the deck size.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "va": "0x5552b0",
+   "off": 447920,
+   "en": "Since the Stock has fewer than 10 cards,",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "va": "0x5552e0",
+   "off": 447968,
+   "en": "Helper cards were added to #04%sP#07's Stock.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "va": "0x555320",
+   "off": 448032,
+   "en": "2P's Random Stock has been given 10 Unit Cards",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "va": "0x555360",
+   "off": 448096,
+   "en": "and 10 Command Cards.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "va": "0x555390",
+   "off": 448144,
+   "en": "As a tournament victory bonus,",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "va": "0x5553b0",
+   "off": 448176,
+   "en": "you earned #05%s#07 Clear Points.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "va": "0x5553e0",
+   "off": 448224,
+   "en": "01 Makuhari",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "va": "0x5553f0",
+   "off": 448240,
+   "en": "02 Antarctic Coatsland Base",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "va": "0x555410",
+   "off": 448272,
+   "en": "03 White Star Space Zone",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "va": "0x555430",
+   "off": 448304,
+   "en": "04 Aidoneus Island",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "va": "0x555450",
+   "off": 448336,
+   "en": "Random Stock",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "va": "0x5554c0",
+   "off": 448448,
+   "en": "Play the match without loading personal data?",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "va": "0x555500",
+   "off": 448512,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "va": "0x555530",
+   "off": 448560,
+   "en": "The memory card (PS2) in MEMORY CARD slot 2",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "va": "0x555570",
+   "off": 448624,
+   "en": "MEMORY CARD slot 1. Check the connection.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "va": "0x5555a0",
+   "off": 448672,
+   "en": "Checking data... The Memory Card (PS2),",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "va": "0x5555e0",
+   "off": 448736,
+   "en": "controller, etc. must not be disconnected.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "va": "0x555610",
+   "off": 448784,
+   "en": "No personal data found.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "va": "0x555630",
+   "off": 448816,
+   "en": "Loading... Do not remove the Memory Card (PS2),",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "va": "0x555670",
+   "off": 448880,
+   "en": "controller, or other devices.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "va": "0x555690",
+   "off": 448912,
+   "en": "Personal data is corrupted and cannot be loaded.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "va": "0x5556d0",
+   "off": 448976,
+   "en": "Load failed.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "va": "0x555850",
+   "off": 449360,
+   "en": "%s units can still act.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "va": "0x555880",
+   "off": 449408,
+   "en": "End phase?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "va": "0x5558a0",
+   "off": 449440,
+   "en": "Ending the phase.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "va": "0x5558c0",
+   "off": 449472,
+   "en": "Is this OK?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "va": "0x555a10",
+   "off": 449808,
+   "en": "%s units can still act.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "va": "0x555a40",
+   "off": 449856,
+   "en": "End phase?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "va": "0x555a60",
+   "off": 449888,
+   "en": "Ending the phase.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "va": "0x555a80",
+   "off": 449920,
+   "en": "Is this OK?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "va": "0x555aa0",
+   "off": 449952,
+   "en": "Only the Leader unit remains, so it had no effect.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "va": "0x555ae0",
+   "off": 450016,
+   "en": "Already the Leader unit; no effect.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "va": "0x555b10",
+   "off": 450064,
+   "en": "Ending the phase.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "va": "0x555b30",
+   "off": 450096,
+   "en": "[#05%s#07] has been revived.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "va": "0x555b50",
+   "off": 450128,
+   "en": "#05%sP#07 lost #04%s#07 Command Cards.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "va": "0x555b90",
+   "off": 450192,
+   "en": "Event Card draws fully restored.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "va": "0x555bc0",
+   "off": 450240,
+   "en": "All used Command Cards have been restored.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "va": "0x555bf0",
+   "off": 450288,
+   "en": "No destroyed units, so it had no effect.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "va": "0x555c30",
+   "off": 450352,
+   "en": "No units with a male main pilot, so it had no effect.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "va": "0x555c80",
+   "off": 450432,
+   "en": "No units with a female main pilot, so it had no effect.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "va": "0x555cd0",
+   "off": 450512,
+   "en": "No units with the target trait, so it had no effect.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "va": "0x555d10",
+   "off": 450576,
+   "en": "No units with the target Chance Attack type, so it had no effect.",
+   "budget": 71,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "va": "0x555d60",
+   "off": 450656,
+   "en": "No units of the target rank, so it had no effect.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "va": "0x555da0",
+   "off": 450720,
+   "en": "Unit Card revived.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "va": "0x555dc0",
+   "off": 450752,
+   "en": "All Command Cards are used, so it had no effect.",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "va": "0x555e00",
+   "off": 450816,
+   "en": "Command Card destroyed.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "va": "0x555e60",
+   "off": 450912,
+   "en": "[#05%s#07] was",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "va": "0x555e80",
+   "off": 450944,
+   "en": "swapped with [#05%s#07].",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "va": "0x555eb0",
+   "off": 450992,
+   "en": "No unused Command Cards remain in the deck,",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "va": "0x555ef0",
+   "off": 451056,
+   "en": "so it had no effect.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "va": "0x555f10",
+   "off": 451088,
+   "en": "Select a target unit.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "va": "0x555f30",
+   "off": 451120,
+   "en": "Destroys Command Cards of the player who owns",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "va": "0x555f70",
+   "off": 451184,
+   "en": "the selected unit. Select a unit.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "va": "0x555fa0",
+   "off": 451232,
+   "en": "Select a target location.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "va": "0x556508",
+   "off": 452616,
+   "en": "Auto Circuit",
+   "budget": 15,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "va": "0x5565e0",
+   "off": 452832,
+   "en": "No system data found. Create it?",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "va": "0x556610",
+   "off": 452880,
+   "en": "The Memory Card (PS2) is not formatted.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "va": "0x556650",
+   "off": 452944,
+   "en": "Format it?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "va": "0x556670",
+   "off": 452976,
+   "en": "Formatting complete.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "va": "0x556690",
+   "off": 453008,
+   "en": "Save system data?",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "va": "0x5566c0",
+   "off": 453056,
+   "en": "Overwrite system data and quit the game.",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "va": "0x556700",
+   "off": 453120,
+   "en": "Is this OK?",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "va": "0x556720",
+   "off": 453152,
+   "en": "Suspend data is a temporary save. Once you resume from it,",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "va": "0x556760",
+   "off": 453216,
+   "en": "this suspend data will be erased.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "va": "0x556790",
+   "off": 453264,
+   "en": "Return to the main menu?",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "va": "0x5567b0",
+   "off": 453296,
+   "en": "Checking Memory Card (PS2)...",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "va": "0x5567e0",
+   "off": 453344,
+   "en": "No Memory Card (PS2) is inserted in",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "va": "0x556820",
+   "off": 453408,
+   "en": "MEMORY CARD slot 1. Check the connection.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "va": "0x556850",
+   "off": 453456,
+   "en": "Checking data... The Memory Card (PS2),",
+   "budget": 55,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "va": "0x556890",
+   "off": 453520,
+   "en": "controller, etc. must not be disconnected.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "va": "0x5568c0",
+   "off": 453568,
+   "en": "To save system data,",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "va": "0x5568f0",
+   "off": 453616,
+   "en": "Formatting... The Memory Card (PS2),",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "va": "0x556920",
+   "off": 453664,
+   "en": "Format failed.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "va": "0x556940",
+   "off": 453696,
+   "en": "Saving... Do not remove the Memory Card (PS2),",
+   "budget": 63,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "va": "0x556980",
+   "off": 453760,
+   "en": "controller, or other devices.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "va": "0x5569a0",
+   "off": 453792,
+   "en": "Save failed.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "va": "0x5569c0",
+   "off": 453824,
+   "en": "Save complete.",
+   "budget": 23,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "va": "0x5569e0",
+   "off": 453856,
+   "en": "To resume the game, select",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "va": "0x556a10",
+   "off": 453904,
+   "en": "\"Resume\" on the title screen.",
+   "budget": 31,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "va": "0x556a30",
+   "off": 453936,
+   "en": "Note that suspend data is a temporary save.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "va": "0x556a60",
+   "off": 453984,
+   "en": "Resuming once will erase this suspend data.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "va": "0x556a90",
+   "off": 454032,
+   "en": "Starting a game from \"START\" or \"LOAD\"",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "va": "0x556ac0",
+   "off": 454080,
+   "en": "will also erase the suspend data.",
+   "budget": 47,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "va": "0x556af0",
+   "off": 454128,
+   "en": "At least %sKB free space is required.",
+   "budget": 39,
+   "refs": 0,
+   "kind": "ui",
+   "keep": false
+  }
+ ]
+}

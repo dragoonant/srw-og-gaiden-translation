@@ -1,0 +1,9830 @@
+{
+ "file": "worksheets/HELP_IM help pages",
+ "format": "HELP-PAGE",
+ "strings": [
+  {
+   "id": 0,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 0,
+   "en": "Move",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 1,
+   "en": "After selecting Move, move your unit to",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 2,
+   "en": "any spot within the blue squares.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 3,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 3,
+   "en": "Move costs vary with the unit's movement type and the terrain",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 4,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 4,
+   "en": "crossed, so the range you can move varies.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 5,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 5,
+   "en": "Consider allies' and enemies' Move, weapon traits,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 6,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 6,
+   "en": "and range as you move to gain the upper hand.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 7,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 7,
+   "en": "Notes on Moving",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 8,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 8,
+   "en": "Moving in the air or space uses 1 EN per square.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 9,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 9,
+   "en": "Losing track of positions?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 10,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 10,
+   "en": "Press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 11,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 11,
+   "en": "on the map to mark up to 8 spots.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 12,
+   "leaf": [
+    10,
+    0
+   ],
+   "seg": 12,
+   "en": "Hold it down to clear all markings.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 13,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 0,
+   "en": "Attack",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 14,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 1,
+   "en": "Select a weapon and attack.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 15,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 2,
+   "en": "The attack method and number of targets vary by weapon type.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 16,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 3,
+   "en": "Normal",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 17,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 4,
+   "en": "...usable with Support Attacks.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 18,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 5,
+   "en": "ALL Attack",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 19,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 6,
+   "en": "...hits all machines in the target unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 20,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 7,
+   "en": "ALL Attack",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 21,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 8,
+   "en": "...also hits units adjacent to the target.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 22,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 9,
+   "en": "MAP Weapon",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 23,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 10,
+   "en": "...hits multiple units in its range.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 24,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 11,
+   "en": "Notes on Choosing Weapons",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 12,
+   "en": "A Twin Unit's sub unit can only use weapons of the main unit's type.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 26,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 13,
+   "en": "Also, if the main unit uses",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 27,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 14,
+   "en": "to hit adjacent units, or",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 28,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 15,
+   "en": "is in use, the sub unit cannot attack.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 29,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 16,
+   "en": "can't be paired with Support Attacks, but",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 30,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 17,
+   "en": "it doesn't trigger Support Defense.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 31,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 18,
+   "en": "used in main vs. sub or sub vs.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 32,
+   "leaf": [
+    10,
+    1
+   ],
+   "seg": 19,
+   "en": "main combat deals only 65% of its normal damage.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 0,
+   "en": "Repair",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 34,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 1,
+   "en": "Restores HP to one chosen unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 35,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 2,
+   "en": "To Repair,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 36,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 3,
+   "en": "the repairing unit and its target must be",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 37,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 4,
+   "en": "adjacent in one of the 4 directions.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 5,
+   "en": "...Repair range",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 39,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 6,
+   "en": "The higher the repairing pilot's level,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 40,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 7,
+   "en": "the more HP restored.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 41,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 8,
+   "en": "The pilot who Repairs also gains experience.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 42,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 9,
+   "en": "Getting More Out of Repair",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 43,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 10,
+   "en": "The skill",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 44,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 11,
+   "en": "Mechanic",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 12,
+   "en": "boosts the HP restored",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "leaf": [
+    10,
+    2
+   ],
+   "seg": 13,
+   "en": "to 1.2 times normal.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 0,
+   "en": "Resupply",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 48,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 1,
+   "en": "Fully restores EN and ammo of one unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 2,
+   "en": "To Resupply,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 3,
+   "en": "the supplying unit and its target must be",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 4,
+   "en": "adjacent in one of the 4 directions.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 52,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 5,
+   "en": "...Supply range",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 53,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 6,
+   "en": "The pilot who Resupplies gains experience.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 54,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 7,
+   "en": "Notes on Resupply",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 55,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 8,
+   "en": "The resupplied unit's pilot loses 10 Will.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 56,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 9,
+   "en": "Getting More Out of Resupply",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 57,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 10,
+   "en": "Normally, Resupply can't follow a move, but a main pilot with",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 58,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 11,
+   "en": "Resupply",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 59,
+   "leaf": [
+    10,
+    3
+   ],
+   "seg": 12,
+   "en": "can use it after moving as well.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 60,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 0,
+   "en": "Persuade",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 1,
+   "en": "Persuade one chosen enemy.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 2,
+   "en": "Persuade",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 63,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 3,
+   "en": "can sometimes win an enemy pilot",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 64,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 4,
+   "en": "over to your side.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 65,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 5,
+   "en": "To Persuade, the persuading unit and its target must",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 66,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 6,
+   "en": "adjacent in one of the 4 directions.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 67,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 7,
+   "en": "...Valid range",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 68,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 8,
+   "en": "When can you Persuade?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 69,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 9,
+   "en": "Persuade chances occasionally arise between characters",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 70,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 10,
+   "en": "with some connection. Learn how the characters relate, and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 71,
+   "leaf": [
+    10,
+    4
+   ],
+   "seg": 11,
+   "en": "read the story to predict when it'll happen.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 0,
+   "en": "Fly",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 73,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 1,
+   "en": "Puts the unit in the air.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 74,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 2,
+   "en": "Unit and weapon terrain fit is shown by",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 75,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 3,
+   "en": "Terrain",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 76,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 4,
+   "en": "Ability.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 77,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 5,
+   "en": "For Air, Land, Sea and Space, from best to worst:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 78,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 6,
+   "en": "S",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 79,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 7,
+   "en": "A",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 80,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 8,
+   "en": "B",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 81,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 9,
+   "en": "C",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 82,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 10,
+   "en": "D",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 83,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 11,
+   "en": "are the five ranks given.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 84,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 12,
+   "en": "Weapons rated",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 85,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 13,
+   "en": "D",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 86,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 14,
+   "en": "in a terrain",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 87,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 15,
+   "en": "can't be used in battle there.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 88,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 16,
+   "en": "Terrain Ability affects battle as follows.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 89,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 17,
+   "en": "For units",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 18,
+   "en": "...Affects accuracy, evasion, damage taken.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 91,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 19,
+   "en": "For weapons",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 20,
+   "en": "...Affects damage dealt to enemies.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 21,
+   "en": "Notes on Being in the Air",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 22,
+   "en": "While in the Air,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 23,
+   "en": "\"Defense Up\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 24,
+   "en": "and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 97,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 25,
+   "en": "\"Evasion Up\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 98,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 26,
+   "en": "bonuses",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 99,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 27,
+   "en": "don't apply. Also, moving in the air costs 1 EN per square.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 28,
+   "en": "How to check terrain?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 101,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 29,
+   "en": "Press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "leaf": [
+    10,
+    5
+   ],
+   "seg": 30,
+   "en": "shows the terrain effects of that spot.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 0,
+   "en": "Land",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 1,
+   "en": "Puts the unit on land.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 2,
+   "en": "Unit and weapon terrain fit is shown by",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 3,
+   "en": "Terrain",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 4,
+   "en": "Ability.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 5,
+   "en": "For Air, Land, Sea and Space, from best to worst:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 109,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 6,
+   "en": "S",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 110,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 7,
+   "en": "A",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 111,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 8,
+   "en": "B",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 112,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 9,
+   "en": "C",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 113,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 10,
+   "en": "D",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 114,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 11,
+   "en": "are the five ranks given.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 115,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 12,
+   "en": "Weapons rated",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 116,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 13,
+   "en": "D",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 117,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 14,
+   "en": "in a terrain",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 118,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 15,
+   "en": "can't be used in battle there.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 119,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 16,
+   "en": "Terrain Ability affects battle as follows.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 120,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 17,
+   "en": "For units",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 121,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 18,
+   "en": "...Affects accuracy, evasion, damage taken.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 19,
+   "en": "For weapons",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 20,
+   "en": "...Affects damage dealt to enemies.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 21,
+   "en": "Effects on Land",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 22,
+   "en": "While on Land,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 23,
+   "en": "\"Defense Up\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 24,
+   "en": "and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 25,
+   "en": "\"Evasion Up\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 26,
+   "en": "bonuses",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 27,
+   "en": "apply.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 28,
+   "en": "How to check terrain?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 132,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 29,
+   "en": "Press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "leaf": [
+    10,
+    6
+   ],
+   "seg": 30,
+   "en": "shows the terrain effects of that spot.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 0,
+   "en": "Dive",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 1,
+   "en": "Puts the unit underwater.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 2,
+   "en": "Unit and weapon terrain fit is shown by",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 3,
+   "en": "Terrain",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 138,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 4,
+   "en": "Ability.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 5,
+   "en": "For Air, Land, Sea and Space, from best to worst:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 6,
+   "en": "S",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 7,
+   "en": "A",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 8,
+   "en": "B",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 9,
+   "en": "C",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 10,
+   "en": "D",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 145,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 11,
+   "en": "are the five ranks given.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 12,
+   "en": "Weapons rated",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 13,
+   "en": "D",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 148,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 14,
+   "en": "in a terrain",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 15,
+   "en": "can't be used in battle there.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 16,
+   "en": "Terrain Ability affects battle as follows.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 151,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 17,
+   "en": "For units",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 18,
+   "en": "...Affects accuracy, evasion, damage taken.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 19,
+   "en": "For weapons",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 154,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 20,
+   "en": "...Affects damage dealt to enemies.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 21,
+   "en": "Notes on Being Underwater",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 22,
+   "en": "Most units and weapons are poorly suited underwater.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 157,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 23,
+   "en": "Diving Tips",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 24,
+   "en": "Since many units struggle underwater, parts like",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 25,
+   "en": "\"Water Jet\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 160,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 26,
+   "en": "can raise your Terrain rank",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "leaf": [
+    10,
+    7
+   ],
+   "seg": 27,
+   "en": "so you can fight underwater at an advantage.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "leaf": [
+    10,
+    8
+   ],
+   "seg": 0,
+   "en": "Dig",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 163,
+   "leaf": [
+    10,
+    8
+   ],
+   "seg": 1,
+   "en": "Puts the unit underground.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "leaf": [
+    10,
+    8
+   ],
+   "seg": 2,
+   "en": "\"Dig\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "leaf": [
+    10,
+    8
+   ],
+   "seg": 3,
+   "en": "command can only be used on certain terrain.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "leaf": [
+    10,
+    8
+   ],
+   "seg": 4,
+   "en": "Underground, you can still use any command except \"Attack.\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "leaf": [
+    10,
+    8
+   ],
+   "seg": 5,
+   "en": "Digging Tips",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 168,
+   "leaf": [
+    10,
+    8
+   ],
+   "seg": 6,
+   "en": "While underground, you can't use \"Attack,\" but",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "leaf": [
+    10,
+    8
+   ],
+   "seg": 7,
+   "en": "enemies can't attack you either. Underground,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "leaf": [
+    10,
+    8
+   ],
+   "seg": 8,
+   "en": "you can reach your goal unharmed.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "leaf": [
+    10,
+    9
+   ],
+   "seg": 0,
+   "en": "Surface",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 0,
+   "en": "Launch",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 1,
+   "en": "Controls units aboard the ship.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 174,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 2,
+   "en": "Pick a unit from the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 3,
+   "en": "Launch List",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 4,
+   "en": "shown when selected.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 177,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 5,
+   "en": "To take a unit off the ship, use the \"Move\" command.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 6,
+   "en": "Units aboard a ship can use commands as usual,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 7,
+   "en": "but the following commands are restricted.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 180,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 8,
+   "en": "\"Combine\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 9,
+   "en": "...Only after \"Move\" or between units aboard.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 10,
+   "en": "\"Join\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 183,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 11,
+   "en": "...Only after \"Move\" or between units aboard.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 12,
+   "en": "\"Attack\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 13,
+   "en": "...After Move, only",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 186,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 14,
+   "en": "weapons may be used.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 15,
+   "en": "To Repair,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 16,
+   "en": "...Only after \"Move\".",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 189,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 17,
+   "en": "To Resupply,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 18,
+   "en": "...Usually not allowed.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 191,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 19,
+   "en": "Persuade",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "leaf": [
+    10,
+    10
+   ],
+   "seg": 20,
+   "en": "...Only after \"Move\".",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 0,
+   "en": "Board",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 194,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 1,
+   "en": "Loads the unit onto a ship.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 2,
+   "en": "\"Boarded\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 3,
+   "en": "units, at each turn's start,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 197,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 4,
+   "en": "recover 15% HP and EN",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 198,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 5,
+   "en": "and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 6,
+   "en": "fully reload",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 7,
+   "en": "weapon ammo,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 201,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 8,
+   "en": "but the pilot's",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 9,
+   "en": "Will drops by 5",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 10,
+   "en": ".",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 204,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 11,
+   "en": "However, the Will loss from boarding can never",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 205,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 12,
+   "en": "push it below 100.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 13,
+   "en": "Also, boarded units cannot take part in battle.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 14,
+   "en": "How do boarded units leave the ship?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 208,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 15,
+   "en": "Select the ship's",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 209,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 16,
+   "en": "\"Launch\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 17,
+   "en": "command, then in the Launch List,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 18,
+   "en": "pick the unit to deploy.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 212,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 19,
+   "en": "Boarding Tips",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 20,
+   "en": "For slow units, or on terrain that limits movement,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "leaf": [
+    10,
+    11
+   ],
+   "seg": 21,
+   "en": "Carry units to their goal aboard a battleship.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 215,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 0,
+   "en": "Transform",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 1,
+   "en": "Changes the unit's form.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 2,
+   "en": "In unit info, units with",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 218,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 3,
+   "en": "by their name can",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 4,
+   "en": "Transform",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 220,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 5,
+   "en": "to change their weapons and performance.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 6,
+   "en": "Comparing R-1 and its",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 7,
+   "en": "transformed R-Wing:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 223,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 8,
+   "en": "beats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 9,
+   "en": "in these ways:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 225,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 10,
+   "en": ": when to transform",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 11,
+   "en": "Higher attack weapons",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 12,
+   "en": "...to deal more damage",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 228,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 13,
+   "en": "Higher armor",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 14,
+   "en": "...to take less damage",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 15,
+   "en": "beats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 231,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 16,
+   "en": "in these ways:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 17,
+   "en": ": when to transform",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 18,
+   "en": "Higher movement",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 234,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 19,
+   "en": "...to close in fast",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 20,
+   "en": "Higher mobility",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 21,
+   "en": "...to be hit less often",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 237,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 22,
+   "en": "To Transform quickly",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 23,
+   "en": "Press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 239,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 24,
+   "en": "over a unit to Transform its main unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 240,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 25,
+   "en": "*",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "leaf": [
+    10,
+    12
+   ],
+   "seg": 26,
+   "en": "behavior can be set via the System command.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 0,
+   "en": "Combine",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 243,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 1,
+   "en": "Combines several units into one.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 2,
+   "en": "\"Combine\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 245,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 3,
+   "en": "to boost the unit's performance and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 4,
+   "en": "unlock powerful weapons.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 247,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 5,
+   "en": "To Combine, all units taking part must be",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 248,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 6,
+   "en": "adjacent in the 8 squares around them.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 7,
+   "en": "or",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 8,
+   "en": "About Combine",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 251,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 9,
+   "en": "All combining units' HP/EN affect the combined unit's HP/EN.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 10,
+   "en": "Also, if the combined unit's main pilot has already",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "leaf": [
+    10,
+    13
+   ],
+   "seg": 11,
+   "en": "acted before combining, the combined unit can't act either.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 0,
+   "en": "Separate",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 255,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 1,
+   "en": "Splits into another form.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 256,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 2,
+   "en": "Separating",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 257,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 3,
+   "en": "comes in two types: combined units and Replace units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 258,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 4,
+   "en": "Combined unit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 5,
+   "en": "...splits one unit into several.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 6,
+   "en": "Replace unit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 261,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 7,
+   "en": "...removes Replace parts, changing form.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 8,
+   "en": "HP after Separate",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 9,
+   "en": "For combined units, HP after separating depends on the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 264,
+   "leaf": [
+    10,
+    14
+   ],
+   "seg": 10,
+   "en": "pre-split HP; for Replace units, it doesn't.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "leaf": [
+    10,
+    15
+   ],
+   "seg": 0,
+   "en": "Twin",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "leaf": [
+    10,
+    15
+   ],
+   "seg": 1,
+   "en": "Shows the Status screen.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 267,
+   "leaf": [
+    10,
+    15
+   ],
+   "seg": 2,
+   "en": "Check a unit's active Spirit Commands, support count,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "leaf": [
+    10,
+    15
+   ],
+   "seg": 3,
+   "en": "status ailments, and more.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 269,
+   "leaf": [
+    10,
+    15
+   ],
+   "seg": 4,
+   "en": "Checking enemy status?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "leaf": [
+    10,
+    15
+   ],
+   "seg": 5,
+   "en": "Until you use the Spirit Command",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "leaf": [
+    10,
+    15
+   ],
+   "seg": 6,
+   "en": "Scan",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 272,
+   "leaf": [
+    10,
+    15
+   ],
+   "seg": 7,
+   "en": "or",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "leaf": [
+    10,
+    15
+   ],
+   "seg": 8,
+   "en": "fight the enemy unit, its status stays hidden.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 0,
+   "en": "Main",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 1,
+   "en": "Changes the Twin Unit's main unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 2,
+   "en": "Twin Units have",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 3,
+   "en": "a Main",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 278,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 4,
+   "en": "unit and a supporting",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 5,
+   "en": "Sub",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 6,
+   "en": "unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 281,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 7,
+   "en": "Sub",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 8,
+   "en": "unit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 9,
+   "en": "a Main",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 284,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 10,
+   "en": "unit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 11,
+   "en": "Whether the attacker and target are Main or Sub units",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 12,
+   "en": "affects the damage dealt.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 287,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 13,
+   "en": "a Main",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 288,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 14,
+   "en": "vs",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 15,
+   "en": "a Main",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 16,
+   "en": "battle...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 291,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 17,
+   "en": "100%",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 18,
+   "en": "damage dealt.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 19,
+   "en": "Sub",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 20,
+   "en": "vs",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 21,
+   "en": "Sub",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 22,
+   "en": "battle......",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 23,
+   "en": "100%",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 24,
+   "en": "damage dealt.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 25,
+   "en": "a Main",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 26,
+   "en": "vs",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 27,
+   "en": "Sub",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 28,
+   "en": "battle...only",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 29,
+   "en": "65%",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 304,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 30,
+   "en": "damage dealt.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 31,
+   "en": "Main unit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 32,
+   "en": "vs",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 307,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 33,
+   "en": "Raising Sub unit battle damage?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 34,
+   "en": "If the attacker's pilot has",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 309,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 35,
+   "en": "Focused Attack",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 36,
+   "en": "as a skill,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 37,
+   "en": "85%",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 312,
+   "leaf": [
+    10,
+    16
+   ],
+   "seg": 38,
+   "en": "damage to the enemy.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 0,
+   "en": "Spirit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 314,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 1,
+   "en": "Uses the pilot's Spirit and Twin Spirit Commands.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 2,
+   "en": "Using SP (Spirit Points), these abilities create",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 3,
+   "en": "special effects such as \"boost damage\" or",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 317,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 4,
+   "en": "\"raise Move,\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 5,
+   "en": "among others.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 6,
+   "en": "Learned Spirit Commands and SP costs vary by pilot.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 320,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 7,
+   "en": "Twin Spirit Commands?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 321,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 8,
+   "en": "A Twin Unit can use its main pilots' Twin Spirit Commands.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 9,
+   "en": "By spending SP from both main pilots of the Twin Unit,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 10,
+   "en": "you gain special effects just like Spirit Commands.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 324,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 11,
+   "en": "Forming a Twin Unit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 325,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 12,
+   "en": "\"Join\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 13,
+   "en": "command lets you merge two mechs into one unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 14,
+   "en": "To Combine, both must be in the 8 adjacent squares,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 328,
+   "leaf": [
+    10,
+    17
+   ],
+   "seg": 15,
+   "en": "and both main pilots must have 110 Will or more.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 0,
+   "en": "Parts",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 330,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 1,
+   "en": "Uses an equipped consumable Part.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 331,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 2,
+   "en": "Uses equipped Parts. The Parts usable on the map",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 3,
+   "en": "are as follows.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 4,
+   "en": "Repair Kit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 334,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 5,
+   "en": "...Refills all HP",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 6,
+   "en": "Propellant Tank",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 7,
+   "en": "...Refills all EN",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 337,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 8,
+   "en": "Cartridge",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 9,
+   "en": "...Refills all ammo",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 10,
+   "en": "Repair Kit DX",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 340,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 11,
+   "en": "...Refills all HP, EN, ammo",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 341,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 12,
+   "en": "SP Drink",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 13,
+   "en": "...Restores 50 SP",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 14,
+   "en": "SSP Drink",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 344,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 15,
+   "en": "...Refills all SP",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "leaf": [
+    10,
+    18
+   ],
+   "seg": 16,
+   "en": "Parts are lost once used.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 0,
+   "en": "Status",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 347,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 1,
+   "en": "Shows the unit status screen.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 2,
+   "en": "to change what's shown.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 3,
+   "en": "Unit Stats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 350,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 4,
+   "en": "...Combined mech and pilot stats.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 351,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 5,
+   "en": "Mech Stats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 6,
+   "en": "...Mech stats.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 7,
+   "en": "Pilot Stats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 354,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 8,
+   "en": "...Stats of the mech's pilot.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 9,
+   "en": "Weapons",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 10,
+   "en": "...Specs of the mech's weapons.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 357,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 11,
+   "en": "In Mech Stats,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 12,
+   "en": "opens the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 13,
+   "en": "Robot Library",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 14,
+   "en": ", and in Pilot Stats,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 361,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 15,
+   "en": "opens the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 16,
+   "en": "Character Index",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 17,
+   "en": "is opened.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 18,
+   "en": "How to quickly check stats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 19,
+   "en": "If the unit is made up of two mechs, use",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 20,
+   "en": "/",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 21,
+   "en": "to switch",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 22,
+   "en": "their stats. If a sub-pilot is also aboard, use",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 369,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 23,
+   "en": "/",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 370,
+   "leaf": [
+    10,
+    19
+   ],
+   "seg": 24,
+   "en": "to switch between pilot stats.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 0,
+   "en": "Wait",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 1,
+   "en": "Move, then end this unit's turn.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 373,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 2,
+   "en": "Once moved,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 3,
+   "en": "\"Wait\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 4,
+   "en": "isn't the only choice. You may also:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 376,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 5,
+   "en": "\"Attack\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 377,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 6,
+   "en": "...Use",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 378,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 7,
+   "en": "weapons to attack enemies in range.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 379,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 8,
+   "en": "\"Join\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 380,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 9,
+   "en": "...Forms a Twin Unit with an adjacent unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 381,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 10,
+   "en": "To Repair,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 382,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 11,
+   "en": "...Restores HP of an adjacent unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 383,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 12,
+   "en": "\"Boarded\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 384,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 13,
+   "en": "...Boards the selected battleship.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 385,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 14,
+   "en": "Persuade",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 386,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 15,
+   "en": "...Persuades an adjacent unit, if possible.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 387,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 16,
+   "en": "Resupply after moving",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 388,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 17,
+   "en": "Normally,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 389,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 18,
+   "en": "To Resupply,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 390,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 19,
+   "en": "can't be used after moving, but if",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 391,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 20,
+   "en": "The skill",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 392,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 21,
+   "en": "Resupply",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 393,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 22,
+   "en": "is learned by the main pilot, it can be used",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 394,
+   "leaf": [
+    10,
+    20
+   ],
+   "seg": 23,
+   "en": "after moving to refill adjacent mechs' EN and ammo.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 395,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 0,
+   "en": "Combine",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 396,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 1,
+   "en": "Puts two mechs in one square to form a Twin Unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 397,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 2,
+   "en": "\"Join\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 398,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 3,
+   "en": "requires both in the 8 surrounding squares,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 399,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 4,
+   "en": "and both main pilots must have 110 Will or more.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 400,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 5,
+   "en": "...Combine range",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 401,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 6,
+   "en": "Twin Units have the following benefits:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 402,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 7,
+   "en": "1.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 403,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 8,
+   "en": "Twin Spirit Commands become usable.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 404,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 9,
+   "en": "2",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 405,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 10,
+   "en": "Gain effects from mech Traits.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 406,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 11,
+   "en": "3.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 407,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 12,
+   "en": "Deal more damage at once when attacking.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 408,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 13,
+   "en": "To split up a Twin Unit, use the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 409,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 14,
+   "en": "\"Split\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 410,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 15,
+   "en": "command.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 411,
+   "leaf": [
+    10,
+    21
+   ],
+   "seg": 16,
+   "en": "Battleships can't form Twin Units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 412,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 0,
+   "en": "Split",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 413,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 1,
+   "en": "Splits a Twin Unit into two separate units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 414,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 2,
+   "en": "In a Twin Unit, when either of the two units acts,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 415,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 3,
+   "en": "the other finishes too. To use \"Repair\" or the like,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 416,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 4,
+   "en": "or when attacking multiple units, it's best to",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 417,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 5,
+   "en": "\"Split\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 418,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 6,
+   "en": "them. Use each mode to suit your aims.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 419,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 7,
+   "en": "Notes on Splitting",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 420,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 8,
+   "en": "If you split a Twin Unit whose main pilot's Will",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 421,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 9,
+   "en": "is 110 or lower (e.g. after boarding a ship),",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 422,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 10,
+   "en": "you can't",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 423,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 11,
+   "en": "\"Join\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 424,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 12,
+   "en": "them again.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 425,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 13,
+   "en": "When split, any Twin Spirit Command effects on the unit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 426,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 14,
+   "en": "are lost. Also, effects like Accel that work on both",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 427,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 15,
+   "en": "units of a Twin Unit carry over only to the unit of",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 428,
+   "leaf": [
+    10,
+    22
+   ],
+   "seg": 16,
+   "en": "the user.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 429,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 0,
+   "en": "Double Attack",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 430,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 1,
+   "en": "Attacks two adjacent units at once.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 431,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 2,
+   "en": "Weapons of",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 432,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 3,
+   "en": "type let you pick an attack mode if an enemy",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 433,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 4,
+   "en": "unit is adjacent to the target.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 434,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 5,
+   "en": "Normal",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 435,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 6,
+   "en": "......",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 436,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 7,
+   "en": "Attacks only the target.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 437,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 8,
+   "en": "Double Attack",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 438,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 9,
+   "en": "...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 439,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 10,
+   "en": "Also attacks units next to the target.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 440,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 11,
+   "en": "...Double Attack range",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 441,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 12,
+   "en": "Above, if",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 442,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 13,
+   "en": "beats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 443,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 14,
+   "en": "is hit by a",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 444,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 15,
+   "en": "weapon,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 445,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 16,
+   "en": "can also be attacked.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 446,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 17,
+   "en": "With a Double Attack, only the target counters, but",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 447,
+   "leaf": [
+    10,
+    23
+   ],
+   "seg": 18,
+   "en": "EN and ammo consumption are doubled.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 448,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 0,
+   "en": "Normal",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 449,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 1,
+   "en": "Attacks only the target unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 450,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 2,
+   "en": "Weapons of",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 451,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 3,
+   "en": "type let you pick an attack mode if an enemy",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 452,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 4,
+   "en": "unit is adjacent to the target.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 453,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 5,
+   "en": "Normal",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 454,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 6,
+   "en": "......",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 455,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 7,
+   "en": "Attacks only the target.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 456,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 8,
+   "en": "Double Attack",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 457,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 9,
+   "en": "...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 458,
+   "leaf": [
+    10,
+    24
+   ],
+   "seg": 10,
+   "en": "Also attacks units next to the target.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 459,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 0,
+   "en": "Individual",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 460,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 1,
+   "en": "Both units of a Twin Unit each attack a separate",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 461,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 2,
+   "en": "unit of the target Twin Unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 462,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 3,
+   "en": "When a Twin Unit uses a weapon of the Normal type",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 463,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 4,
+   "en": "to attack a Twin Unit, you can choose the attack mode.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 464,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 5,
+   "en": "Individual",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 465,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 6,
+   "en": "...Both hit different units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 466,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 7,
+   "en": "Concentrated",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 467,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 8,
+   "en": "...Both hit the same unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 468,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 9,
+   "en": "Individual attacks spread damage evenly over the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 469,
+   "leaf": [
+    10,
+    25
+   ],
+   "seg": 10,
+   "en": "target Twin Unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 470,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 0,
+   "en": "Concentrated",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 471,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 1,
+   "en": "Both units of a Twin Unit each attack a separate",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 472,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 2,
+   "en": "attack the same unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 473,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 3,
+   "en": "When a Twin Unit uses a weapon of the Normal type",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 474,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 4,
+   "en": "to attack a Twin Unit, you can choose the attack mode.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 475,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 5,
+   "en": "Individual",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 476,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 6,
+   "en": "...Both hit different units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 477,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 7,
+   "en": "Concentrated",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 478,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 8,
+   "en": "...Both hit the same unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 479,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 9,
+   "en": "Concentrated attacks focus damage on one unit of the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 480,
+   "leaf": [
+    10,
+    26
+   ],
+   "seg": 10,
+   "en": "target Twin Unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 481,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 0,
+   "en": "End Turn",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 482,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 1,
+   "en": "Ends the player phase and advances the turn.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 483,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 2,
+   "en": "Ending the turn causes the following:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 484,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 3,
+   "en": "1.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 485,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 4,
+   "en": "COM faction phases",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 486,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 5,
+   "en": "start. Once all COM faction",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 487,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 6,
+   "en": "phases end, the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 488,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 7,
+   "en": "Player Phase",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 489,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 8,
+   "en": "begins; the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 490,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 9,
+   "en": "turn count goes",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 491,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 10,
+   "en": "up by 1.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 492,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 11,
+   "en": "(2) At the start of each phase,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 493,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 12,
+   "en": "EN +5",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 494,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 13,
+   "en": "up by 1.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 495,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 14,
+   "en": "(3) At the start of each phase, HP Regen, EN Regen,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 496,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 15,
+   "en": "terrain and ships grant",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 497,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 16,
+   "en": "HP/EN recovery",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 498,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 17,
+   "en": "to units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 499,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 18,
+   "en": "Notes on Ending the Turn",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 500,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 19,
+   "en": "Victory/defeat or skill point conditions may set",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 501,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 20,
+   "en": "a turn limit. Victory and skill point conditions",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 502,
+   "leaf": [
+    10,
+    27
+   ],
+   "seg": 21,
+   "en": "can be viewed in the Objectives menu.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 503,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 0,
+   "en": "Search",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 504,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 1,
+   "en": "Finds pilots and units with chosen abilities.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 505,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 2,
+   "en": "The search screen offers these three categories.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 506,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 3,
+   "en": "/",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 507,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 4,
+   "en": "changes the category.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 508,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 5,
+   "en": "Spirit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 509,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 6,
+   "en": "...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 510,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 7,
+   "en": "Finds pilots with the chosen Spirit Command.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 511,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 8,
+   "en": "The skill",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 512,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 9,
+   "en": "...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 513,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 10,
+   "en": "Finds pilots with the chosen pilot skill.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 514,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 11,
+   "en": "Abilities",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 515,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 12,
+   "en": "...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 516,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 13,
+   "en": "Finds units with the chosen ability.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 517,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 14,
+   "en": "Select a pilot or unit in the results and press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 518,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 15,
+   "en": "to directly",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 519,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 16,
+   "en": "use Spirit Commands, or to place the cursor on the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 520,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 17,
+   "en": "unit on the map.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 521,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 18,
+   "en": "Using Found Spirit Commands at Once",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 522,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 19,
+   "en": "If a searched Spirit Command targets \"Self\" or",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 523,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 20,
+   "en": "In the \"Own Units\" list, press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 524,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 21,
+   "en": "to place a mark",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 525,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 22,
+   "en": "on the pilot under the cursor.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 526,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 23,
+   "en": "to directly",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 527,
+   "leaf": [
+    10,
+    28
+   ],
+   "seg": 24,
+   "en": "All marked pilots will then use the Spirit Command at once.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 528,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 0,
+   "en": "Unit List",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 529,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 1,
+   "en": "Displays a list of player units and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 530,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 2,
+   "en": "enemy units on the map.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 531,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 3,
+   "en": "Press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 532,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 4,
+   "en": "to place a mark",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 533,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 5,
+   "en": "to switch factions.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 534,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 6,
+   "en": "Also, press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 535,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 7,
+   "en": "to switch the list display mode",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 536,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 8,
+   "en": "from Twin Units to single units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 537,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 9,
+   "en": "Select a unit in the list, press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 538,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 10,
+   "en": "to directly",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 539,
+   "leaf": [
+    10,
+    29
+   ],
+   "seg": 11,
+   "en": "to move the cursor to it on the map.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 540,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 0,
+   "en": "Objectives",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 541,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 1,
+   "en": "Shows win, loss and Skill Point conditions.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 542,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 2,
+   "en": "Each condition may change due to story events.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 543,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 3,
+   "en": "Victory",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 544,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 4,
+   "en": "....Shows the stage's objective.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 545,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 5,
+   "en": "Defeat",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 546,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 6,
+   "en": "....Shows what leads to a Game Over.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 547,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 7,
+   "en": "Skill Point",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 548,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 8,
+   "en": "...Shows how to earn it.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 549,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 9,
+   "en": "Skill Points?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 550,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 10,
+   "en": "Skill Point rates",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 551,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 11,
+   "en": "30% or less",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 552,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 12,
+   "en": ",",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 553,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 13,
+   "en": "31-79% and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 554,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 14,
+   "en": ",",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 555,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 15,
+   "en": "80% or more",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 556,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 16,
+   "en": "set the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 557,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 17,
+   "en": "game's",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 558,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 18,
+   "en": "difficulty",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 559,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 19,
+   "en": "beats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 560,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 20,
+   "en": "to \"EASY\",",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 561,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 21,
+   "en": "\"NORMAL\" and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 562,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 22,
+   "en": "\"HARD\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 563,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 23,
+   "en": "in order.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 564,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 24,
+   "en": "Earning a Skill Point also gives deployed pilots +5 PP.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 565,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 25,
+   "en": "Skill Points on Retry",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 566,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 26,
+   "en": "If you retry a stage right after a Game Over,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 567,
+   "leaf": [
+    10,
+    30
+   ],
+   "seg": 27,
+   "en": "you cannot earn its Skill Point.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 568,
+   "leaf": [
+    10,
+    31
+   ],
+   "seg": 0,
+   "en": "Battle Status",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 569,
+   "leaf": [
+    10,
+    31
+   ],
+   "seg": 1,
+   "en": "Shows the status of the current stage.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 570,
+   "leaf": [
+    10,
+    31
+   ],
+   "seg": 2,
+   "en": "View forces, Skill Point progress,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 571,
+   "leaf": [
+    10,
+    31
+   ],
+   "seg": 3,
+   "en": "funds and Parts obtained, and more.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 572,
+   "leaf": [
+    10,
+    31
+   ],
+   "seg": 4,
+   "en": "On \"Kills\" or \"Losses\",",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 573,
+   "leaf": [
+    10,
+    31
+   ],
+   "seg": 5,
+   "en": "press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 574,
+   "leaf": [
+    10,
+    31
+   ],
+   "seg": 6,
+   "en": "to directly",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 575,
+   "leaf": [
+    10,
+    31
+   ],
+   "seg": 7,
+   "en": "to list the matching units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 576,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 0,
+   "en": "System",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 577,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 1,
+   "en": "Configure game settings.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 578,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 2,
+   "en": "Adjust sound, map controls, display and more. Press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 579,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 3,
+   "en": "/",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 580,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 4,
+   "en": "to change settings.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 581,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 5,
+   "en": "Free Command",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 582,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 6,
+   "en": "lets you map",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 583,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 7,
+   "en": "\"Open Unit List\", \"Transform\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 584,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 8,
+   "en": "and other",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 585,
+   "leaf": [
+    10,
+    32
+   ],
+   "seg": 9,
+   "en": "actions to a button.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 586,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 0,
+   "en": "Save",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 587,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 1,
+   "en": "Saves your current map",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 588,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 2,
+   "en": "progress to a PS2 Memory Card.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 589,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 3,
+   "en": "Only one map save is kept. From the title menu,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 590,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 4,
+   "en": "select \"CONTINUE\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 591,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 5,
+   "en": "to resume from where you saved.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 592,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 6,
+   "en": "Quick Restart",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 593,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 7,
+   "en": "together to",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 594,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 8,
+   "en": "Soft Reset",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 595,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 9,
+   "en": "the game.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 596,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 10,
+   "en": "If you hold",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 597,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 11,
+   "en": "while doing so, the title screen is skipped",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 598,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 12,
+   "en": "and \"CONTINUE\" runs on its own. It's",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 599,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 13,
+   "en": "Quick Continue",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 600,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 14,
+   "en": "is hit by a",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 601,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 15,
+   "en": ".",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 602,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 16,
+   "en": "Quit Message",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 603,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 17,
+   "en": "After saving, when asked \"Continue the game?\",",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 604,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 18,
+   "en": "picking \"No\" brings up something the story never shows",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 605,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 19,
+   "en": "Quit Message",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 606,
+   "leaf": [
+    10,
+    33
+   ],
+   "seg": 20,
+   "en": "is opened.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 607,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 0,
+   "en": "Free Cursor",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 608,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 1,
+   "en": "Use the left stick or D-pad",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 609,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 2,
+   "en": "to move the cursor.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 610,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 3,
+   "en": "With the cursor on a unit you control,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 611,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 4,
+   "en": "opens the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 612,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 5,
+   "en": "\"Unit Commands\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 613,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 6,
+   "en": "opens; on an empty space,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 614,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 7,
+   "en": "opens the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 615,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 8,
+   "en": "Map Commands",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 616,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 9,
+   "en": "are displayed.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 617,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 10,
+   "en": "Unit Command",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 618,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 11,
+   "en": "...Commands for operating that unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 619,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 12,
+   "en": "Map Command",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 620,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 13,
+   "en": "...Commands for info, game settings, saving and more.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 621,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 14,
+   "en": "For your units,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 622,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 15,
+   "en": "/",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 623,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 16,
+   "en": "to place a mark",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 624,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 17,
+   "en": "for enemy units,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 625,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 18,
+   "en": "/",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 626,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 19,
+   "en": "press to quickly place the cursor",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 627,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 20,
+   "en": "on them.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 628,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 21,
+   "en": "Want to see the whole map?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 629,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 22,
+   "en": "Press to switch the map's display mode",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 630,
+   "leaf": [
+    10,
+    34
+   ],
+   "seg": 23,
+   "en": "(Normal or Full View).",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 631,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 0,
+   "en": "Replace",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 632,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 1,
+   "en": "Swaps frames to take another form.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 633,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 2,
+   "en": "Replacing",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 634,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 3,
+   "en": "a unit changes its Move, weapons and more,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 635,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 4,
+   "en": "giving it different specs than before.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 636,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 5,
+   "en": "To Replace, a friendly battleship must be",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 637,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 6,
+   "en": "within 6 squares of the unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 638,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 7,
+   "en": "About Replacing",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 639,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 8,
+   "en": "Frames being used by another unit or at 0 HP",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 640,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 9,
+   "en": "can't be used for Replacing.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 641,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 10,
+   "en": "HP and ammo are per frame. If HP reaches 0 while",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 642,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 11,
+   "en": "Replaced, the unit is forced to Separate into the Argent Head.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 643,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 12,
+   "en": "Also, a frame's remaining EN % always equals that of the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 644,
+   "leaf": [
+    10,
+    35
+   ],
+   "seg": 13,
+   "en": "Argent Fighter currently Replaced with it.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 645,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 0,
+   "en": "Pilot List",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 646,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 1,
+   "en": "Shows the list of currently registered pilots.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 647,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 2,
+   "en": "Select a pilot and press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 648,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 3,
+   "en": "to view the pilot's",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 649,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 4,
+   "en": "stats.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 650,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 5,
+   "en": "Stats screen:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 651,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 6,
+   "en": "changes the displayed page.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 652,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 7,
+   "en": "Pilot Stats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 653,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 8,
+   "en": "...Pilot stats.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 654,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 9,
+   "en": "Unit Info",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 655,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 10,
+   "en": "......Name of the pilot's unit, etc.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 656,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 11,
+   "en": "Pilot Stats Shortcuts",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 657,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 12,
+   "en": "In Pilot Stats,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 658,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 13,
+   "en": "opens the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 659,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 14,
+   "en": "Character Index",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 660,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 15,
+   "en": "to jump,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 661,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 16,
+   "en": "or press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 662,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 17,
+   "en": "to jump to",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 663,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 18,
+   "en": "Pilot Training",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 664,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 19,
+   "en": "as a shortcut.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 665,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 20,
+   "en": "Event Deployment",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 666,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 21,
+   "en": "If shown beside a name, that pilot will be",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 667,
+   "leaf": [
+    10,
+    36
+   ],
+   "seg": 22,
+   "en": "forced to deploy by an event next stage.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 668,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 0,
+   "en": "Unit List",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 669,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 1,
+   "en": "Shows all currently registered units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 670,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 2,
+   "en": "Pick a unit, press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 671,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 3,
+   "en": "to view its stats.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 672,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 4,
+   "en": "Stats screen:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 673,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 5,
+   "en": "changes the displayed page.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 674,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 6,
+   "en": "Crew Info",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 675,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 7,
+   "en": "...Unit and pilot overall stats.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 676,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 8,
+   "en": "Mech Stats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 677,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 9,
+   "en": "...Unit stats.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 678,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 10,
+   "en": "Weapons",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 679,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 11,
+   "en": "...Unit's weapon specs.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 680,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 12,
+   "en": "Unit Stats Shortcuts",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 681,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 13,
+   "en": "In Unit Stats,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 682,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 14,
+   "en": "to directly",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 683,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 15,
+   "en": "Robot Library",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 684,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 16,
+   "en": "to jump,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 685,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 17,
+   "en": "to directly",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 686,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 18,
+   "en": "Unit Upgrade",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 687,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 19,
+   "en": "and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 688,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 20,
+   "en": "Parts Screen",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 689,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 21,
+   "en": "as a shortcut.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 690,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 22,
+   "en": "Event Deployment",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 691,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 23,
+   "en": "If shown by a name, it's used by a pilot forced",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 692,
+   "leaf": [
+    10,
+    37
+   ],
+   "seg": 24,
+   "en": "to deploy next stage, so Swapping is restricted.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 693,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 0,
+   "en": "Search",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 694,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 1,
+   "en": "Finds pilots and units with chosen abilities.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 695,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 2,
+   "en": "The search screen offers these three categories.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 696,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 3,
+   "en": "/",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 697,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 4,
+   "en": "changes the search criteria.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 698,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 5,
+   "en": "Spirit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 699,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 6,
+   "en": "...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 700,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 7,
+   "en": "Finds pilots with the chosen Spirit Command.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 701,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 8,
+   "en": "The skill",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 702,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 9,
+   "en": "...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 703,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 10,
+   "en": "Finds pilots with the chosen pilot skill.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 704,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 11,
+   "en": "Abilities",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 705,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 12,
+   "en": "...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 706,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 13,
+   "en": "Finds units with the chosen ability.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 707,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 14,
+   "en": "Select a pilot or unit in the results and press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 708,
+   "leaf": [
+    10,
+    38
+   ],
+   "seg": 15,
+   "en": "opens the stats screen.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 709,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 0,
+   "en": "Pilot Training",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 710,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 1,
+   "en": "Enhance registered pilots' stats and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 711,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 2,
+   "en": "teach them skills.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 712,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 3,
+   "en": "Spend PP (Pilot Points), earned by shooting down enemies,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 713,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 4,
+   "en": "to improve",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 714,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 5,
+   "en": "Stats, Skills, Terrain Ability",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 715,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 6,
+   "en": "by raising them",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 716,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 7,
+   "en": "or learning new ones.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 717,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 8,
+   "en": "changes the training category.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 718,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 9,
+   "en": "Stat Up",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 719,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 10,
+   "en": "......Raises stats.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 720,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 11,
+   "en": "Learn Skill",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 721,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 12,
+   "en": "...Learns a new skill.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 722,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 13,
+   "en": "Terrain Up",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 723,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 14,
+   "en": "...Raises Terrain Ability.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 724,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 15,
+   "en": "PP Cost by Game Mode",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 725,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 16,
+   "en": "In some game modes unlocked by using clear data,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 726,
+   "leaf": [
+    10,
+    39
+   ],
+   "seg": 17,
+   "en": "the PP needed for training may be doubled.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 727,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 0,
+   "en": "Unit Upgrade",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 728,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 1,
+   "en": "Upgrades currently registered units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 729,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 2,
+   "en": "By spending Funds earned from downing enemies,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 730,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 3,
+   "en": "a unit's",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 731,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 4,
+   "en": "HP, EN, Mobility and Armor",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 732,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 5,
+   "en": "stats",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 733,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 6,
+   "en": "can be increased.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 734,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 7,
+   "en": "HP",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 735,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 8,
+   "en": "...Raises max HP.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 736,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 9,
+   "en": "EN",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 737,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 10,
+   "en": "...Raises max EN.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 738,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 11,
+   "en": "Mobility",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 739,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 12,
+   "en": "...Raises Mobility.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 740,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 13,
+   "en": "Armor",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 741,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 14,
+   "en": "...Raises Armor.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 742,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 15,
+   "en": "Upgrade levels and gains differ by unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 743,
+   "leaf": [
+    10,
+    40
+   ],
+   "seg": 16,
+   "en": "Upgrade all four stats to the maximum, and...",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 744,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 0,
+   "en": "Weapon Upgrade",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 745,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 1,
+   "en": "Upgrades the weapons of registered units",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 746,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 2,
+   "en": "and the armory.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 747,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 3,
+   "en": "By spending Funds earned from downing enemies,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 748,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 4,
+   "en": "fully reload",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 749,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 5,
+   "en": "Attack Power",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 750,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 6,
+   "en": "can be increased.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 751,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 7,
+   "en": "Costs and Attack gains differ by weapon.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 752,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 8,
+   "en": "Weapon Upgrade Limits by Mode",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 753,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 9,
+   "en": "In some game modes unlocked by using clear data,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 754,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 10,
+   "en": "weapons may not be upgradable.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 755,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 11,
+   "en": "Linked Upgrades",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 756,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 12,
+   "en": "For units with multiple forms, such as transformable ones,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 757,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 13,
+   "en": "if both forms share a weapon, upgrading it in one form",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 758,
+   "leaf": [
+    10,
+    41
+   ],
+   "seg": 14,
+   "en": "applies to every form sharing it.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 759,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 0,
+   "en": "Weapon Select",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 760,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 1,
+   "en": "Equip weapons and develop/load special ammo.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 761,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 2,
+   "en": "\"Replace\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 762,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 3,
+   "en": "Within the unit's maximum Weapon Gauge value,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 763,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 4,
+   "en": "equips Replaceable weapons.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 764,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 5,
+   "en": "Weapons like",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 765,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 6,
+   "en": "that show \"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 766,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 7,
+   "en": "A",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 767,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 8,
+   "en": "\" can be replaced.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 768,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 9,
+   "en": "A Repair or Resupply Module allows",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 769,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 10,
+   "en": "Press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 770,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 11,
+   "en": "To Repair,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 771,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 12,
+   "en": "or",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 772,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 13,
+   "en": "To Resupply,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 773,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 14,
+   "en": "to be performed.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 774,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 15,
+   "en": "Special Ammo",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 775,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 16,
+   "en": "Special ammo has 2 functions:",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 776,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 17,
+   "en": "Develop",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 777,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 18,
+   "en": "...Use your",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 778,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 19,
+   "en": "Ammo Parts",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 779,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 20,
+   "en": "to develop",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 780,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 21,
+   "en": "Special Ammo",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 781,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 22,
+   "en": ".",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 782,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 23,
+   "en": "Load",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 783,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 24,
+   "en": "...Load developed special ammo into weapons.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 784,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 25,
+   "en": "",
+   "kind": "help_line",
+   "keep": true,
+   "keep_reason": "blank"
+  },
+  {
+   "id": 785,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 26,
+   "en": "Loaded arms",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 786,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 27,
+   "en": "show a \"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 787,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 28,
+   "en": "B",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 788,
+   "leaf": [
+    10,
+    42
+   ],
+   "seg": 29,
+   "en": "\" mark.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 789,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 0,
+   "en": "Pilot Swap",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 790,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 1,
+   "en": "Moves another Pilot into a chosen unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 791,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 2,
+   "en": "Some units/Pilots have",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 792,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 3,
+   "en": "\"Swap\"",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 793,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 4,
+   "en": "restrictions.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 794,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 5,
+   "en": "marks units/Pilots forced to deploy next",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 795,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 6,
+   "en": "stage; these may have \"Swap\" restricted.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 796,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 7,
+   "en": "Pilot Weapon Restrictions",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 797,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 8,
+   "en": "Some units have weapons that require a set skill",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 798,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 9,
+   "en": "to use, or are usable only with specific Pilots,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 799,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 10,
+   "en": "such as",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 800,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 11,
+   "en": "Combo Attack",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 801,
+   "leaf": [
+    10,
+    43
+   ],
+   "seg": 12,
+   "en": "weapons.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 802,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 0,
+   "en": "Parts",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 803,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 1,
+   "en": "Equips Parts on units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 804,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 2,
+   "en": "Equipping Parts gives the unit wearing them various",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 805,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 3,
+   "en": "effects. Parts can be attached and removed freely, and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 806,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 4,
+   "en": "the number of Parts slots differs per unit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 807,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 5,
+   "en": "Parts fall into these 4 types, and",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 808,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 6,
+   "en": "/",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 809,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 7,
+   "en": "switches the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 810,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 8,
+   "en": "category of Parts shown.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 811,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 9,
+   "en": "Unit",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 812,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 10,
+   "en": "...Boost unit stats like Mobility and Move.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 813,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 11,
+   "en": "Weapon",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 814,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 12,
+   "en": "...Boost weapon stats like Accuracy and Range.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 815,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 13,
+   "en": "Consumable",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 816,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 14,
+   "en": "...Use on the map to restore current HP, etc.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 817,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 15,
+   "en": "Special",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 818,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 16,
+   "en": "...Affects the pilot.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 819,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 17,
+   "en": "Selling Parts",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 820,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 18,
+   "en": "In the Intermission, parts you no longer need can",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 821,
+   "leaf": [
+    10,
+    44
+   ],
+   "seg": 19,
+   "en": "be sold for funds.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 822,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 0,
+   "en": "Replace Command",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 823,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 1,
+   "en": "Equips a unit's own Replace Parts.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 824,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 2,
+   "en": "Units with",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 825,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 3,
+   "en": "Replace",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 826,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 4,
+   "en": "parts of their own can swap them to",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 827,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 5,
+   "en": "change unit stats such as Mobility and Terrain Ability.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 828,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 6,
+   "en": "In many cases, equipping Replace Parts also adds",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 829,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 7,
+   "en": "perks like powerful weapons.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 830,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 8,
+   "en": "How do I use the Replace command?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 831,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 9,
+   "en": "The Replace Parts command can't be used until you obtain",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 832,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 10,
+   "en": "Replace Parts in events.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 833,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 11,
+   "en": "Units Sharing Replace Parts",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 834,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 12,
+   "en": "When two units share one set of Replace Parts, parts in use by",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 835,
+   "leaf": [
+    10,
+    45
+   ],
+   "seg": 13,
+   "en": "the other unit can't be equipped.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 836,
+   "leaf": [
+    10,
+    46
+   ],
+   "seg": 0,
+   "en": "System",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 837,
+   "leaf": [
+    10,
+    46
+   ],
+   "seg": 1,
+   "en": "Configure game settings.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 838,
+   "leaf": [
+    10,
+    46
+   ],
+   "seg": 2,
+   "en": "Adjust sound and other settings.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 839,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 0,
+   "en": "Data Command",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 840,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 1,
+   "en": "Save your current progress, or resume the game",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 841,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 2,
+   "en": "from saved data.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 842,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 3,
+   "en": "Save",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 843,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 4,
+   "en": "...Save your current progress.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 844,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 5,
+   "en": "Load",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 845,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 6,
+   "en": "...Resume the game from saved data.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 846,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 7,
+   "en": "Skill Points from Game Over Data",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 847,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 8,
+   "en": "If you save just after a Game Over, games resumed",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 848,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 9,
+   "en": "from that data can't earn Skill Points.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 849,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 10,
+   "en": "Resuming from Clear Data",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 850,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 11,
+   "en": "If you resume a game from Clear Data saved at the ending,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 851,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 12,
+   "en": "new game modes may be added, and you can play from",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 852,
+   "leaf": [
+    10,
+    47
+   ],
+   "seg": 13,
+   "en": "the start carrying over a set amount of funds and more.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 853,
+   "leaf": [
+    10,
+    48
+   ],
+   "seg": 0,
+   "en": "Next Map Command",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 854,
+   "leaf": [
+    10,
+    48
+   ],
+   "seg": 1,
+   "en": "Exit the Intermission screen.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 855,
+   "leaf": [
+    10,
+    48
+   ],
+   "seg": 2,
+   "en": "During stages, the",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 856,
+   "leaf": [
+    10,
+    48
+   ],
+   "seg": 3,
+   "en": "Sortie Prep",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 857,
+   "leaf": [
+    10,
+    48
+   ],
+   "seg": 4,
+   "en": "screen, like",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 858,
+   "leaf": [
+    10,
+    48
+   ],
+   "seg": 5,
+   "en": "Intermission",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 859,
+   "leaf": [
+    10,
+    48
+   ],
+   "seg": 6,
+   "en": "screen, allows training,",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 860,
+   "leaf": [
+    10,
+    48
+   ],
+   "seg": 7,
+   "en": "upgrades, and parts swaps. But units forced to",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 861,
+   "leaf": [
+    10,
+    48
+   ],
+   "seg": 8,
+   "en": "sortie and already placed can't be changed.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 862,
+   "leaf": [
+    10,
+    49
+   ],
+   "seg": 0,
+   "en": "View Map Command",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 863,
+   "leaf": [
+    10,
+    49
+   ],
+   "seg": 1,
+   "en": "Check the map as you deploy.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 864,
+   "leaf": [
+    10,
+    49
+   ],
+   "seg": 2,
+   "en": "Numbers on the map mark where units picked for",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 865,
+   "leaf": [
+    10,
+    49
+   ],
+   "seg": 3,
+   "en": "sortie will deploy.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 866,
+   "leaf": [
+    10,
+    49
+   ],
+   "seg": 4,
+   "en": "With the map shown, press",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 867,
+   "leaf": [
+    10,
+    49
+   ],
+   "seg": 5,
+   "en": "to switch to a",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 868,
+   "leaf": [
+    10,
+    49
+   ],
+   "seg": 6,
+   "en": "top-down view of the map.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 869,
+   "leaf": [
+    10,
+    50
+   ],
+   "seg": 0,
+   "en": "Sortie Select",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 870,
+   "leaf": [
+    10,
+    50
+   ],
+   "seg": 1,
+   "en": "Exit Sortie Prep.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 871,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 0,
+   "en": "Rearrange units on the map.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 872,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 1,
+   "en": "Reposition selected units on the map.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 873,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 2,
+   "en": "Select a placed map unit with",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 874,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 3,
+   "en": ", then",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 875,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 4,
+   "en": "choose the swap with",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 876,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 5,
+   "en": "to confirm.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 877,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 6,
+   "en": "to finalize and exit.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 878,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 7,
+   "en": "Using Placement",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 879,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 8,
+   "en": "Placing units that can combine next to each other",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 880,
+   "leaf": [
+    10,
+    51
+   ],
+   "seg": 9,
+   "en": "lets them Combine right away.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 881,
+   "leaf": [
+    10,
+    52
+   ],
+   "seg": 0,
+   "en": "All units, go!",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 882,
+   "leaf": [
+    10,
+    52
+   ],
+   "seg": 1,
+   "en": "Confirm the chosen units and layout.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 883,
+   "leaf": [
+    10,
+    52
+   ],
+   "seg": 2,
+   "en": "Units numbered in Sortie Select appear",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 884,
+   "leaf": [
+    10,
+    52
+   ],
+   "seg": 3,
+   "en": "at matching map numbers.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 885,
+   "leaf": [
+    10,
+    52
+   ],
+   "seg": 4,
+   "en": "How to check placement?",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 886,
+   "leaf": [
+    10,
+    52
+   ],
+   "seg": 5,
+   "en": "button shows the map so you can",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 887,
+   "leaf": [
+    10,
+    52
+   ],
+   "seg": 6,
+   "en": "check where units will deploy.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 888,
+   "leaf": [
+    10,
+    53
+   ],
+   "seg": 0,
+   "en": "No, hold on.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 889,
+   "leaf": [
+    10,
+    53
+   ],
+   "seg": 1,
+   "en": "Continue choosing units.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 890,
+   "leaf": [
+    10,
+    54
+   ],
+   "seg": 0,
+   "en": "Go to Sortie Prep.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 891,
+   "leaf": [
+    10,
+    54
+   ],
+   "seg": 1,
+   "en": "Return to Sortie Prep.",
+   "kind": "help_line",
+   "keep": false
+  },
+  {
+   "id": 892,
+   "leaf": [
+    10,
+    54
+   ],
+   "seg": 2,
+   "en": "Returning to Sortie Prep deselects all chosen units.",
+   "kind": "help_line",
+   "keep": false
+  }
+ ]
+}

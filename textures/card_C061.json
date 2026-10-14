@@ -1,0 +1,32 @@
+{
+ "names": [
+  "C061"
+ ],
+ "note": "Shuffle Battler card: 命中判定のみ -> Accuracy Only",
+ "items": [
+  {
+   "en": "Accuracy Only",
+   "font": "FiraSansCondensed-Bold",
+   "style": "outline",
+   "color": [
+    16,
+    48,
+    120
+   ],
+   "outline": [
+    200,
+    240,
+    255
+   ],
+   "outline_px": 1,
+   "align": "center",
+   "fill": "inpaint",
+   "box": [
+    119,
+    131,
+    228,
+    154
+   ]
+  }
+ ]
+}

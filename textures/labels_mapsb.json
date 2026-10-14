@@ -1,0 +1,149 @@
+{
+ "_comment": "Shuffle Battler map pop-ups (DATA_SP/MAPSB.BIN). Hash-matched: MAP.BIN reuses the M_ names.",
+ "defaults": {
+  "font": "FiraSansCondensed-ExtraBoldItalic",
+  "style": "heavy",
+  "color": "auto",
+  "pad": 0,
+  "align": "center",
+  "wide": "both",
+  "squeeze": 0.6
+ },
+ "labels": [
+  {
+   "name": "M_145",
+   "en": "Attack Dice -1",
+   "hash": "ed9991b0f0"
+  },
+  {
+   "name": "M_146",
+   "en": "Attack Dice -2",
+   "hash": "3db9306c56"
+  },
+  {
+   "name": "M_147",
+   "en": "ATK Bonus +1",
+   "hash": "b5e86797f2"
+  },
+  {
+   "name": "M_148",
+   "en": "ATK Bonus +2",
+   "hash": "60980241e3"
+  },
+  {
+   "name": "M_149",
+   "en": "ATK Bonus +4",
+   "hash": "5d0c331bab"
+  },
+  {
+   "name": "M_150",
+   "en": "ATK Bonus +7",
+   "hash": "02f9cf84bb"
+  },
+  {
+   "name": "M_151",
+   "en": "ATK Bonus +9",
+   "hash": "fd0ec3b6aa"
+  },
+  {
+   "name": "M_152",
+   "en": "ATK Bonus +10",
+   "hash": "4f61e7f24e"
+  },
+  {
+   "name": "M_153",
+   "en": "ATK Bonus -2",
+   "hash": "48e7edba0c"
+  },
+  {
+   "name": "M_154",
+   "en": "Max B.M Halved",
+   "hash": "fa4eb7a156"
+  },
+  {
+   "name": "M_155",
+   "en": "No Event Cards",
+   "hash": "e194fd63c1"
+  },
+  {
+   "name": "M_156",
+   "en": "Can't Move!",
+   "hash": "e577831576"
+  },
+  {
+   "name": "M_157",
+   "en": "Can't Act!",
+   "hash": "705b2ce4d7"
+  },
+  {
+   "name": "M_160",
+   "en": "B.M Cost 4/5",
+   "hash": "41e13f0d4c"
+  },
+  {
+   "name": "M_107",
+   "en": "B.M Cost 2/3",
+   "hash": "d51abb210f"
+  },
+  {
+   "name": "M_108",
+   "en": "B.M Cost 1/2",
+   "hash": "fe19c944b0"
+  },
+  {
+   "name": "M_111",
+   "en": "ATK Bonus +3",
+   "hash": "e46d574a5c"
+  },
+  {
+   "name": "M_112",
+   "en": "ATK Bonus +5",
+   "hash": "de979e5415"
+  },
+  {
+   "name": "M_119",
+   "en": "B.M Cost x1.2",
+   "hash": "e895d0e290"
+  },
+  {
+   "name": "M_120",
+   "en": "B.M Cost x1.5",
+   "hash": "495b8a2a6a"
+  },
+  {
+   "name": "M_124",
+   "en": "Attack Only",
+   "hash": "8a1c452687"
+  },
+  {
+   "name": "M_125",
+   "en": "No Command Cards",
+   "hash": "7ad8f9d4e5",
+   "color": [
+    121,
+    66,
+    229
+   ]
+  },
+  {
+   "name": "M_126",
+   "en": "No Sub Units",
+   "hash": "23ab000afe"
+  },
+  {
+   "name": "M_127",
+   "en": "No Escape",
+   "hash": "7799c35c59"
+  },
+  {
+   "name": "M_128",
+   "en": "Out of Control!",
+   "hash": "ae176017f6"
+  },
+  {
+   "name": "M_129",
+   "en": "New LEADER!",
+   "hash": "67802d7077"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "names": [
+  "AT4030"
+ ],
+ "note": "Special-disk title: 再開 under START (dim).",
+ "items": [
+  {
+   "box": [
+    7,
+    111,
+    200,
+    142
+   ],
+   "en": "RESUME",
+   "font": "FiraSans-Bold",
+   "style": "outline",
+   "color": [
+    0,
+    15,
+    22
+   ],
+   "align": "left",
+   "pad": 1,
+   "size": 30,
+   "outline": [
+    0,
+    58,
+    85
+   ],
+   "outline_px": 2
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "names": [
+  "AT020",
+  "AT2020",
+  "AT3020",
+  "AT4020"
+ ],
+ "note": "Screen banners: Intermission, Sortie Preparation.",
+ "items": [
+  {
+   "box": [
+    8,
+    192,
+    224,
+    208
+   ],
+   "en": "INTERMISSION",
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "plain",
+   "track": 3
+  },
+  {
+   "box": [
+    8,
+    216,
+    152,
+    232
+   ],
+   "en": "SORTIE PREP",
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "plain",
+   "track": 2
+  }
+ ]
+}

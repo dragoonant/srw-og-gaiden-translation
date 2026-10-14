@@ -1,0 +1,149 @@
+{
+ "names": [
+  "AT004",
+  "AT1004",
+  "AT3004",
+  "AT4004"
+ ],
+ "note": "Command badges: attack, counter, support, defend, evade (evilgouki: three-letter abbreviations).",
+ "items": [
+  {
+   "box": [
+    7,
+    135,
+    25,
+    153
+   ],
+   "bg_col": 7,
+   "en": "ATK",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    39,
+    135,
+    57,
+    153
+   ],
+   "bg_col": 39,
+   "en": "CNT",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    71,
+    135,
+    89,
+    153
+   ],
+   "bg_col": 71,
+   "en": "SUP",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    231,
+    31,
+    249,
+    49
+   ],
+   "bg_col": 231,
+   "en": "DEF",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    47,
+    223,
+    65,
+    241
+   ],
+   "bg_col": 47,
+   "en": "EVD",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    248,
+    232,
+    48
+   ],
+   "align": "center"
+  },
+  {
+   "box": [
+    215,
+    191,
+    233,
+    209
+   ],
+   "bg_col": 215,
+   "en": "SUP",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "outline",
+   "outline": [
+    16,
+    16,
+    24
+   ],
+   "color": [
+    232,
+    232,
+    232
+   ],
+   "align": "center"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+ "names": [
+  "AT029"
+ ],
+ "note": "'Mode' label next to the OG emblem.",
+ "items": [
+  {
+   "box": [
+    0,
+    46,
+    36,
+    64
+   ],
+   "en": "Mode",
+   "font": "FiraSansCondensed-ExtraBoldItalic",
+   "style": "plain",
+   "color": [
+    255,
+    214,
+    90
+   ]
+  }
+ ]
+}

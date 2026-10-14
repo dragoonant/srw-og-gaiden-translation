@@ -1,0 +1,64 @@
+{
+ "names": [
+  "AT4010"
+ ],
+ "note": "Special Menu entries (plain white).",
+ "items": [
+  {
+   "box": [
+    4,
+    1,
+    218,
+    25
+   ],
+   "en": "Shuffle Battler",
+   "font": "FiraSans-Bold",
+   "style": "plain",
+   "size": 22,
+   "pad": 1,
+   "align": "center"
+  },
+  {
+   "box": [
+    4,
+    26,
+    145,
+    49
+   ],
+   "en": "Free Battle",
+   "font": "FiraSans-Bold",
+   "style": "plain",
+   "size": 22,
+   "pad": 1,
+   "align": "center"
+  },
+  {
+   "box": [
+    2,
+    97,
+    124,
+    121
+   ],
+   "en": "Options",
+   "font": "FiraSans-Bold",
+   "style": "plain",
+   "size": 22,
+   "pad": 1,
+   "align": "center"
+  },
+  {
+   "box": [
+    112,
+    194,
+    254,
+    221
+   ],
+   "en": "Library",
+   "font": "FiraSans-Bold",
+   "style": "plain",
+   "size": 22,
+   "pad": 1,
+   "align": "center"
+  }
+ ]
+}

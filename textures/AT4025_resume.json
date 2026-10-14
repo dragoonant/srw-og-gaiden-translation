@@ -1,0 +1,23 @@
+{
+ "names": [
+  "AT4025"
+ ],
+ "note": "Special-disk title: 再開 under START (lit).",
+ "items": [
+  {
+   "box": [
+    108,
+    111,
+    236,
+    142
+   ],
+   "en": "RESUME",
+   "font": "FiraSans-Bold",
+   "style": "glow",
+   "color": "auto",
+   "align": "left",
+   "pad": 1,
+   "size": 30
+  }
+ ]
+}

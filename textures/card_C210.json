@@ -1,0 +1,66 @@
+{
+ "names": [
+  "C210"
+ ],
+ "note": "勇気 emblem: ring redrawn, English inside",
+ "items": [
+  {
+   "font": "FiraSans-ExtraBoldItalic",
+   "style": "heavy",
+   "align": "center",
+   "fill": "inpaint",
+   "inpaint_r": 8,
+   "pad": 0,
+   "squeeze": 0.5,
+   "box": [
+    46,
+    58,
+    214,
+    198
+   ],
+   "text_box": [
+    66,
+    100,
+    192,
+    158
+   ],
+   "en": "COURAGE",
+   "color": [
+    220,
+    20,
+    20
+   ],
+   "outline": [
+    255,
+    255,
+    255
+   ],
+   "ring": {
+    "center": [
+     129,
+     128
+    ],
+    "r": [
+     78,
+     70
+    ],
+    "w": 13,
+    "color": [
+     205,
+     20,
+     20
+    ],
+    "face": [
+     255,
+     244,
+     236
+    ],
+    "edge": [
+     90,
+     0,
+     0
+    ]
+   }
+  }
+ ]
+}

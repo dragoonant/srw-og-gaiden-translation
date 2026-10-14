@@ -1,0 +1,136 @@
+{
+ "names": [
+  "AT2012"
+ ],
+ "note": "Special-disk titles and Library items (Movies, Gallery). シャッフル + バトラーモード are two sprites shown side by side: Shuffle (right-aligned) + Battler Mode.",
+ "items": [
+  {
+   "box": [
+    4,
+    2,
+    181,
+    21
+   ],
+   "en": "Mission Scenario",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "size": 21
+  },
+  {
+   "box": [
+    187,
+    2,
+    230,
+    23
+   ],
+   "en": "Move",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "size": 21
+  },
+  {
+   "box": [
+    3,
+    27,
+    127,
+    49
+   ],
+   "en": "Library",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 21
+  },
+  {
+   "box": [
+    130,
+    27,
+    252,
+    49
+   ],
+   "en": "Free Battle",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 21
+  },
+  {
+   "box": [
+    1,
+    82,
+    44,
+    106
+   ],
+   "en": "Exit",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 21
+  },
+  {
+   "box": [
+    172,
+    82,
+    254,
+    106
+   ],
+   "en": "Points",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 21
+  },
+  {
+   "box": [
+    0,
+    109,
+    101,
+    138
+   ],
+   "en": "Movies",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 21
+  },
+  {
+   "box": [
+    106,
+    109,
+    203,
+    138
+   ],
+   "en": "Gallery",
+   "font": "FiraSansCondensed-Bold",
+   "align": "center",
+   "pad": 1,
+   "size": 21
+  },
+  {
+   "box": [
+    5,
+    57,
+    105,
+    75
+   ],
+   "en": "Shuffle",
+   "font": "FiraSansCondensed-Bold",
+   "align": "right",
+   "pad": 1,
+   "size": 21
+  },
+  {
+   "box": [
+    108,
+    55,
+    252,
+    77
+   ],
+   "en": "Battler Mode",
+   "font": "FiraSansCondensed-Bold",
+   "align": "left",
+   "pad": 1,
+   "size": 21
+  }
+ ]
+}

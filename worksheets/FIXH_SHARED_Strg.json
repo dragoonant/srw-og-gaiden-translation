@@ -1,0 +1,12889 @@
+{
+ "file": "worksheets/FIXH_SHARED Strg",
+ "format": "FIXH-Strg",
+ "strings": [
+  {
+   "id": 0,
+   "en": "----",
+   "kind": "filler",
+   "keep": false
+  },
+  {
+   "id": 1,
+   "en": "????",
+   "kind": "filler",
+   "keep": false
+  },
+  {
+   "id": 2,
+   "en": "Valor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 3,
+   "en": "Flash",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 4,
+   "en": "Persist",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 5,
+   "en": "Wall",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 6,
+   "en": "Focus",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 7,
+   "en": "Bullseye",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 8,
+   "en": "Inspire",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 9,
+   "en": "Accel",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 10,
+   "en": "Awaken",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 11,
+   "en": "Vigor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 12,
+   "en": "Guts",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 13,
+   "en": "Trust",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 14,
+   "en": "Friendship",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 15,
+   "en": "Resupply",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 16,
+   "en": "Spirit",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 17,
+   "en": "Drive",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 18,
+   "en": "Encouragement",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 19,
+   "en": "Mercy",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 20,
+   "en": "Snipe",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 21,
+   "en": "Pierce",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 22,
+   "en": "Scan",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 23,
+   "en": "Exhaust",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 24,
+   "en": "Love",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 25,
+   "en": "Luck",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 26,
+   "en": "Bless",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 27,
+   "en": "Gain",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 28,
+   "en": "Cheer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 29,
+   "en": "Sense",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 30,
+   "en": "Enable (Move Again)",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 31,
+   "en": "Assault",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 32,
+   "en": "Bonds",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 33,
+   "en": "Huge Encouragement",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 34,
+   "en": "Training",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 35,
+   "en": "Clarity",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 36,
+   "en": "Disrupt",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 37,
+   "en": "Soul",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 38,
+   "en": "Blitz",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 39,
+   "en": "Sync",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 40,
+   "en": "Mettle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 41,
+   "en": "Hope",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 42,
+   "en": "Prayer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 43,
+   "en": "Dread",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 44,
+   "en": "Share",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 45,
+   "en": "------",
+   "kind": "filler",
+   "keep": false
+  },
+  {
+   "id": 46,
+   "en": "??????",
+   "kind": "filler",
+   "keep": false
+  },
+  {
+   "id": 47,
+   "en": "Telekinesis",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 48,
+   "en": "Boosted Children",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 49,
+   "en": "Boosted Man",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 50,
+   "en": "Machinery Children",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 51,
+   "en": "Lucky",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 52,
+   "en": "Potential",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 53,
+   "en": "Sup. Atk.",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 54,
+   "en": "Sup. Def.",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 55,
+   "en": "Counter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 56,
+   "en": "In-Fighter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 57,
+   "en": "Gunfighter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 58,
+   "en": "SP Up",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 59,
+   "en": "Commander",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 60,
+   "en": "Parry",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 61,
+   "en": "Shield Defense",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 62,
+   "en": "SP Regen",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 63,
+   "en": "Concentrate",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 64,
+   "en": "Hit&Away",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 65,
+   "en": "Genius",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 66,
+   "en": "Attacker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 67,
+   "en": "Revenge",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 68,
+   "en": "Foresight",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 69,
+   "en": "Fortune",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 70,
+   "en": "Predict",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 71,
+   "en": "Godly Skill",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 72,
+   "en": "Energy Save",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 73,
+   "en": "Bullet Save",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 74,
+   "en": "Learning",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 75,
+   "en": "Resolve",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 76,
+   "en": "Morale",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 77,
+   "en": "Will+ (Evade)",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 78,
+   "en": "Will+ (Hit)",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 79,
+   "en": "Will+ (Damaged)",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 80,
+   "en": "Will+ (Kill)",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 81,
+   "en": "Cooperative Attack",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 82,
+   "en": "Focused Attack",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 83,
+   "en": "Guard",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 84,
+   "en": "Will Limit Break",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 85,
+   "en": "Mechanic",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 86,
+   "en": "Resupply",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 87,
+   "en": "Leadership",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 88,
+   "en": "Double Action",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 89,
+   "en": "Hard Worker",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 90,
+   "en": "EXP Up",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 91,
+   "en": "None",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 92,
+   "en": "AB Field",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 93,
+   "en": "E-Field",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 94,
+   "en": "G-Wall",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 95,
+   "en": "G-Territory",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 96,
+   "en": "Beam Coat",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 97,
+   "en": "Beam Absorption",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 98,
+   "en": "TK Field",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 99,
+   "en": "TK Field S",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 100,
+   "en": "Distortion Field",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 101,
+   "en": "HP Regen (S)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 102,
+   "en": "HP Regen (M)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 103,
+   "en": "HP Regen (L)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 104,
+   "en": "EN Regen (S)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 105,
+   "en": "EN Regen (M)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 106,
+   "en": "EN Regen (L)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 107,
+   "en": "Spirit Possession",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 108,
+   "en": "Afterimage",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 109,
+   "en": "Jammer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 110,
+   "en": "Mind Block",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 111,
+   "en": "Cockpit Block",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 112,
+   "en": "Energy Block",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 113,
+   "en": "Weapon Block",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 114,
+   "en": "Pilot Block",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 115,
+   "en": "Robot Block",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 116,
+   "en": "Full Block",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 117,
+   "en": "Transform",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 118,
+   "en": "Combine",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 119,
+   "en": "Separate",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 120,
+   "en": "Replace",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 121,
+   "en": "Separate (Single)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 122,
+   "en": "ODE System",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 123,
+   "en": "Dummy",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 124,
+   "en": "---",
+   "kind": "filler",
+   "keep": false
+  },
+  {
+   "id": 125,
+   "en": "Type-71 Tank Baldong",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 126,
+   "en": "14.5m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 127,
+   "en": "36.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 128,
+   "en": "Type-81 PT Carrier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 129,
+   "en": "36.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 130,
+   "en": "89.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 131,
+   "en": "AM Gunner",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 132,
+   "en": "42.6m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 133,
+   "en": "82.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 134,
+   "en": "F-28 Messer",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 135,
+   "en": "18.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 136,
+   "en": "13.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 137,
+   "en": "F-32V Schwert Custom",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 138,
+   "en": "22.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 139,
+   "en": "17.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 140,
+   "en": "F-32 Schwert",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 141,
+   "en": "17.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 142,
+   "en": "F-32 Schwert Kai",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 143,
+   "en": "G-Hawk",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 144,
+   "en": "R-1",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 145,
+   "en": "19.1m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 146,
+   "en": "50.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 147,
+   "en": "R-2",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 148,
+   "en": "18.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 149,
+   "en": "80.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 150,
+   "en": "R-2 Powered",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 151,
+   "en": "24.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 152,
+   "en": "152.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 153,
+   "en": "R-3",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 154,
+   "en": "15.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 155,
+   "en": "49.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 156,
+   "en": "R-3 Powered",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 157,
+   "en": "24.7m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 158,
+   "en": "186.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 159,
+   "en": "R-Gun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 160,
+   "en": "16.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 161,
+   "en": "42.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 162,
+   "en": "R-Gun Powered",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 163,
+   "en": "29.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 164,
+   "en": "66.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 165,
+   "en": "R-Gun Rivale",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 166,
+   "en": "40.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 167,
+   "en": "R-Wing",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 168,
+   "en": "SF-29V Lanzen Kai",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 169,
+   "en": "23.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 170,
+   "en": "25.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 171,
+   "en": "SF-29 Lanzen",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 172,
+   "en": "25.5t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 173,
+   "en": "SRX",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 174,
+   "en": "51.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 175,
+   "en": "388.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 176,
+   "en": "Einsteisen",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 177,
+   "en": "22.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 178,
+   "en": "70.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 179,
+   "en": "Einst Knochen",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 180,
+   "en": "18.5m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 181,
+   "en": "31.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 182,
+   "en": "Einst Glied",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 183,
+   "en": "20.6m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 184,
+   "en": "18.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 185,
+   "en": "Einst Gemut",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 186,
+   "en": "38.5m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 187,
+   "en": "19.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 188,
+   "en": "Einst Regisseur",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 189,
+   "en": "111.1m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 190,
+   "en": "Aussenseiter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 191,
+   "en": "59.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 192,
+   "en": "165.5t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 193,
+   "en": "Ashsaviour",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 194,
+   "en": "21.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 195,
+   "en": "53.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 196,
+   "en": "Mass-Production Ashsaviour",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 197,
+   "en": "Astelion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 198,
+   "en": "20.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 199,
+   "en": "38.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 200,
+   "en": "Alteisen",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 201,
+   "en": "22.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 202,
+   "en": "85.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 203,
+   "en": "Alteisen Nacht",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 204,
+   "en": "Alteisen Riese",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 205,
+   "en": "23.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 206,
+   "en": "99.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 207,
+   "en": "Albatross",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 208,
+   "en": "R-Blade",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 209,
+   "en": "19.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 210,
+   "en": "45.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 211,
+   "en": "Angelg",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 212,
+   "en": "43.7m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 213,
+   "en": "98.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 214,
+   "en": "Yirmeyah",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 215,
+   "en": "11.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 216,
+   "en": "6.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 217,
+   "en": "Yirmeyah Ach",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 218,
+   "en": "7.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 219,
+   "en": "Vayikra",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 220,
+   "en": "78.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 221,
+   "en": "300.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 222,
+   "en": "Vayikra Ben",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 223,
+   "en": "298.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 224,
+   "en": "Vaisaga",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 225,
+   "en": "43.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 226,
+   "en": "130.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 227,
+   "en": "Weissritter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 228,
+   "en": "21.7m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 229,
+   "en": "60.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 230,
+   "en": "Valsione",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 231,
+   "en": "24.6m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 232,
+   "en": "39.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 233,
+   "en": "Valsion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 234,
+   "en": "57.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 235,
+   "en": "55.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 236,
+   "en": "Valsion Custom",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 237,
+   "en": "56.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 238,
+   "en": "Wing Gust",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 239,
+   "en": "Ezekiel",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 240,
+   "en": "24.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 241,
+   "en": "39.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 242,
+   "en": "Ezekiel Adom",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 243,
+   "en": "42.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 244,
+   "en": "Ezekiel Sagol",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 245,
+   "en": "42.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 246,
+   "en": "Ezekiel Ravan",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 247,
+   "en": "R-Eins",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 248,
+   "en": "19.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 249,
+   "en": "50.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 250,
+   "en": "Guarlion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 251,
+   "en": "18.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 252,
+   "en": "30.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 253,
+   "en": "Guarlion LB",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 254,
+   "en": "Guarlion Custom",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 255,
+   "en": "Guarlion Trombe",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 256,
+   "en": "Gust Lander",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 257,
+   "en": "Calion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 258,
+   "en": "33.1m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 259,
+   "en": "51.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 260,
+   "en": "Galgau",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 261,
+   "en": "60.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 262,
+   "en": "287.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 263,
+   "en": "Gunsect",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 264,
+   "en": "14.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 265,
+   "en": "29.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 266,
+   "en": "Killer Whale",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 267,
+   "en": "Killer Whale DS",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 268,
+   "en": "Granzon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 269,
+   "en": "27.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 270,
+   "en": "42.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 271,
+   "en": "Grungust",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 272,
+   "en": "48.7m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 273,
+   "en": "357.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 274,
+   "en": "Grungust Unit 2",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 275,
+   "en": "48.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 276,
+   "en": "356.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 277,
+   "en": "Grungust Type 2",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 278,
+   "en": "50.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 279,
+   "en": "300.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 280,
+   "en": "Grungust Type 3",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 281,
+   "en": "60.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 282,
+   "en": "390.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 283,
+   "en": "Grungust Type 0",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 284,
+   "en": "50.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 285,
+   "en": "380.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 286,
+   "en": "Great Ark",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 287,
+   "en": "Greytarkin",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 288,
+   "en": "28.5m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 289,
+   "en": "45.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 290,
+   "en": "Kurogane",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 291,
+   "en": "Gespenst",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 292,
+   "en": "75.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 293,
+   "en": "Gespenst Type R",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 294,
+   "en": "Gespenst Type S",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 295,
+   "en": "78.5t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 296,
+   "en": "MP Gespenst Mk-II",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 297,
+   "en": "69.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 298,
+   "en": "Gespenst Mk-II Type R",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 299,
+   "en": "72.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 300,
+   "en": "Gespenst Mk-II Type S",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 301,
+   "en": "78.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 302,
+   "en": "Gespenst Mk-II Type TT",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 303,
+   "en": "Cybird",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 304,
+   "en": "35.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 305,
+   "en": "38.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 306,
+   "en": "Cybuster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 307,
+   "en": "28.48m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 308,
+   "en": "Giganscudo",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 309,
+   "en": "70.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 310,
+   "en": "451.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 311,
+   "en": "Giganscudo Duro",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 312,
+   "en": "487.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 313,
+   "en": "Schutzwald",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 314,
+   "en": "20.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 315,
+   "en": "86.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 316,
+   "en": "Judecca",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 317,
+   "en": "97.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 318,
+   "en": "489.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 319,
+   "en": "Stern Neu Regisseur",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 320,
+   "en": "Silberwind",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 321,
+   "en": "36.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 322,
+   "en": "90.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 323,
+   "en": "Shirogane",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 324,
+   "en": "Thrudgelmir",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 325,
+   "en": "53.7m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 326,
+   "en": "402.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 327,
+   "en": "Zechariah",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 328,
+   "en": "30.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 329,
+   "en": "Septuagint",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 330,
+   "en": "Soulgain",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 331,
+   "en": "41.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 332,
+   "en": "129.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 333,
+   "en": "A-12 Sorpresa",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 334,
+   "en": "13.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 335,
+   "en": "10.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 336,
+   "en": "Dygenguar",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 337,
+   "en": "55.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 338,
+   "en": "142.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 339,
+   "en": "Tausendfuessler",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 340,
+   "en": "Zweizergain",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 341,
+   "en": "42.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 342,
+   "en": "133.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 343,
+   "en": "Dikastes",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 344,
+   "en": "83.1m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 345,
+   "en": "498.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 346,
+   "en": "Drukin",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 347,
+   "en": "59.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 348,
+   "en": "Neu Regisseur",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 349,
+   "en": "Hagane",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 350,
+   "en": "Habakkuk",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 351,
+   "en": "20.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 352,
+   "en": "50.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 353,
+   "en": "Barrelion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 354,
+   "en": "23.6m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 355,
+   "en": "40.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 356,
+   "en": "Barrelion Custom",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 357,
+   "en": "45.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 358,
+   "en": "Barrelion V",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 359,
+   "en": "44.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 360,
+   "en": "Hückebein",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 361,
+   "en": "19.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 362,
+   "en": "60.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 363,
+   "en": "Hückebein Mk-II Trombe",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 364,
+   "en": "20.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 365,
+   "en": "52.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 366,
+   "en": "Hückebein 008L",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 367,
+   "en": "Hückebein 009",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 368,
+   "en": "Hückebein Mk-II",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 369,
+   "en": "Mass-Production Huckebein Mk-II",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 370,
+   "en": "19.7m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 371,
+   "en": "47.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 372,
+   "en": "Huckebein Mk-III Type-L",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 373,
+   "en": "21.5m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 374,
+   "en": "54.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 375,
+   "en": "Hückebein Mk-III Type R",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 376,
+   "en": "Hückebein Mk-III Trombe",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 377,
+   "en": "Hückebein Gunner Type L",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 378,
+   "en": "136.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 379,
+   "en": "Hückebein Gunner Type R",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 380,
+   "en": "Hückebein Boxer Type L",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 381,
+   "en": "28.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 382,
+   "en": "113.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 383,
+   "en": "Hückebein Boxer Type R",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 384,
+   "en": "Hiryu Custom",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 385,
+   "en": "Wildschwein",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 386,
+   "en": "23.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 387,
+   "en": "79.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 388,
+   "en": "Wildwürger",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 389,
+   "en": "56.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 390,
+   "en": "Wildwürger Type L",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 391,
+   "en": "Wildfalken",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 392,
+   "en": "50.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 393,
+   "en": "Wildfalken Type L",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 394,
+   "en": "Wildraubtier",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 395,
+   "en": "17.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 396,
+   "en": "55.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 397,
+   "en": "Wildraubtier (FM)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 398,
+   "en": "Huleh",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 399,
+   "en": "Fairlion Type G",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 400,
+   "en": "15.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 401,
+   "en": "28.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 402,
+   "en": "Fairlion Type-S",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 403,
+   "en": "MHT-27 Fylgia",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 404,
+   "en": "40.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 405,
+   "en": "Bergelmir",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 406,
+   "en": "21.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 407,
+   "en": "50.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 408,
+   "en": "Mass-Production Bergelmir",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 409,
+   "en": "Person-Lichkeit",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 410,
+   "en": "21.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 411,
+   "en": "Peregrine",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 412,
+   "en": "Macht",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 413,
+   "en": "Mishlei",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 414,
+   "en": "15.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 415,
+   "en": "19.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 416,
+   "en": "Mishlei Ach",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 417,
+   "en": "20.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 418,
+   "en": "Megillot",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 419,
+   "en": "10.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 420,
+   "en": "3.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 421,
+   "en": "Megillot Ach",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 422,
+   "en": "4.5t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 423,
+   "en": "Razangriff",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 424,
+   "en": "105.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 425,
+   "en": "Rhinoceros",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 426,
+   "en": "Rein Weissritter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 427,
+   "en": "65.5t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 428,
+   "en": "Rapiecage",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 429,
+   "en": "24.5m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 430,
+   "en": "106.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 431,
+   "en": "Randgriz",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 432,
+   "en": "98.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 433,
+   "en": "Lion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 434,
+   "en": "20.1m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 435,
+   "en": "32.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 436,
+   "en": "Lion Type T",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 437,
+   "en": "32.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 438,
+   "en": "Lion Type F",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 439,
+   "en": "36.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 440,
+   "en": "Lion Type V",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 441,
+   "en": "37.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 442,
+   "en": "M-ADATS",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 443,
+   "en": "Nuclear Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 444,
+   "en": "KoRyuOh",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 445,
+   "en": "45.1m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 446,
+   "en": "158.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 447,
+   "en": "Large Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 448,
+   "en": "RyuKoOh",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 449,
+   "en": "49.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 450,
+   "en": "ART-1",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 451,
+   "en": "52.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 452,
+   "en": "ART-Wing",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 453,
+   "en": "G-Compatible Kaiser",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 454,
+   "en": "58.7m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 455,
+   "en": "198.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 456,
+   "en": "G-Thundergate",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 457,
+   "en": "24.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 458,
+   "en": "50.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 459,
+   "en": "G-Bison",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 460,
+   "en": "G-Raptor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 461,
+   "en": "Argent Fighter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 462,
+   "en": "Argent Head",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 463,
+   "en": "Armorlion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 464,
+   "en": "Agares",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 465,
+   "en": "22.1m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 466,
+   "en": "58.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 467,
+   "en": "Weisssaviour",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 468,
+   "en": "56.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 469,
+   "en": "Astelion AX",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 470,
+   "en": "26.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 471,
+   "en": "31.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 472,
+   "en": "Gremor",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 473,
+   "en": "57.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 474,
+   "en": "Andras",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 475,
+   "en": "35.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 476,
+   "en": "Valsion Custom Type CF",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 477,
+   "en": "58.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 478,
+   "en": "64.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 479,
+   "en": "Sitri",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 480,
+   "en": "24.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 481,
+   "en": "49.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 482,
+   "en": "Excellence Eternal",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 483,
+   "en": "24.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 484,
+   "en": "68.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 485,
+   "en": "Excellence Cosmo-Driver",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 486,
+   "en": "21.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 487,
+   "en": "72.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 488,
+   "en": "Excellence Striker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 489,
+   "en": "70.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 490,
+   "en": "Excellence Flyer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 491,
+   "en": "24.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 492,
+   "en": "75.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 493,
+   "en": "Excellence Lightning",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 494,
+   "en": "25.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 495,
+   "en": "85.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 496,
+   "en": "Extim",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 497,
+   "en": "62.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 498,
+   "en": "353.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 499,
+   "en": "Eternal Frame",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 500,
+   "en": "Eleos",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 501,
+   "en": "22.7m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 502,
+   "en": "58.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 503,
+   "en": "Guarlion Custom \"Mumyou\"",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 504,
+   "en": "40.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 505,
+   "en": "Garoika",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 506,
+   "en": "11.5m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 507,
+   "en": "21.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 508,
+   "en": "Garoika Nai",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 509,
+   "en": "21.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 510,
+   "en": "Garoika Deg",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 511,
+   "en": "21.8t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 512,
+   "en": "Glasyalabolas",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 513,
+   "en": "30.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 514,
+   "en": "138.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 515,
+   "en": "Grey Stork",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 516,
+   "en": "Gespenst Type-RV",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 517,
+   "en": "22.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 518,
+   "en": "75.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 519,
+   "en": "Cosmo-Driver Frame",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 520,
+   "en": "Cosmolion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 521,
+   "en": "39.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 522,
+   "en": "Cosmolion Type V",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 523,
+   "en": "41.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 524,
+   "en": "Cosmolion Type F",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 525,
+   "en": "40.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 526,
+   "en": "Compatible Kaiser",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 527,
+   "en": "56.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 528,
+   "en": "148.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 529,
+   "en": "Sealion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 530,
+   "en": "20.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 531,
+   "en": "34.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 532,
+   "en": "Giganspada",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 533,
+   "en": "132.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 534,
+   "en": "270.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 535,
+   "en": "Siegerlion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 536,
+   "en": "30.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 537,
+   "en": "Stork",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 538,
+   "en": "Striker Frame",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 539,
+   "en": "Dark Brain",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 540,
+   "en": "Teugatel",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 541,
+   "en": "15.2m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 542,
+   "en": "21.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 543,
+   "en": "Duminas Triton",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 544,
+   "en": "112.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 545,
+   "en": "Duminas Proton",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 546,
+   "en": "30.1m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 547,
+   "en": "50.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 548,
+   "en": "Trilobite",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 549,
+   "en": "Bartoll",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 550,
+   "en": "21.0m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 551,
+   "en": "40.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 552,
+   "en": "Halphas",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 553,
+   "en": "17.6m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 554,
+   "en": "36.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 555,
+   "en": "Hypocrisis",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 556,
+   "en": "26.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 557,
+   "en": "62.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 558,
+   "en": "Hiryu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 559,
+   "en": "Valefor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 560,
+   "en": "76.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 561,
+   "en": "Fighter Roar",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 562,
+   "en": "1.77m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 563,
+   "en": "0.08t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 564,
+   "en": "Flyer Frame",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 565,
+   "en": "Flaus",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 566,
+   "en": "64.5t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 567,
+   "en": "Peirines",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 568,
+   "en": "27.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 569,
+   "en": "70.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 570,
+   "en": "Heavy Barrelion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 571,
+   "en": "25.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 572,
+   "en": "56.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 573,
+   "en": "Boxer Parts",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 574,
+   "en": "Bofry",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 575,
+   "en": "43.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 576,
+   "en": "Maldict",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 577,
+   "en": "32.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 578,
+   "en": "118.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 579,
+   "en": "Mironga",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 580,
+   "en": "21.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 581,
+   "en": "41.6t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 582,
+   "en": "Ialdabaoth",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 583,
+   "en": "77.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 584,
+   "en": "79.9t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 585,
+   "en": "Razangriff Raven",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 586,
+   "en": "160.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 587,
+   "en": "Lightning Frame",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 588,
+   "en": "Raha Extim",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 589,
+   "en": "58.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 590,
+   "en": "238.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 591,
+   "en": "Randgriz Raven",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 592,
+   "en": "130.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 593,
+   "en": "Landlion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 594,
+   "en": "33.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 595,
+   "en": "Ladybird",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 596,
+   "en": "Zankanto",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 597,
+   "en": "Mass-Production Giganspada",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 598,
+   "en": "Exelance AF",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 599,
+   "en": "Exelance AH",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 600,
+   "en": "Gespenst Mk-III",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 601,
+   "en": "Container",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 602,
+   "en": "Jetzt Knochen",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 603,
+   "en": "19.4m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 604,
+   "en": "31.4t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 605,
+   "en": "Jetzt Glied",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 606,
+   "en": "Jetzt Regisseur",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 607,
+   "en": "113.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 608,
+   "en": "Wendigo",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 609,
+   "en": "34.5m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 610,
+   "en": "101.3t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 611,
+   "en": "Swordian's Guard",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 612,
+   "en": "81.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 613,
+   "en": "500.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 614,
+   "en": "Swordian's Dagger",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 615,
+   "en": "19.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 616,
+   "en": "48.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 617,
+   "en": "Tergum",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 618,
+   "en": "8.6m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 619,
+   "en": "14.1t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 620,
+   "en": "Neo Granzon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 621,
+   "en": "35.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 622,
+   "en": "65.2t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 623,
+   "en": "Frons",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 624,
+   "en": "10.9m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 625,
+   "en": "15.7t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 626,
+   "en": "Flatfish",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 627,
+   "en": "170.3m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 628,
+   "en": "Tadpole",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 629,
+   "en": "38.6m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 630,
+   "en": "Ijin",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 631,
+   "en": "48.8m",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 632,
+   "en": "MP Gespenst Mk-II Kai",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 633,
+   "en": "77.0t",
+   "kind": "number",
+   "keep": false
+  },
+  {
+   "id": 634,
+   "en": "Lars-Angriff Flight Unit",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 635,
+   "en": "Randgrith Flight Unit",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 636,
+   "en": "Soulgain Torso",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 637,
+   "en": "Soulgain Right Arm",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 638,
+   "en": "Soulgain Left Leg",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 639,
+   "en": "Core",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 640,
+   "en": "Disguised Meteorite",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 641,
+   "en": "RyuOhKi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 642,
+   "en": "KoOhKi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 643,
+   "en": "Mass-Production Wendigo",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 644,
+   "en": "Autocannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 645,
+   "en": "Tank Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 646,
+   "en": "Anti-Tank Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 647,
+   "en": "Homing Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 648,
+   "en": "Leap Missiles",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 649,
+   "en": "G-Impact Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 650,
+   "en": "Vulcan Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 651,
+   "en": "Eye-Solid Laser",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 652,
+   "en": "Split Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 653,
+   "en": "Low-Altitude Vertical Bomb",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 654,
+   "en": "Spiral Attack",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 655,
+   "en": "T-Link Knuckle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 656,
+   "en": "Cold Metal Knife",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 657,
+   "en": "T-Link Sword",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 658,
+   "en": "R-Formation",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 659,
+   "en": "Tenjou Tenge Rengeki Ken",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 660,
+   "en": "Beam Chakram",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 661,
+   "en": "Beam Sword",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 662,
+   "en": "Hi-Zol Launcher (Spread)",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 663,
+   "en": "Hi-Zol Launcher (Focused)",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 664,
+   "en": "TK Focused Laser Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 665,
+   "en": "Strike Shield",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 666,
+   "en": "Telekinesis Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 667,
+   "en": "Metal Genocider",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 668,
+   "en": "Beam Katar Sword",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 669,
+   "en": "Twin Magna Rifle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 670,
+   "en": "Slash Boomerang",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 671,
+   "en": "Hi-Twin Launcher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 672,
+   "en": "Unstoppable HTB Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 673,
+   "en": "Roche Blade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 674,
+   "en": "Gun Slave",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 675,
+   "en": "Axion Buster",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 676,
+   "en": "G-Revolver Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 677,
+   "en": "Beam Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 678,
+   "en": "Gaun Genocider",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 679,
+   "en": "Hi-Finger Launcher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 680,
+   "en": "Blade Kick",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 681,
+   "en": "DOMINION BALL",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 682,
+   "en": "Unstoppable Invincible Sword",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 683,
+   "en": "Unstoppable TK Burst Slash",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 684,
+   "en": "Maschinengewehr",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 685,
+   "en": "Holzschraube",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 686,
+   "en": "Quadratmine",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 687,
+   "en": "Kuhn Bohrer",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 688,
+   "en": "Kuhn Arm",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 689,
+   "en": "Schicknagel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 690,
+   "en": "Gewinnen Energie",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 691,
+   "en": "Elegant Arm",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 692,
+   "en": "Heiss Strahne",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 693,
+   "en": "Gewinnen Energie+",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 694,
+   "en": "Spinnefaden",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 695,
+   "en": "Kuhn Faust",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 696,
+   "en": "Herausforderung",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 697,
+   "en": "Totaler Sieg",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 698,
+   "en": "Waffenschloss",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 699,
+   "en": "Urteilskraft",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 700,
+   "en": "Gewinnen Geist",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 701,
+   "en": "Reiz Volltaufe",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 702,
+   "en": "Schulterplatte",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 703,
+   "en": "Lanzenkanone",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 704,
+   "en": "Lanzenkanone W",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 705,
+   "en": "Sturmangriff",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 706,
+   "en": "Tornado Blade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 707,
+   "en": "Fire Dagger",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 708,
+   "en": "Halberd Launcher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 709,
+   "en": "Swordbreakers",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 710,
+   "en": "Laser Blade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 711,
+   "en": "Gunrapier",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 712,
+   "en": "Stun Shock",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 713,
+   "en": "Mindblast",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 714,
+   "en": "Machine Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 715,
+   "en": "Sonic Breaker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 716,
+   "en": "Maneuver RaMVs",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 717,
+   "en": "Heat Horn",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 718,
+   "en": "3-Barrel Machine Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 719,
+   "en": "Revolver Stake",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 720,
+   "en": "Square Claymore",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 721,
+   "en": "\"Trump Card\"",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 722,
+   "en": "Rampage Ghost",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 723,
+   "en": "Plasma Horn",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 724,
+   "en": "5-Barrel Chaingun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 725,
+   "en": "Revolver Bunker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 726,
+   "en": "Claymore Avalanche",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 727,
+   "en": "Aerial Claymore",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 728,
+   "en": "AA Machine Gun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 729,
+   "en": "Chaff Grenade",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 730,
+   "en": "PBS Formation",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 731,
+   "en": "Anti-Ship Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 732,
+   "en": "Spider Net",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 733,
+   "en": "Blade Tonfa",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 734,
+   "en": "Mirage Sword",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 735,
+   "en": "Shadow Lancer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 736,
+   "en": "Mirage Sign",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 737,
+   "en": "Illusion Arrow",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 738,
+   "en": "Phantom Phoenix",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 739,
+   "en": "Gatling Photon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 740,
+   "en": "Optical Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 741,
+   "en": "Energy Drain",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 742,
+   "en": "Spirit Taker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 743,
+   "en": "Kanaf Slasher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 744,
+   "en": "Kanaf Slave",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 745,
+   "en": "Blazer Knives",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 746,
+   "en": "Tidal Claws",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 747,
+   "en": "Seismic Slicer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 748,
+   "en": "Storm Edge",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 749,
+   "en": "Radiant Blade",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 750,
+   "en": "Triple Beam Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 751,
+   "en": "Oxtongue Launcher B",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 752,
+   "en": "Oxtongue Launcher E",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 753,
+   "en": "Oxtongue Launcher W",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 754,
+   "en": "Psychoblaster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 755,
+   "en": "Cross Smasher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 756,
+   "en": "Divine Arm",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 757,
+   "en": "Hyper Beam Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 758,
+   "en": "Mega Graviton Wave",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 759,
+   "en": "Armor Breaker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 760,
+   "en": "Weapon Breaker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 761,
+   "en": "Big Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 762,
+   "en": "Double Omega Laser",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 763,
+   "en": "Spark Torpedo",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 764,
+   "en": "Olga Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 765,
+   "en": "Twin Beam Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 766,
+   "en": "G-Railgun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 767,
+   "en": "G-Revolver",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 768,
+   "en": "Assault Blade",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 769,
+   "en": "Burst Railgun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 770,
+   "en": "Burst Railgun",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 771,
+   "en": "Sturm Angriff",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 772,
+   "en": "Omega Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 773,
+   "en": "Drill Attack",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 774,
+   "en": "Sonic Cutter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 775,
+   "en": "G-Driver",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 776,
+   "en": "Multi-Trace Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 777,
+   "en": "Iron Claw",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 778,
+   "en": "Mega Smasher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 779,
+   "en": "Missile Launcher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 780,
+   "en": "Stingun",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 781,
+   "en": "Torpedoes",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 782,
+   "en": "Anti-Air Missile Launcher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 783,
+   "en": "Anti-Air Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 784,
+   "en": "Grand Worm Sword",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 785,
+   "en": "Gravitron Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 786,
+   "en": "Worm Smasher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 787,
+   "en": "Black Hole Cluster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 788,
+   "en": "Energy Drain +",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 789,
+   "en": "Boost Knuckle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 790,
+   "en": "Final Beam",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 791,
+   "en": "Keito Rago Blade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 792,
+   "en": "Keito Rago Blade: Ankensatsu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 793,
+   "en": "Maxi Blaster",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 794,
+   "en": "Keito Shungoku Blade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 795,
+   "en": "Drill Boost Knuckle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 796,
+   "en": "Omega Blaster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 797,
+   "en": "Type-3 Zankanto",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 798,
+   "en": "Type-3 Shishioh Blade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 799,
+   "en": "Hyper Blaster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 800,
+   "en": "Type-0 Zankanto",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 801,
+   "en": "Multi-Beam Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 802,
+   "en": "Thunder Crash",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 803,
+   "en": "High-Frequency Sword",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 804,
+   "en": "Mega Beam Buster",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 805,
+   "en": "Photon Beam Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 806,
+   "en": "Secondary Batteries",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 807,
+   "en": "Impact Cannons",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 808,
+   "en": "Giant Rotating Ram",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 809,
+   "en": "Neutron Beam",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 810,
+   "en": "Plasma Cutter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 811,
+   "en": "Blaster Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 812,
+   "en": "Jet Magnum",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 813,
+   "en": "M950 Machine Gun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 814,
+   "en": "Mega Beam Rifle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 815,
+   "en": "Neo Plasma Cutter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 816,
+   "en": "Slash Ripper",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 817,
+   "en": "Jet Magnum S",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 818,
+   "en": "Melee",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 819,
+   "en": "Mega Blaster Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 820,
+   "en": "Mega Plasma Cutter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 821,
+   "en": "Ultimate! Gespenst Kick",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 822,
+   "en": "T-Link Ripper",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 823,
+   "en": "Caloric Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 824,
+   "en": "High Familiar",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 825,
+   "en": "Cyflash",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 826,
+   "en": "Akashic Buster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 827,
+   "en": "Cosmo Nova",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 828,
+   "en": "Discutter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 829,
+   "en": "Gigante Knuckle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 830,
+   "en": "Seize Thunder",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 831,
+   "en": "G-Circle Blaster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 832,
+   "en": "Giga-Wide Blaster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 833,
+   "en": "Gigante Uragano",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 834,
+   "en": "Gigante Knuckle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 835,
+   "en": "Gigante Unghia",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 836,
+   "en": "Jam Grenade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 837,
+   "en": "First Hell: Caina",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 838,
+   "en": "Second Hell: Antenora",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 839,
+   "en": "Third Hell: Ptolomea",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 840,
+   "en": "Final Hell: Judecca",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 841,
+   "en": "Sanctuarium",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 842,
+   "en": "Erbsunde",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 843,
+   "en": "Voltec Shooter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 844,
+   "en": "Drill Inferno",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 845,
+   "en": "Star-Reaping Sword",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 846,
+   "en": "Optical Rifle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 847,
+   "en": "Crystal Masmel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 848,
+   "en": "Omega Wave",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 849,
+   "en": "Blue Dragon Scale",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 850,
+   "en": "Byakko Bite",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 851,
+   "en": "Genbu Heavy Shot",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 852,
+   "en": "Suzaku Dance",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 853,
+   "en": "Kirin",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 854,
+   "en": "Rapid Beam Gun",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 855,
+   "en": "Swift Lightning",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 856,
+   "en": "Giant Swing",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 857,
+   "en": "Lightning Slash",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 858,
+   "en": "Flame Cloud Sword",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 859,
+   "en": "Dynamic Knuckle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 860,
+   "en": "General Blaster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 861,
+   "en": "Guardian's Sword",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 862,
+   "en": "Heavy Tiger Roar",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 863,
+   "en": "Evil Dragon Scale",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 864,
+   "en": "Afterimage Genbu Shot",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 865,
+   "en": "Dark Blade Flash",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 866,
+   "en": "Kirin Ultimate",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 867,
+   "en": "High-Frequency Blade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 868,
+   "en": "Big Bang Wave",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 869,
+   "en": "Mega Flasher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 870,
+   "en": "Vanish Laser",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 871,
+   "en": "Hammer",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 872,
+   "en": "Mitleid",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 873,
+   "en": "Tronium Buster Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 874,
+   "en": "Divider Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 875,
+   "en": "Metallium Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 876,
+   "en": "Twin Beam Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 877,
+   "en": "Bighead Railgun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 878,
+   "en": "Rapid-Fire Beam Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 879,
+   "en": "Black Hole Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 880,
+   "en": "Chakram Shooter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 881,
+   "en": "Photon Rifle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 882,
+   "en": "Rectangle Launcher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 883,
+   "en": "Fang Slasher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 884,
+   "en": "Graviton Rifle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 885,
+   "en": "Full Impact Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 886,
+   "en": "Geist Knuckle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 887,
+   "en": "G-Sword Diver",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 888,
+   "en": "Hypergravity Impact Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 889,
+   "en": "Circle Zanber",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 890,
+   "en": "M13 Shotgun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 891,
+   "en": "3-Barrel Gatling Gun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 892,
+   "en": "Cold Metal Sword",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 893,
+   "en": "Stag Beetle Crusher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 894,
+   "en": "Shrike's Beak",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 895,
+   "en": "Twin Bird Strike",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 896,
+   "en": "Split Missile H",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 897,
+   "en": "Oxtongue Rifle E",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 898,
+   "en": "Oxtongue Rifle B",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 899,
+   "en": "Oxtongue Rifle W",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 900,
+   "en": "Roche Saber",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 901,
+   "en": "Hyper Beam Rifle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 902,
+   "en": "Air-to-Air Homing Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 903,
+   "en": "Air-to-Ground Homing Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 904,
+   "en": "HBR Under Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 905,
+   "en": "Vulcan Phalanx",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 906,
+   "en": "Legion Eraser",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 907,
+   "en": "Vulcan Phalanx",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 908,
+   "en": "Roll Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 909,
+   "en": "Vostok Laser",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 910,
+   "en": "Sonic Driver",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 911,
+   "en": "Royal Heart Breaker",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 912,
+   "en": "Missile Pod",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 913,
+   "en": "Linear Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 914,
+   "en": "Machinery Rifle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 915,
+   "en": "Six Slave",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 916,
+   "en": "Spirit Drain",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 917,
+   "en": "Linear Missile Launcher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 918,
+   "en": "Mabu Itachi",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 919,
+   "en": "Yomiji",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 920,
+   "en": "Raigou",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 921,
+   "en": "Mabuyeguri",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 922,
+   "en": "Twin Nail",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 923,
+   "en": "Circle Laser",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 924,
+   "en": "Matrix Missiles",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 925,
+   "en": "Phalanx Missiles",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 926,
+   "en": "F Solid Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 927,
+   "en": "Scissor Knife",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 928,
+   "en": "Surface-Air Missile Launcher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 929,
+   "en": "Twin Main Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 930,
+   "en": "Bow Ram",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 931,
+   "en": "Howling Launcher E",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 932,
+   "en": "Howling Launcher B",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 933,
+   "en": "Howling Launcher X",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 934,
+   "en": "O.O. Launcher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 935,
+   "en": "Magnum Beak",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 936,
+   "en": "U.U.N",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 937,
+   "en": "Railgun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 938,
+   "en": "Surface-Air Homing Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 939,
+   "en": "Side Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 940,
+   "en": "Tiger Knuckle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 941,
+   "en": "Random Spike",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 942,
+   "en": "Sonic Javelin",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 943,
+   "en": "Tyrant Overbreak",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 944,
+   "en": "Bakuraifu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 945,
+   "en": "Mountain Pressure",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 946,
+   "en": "Magma Vassal",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 947,
+   "en": "Ryuoh Mountain Breaker",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 948,
+   "en": "Dragoon Blade",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 949,
+   "en": "Head Vulcan Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 950,
+   "en": "Cold Metal Blade",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 951,
+   "en": "HG Revolver",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 952,
+   "en": "Boosted Rifle H",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 953,
+   "en": "T-Link Blade Knuckle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 954,
+   "en": "T-Link Crusher Sword",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 955,
+   "en": "HG Revolver Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 956,
+   "en": "Overbeam",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 957,
+   "en": "Shoulder Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 958,
+   "en": "Double Spiral Knuckle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 959,
+   "en": "Kaiser Boomerang",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 960,
+   "en": "Fire Dragon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 961,
+   "en": "Kaiser Burst",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 962,
+   "en": "Over Kaiser Sword",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 963,
+   "en": "G-Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 964,
+   "en": "Thunder Smasher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 965,
+   "en": "Gate Breaker",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 966,
+   "en": "Split Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 967,
+   "en": "Omega Beam",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 968,
+   "en": "Solid Vulcan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 969,
+   "en": "Grenade Attacker",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 970,
+   "en": "Beam Shot",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 971,
+   "en": "Solid Laser",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 972,
+   "en": "Split Beam",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 973,
+   "en": "Hard Heat Horn",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 974,
+   "en": "Square Cluster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 975,
+   "en": "Sonic Boost Kick",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 976,
+   "en": "Marou Souha Rinten",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 977,
+   "en": "Marou Hyakuretsuken",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 978,
+   "en": "Marou Gensensatsu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 979,
+   "en": "Solid Sword Breaker",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 980,
+   "en": "O.O. Rifle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 981,
+   "en": "Maneuver GRaMDs",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 982,
+   "en": "Kishin Gokaiten",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 983,
+   "en": "Kishin Soretsusho",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 984,
+   "en": "Kyorei Funtensho",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 985,
+   "en": "Kyorei Honretsu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 986,
+   "en": "Kishin Kyosoran",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 987,
+   "en": "Kishin Kyotenbo",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 988,
+   "en": "Temptation Eye",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 989,
+   "en": "Cosmic Strike",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 990,
+   "en": "Slash Dimension",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 991,
+   "en": "Reactor Flash",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 992,
+   "en": "Final Grand Cross",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 993,
+   "en": "High Coat Magnum",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 994,
+   "en": "Fairy",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 995,
+   "en": "Plasma Beam",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 996,
+   "en": "Smashing Kick",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 997,
+   "en": "Chest Smasher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 998,
+   "en": "Crusher Arm",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 999,
+   "en": "Gigant Crusher Arm",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1000,
+   "en": "Destruction Rifle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1001,
+   "en": "Plasma Sword",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1002,
+   "en": "D-Rifle MAX Mode",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1003,
+   "en": "Black Sun",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1004,
+   "en": "Crusher Spike",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1005,
+   "en": "Dimension Slasher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1006,
+   "en": "Reactor Smasher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1007,
+   "en": "Reactor Crash",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1008,
+   "en": "Dragon Claw Blast Fist",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1009,
+   "en": "Pressure Soaring Strike",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1010,
+   "en": "Annihilating Dragon Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1011,
+   "en": "Storge",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1012,
+   "en": "Klaiein",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1013,
+   "en": "Trias",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1014,
+   "en": "Mumyou: Nitou Jinkizan",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1015,
+   "en": "Shishioh Blade",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1016,
+   "en": "Rapid Gun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1017,
+   "en": "Gatling Beam",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1018,
+   "en": "Phantom Wave Strike",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1019,
+   "en": "Twin Serpent Wave Shot",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1020,
+   "en": "VLS Missile Launcher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1021,
+   "en": "Bold Beam Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1022,
+   "en": "Vampir Laser",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1023,
+   "en": "Mega Buster Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1024,
+   "en": "High Coat Magnum",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1025,
+   "en": "Spiral Knuckle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1026,
+   "en": "Kaiser Tornado",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1027,
+   "en": "Multi-Jet Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1028,
+   "en": "Gigante Cannone",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1029,
+   "en": "Blade Railgun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1030,
+   "en": "Sonic Acceleration",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1031,
+   "en": "Smashing Kick",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1032,
+   "en": "Chest Smasher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1033,
+   "en": "Gigant Crusher Arm",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1034,
+   "en": "Eye of the Wise",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1035,
+   "en": "Cross of Original Sin",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1036,
+   "en": "'Let Dark Be,' Said the Sage",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1037,
+   "en": "Poros Volley",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1038,
+   "en": "Schnell Gear",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1039,
+   "en": "Chorismos",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1040,
+   "en": "Diorasis",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1041,
+   "en": "Geloia",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1042,
+   "en": "Dikaiosis",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1043,
+   "en": "Krisis",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1044,
+   "en": "Metanoia",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1045,
+   "en": "Turning Beam",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1046,
+   "en": "DOB Cannon",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1047,
+   "en": "Energy Knife",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1048,
+   "en": "Micro Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1049,
+   "en": "Arm Machine Gun",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1050,
+   "en": "Dancing Dolls",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1051,
+   "en": "Machine God Plunge Strike",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1052,
+   "en": "Machine God Sonic Impact",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1053,
+   "en": "Apostole",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1054,
+   "en": "Didaskalia",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1055,
+   "en": "Paradeisos",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1056,
+   "en": "Kishin Ken",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1057,
+   "en": "Kishin Soushougeki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1058,
+   "en": "Kishin Gougekiken",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1059,
+   "en": "True Machine God Roar Fist",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1060,
+   "en": "First Rush",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1061,
+   "en": "Fighter Beamgun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1062,
+   "en": "Destruction Rifle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1063,
+   "en": "Machine God Bull Rampage",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1064,
+   "en": "Machine God Battle Horn",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1065,
+   "en": "Ice Spear Frenzy",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1066,
+   "en": "Ice Wall Shatter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1067,
+   "en": "Secret Art: Ice Bloom Blaze",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1068,
+   "en": "Twinhead Railgun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1069,
+   "en": "Machine God Tongue Shot",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1070,
+   "en": "Machine God Speed Strike",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1071,
+   "en": "Crimson Eerie Light Shot",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1072,
+   "en": "Crimson Shockwave",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1073,
+   "en": "Ultimate: Crimson Hellfire",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1074,
+   "en": "Straight Machine Gun",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1075,
+   "en": "TBG Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1076,
+   "en": "End Breaker",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1077,
+   "en": "Kishin Soujuugeki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1078,
+   "en": "Kishin Mougekiken",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1079,
+   "en": "Gouha Kishinken",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1080,
+   "en": "True Light Fist",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1081,
+   "en": "True Iron Palm Flash",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1082,
+   "en": "True Furious Onslaught",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1083,
+   "en": "Heavy Linear Rifle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1084,
+   "en": "Twin Solid Cannons",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1085,
+   "en": "Charged Particle Beam",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1086,
+   "en": "Overlord Apocalypse Wave",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1087,
+   "en": "Overlord Impact",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1088,
+   "en": "Overlord Destruction Fist",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1089,
+   "en": "Linear Rifle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1090,
+   "en": "Twin Linear Cannons",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1091,
+   "en": "Homing Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1092,
+   "en": "AA Machine Gun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1093,
+   "en": "Missile",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1094,
+   "en": "Mirage Sword",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1095,
+   "en": "Shadow Lancer",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1096,
+   "en": "Mirage Sign",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1097,
+   "en": "Skull Beam",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1098,
+   "en": "Rushing Hand",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1099,
+   "en": "Sparking Mist",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1100,
+   "en": "Blade Beam",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1101,
+   "en": "Blade Arm",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1102,
+   "en": "God Edict",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1103,
+   "en": "Lightning Strike",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1104,
+   "en": "Blade Smash",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1105,
+   "en": "Oval Missile",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1106,
+   "en": "Dietroller",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1107,
+   "en": "Degeneration Cannon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1108,
+   "en": "Davantiser",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1109,
+   "en": "Tadpoles",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1110,
+   "en": "Jagged Fang",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1111,
+   "en": "Rot Horn",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1112,
+   "en": "Art of Piercing Drops",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1113,
+   "en": "Rite of the Sweeping Staff",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1114,
+   "en": "Art of Heaven-Turning Water",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1115,
+   "en": "Hi-Beam Cutter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1116,
+   "en": "M90C Assault Machine Gun",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1117,
+   "en": "MR Launcher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1118,
+   "en": "F2W Cannon (Short Range)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1119,
+   "en": "F2W Cannon (Long Range)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1120,
+   "en": "Jet Phantom",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1121,
+   "en": "G-Impact Stake",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1122,
+   "en": "M90 Assault Machinegun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1123,
+   "en": "Graviton Launcher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1124,
+   "en": "Stealth Boomerang",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1125,
+   "en": "Neo Chakram Shooter",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1126,
+   "en": "Boosted Rifle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1127,
+   "en": "Boost Hammer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1128,
+   "en": "Magna Beam Rifle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1129,
+   "en": "Leap Slasher",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1130,
+   "en": "Laser Blade",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1131,
+   "en": "Energy Taker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1132,
+   "en": "Energy Taker +",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1133,
+   "en": "Spirit Taker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1134,
+   "en": "Repair Module",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1135,
+   "en": "Resupply Module",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1136,
+   "en": "???",
+   "kind": "filler",
+   "keep": false
+  },
+  {
+   "id": 1137,
+   "en": "",
+   "kind": "name",
+   "keep": true
+  },
+  {
+   "id": 1138,
+   "en": "Western",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1139,
+   "en": "Takeshi Kusao",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1140,
+   "en": "Takehito Koyasu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1141,
+   "en": "Norio Wakamoto",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1142,
+   "en": "Kaori Shimizu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1143,
+   "en": "Feinschmecker",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1144,
+   "en": "Rätsel",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1145,
+   "en": "Tetsu Inada",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1146,
+   "en": "Ai Orikasa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1147,
+   "en": "AI",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1148,
+   "en": "UCC Captain",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1149,
+   "en": "UCC Soldier",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1150,
+   "en": "DC Captain",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1151,
+   "en": "DC Remnant Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1152,
+   "en": "DC Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1153,
+   "en": "HAI",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1154,
+   "en": "LB Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1155,
+   "en": "NDC Captain",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1156,
+   "en": "Neo DC Captain",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1157,
+   "en": "S. Mirror Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1158,
+   "en": "Shadow Mirror Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1159,
+   "en": "W16",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1160,
+   "en": "Archibald",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1161,
+   "en": "Grimms",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1162,
+   "en": "Takumi Yamazaki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1163,
+   "en": "Adler",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1164,
+   "en": "Koch",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1165,
+   "en": "Keisuke Yamashita",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1166,
+   "en": "Ibis",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1167,
+   "en": "Douglas",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1168,
+   "en": "Akeno Watanabe",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1169,
+   "en": "Aguija",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1170,
+   "en": "Shiori Ota",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1171,
+   "en": "Aguila",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1172,
+   "en": "Setme",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1173,
+   "en": "Ako Mayama",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1174,
+   "en": "Axel",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1175,
+   "en": "Almer",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1176,
+   "en": "Nobutoshi Canna",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1177,
+   "en": "Attad",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1178,
+   "en": "Shamuran",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1179,
+   "en": "Yayoi Nakazawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1180,
+   "en": "Announcer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1181,
+   "en": "Aya",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1182,
+   "en": "Kobayashi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1183,
+   "en": "Yumi Toma",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1184,
+   "en": "Arado",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1185,
+   "en": "Balanga",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1186,
+   "en": "Kazuya Keinai",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1187,
+   "en": "Albert",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1188,
+   "en": "Grey",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1189,
+   "en": "Alchemie",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1190,
+   "en": "Yuko Mizutani",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1191,
+   "en": "Ansuz",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1192,
+   "en": "Eagret",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1193,
+   "en": "Akira Ishida",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1194,
+   "en": "Fehu",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1195,
+   "en": "Isurugi Employee",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1196,
+   "en": "Irm",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1197,
+   "en": "Kazahara",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1198,
+   "en": "Irmgard",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1199,
+   "en": "Kenyu Horiuchi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1200,
+   "en": "Ingram",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1201,
+   "en": "Prisken",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1202,
+   "en": "Toru Furusawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1203,
+   "en": "Vigagi",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1204,
+   "en": "Viletta",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1205,
+   "en": "Vadim",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1206,
+   "en": "Atsuko Tanaka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1207,
+   "en": "Vindel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1208,
+   "en": "Mauser",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1209,
+   "en": "Hideyuki Umezu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1210,
+   "en": "Wendolo",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1211,
+   "en": "Yuki Kaida",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1212,
+   "en": "Wodan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1213,
+   "en": "Ymir",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1214,
+   "en": "Kenichi Ono",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1215,
+   "en": "Urd",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1216,
+   "en": "Eita",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1217,
+   "en": "Nadaka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1218,
+   "en": "Hirofumi Tanaka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1219,
+   "en": "Echidna",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1220,
+   "en": "Iisakki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1221,
+   "en": "Mariko Suzuki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1222,
+   "en": "Excellen",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1223,
+   "en": "Browning",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1224,
+   "en": "Eri",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1225,
+   "en": "Anzai",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1226,
+   "en": "Elite Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1227,
+   "en": "Elzam",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1228,
+   "en": "V. Branstein",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1229,
+   "en": "Ouka",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1230,
+   "en": "Nagisa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1231,
+   "en": "Michiko Neya",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1232,
+   "en": "Operator",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1233,
+   "en": "Kirk",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1234,
+   "en": "Hamill",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1235,
+   "en": "Garnet",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1236,
+   "en": "Sunday",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1237,
+   "en": "Kumi Sakuma",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1238,
+   "en": "Carla",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1239,
+   "en": "Borgnine",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1240,
+   "en": "Lilcarla",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1241,
+   "en": "Rica Matsumoto",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1242,
+   "en": "Carl",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1243,
+   "en": "Stresemann",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1244,
+   "en": "Kai",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1245,
+   "en": "Kitamura",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1246,
+   "en": "Tadahisa Saizen",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1247,
+   "en": "Katina",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1248,
+   "en": "Tarask",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1249,
+   "en": "Asami Yaguchi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1250,
+   "en": "Katraia",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1251,
+   "en": "Garuin",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1252,
+   "en": "Meckhavel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1253,
+   "en": "Kyosuke",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1254,
+   "en": "Nanbu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1255,
+   "en": "Toshiyuki Morikawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1256,
+   "en": "Gilliam",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1257,
+   "en": "Jaeger",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1258,
+   "en": "Hideyuki Tanaka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1259,
+   "en": "Cuervo",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1260,
+   "en": "Cero",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1261,
+   "en": "Koji Yusa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1262,
+   "en": "Kusuha",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1263,
+   "en": "Mizuha",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1264,
+   "en": "Mikako Takahashi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1265,
+   "en": "Graien",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1266,
+   "en": "Grassman",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1267,
+   "en": "Greg",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1268,
+   "en": "Pastral",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1269,
+   "en": "Kuro",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1270,
+   "en": "Rei Sakuma",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1271,
+   "en": "Geza",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1272,
+   "en": "Haganah",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1273,
+   "en": "Yasuhiko Kawazu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1274,
+   "en": "Kenneth",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1275,
+   "en": "Garrett",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1276,
+   "en": "Kenzo",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1277,
+   "en": "Sakae",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1278,
+   "en": "Takanaka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1279,
+   "en": "Siebel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1280,
+   "en": "Mistel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1281,
+   "en": "Taketora",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1282,
+   "en": "Sikalog",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1283,
+   "en": "Giada",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1284,
+   "en": "Benerdi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1285,
+   "en": "Hiroto Okuda",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1286,
+   "en": "Shine",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1287,
+   "en": "Hausen",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1288,
+   "en": "Reina Kaihara",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1289,
+   "en": "Shu",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1290,
+   "en": "Shirakawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1291,
+   "en": "Joyce",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1292,
+   "en": "Rudall",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1293,
+   "en": "Sean",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1294,
+   "en": "Webley",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1295,
+   "en": "Kan Tanaka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1296,
+   "en": "Jonathan",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1297,
+   "en": "Shiro",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1298,
+   "en": "Staff",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1299,
+   "en": "Thurisaz",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1300,
+   "en": "Sleigh",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1301,
+   "en": "Presty",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1302,
+   "en": "Miki Nagasawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1303,
+   "en": "Seolla",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1304,
+   "en": "Schweizer",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1305,
+   "en": "Yumi Kakazu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1306,
+   "en": "Sänger",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1307,
+   "en": "Zonvolt",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1308,
+   "en": "Sophia",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1309,
+   "en": "Nate",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1310,
+   "en": "Daitetsu",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1311,
+   "en": "Minase",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1312,
+   "en": "Hidekatsu Shibata",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1313,
+   "en": "Tasuku",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1314,
+   "en": "Shinguji",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1315,
+   "en": "Kappei Yamaguchi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1316,
+   "en": "Tsugumi",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1317,
+   "en": "Takakura",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1318,
+   "en": "Tomoko Hasegawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1319,
+   "en": "Tetsuya",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1320,
+   "en": "Onodera",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1321,
+   "en": "Jin Horikawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1322,
+   "en": "Terrorist",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1323,
+   "en": "Tenzan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1324,
+   "en": "Nakajima",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1325,
+   "en": "Tempest",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1326,
+   "en": "Hokar",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1327,
+   "en": "Hiroshi Naka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1328,
+   "en": "Thomas",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1329,
+   "en": "Pratt",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1330,
+   "en": "Hidenari Ugaki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1331,
+   "en": "Troye Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1332,
+   "en": "Trombe",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1333,
+   "en": "Nibhal",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1334,
+   "en": "Mubhal",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1335,
+   "en": "Neo DC Soldier",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1336,
+   "en": "Norman",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1337,
+   "en": "Bioroid Soldier",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1338,
+   "en": "Van",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1339,
+   "en": "Ba Chun",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1340,
+   "en": "Katsuhisa Houki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1341,
+   "en": "Hans",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1342,
+   "en": "Weber",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1343,
+   "en": "Yu Masutani",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1344,
+   "en": "Bian",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1345,
+   "en": "Zoldark",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1346,
+   "en": "Shozo Iizuka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1347,
+   "en": "Filio",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1348,
+   "en": "Bryan",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1349,
+   "en": "Midcrid",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1350,
+   "en": "Bullet",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1351,
+   "en": "Luckfield",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1352,
+   "en": "Brooklyn",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1353,
+   "en": "Tomokazu Sugita",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1354,
+   "en": "Mai",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1355,
+   "en": "Maier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1356,
+   "en": "Masaki",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1357,
+   "en": "Andoh",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1358,
+   "en": "Hikaru Midorikawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1359,
+   "en": "Mass-Production W",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1360,
+   "en": "Marion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1361,
+   "en": "Radom",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1362,
+   "en": "Mitsuko",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1363,
+   "en": "Isurugi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1364,
+   "en": "Mekibos",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1365,
+   "en": "Yuan",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1366,
+   "en": "Meilong",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1367,
+   "en": "Yuuki",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1368,
+   "en": "Jeggnan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1369,
+   "en": "Mitsuaki Madono",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1370,
+   "en": "Yuria",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1371,
+   "en": "Heinkel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1372,
+   "en": "Chiharu Tezuka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1373,
+   "en": "Yukiko",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1374,
+   "en": "Date",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1375,
+   "en": "Eun",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1376,
+   "en": "Hyojin",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1377,
+   "en": "Shiho Kawaragi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1378,
+   "en": "Radha",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1379,
+   "en": "Bairaban",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1380,
+   "en": "Rai",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1381,
+   "en": "F. Branstein",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1382,
+   "en": "Raidiese",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1383,
+   "en": "Ryotaro Okiayu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1384,
+   "en": "Russel",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1385,
+   "en": "Bergman",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1386,
+   "en": "Takashi Aoki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1387,
+   "en": "Latune",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1388,
+   "en": "Subota",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1389,
+   "en": "Michiko Hirai",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1390,
+   "en": "Lamia",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1391,
+   "en": "Loveless",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1392,
+   "en": "Lee",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1393,
+   "en": "Linjun",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1394,
+   "en": "Ryo Wakabayashi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1395,
+   "en": "Leader",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1396,
+   "en": "Rio",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1397,
+   "en": "Rio Natsuki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1398,
+   "en": "Rishu",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1399,
+   "en": "Togo",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1400,
+   "en": "---",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1401,
+   "en": "Masaharu Sato",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1402,
+   "en": "Ryusei",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1403,
+   "en": "Shinichiro Miki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1404,
+   "en": "Lüne",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1405,
+   "en": "Narumi Hidaka",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1406,
+   "en": "Ryoto",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1407,
+   "en": "Hikawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1408,
+   "en": "Yumiko Kobayashi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1409,
+   "en": "Lily",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1410,
+   "en": "Junkers",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1411,
+   "en": "Miho Yoshida",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1412,
+   "en": "Ling",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1413,
+   "en": "Mao",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1414,
+   "en": "Megumi Ogata",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1415,
+   "en": "Laker",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1416,
+   "en": "Randolph",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1417,
+   "en": "Leona",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1418,
+   "en": "Garstein",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1419,
+   "en": "Yui Sakakibara",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1420,
+   "en": "Levi",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1421,
+   "en": "Tolar",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1422,
+   "en": "Lefina",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1423,
+   "en": "Enfield",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1424,
+   "en": "Junko Iwao",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1425,
+   "en": "Lemon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1426,
+   "en": "Renji",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1427,
+   "en": "Robert",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1428,
+   "en": "H. Omiya",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1429,
+   "en": "Doctor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1430,
+   "en": "Soldier",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1431,
+   "en": "Scientist",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1432,
+   "en": "Nurse",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1433,
+   "en": "Base Commander",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1434,
+   "en": "Councilor A",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1435,
+   "en": "Councilor B",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1436,
+   "en": "Citizen",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1437,
+   "en": "Autonomous Circuit",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1438,
+   "en": "Unidentified Soldier",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1439,
+   "en": "Control Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1440,
+   "en": "Secretary",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1441,
+   "en": "Unmanned",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1442,
+   "en": "Federation Captain",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1443,
+   "en": "Federation Soldier",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1444,
+   "en": "Tis",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1445,
+   "en": "Mayuko Takahashi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1446,
+   "en": "Despinis",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1447,
+   "en": "Megumi Ishikawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1448,
+   "en": "Duminas",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1449,
+   "en": "Kyoko Hayama",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1450,
+   "en": "Fiona",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1451,
+   "en": "Gladden",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1452,
+   "en": "Yuki Masuda",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1453,
+   "en": "Mizuho",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1454,
+   "en": "Saiki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1455,
+   "en": "Mariko Suzuki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1456,
+   "en": "Raji",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1457,
+   "en": "Montoya",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1458,
+   "en": "Hideki Ogihara",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1459,
+   "en": "Raul",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1460,
+   "en": "Takeshi Inoue",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1461,
+   "en": "Lalia",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1462,
+   "en": "Ryoko Nagata",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1463,
+   "en": "Alion",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1464,
+   "en": "Rukada",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1465,
+   "en": "Shigeru Shibuya",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1466,
+   "en": "Arco",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1467,
+   "en": "Catoire",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1468,
+   "en": "Tomohisa Aso",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1469,
+   "en": "Altis",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1470,
+   "en": "Tarl",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1471,
+   "en": "Yasunori Masutani",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1472,
+   "en": "Fernando",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1473,
+   "en": "Alduk",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1474,
+   "en": "Wataru Takagi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1475,
+   "en": "Folka",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1476,
+   "en": "Albark",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1477,
+   "en": "Yasunori Matsumoto",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1478,
+   "en": "Magnus",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1479,
+   "en": "Ald",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1480,
+   "en": "Tadashi Miyazawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1481,
+   "en": "Mizar",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1482,
+   "en": "Tubal",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1483,
+   "en": "Toru Okawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1484,
+   "en": "Masis",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1485,
+   "en": "Marc",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1486,
+   "en": "Yuriko Yamaguchi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1487,
+   "en": "Alkaid",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1488,
+   "en": "Naash",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1489,
+   "en": "Chafurin",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1490,
+   "en": "Shura Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1491,
+   "en": "Kota",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1492,
+   "en": "Azuma",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1493,
+   "en": "Takuma Terashima",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1494,
+   "en": "Roa",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1495,
+   "en": "Kyle",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1496,
+   "en": "Bean",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1497,
+   "en": "Mitsuo Iwata",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1498,
+   "en": "Kisaburo",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1499,
+   "en": "Quovrey",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1500,
+   "en": "Gordon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1501,
+   "en": "Gigi",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1502,
+   "en": "Lu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1503,
+   "en": "Celcia",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1504,
+   "en": "Farm",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1505,
+   "en": "Shoko",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1506,
+   "en": "Hiromi Konno",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1507,
+   "en": "Emi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1508,
+   "en": "Mauro",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1509,
+   "en": "Gatt",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1510,
+   "en": "Rick",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1511,
+   "en": "Wong",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1512,
+   "en": "Jurgen",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1513,
+   "en": "V. Jurgen",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1514,
+   "en": "Wilhelm",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1515,
+   "en": "Shigeru Ushiyama",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1516,
+   "en": "Murata",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1517,
+   "en": "Hisao Egawa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1518,
+   "en": "Lorenzo",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1519,
+   "en": "Di Montegnacco",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1520,
+   "en": "Kazuhiro Nakata",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1521,
+   "en": "Masked Man",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1522,
+   "en": "Aqua",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1523,
+   "en": "Centrum",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1524,
+   "en": "Albero",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1525,
+   "en": "Est",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1526,
+   "en": "Erde",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1527,
+   "en": "Mitte",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1528,
+   "en": "Touma",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1529,
+   "en": "Kano",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1530,
+   "en": "Donna",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1531,
+   "en": "Gallagher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1532,
+   "en": "Hugo",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1533,
+   "en": "Medio",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1534,
+   "en": "Hiroki Takahashi",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1535,
+   "en": "Foglia",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1536,
+   "en": "Anri Katsu",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1537,
+   "en": "Mitar",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1538,
+   "en": "Zapato",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1539,
+   "en": "Eric",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1540,
+   "en": "Wang",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1541,
+   "en": "Mustafa",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1542,
+   "en": "AIO",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1543,
+   "en": "Logan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1544,
+   "en": "Darnal",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1545,
+   "en": "AIO-M",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1546,
+   "en": "Booster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1547,
+   "en": "Megabooster",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1548,
+   "en": "HG Thrusters",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1549,
+   "en": "Biosensor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1550,
+   "en": "Servomotor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1551,
+   "en": "Apogee Motor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1552,
+   "en": "Chobham Armor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1553,
+   "en": "Hybrid Armor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1554,
+   "en": "Orichalconium",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1555,
+   "en": "Z.O. Armor",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1556,
+   "en": "Tesla Drive",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1557,
+   "en": "Tesla Drive S",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1558,
+   "en": "Thruster Module",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1559,
+   "en": "Dustproofer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1560,
+   "en": "Water Jet",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1561,
+   "en": "A-Adapter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1562,
+   "en": "S-Adapter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1563,
+   "en": "Hyper Jammer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1564,
+   "en": "Multi-Sensor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1565,
+   "en": "Dual Sensor",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1566,
+   "en": "Radar Module",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1567,
+   "en": "T-Link Sensor",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1568,
+   "en": "Enhancer",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1569,
+   "en": "Custom HUD",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1570,
+   "en": "Repair Kit",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1571,
+   "en": "Propellant Tank",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1572,
+   "en": "Cartridge",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1573,
+   "en": "Repair Kit DX",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1574,
+   "en": "SP Drink",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1575,
+   "en": "SSP Drink",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1576,
+   "en": "Custom CPU",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1577,
+   "en": "Hero's Mark",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1578,
+   "en": "Spirit of Steel",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1579,
+   "en": "Large Generator",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1580,
+   "en": "Mega Generator",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1581,
+   "en": "Giga Generator",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1582,
+   "en": "Solar Panel",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1583,
+   "en": "Headband",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1584,
+   "en": "Twisty Headband",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1585,
+   "en": "Generations",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1586,
+   "en": "Your Smile Is There",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1587,
+   "en": "Endless Winter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1588,
+   "en": "Into the Depths of Memory",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1589,
+   "en": "Third Sadness",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1590,
+   "en": "Dark Anxiety",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1591,
+   "en": "Devil Plot",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1592,
+   "en": "Stirring Shadows",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1593,
+   "en": "Rise Up, Comrades",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1594,
+   "en": "Rest Is Important Too",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1595,
+   "en": "Melody of Dread",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1596,
+   "en": "A Phenomenal Threat",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1597,
+   "en": "Absolutely Desperate",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1598,
+   "en": "Feast of the Shura",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1599,
+   "en": "\"Her\" Question",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1600,
+   "en": "Super Robot Symphony",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1601,
+   "en": "An Even Fight",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1602,
+   "en": "A Long-Odds Bet",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1603,
+   "en": "\"Give Up,\" He Whispers",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1604,
+   "en": "Enigma",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1605,
+   "en": "Nature of the Silent",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1606,
+   "en": "Nameless Warriors",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1607,
+   "en": "\"Once\" and \"Hereafter\"",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1608,
+   "en": "Summit of Asura",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1609,
+   "en": "MAKE A CORRECTION",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1610,
+   "en": "Steel Savior (Ver. OG)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1611,
+   "en": "GO!! (Ver. OG)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1612,
+   "en": "The Abhorrent Visitor",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1613,
+   "en": "Empire of Fools",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1614,
+   "en": "Boosted Crisis",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1615,
+   "en": "Winds of La Gias",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1616,
+   "en": "Heat Wave! Gale! Cybuster",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1617,
+   "en": "Flapper Girl",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1618,
+   "en": "Dark Prison",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1619,
+   "en": "Armageddon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1620,
+   "en": "Everywhere You Go",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1621,
+   "en": "Ice Man",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1622,
+   "en": "Psychic Energy",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1623,
+   "en": "TIME TO COME",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1624,
+   "en": "MARIONETTE MESSIAH",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1625,
+   "en": "Ark of Steel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1626,
+   "en": "WOMAN THE COOL SPY",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1627,
+   "en": "The Sword That Cleaves Evil",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1628,
+   "en": "Trombe!",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1629,
+   "en": "TIME DIVER",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1630,
+   "en": "Messenger from the Void",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1631,
+   "en": "The Almighty Arbiter",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1632,
+   "en": "VIOLENT BATTLE",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1633,
+   "en": "THE LAST JUDGMENT",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1634,
+   "en": "WILDERNESS WAR",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1635,
+   "en": "THE ARROW OF DESTINY",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1636,
+   "en": "THE GATE OF MAGUS",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1637,
+   "en": "ACE ATTACKER",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1638,
+   "en": "ACE ATTACKER (Ver. W)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1639,
+   "en": "WILD FLUG",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1640,
+   "en": "None Can Oppose Me",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1641,
+   "en": "Ken-Kon-Itteki",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1642,
+   "en": "Meteor, Cleave the Night",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1643,
+   "en": "So Near, So Far",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1644,
+   "en": "DARK KNIGHT",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1645,
+   "en": "ASH TO ASH",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1646,
+   "en": "CHAOS",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1647,
+   "en": "Lone Wolf of Steel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1648,
+   "en": "Silver Fallen Angel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1649,
+   "en": "Alchemist of a Torn Heart",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1650,
+   "en": "The Uninvited Stranger",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1651,
+   "en": "Distant War Begins",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1652,
+   "en": "Apocalypse",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1653,
+   "en": "Silence and Turmoil",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1654,
+   "en": "THE SUPER ROBOT WARS",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1655,
+   "en": "STEEL SOUL FOR YOU",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1656,
+   "en": "Fairy Dang-Sing",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1657,
+   "en": "Cherry Blossom Phantom",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1658,
+   "en": "RAIL TO THE DANGERZONE",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1659,
+   "en": "Inspector of the Evil Star",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1660,
+   "en": "BORN TO FIGHT",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1661,
+   "en": "Where It All Began",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1662,
+   "en": "For the Day That Must Come",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1663,
+   "en": "Interlude to Fierce Battle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1664,
+   "en": "Between the Flames of War",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1665,
+   "en": "Vow to Rise Again",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1666,
+   "en": "LEVEL UP!",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1667,
+   "en": "Song of the Thaw",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1668,
+   "en": "Chronicle of Heroes",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1669,
+   "en": "BURN NOW!",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1670,
+   "en": "Roar! Compati Kaiser",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1671,
+   "en": "Dragon Soaring the Heavens",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1672,
+   "en": "A Heart of Brass",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1673,
+   "en": "BEAT AND BEAT",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1674,
+   "en": "TACO-NA-GU-RI!",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1675,
+   "en": "Cockpit of Steel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1676,
+   "en": "VANISHING TROOPER",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1677,
+   "en": "BLUE BLUE SKY",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1678,
+   "en": "TREUE",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1679,
+   "en": "RIGHT AND KIND",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1680,
+   "en": "Believe in Our Bonds",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1681,
+   "en": "Asana of Shattered Will",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1682,
+   "en": "The Judge and the Judged",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1683,
+   "en": "The Cursed Warrior",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1684,
+   "en": "Wisdom of Darkness",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1685,
+   "en": "MACHINE SOUL (Ver. OG)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1686,
+   "en": "OVER THE TIME FLOW",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1687,
+   "en": "OVER THE WORLD WALL",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1688,
+   "en": "The \"Answer\" I Sought",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1689,
+   "en": "BE A PERFECT",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1690,
+   "en": "The Final Judge",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1691,
+   "en": "Crimson Shura God",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1692,
+   "en": "He Who Roars and Destroys",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1693,
+   "en": "Dance of the Machine Gods",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1694,
+   "en": "A Fate to Defy",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1695,
+   "en": "Law of the Shura",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1696,
+   "en": "Conqueror of the Karmic Fist",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1697,
+   "en": "VARIABLE FORMATION",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1698,
+   "en": "RUSHING DANDY",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1699,
+   "en": "EPIC MARCH",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1700,
+   "en": "Labyrinth Prisoner (Ver. OG)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1701,
+   "en": "Distant War Begins (Ver. OG)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1702,
+   "en": "So Near, So Far (Ver. OG)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1703,
+   "en": "Ark of Steel (Ver. M)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1704,
+   "en": "Rocks (Ver. OG)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1705,
+   "en": "MOST ENJOYMENT",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1706,
+   "en": "Record of the Warriors",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1707,
+   "en": "WIN OR LOSE?",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1708,
+   "en": "MACHINE SOUL 125%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1709,
+   "en": "MACHINE SOUL 130%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1710,
+   "en": "Burning Red",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1711,
+   "en": "Shouting Black",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1712,
+   "en": "Ambition Lurking in Darkness",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1713,
+   "en": "Crossroads of Life and Death",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1714,
+   "en": "Silent Tactics",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1715,
+   "en": "Mechanism for the Victor",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1716,
+   "en": "Strategy Put to the Test",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1717,
+   "en": "The Battle-Scarred Conductor",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1718,
+   "en": "Symphony of the Fierce Titan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1719,
+   "en": "The Gospel of Victory I Seek",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1720,
+   "en": "Ask the Wind Where to Go",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1721,
+   "en": "ORIGINAL SIN",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1722,
+   "en": "THE GREAT BATTLE",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1723,
+   "en": "GAN! GAN! GIGAN!",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1724,
+   "en": "JUSTICE GIRL",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1725,
+   "en": "DANCE & BRACE",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1726,
+   "en": "Going 0cher",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1727,
+   "en": "Prologue",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1728,
+   "en": "Second Contact",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1729,
+   "en": "Personal Trooper",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1730,
+   "en": "Training",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1731,
+   "en": "Fear Game",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1732,
+   "en": "Tragedy in Antarctica",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1733,
+   "en": "Threat of the Holy Crusade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1734,
+   "en": "Defend the Kanmon Straits",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1735,
+   "en": "Hagane, Launch",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1736,
+   "en": "Assassin from the Trench",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1737,
+   "en": "Revenge 16 Years in Coming",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1738,
+   "en": "Masou Kishin",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1739,
+   "en": "Super Fighter Grungust",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1740,
+   "en": "Bian Zoldark",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1741,
+   "en": "Over the Line",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1742,
+   "en": "Thomas's Trap",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1743,
+   "en": "High Seas at Starbuck Island",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1744,
+   "en": "Last Battalion",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1745,
+   "en": "Island of the Dark King",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1746,
+   "en": "Battle at Dawn",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1747,
+   "en": "Shadow of the Invaders",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1748,
+   "en": "Little Princess",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1749,
+   "en": "R-1 vs. Alteisen",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1750,
+   "en": "Broken Wings, Shattered Claws",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1751,
+   "en": "New Frontier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1752,
+   "en": "Cut Before You're Cut",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1753,
+   "en": "Sky Dragon, Otherworld Wind",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1754,
+   "en": "The Northern Land Burns",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1755,
+   "en": "Parting, and Then...",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1756,
+   "en": "Envoy from the Moon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1757,
+   "en": "Reunion and a Giant Shield",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1758,
+   "en": "Moonlight and Gun Barrel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1759,
+   "en": "Moon Cradle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1760,
+   "en": "Vanishing Trooper",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1761,
+   "en": "A Man Named Bryan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1762,
+   "en": "The Pillar Piercing Space",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1763,
+   "en": "What Sealed the \"Curse\"",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1764,
+   "en": "Raid on Elpis",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1765,
+   "en": "Sword in Right, Hope in Left",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1766,
+   "en": "Private Eyes",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1767,
+   "en": "The Tiny Princess",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1768,
+   "en": "Guns and Fists",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1769,
+   "en": "Nebiim Appears",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1770,
+   "en": "Lüne, and Valsione",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1771,
+   "en": "Fangs of the Viper",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1772,
+   "en": "Sänger's Mission",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1773,
+   "en": "Bonds of Their Own",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1774,
+   "en": "Sunset of the DC",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1775,
+   "en": "Geneva Destroyed",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1776,
+   "en": "That Man's True Intent",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1777,
+   "en": "Game System",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1778,
+   "en": "The Day the Crusade Falls",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1779,
+   "en": "Muzzle of Betrayal",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1780,
+   "en": "The Face Beneath the Mask",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1781,
+   "en": "Unbreakable Puppet Strings",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1782,
+   "en": "False Shadow",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1783,
+   "en": "Colossus of Steel",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1784,
+   "en": "Ark of the Icy Land",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1785,
+   "en": "Marionette Soldier",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1786,
+   "en": "Black Ghost",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1787,
+   "en": "Operation SRW",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1788,
+   "en": "Shoot the White Demon Star",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1789,
+   "en": "Insect Cage",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1790,
+   "en": "The Sword Is Double-Edged",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1791,
+   "en": "The Vanished White Knight",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1792,
+   "en": "The Red Shura",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1793,
+   "en": "A Ghost Comes from the Past",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1794,
+   "en": "Recapture",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1795,
+   "en": "Hidden Power",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1796,
+   "en": "Distant Homeland",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1797,
+   "en": "Operation Code S.R.W.",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1798,
+   "en": "Single-Point Breakthrough",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1799,
+   "en": "The Price of the Gamble",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1800,
+   "en": "Just Shoot Through",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1801,
+   "en": "Beautiful Intruder",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1802,
+   "en": "Wings to the Stars",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1803,
+   "en": "Remnants of the Crusade",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1804,
+   "en": "Boosted Children",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 1805,
+   "en": "Unforgettable Memories",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1806,
+   "en": "Something to Protect",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1807,
+   "en": "From the Past, and Beyond",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1808,
+   "en": "A Promise Lost in Flames",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1809,
+   "en": "Space of Suspicion",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1810,
+   "en": "Call of the Grotesque",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1811,
+   "en": "Wise Doll",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1812,
+   "en": "Neue DC",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1813,
+   "en": "Princess of a Fallen Nation",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1814,
+   "en": "What Comes from the Stars",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1815,
+   "en": "The Third Bird of Ill Omen",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1816,
+   "en": "Escape from Tesla Labs",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1817,
+   "en": "The 'Shadow' Appears",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1818,
+   "en": "The Supersonic Fairy",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1819,
+   "en": "A Comet, Far Away",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1820,
+   "en": "The Shrike and the Falcon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1821,
+   "en": "The Engineered Children",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1822,
+   "en": "Uninvited Strangers Pt. 1",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1823,
+   "en": "Broken Doll",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1824,
+   "en": "Crimson Illusion",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1825,
+   "en": "Exiled from Paradise",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1826,
+   "en": "Bushin Soukou Dygenguar",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1827,
+   "en": "Operation Plantagenet Pt. 1",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1828,
+   "en": "Operation Plantagenet Pt. 2",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1829,
+   "en": "Across the Burning Sands",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1830,
+   "en": "The Gate of Magus",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1831,
+   "en": "Rest Deep Beneath the Earth",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1832,
+   "en": "Heart of the White Knight",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1833,
+   "en": "Gathering at the Demon Star",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1834,
+   "en": "For What One Believes In",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1835,
+   "en": "The Judge and the Judged",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1836,
+   "en": "'Once' and 'From Now On'",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1837,
+   "en": "The Raging Star God",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1838,
+   "en": "Their Name Is Einst",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1839,
+   "en": "The Enemy We Must Fight",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1840,
+   "en": "The Sword God Appears",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1841,
+   "en": "The Holy Crusade Reborn",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1842,
+   "en": "Burn, Zankantou!",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1843,
+   "en": "Dragon and Tiger Awaken",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1844,
+   "en": "Pierce, Faster Than Him!",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1845,
+   "en": "Another 'Shadow'",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1846,
+   "en": "Into Space in Upheaval",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1847,
+   "en": "A Pure Existence",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1848,
+   "en": "Lunatic Dream",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1849,
+   "en": "Uninvited Strangers Pt. 2",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1850,
+   "en": "Like a Gale, Like a Meteor",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1851,
+   "en": "All Who Meet Must Part",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1852,
+   "en": "The Door to Beyond",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1853,
+   "en": "Stray Sheep of Time",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1854,
+   "en": "A Shield for Whom?",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1855,
+   "en": "Two on the Moon",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1856,
+   "en": "In the Middle of a Dream",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1857,
+   "en": "Warped Timestream",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1858,
+   "en": "The Blue Pursuer",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1859,
+   "en": "No Use for the Hound? Pt. 1",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1860,
+   "en": "No Use for the Hound? Pt. 2",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1861,
+   "en": "The Frozen Past",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1862,
+   "en": "When One Door Closes",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1863,
+   "en": "The Dancing Cradle (Part 1)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1864,
+   "en": "The Dancing Cradle (Part 2)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1865,
+   "en": "Encounter with the Wolves",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1866,
+   "en": "Rekindled Flames",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1867,
+   "en": "Omen of the Shura",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1868,
+   "en": "The Troubled Guardian",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1869,
+   "en": "The Sentinels Are Tested",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1870,
+   "en": "The Offered Sacrifice",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1871,
+   "en": "Swarming Machines",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1872,
+   "en": "The Deceived Audience",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1873,
+   "en": "Crumbling Ideals",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1874,
+   "en": "Surging Malice",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1875,
+   "en": "Prisoner of the Labyrinth",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1876,
+   "en": "Feast of Conquest (Part 1)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1877,
+   "en": "Feast of Conquest (Part 2)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1878,
+   "en": "The Beast Unleashed",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1879,
+   "en": "The Trembling Earth",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1880,
+   "en": "Flight into the Unknown",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1881,
+   "en": "The Innocent Assassin",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1882,
+   "en": "Black Lightning Wings",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1883,
+   "en": "Heart Behind the Fist",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1884,
+   "en": "Doll Master",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1885,
+   "en": "The Unbreakable Heart",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1886,
+   "en": "To Where We Belong (Part 1)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1887,
+   "en": "To Where We Belong (Part 2)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1888,
+   "en": "Flashing Light, Blazing Fire",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1889,
+   "en": "End of the Wolves",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1890,
+   "en": "Pinnacle of Ashura (Part 1)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1891,
+   "en": "Pinnacle of Ashura (Part 2)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1892,
+   "en": "The Mistake That Was Born",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1893,
+   "en": "The Great Battle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1894,
+   "en": "Ragnarok",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1895,
+   "en": "The Swimming Monstrosity",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1896,
+   "en": "A Part Called Human",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1897,
+   "en": "The Unwanted Visitor",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1898,
+   "en": "Impending Disaster",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1899,
+   "en": "Accelerating Crisis",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1900,
+   "en": "Max HP +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1901,
+   "en": "Max EN +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1902,
+   "en": "Mobility +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1903,
+   "en": "Armor +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1904,
+   "en": "Move +1",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1905,
+   "en": "Max HP +15%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1906,
+   "en": "Max HP +20%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1907,
+   "en": "Max EN +15%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1908,
+   "en": "Max EN +20%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1909,
+   "en": "Mobility +15%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1910,
+   "en": "Mobility +20%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1911,
+   "en": "Armor +15%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1912,
+   "en": "Armor +20%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1913,
+   "en": "Armor, Max EN +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1914,
+   "en": "Mobility, Max EN +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1915,
+   "en": "Armor, Max HP +15%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1916,
+   "en": "Armor +10%, Max EN +15%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1917,
+   "en": "Mobility +10%, Max EN +15%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1918,
+   "en": "Mobility, Armor +15%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1919,
+   "en": "Max HP +20%, Max EN +15%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1920,
+   "en": "Mobility +15%, Max HP +20%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1921,
+   "en": "W Gauge +30",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1922,
+   "en": "W Gauge +30, Max EN +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1923,
+   "en": "W Gauge +40, Max EN +20%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1924,
+   "en": "W Gauge +50",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1925,
+   "en": "Max Part Slots +1",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1926,
+   "en": "Terrain Ability S (Not Air)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1927,
+   "en": "Adds Full Block",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1928,
+   "en": "Adds HP Regen (S)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1929,
+   "en": "Adds EN Regen (S)",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1930,
+   "en": "Adds AB Field",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1931,
+   "en": "Adds Afterimage",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1932,
+   "en": "Adds Beam Absorption",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1933,
+   "en": "TK Field +300",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1934,
+   "en": "Afterimage Rate +20%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1935,
+   "en": "TK Weapons Attack +200",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1936,
+   "en": "Melee Weapons Attack +200",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1937,
+   "en": "Ranged Weapons Attack +200",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1938,
+   "en": "All Weapons Attack +200",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1939,
+   "en": "Built-in Weapons Max Ammo +2",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1940,
+   "en": "Built-in Weapons Max Ammo +4",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1941,
+   "en": "Weapon Accuracy +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1942,
+   "en": "Weapon Accuracy +20%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1943,
+   "en": "Built-in Weapon Terrain: S",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1944,
+   "en": "Mobility +10%, Max HP +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1945,
+   "en": "Mobility +15%, Max EN +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1946,
+   "en": "Armor, Max HP +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1947,
+   "en": "Move +1, Mobility +10%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1948,
+   "en": "Melee Weapons Attack +100",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1949,
+   "en": "Melee Weapons Attack +300",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1950,
+   "en": "All Weapons Attack +100",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1951,
+   "en": "Adds Underground Movement",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1952,
+   "en": "All Weapons Attack +300",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1953,
+   "en": "Adds Pilot Block",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1954,
+   "en": "Move +3",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1955,
+   "en": "Max HP, Max EN +30%",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1956,
+   "en": "TK Field S +400",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1957,
+   "en": "Special Ammo 0",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1958,
+   "en": "Special Ammo 1",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1959,
+   "en": "Special Ammo 2",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1960,
+   "en": "Special Ammo 3",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1961,
+   "en": "Special Ammo 4",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1962,
+   "en": "Special Ammo 5",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1963,
+   "en": "Special Ammo 6",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1964,
+   "en": "Special Ammo 7",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1965,
+   "en": "Attack Up, Range Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1966,
+   "en": "Range Up, Attack Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1967,
+   "en": "Range Up, Ammo Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1968,
+   "en": "Hit Up, Range Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1969,
+   "en": "Hit Up, Critical Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1970,
+   "en": "Critical Up, Range Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1971,
+   "en": "Critical Up, Hit Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1972,
+   "en": "Will Up, Attack Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1973,
+   "en": "Will Up, Ammo Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1974,
+   "en": "Air Terrain Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1975,
+   "en": "Land Terrain Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1976,
+   "en": "Sea Terrain Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1977,
+   "en": "Space Terrain Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1978,
+   "en": "Usable After Moving",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1979,
+   "en": "Barrier Weaken Up, Will Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1980,
+   "en": "Barrier Pierce Up, Will Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1981,
+   "en": "Attack Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1982,
+   "en": "Range Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1983,
+   "en": "Hit Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1984,
+   "en": "Critical Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1985,
+   "en": "Will Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1986,
+   "en": "Attack Up, Critical Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1987,
+   "en": "Range Up, Hit Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1988,
+   "en": "Terrain Up",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1989,
+   "en": "Attack Up, Ammo Down",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1990,
+   "en": "Earth Cradle",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1991,
+   "en": "Armored Module",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1992,
+   "en": "Aidoneus Island",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1993,
+   "en": "Advanced Children",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1994,
+   "en": "Alpha Link Coefficient",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1995,
+   "en": "EOT",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1996,
+   "en": "EOTI Institute",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1997,
+   "en": "EOT Special Council",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1998,
+   "en": "Isurugi Heavy Industries",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 1999,
+   "en": "AM",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2000,
+   "en": "ATX Project",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2001,
+   "en": "SRX Project",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2002,
+   "en": "Energy Field",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2003,
+   "en": "MAPW",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2004,
+   "en": "Elpis",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2005,
+   "en": "Instructor Corps",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2006,
+   "en": "United Colony Corps",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 2007,
+   "en": "The School",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 2008,
+   "en": "Earth Sphere Defense Plan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2009,
+   "en": "Earth Federation Army",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 2010,
+   "en": "Earth Federation Government",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 2011,
+   "en": "D-Con",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2012,
+   "en": "DC",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2013,
+   "en": "TC-OS",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2014,
+   "en": "T-LINK System",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2015,
+   "en": "Divine Crusaders",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 2016,
+   "en": "Tesla Reich Institute",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 2017,
+   "en": "Telekinesis Alpha Pulse",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2018,
+   "en": "Tactical Instructor Corps",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2019,
+   "en": "Super Robot",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2020,
+   "en": "Tronium",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2021,
+   "en": "PT",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2022,
+   "en": "Mao Industries",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2023,
+   "en": "Meteor 3",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2024,
+   "en": "ASRS",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2025,
+   "en": "Aegis Plan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2026,
+   "en": "Aerogators",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 2027,
+   "en": "L5 Campaign",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2028,
+   "en": "DC War",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2029,
+   "en": "Project TD",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2030,
+   "en": "Leios Plan",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2031,
+   "en": "Einst",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2032,
+   "en": "Inspectors",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2033,
+   "en": "Inspector Incident",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2034,
+   "en": "Wong Heavy Industries",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2035,
+   "en": "AMN System",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2036,
+   "en": "Gestalt",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 2037,
+   "en": "Shadow Mirror",
+   "kind": "name",
+   "keep": false,
+   "source": "canon"
+  },
+  {
+   "id": 2038,
+   "en": "Shura Gods",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2039,
+   "en": "Chokijin",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2040,
+   "en": "Antarctic Incident",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2041,
+   "en": "White Star",
+   "kind": "name",
+   "keep": false
+  },
+  {
+   "id": 2042,
+   "en": "Machine Cells",
+   "kind": "name",
+   "keep": false
+  }
+ ]
+}

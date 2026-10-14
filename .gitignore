@@ -1,0 +1,32 @@
+# Game data never goes in the repo
+*.iso
+*.ISO
+*.7z
+*.bin
+*.BIN
+*.elf
+*.ELF
+SLPS_*
+*.tm2
+*.TM2
+*.url
+/Super Robot Taisen*/
+/bios/
+work/
+build/
+extracted/
+
+# Scratch
+__pycache__/
+*.pyc
+.venv/
+
+# Third-party patches (not ours to redistribute)
+*.xdelta
+*.ppf
+screenshots/
+*.p2s
+
+# API keys
+anthropic_key.txt
+*_key.txt
